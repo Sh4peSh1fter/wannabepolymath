@@ -1,0 +1,75 @@
+# Project information
+docs_dir: docs
+site_name: Wanna Be Polymath
+site_url: https://wannabepolymath.github.io/
+site_author: kivsean
+site_description: >-
+  a mix of a personal website, portfolio, blog, and more? about everything?
+
+# Repository
+repo_name: Sh4peSh1fter/wannabepolymath
+repo_url: https://github.com/Sh4peSh1fter/wannabepolymath
+
+# # Copyright
+# copyright: Copyright &copy; 2016 - 2024 Martin Donath
+
+theme:
+  name: material
+  features:
+    # navigation
+    - navigation.instant # internal links will be intercepted and dispatched via XHR without fully reloading the page.
+    - navigation.instant.progress # progress indicator.
+    - navigation.tabs # top-level sections are rendered in a menu layer below the header.
+    - navigation.tabs.sticky # lock tabs below the header and always remain visible when scrolling down.
+    - navigation.path # breadcrumb navigation is rendered above the title of each page ########### doesn't work!!!!
+    - navigation.indexes # documents can be directly attached to sections.
+    - navigation.top # A back-to-top button can be shown.
+    - navigation.tracking # the URL in the address bar is automatically updated with the active anchor as highlighted in the table of contents.
+    - navigation.prune # only the visible navigation items are included in the rendered HTML.
+    - navigation.footer # "previous" and "next" buttons in the footer.
+    # search
+    - search.suggest # the search will display the likeliest completion for the last word which can be accepted.
+    - search.highlight # highlight all occurrences after following the link.
+    # content
+    - content.action.edit # an "edit this page" button on the page.
+    - content.action.view # a "view source" button on the page.
+    - content.code.copy # copy-to-clipboard button on code blocks.
+    - toc.follow # the sidebar is automatically scrolled so that the active anchor is always visible.
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/theme-light-dark
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to system preference
+  font: # can be set to any valid font from https://fonts.google.com/
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  logo: assets/logo.png
+
+  plugins:
+    - search
+    - search.suggest
+    - search.highlight
+    # - blog
+
+  # extra:
+  #   social:
+  #     - icon: fontawesome/brands/github
+  #       link: https://github.com/Sh4peSh1fter
