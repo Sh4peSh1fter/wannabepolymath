@@ -10,8 +10,8 @@ site_description: >-
 repo_name: Sh4peSh1fter/wannabepolymath
 repo_url: https://github.com/Sh4peSh1fter/wannabepolymath
 
-# # Copyright
-# copyright: Copyright &copy; 2016 - 2024 Martin Donath
+# Copyright
+copyright: Copyright &copy; 2024 Kivsean
 
 theme:
   name: material
