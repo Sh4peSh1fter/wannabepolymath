@@ -1,0 +1,2730 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="a mix of a personal website, portfolio, blog, and more? about everything?">
+      
+      
+        <meta name="author" content="kivsean">
+      
+      
+        <link rel="canonical" href="https://wannabepolymath.github.io/topics/computer_science/devops/orchestration/kubernetes/questions/">
+      
+      
+        <link rel="prev" href="../../../OS/Linux/questions/">
+      
+      
+        <link rel="next" href="../../../../../economy/sources/">
+      
+      
+      <link rel="icon" href="../../../../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.35">
+    
+    
+      
+        <title>Kubernetes Questions - Wanna Be Polymath</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../../assets/stylesheets/main.35f28582.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#kubernetes-questions" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../../../.." title="Wanna Be Polymath" class="md-header__button md-logo" aria-label="Wanna Be Polymath" data-md-component="logo">
+      
+  <img src="../../../../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Wanna Be Polymath
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Kubernetes Questions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5 2c-1.79 1.15-3 3.18-3 5.5s1.21 4.35 3.03 5.5C4.46 13 2 10.54 2 7.5A5.5 5.5 0 0 1 7.5 2m11.57 1.5 1.43 1.43L4.93 20.5 3.5 19.07zm-6.18 2.43L11.41 5 9.97 6l.42-1.7L9 3.24l1.75-.12.58-1.65L12 3.1l1.73.03-1.35 1.13zm-3.3 3.61-1.16-.73-1.12.78.34-1.32-1.09-.83 1.36-.09.45-1.29.51 1.27 1.36.03-1.05.87zM19 13.5a5.5 5.5 0 0 1-5.5 5.5c-1.22 0-2.35-.4-3.26-1.07l7.69-7.69c.67.91 1.07 2.04 1.07 3.26m-4.4 6.58 2.77-1.15-.24 3.35zm4.33-2.7 1.15-2.77 2.2 2.54zm1.15-4.96-1.14-2.78 3.34.24zM9.63 18.93l2.77 1.15-2.53 2.19z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Sh4peSh1fter/wannabepolymath" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Sh4peSh1fter/wannabepolymath
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../../About/" class="md-tabs__link">
+          
+  
+    
+  
+  About
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../../corners/" class="md-tabs__link">
+          
+  
+    
+  
+  Corners
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../../../" class="md-tabs__link">
+          
+  
+    
+  
+  Topics
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../../.." title="Wanna Be Polymath" class="md-nav__button md-logo" aria-label="Wanna Be Polymath" data-md-component="logo">
+      
+  <img src="../../../../../../assets/logo.png" alt="logo">
+
+    </a>
+    Wanna Be Polymath
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Sh4peSh1fter/wannabepolymath" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Sh4peSh1fter/wannabepolymath
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../../About/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    About
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../../corners/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Corners
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../../../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Topics
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../0_templates/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    0 templates
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../../../biology/the_human_body/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Biology
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Computer science
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Computer science
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../sources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4_2" checked>
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    Devops
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4_4_2" id="__nav_4_4_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_4_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            Devops
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../questions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../IaC/terraform/questions/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    IaC
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../OS/Linux/questions/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    OS
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4_2_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_4_2_5" id="__nav_4_4_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Orchestration
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_4_4_2_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_4_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Orchestration
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4_2_5_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4_4_2_5_1" id="__nav_4_4_2_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Kubernetes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="5" aria-labelledby="__nav_4_4_2_5_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_4_2_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Kubernetes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Kubernetes Questions
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Kubernetes Questions
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general" class="md-nav__link">
+    <span class="md-ellipsis">
+      General
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-components-architecture" class="md-nav__link">
+    <span class="md-ellipsis">
+      Basic Components / Architecture
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic Components / Architecture">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#namespaces" class="md-nav__link">
+    <span class="md-ellipsis">
+      Namespaces
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pods
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#workloads-sets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Workloads / Sets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#configmaps-and-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      ConfigMaps and Secrets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-resource-definitions-crds" class="md-nav__link">
+    <span class="md-ellipsis">
+      Custom Resource Definitions (CRDs)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#networking" class="md-nav__link">
+    <span class="md-ellipsis">
+      Networking
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#storage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storage
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#security" class="md-nav__link">
+    <span class="md-ellipsis">
+      Security
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scaling" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scaling
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      Monitoring
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#upgrades-and-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Upgrades and Maintenance
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disaster-recovery" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disaster Recovery
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Operators
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jobs-and-cronjobs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jobs and CronJobs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deployment-methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deployment Methods
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cli" class="md-nav__link">
+    <span class="md-ellipsis">
+      CLI
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../economy/sources/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Economy
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../entrepreneurship/sources/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Entrepreneurship
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../../../labor/general/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Labor
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../military/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Military
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../../../../nutrition/water/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Nutrition
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../philosophy/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Philosophy
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../../../../psychology/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Psychology
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#general" class="md-nav__link">
+    <span class="md-ellipsis">
+      General
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#basic-components-architecture" class="md-nav__link">
+    <span class="md-ellipsis">
+      Basic Components / Architecture
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic Components / Architecture">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#namespaces" class="md-nav__link">
+    <span class="md-ellipsis">
+      Namespaces
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pods
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#workloads-sets" class="md-nav__link">
+    <span class="md-ellipsis">
+      Workloads / Sets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#configmaps-and-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      ConfigMaps and Secrets
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-resource-definitions-crds" class="md-nav__link">
+    <span class="md-ellipsis">
+      Custom Resource Definitions (CRDs)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#networking" class="md-nav__link">
+    <span class="md-ellipsis">
+      Networking
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#storage" class="md-nav__link">
+    <span class="md-ellipsis">
+      Storage
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#security" class="md-nav__link">
+    <span class="md-ellipsis">
+      Security
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scaling" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scaling
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      Monitoring
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#upgrades-and-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Upgrades and Maintenance
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disaster-recovery" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disaster Recovery
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#operators" class="md-nav__link">
+    <span class="md-ellipsis">
+      Operators
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jobs-and-cronjobs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Jobs and CronJobs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deployment-methods" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deployment Methods
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cli" class="md-nav__link">
+    <span class="md-ellipsis">
+      CLI
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/Sh4peSh1fter/wannabepolymath/edit/master/docs/topics/computer_science/devops/orchestration/kubernetes/questions.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/Sh4peSh1fter/wannabepolymath/raw/master/docs/topics/computer_science/devops/orchestration/kubernetes/questions.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.2 8.2 0 0 1-1.23-2"/></svg>
+    </a>
+  
+
+
+<h1 id="kubernetes-questions"><strong>Kubernetes</strong> Questions<a class="headerlink" href="#kubernetes-questions" title="Permanent link">&para;</a></h1>
+<h2 id="general">General<a class="headerlink" href="#general" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What is <strong>Kubernetes</strong>?</p>
+<p><strong>Kubernetes</strong> is an open-source container orchestration platform that automates the <strong>Deployment</strong>, scaling, and management of containerized applications.</p>
+</li>
+<li>
+<p>What is the difference between <strong>Docker</strong> and <strong>Kubernetes</strong>?</p>
+<ul>
+<li>And between <strong>Docker Swarm</strong>?</li>
+</ul>
+<p><strong>Docker</strong> is a platform for building, running, and managing containers, while <strong>Kubernetes</strong> is a container orchestration platform that manages containerized applications across a cluster of machines.</p>
+<p><strong>Docker Swarm</strong> is <strong>Docker</strong>'s native clustering and orchestration tool. It is easier to set up but lacks the extensive features of <strong>Kubernetes</strong>, such as autoscaling, robust networking, and persistent storage management.</p>
+</li>
+</ol>
+<hr />
+<h2 id="basic-components-architecture">Basic Components / Architecture<a class="headerlink" href="#basic-components-architecture" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What are the node types / roles?</p>
+<p>there are two types of nodes:</p>
+<p>Master node - Manages the <strong>Kubernetes</strong> cluster, runs control plane components like the API server, scheduler, <strong>etcd</strong>, and controller managers.<br />
+Worker node - Runs the containerized applications and manages pods via the Kubelet and <strong>kube-proxy</strong>.</p>
+</li>
+<li>
+<p>What processes run on the master node?</p>
+<ul>
+<li>And on the worker node?</li>
+</ul>
+<p>The main processes on the master node are:</p>
+<p><strong>kube-apiserver</strong> - Front-end to the <strong>Kubernetes</strong> control plane.<br />
+<strong>etcd</strong> - Key-value store that stores cluster data.<br />
+<strong>kube-scheduler</strong> - Assigns pods to nodes.<br />
+<strong>controller manager</strong> - Runs controller processes.</p>
+<p>The main processes on the worker node are:</p>
+<p><strong>kubelet</strong> - Agent that communicates with the master node.<br />
+<strong>kube-proxy</strong> - Manages network rules.<br />
+<strong>Container runtime</strong> - Runs the containers (e.g., <strong>Docker</strong>, <strong>containerd</strong>).</p>
+</li>
+<li>
+<p>What is <strong>etcd</strong> in <strong>Kubernetes</strong>?</p>
+<ul>
+<li>How does <strong>etcd</strong> ensure consistency in a <strong>Kubernetes</strong> cluster?</li>
+</ul>
+<p><strong>etcd</strong> is a distributed key-value store that stores all cluster data.<br />
+  It uses the Raft consensus algorithm to ensure consistent replication of data across all <strong>etcd</strong> instances.</p>
+</li>
+<li>
+<p>How do you back up and restore <strong>etcd</strong>?</p>
+<p>Use <code>etcdctl snapshot save</code> to back up and <code>etcdctl snapshot restore</code> to restore data.</p>
+</li>
+<li>
+<p>What are best practices for maintaining <strong>etcd</strong>?</p>
+<p>Run <strong>etcd</strong> on dedicated instances.<br />
+ Enable snapshots.<br />
+ Ensure the quorum (odd number of members).</p>
+</li>
+<li>
+<p>What is a <strong>controller manager</strong>?</p>
+<ul>
+<li>What types of controller managers are there?</li>
+<li>Can you create a new one or configure an existing one?</li>
+</ul>
+<p>A <strong>Controller Manager</strong> in <strong>Kubernetes</strong> is a daemon that manages the control loops that regulate the state of the cluster. Controllers continuously monitor the current state of cluster resources and compare them with the desired state. If a deviation is found, they take corrective actions to bring the actual state back to the desired one.</p>
+<p>Types of Controller Managers:<br />
+  Node Controller - Monitors the health of nodes and performs actions like evicting pods from unhealthy nodes.<br />
+  Replication Controller - Ensures the specified number of pod replicas are running at any given time.<br />
+  Endpoint Controller - Manages the association between services and pods.<br />
+  Service Account Controller - Handles the creation of default accounts and tokens for pods.<br />
+  Job Controller - Ensures jobs are completed successfully.</p>
+<p>you can create or configure a new controller through Custom Controllers. For example, you can develop your own controller using the <strong>Kubernetes</strong> controller-runtime libraries to manage custom resources (CRDs).</p>
+</li>
+<li>
+<p>What is <strong>kube-proxy</strong>?</p>
+<ul>
+<li>Can I change and reconfigure it?</li>
+</ul>
+<p><strong>kube-proxy</strong> is a network proxy that runs on each node in the <strong>Kubernetes</strong> cluster. It maintains network rules on nodes, which allow for communication between pods, and between pods and services, by managing IP tables or IPVS rules.<br />
+  It manages network traffic routing for services by forwarding requests to the appropriate backend pods, and implements service discovery and load balancing by ensuring that the correct backend pods receive requests sent to a service's ClusterIP.</p>
+<p>You can reconfigure <strong>kube-proxy</strong> by modifying its configuration file or using the <code>--config</code> flag at startup. For example, you can switch the mode between iptables and ipvs based on your performance or traffic requirements.</p>
+</li>
+</ol>
+<hr />
+<h3 id="namespaces">Namespaces<a class="headerlink" href="#namespaces" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p>What is a namespace?</p>
+<ul>
+<li>What are they used for?</li>
+</ul>
+<p>A namespace is a logical partition within a <strong>Kubernetes</strong> cluster, providing isolation for resources.<br />
+  They are used for organizing, separating, and managing resources for different environments, teams, or projects.</p>
+</li>
+<li>
+<p>Can resources from one namespace access resources on another namespace?</p>
+<ul>
+<li>How to restrict resource usage for namespace?</li>
+</ul>
+<p>By default, resources in one namespace cannot access resources in another unless explicitly allowed. Network policies and Role-Based Access Control (RBAC) can be used to enforce this restriction.</p>
+<p>To restrict resource usage, you can use:<br />
+  Resource Quotas - Limit the number of resources (e.g., CPU, memory, storage) that a namespace can use.<br />
+  LimitRanges - Define minimum and maximum resource limits (e.g., CPU, memory) that pods or containers in the namespace can request or consume.</p>
+<p>For example, if you want to restrict a development namespace to only 4 CPUs and 8GB of memory, you can create a ResourceQuota like this:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">v1</span>
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">ResourceQuota</span>
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">dev-quota</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="nt">namespace</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">development</span>
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="nt">hard</span><span class="p">:</span>
+</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a><span class="w">  </span><span class="nt">cpu</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;4&quot;</span>
+</span><span id="__span-0-9"><a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a><span class="w">  </span><span class="nt">memory</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">8Gi</span>
+</span></code></pre></div>
+</li>
+</ol>
+<h3 id="pods">Pods<a class="headerlink" href="#pods" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p>What is a pod?</p>
+<p>A pod is the smallest deployable unit in <strong>Kubernetes</strong> that contains one or more containers.</p>
+</li>
+<li>
+<p>How the containers in the pod are managed?</p>
+<ul>
+<li>why would you contain multiple containers in a pod?</li>
+</ul>
+<p>Containers in a pod share the same network namespace and storage volumes. They are managed together as a single entity.<br />
+  Containers that need to share resources or closely communicate should be placed in the same pod, such as a web server and a logging sidecar.</p>
+</li>
+<li>
+<p>How does pod scheduling work?</p>
+<p>Pod scheduling refers to the process of assigning a pod to a node. The <strong>Kubernetes</strong> scheduler is responsible for this. It considers a variety of factors to make scheduling decisions, including:<br />
+ Resource requests and limits - Does the node have enough CPU and memory?<br />
+ Node labels - Pods with certain affinities or tolerations might require specific node characteristics.<br />
+ Pod affinity/anti-affinity - Pods can be scheduled near or away from other pods.<br />
+ Node taints and tolerations - Nodes may be tainted to prevent specific pods from being scheduled unless they can tolerate the taint.</p>
+</li>
+<li>
+<p>What happens when a pod is deleted?</p>
+<p>The containers in the pod are terminated, and the pod object is removed from the cluster.</p>
+</li>
+<li>
+<p>How can you restrict certain pods from running on specific nodes in <strong>Kubernetes</strong>?</p>
+<p>You can restrict pods from running on certain nodes using:<br />
+ Node taints and pod tolerations - You can taint a node so that only pods with a specific toleration can run on it. For example, if a node is tainted with <code>dedicated=production:NoSchedule</code>, only pods with a toleration for this taint will be scheduled on this node.<br />
+ Node selectors - You can specify a node label that a pod must match to be scheduled on that node. for example, Using a node selector like this ensures that a pod only runs on nodes with the label <code>disktype=ssd</code>.<br />
+ Node Affinity - A more expressive way to control where pods are scheduled using <code>requiredDuringSchedulingIgnoredDuringExecution</code> or <code>preferredDuringSchedulingIgnoredDuringExecution</code> rules.</p>
+</li>
+<li>
+<p>What is a side car in <strong>Kubernetes</strong>?</p>
+<p>A sidecar is a container that runs alongside the main container in a pod to enhance its functionality. It’s often used for tasks like logging, monitoring, proxying, or updating the main application.</p>
+</li>
+</ol>
+<hr />
+<h3 id="workloads-sets">Workloads / Sets<a class="headerlink" href="#workloads-sets" title="Permanent link">&para;</a></h3>
+<h4 id="deployments">Deployments<a class="headerlink" href="#deployments" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a <strong>Deployment</strong>?</p>
+<p>A <strong>Deployment</strong> is a controller that manages the desired state of pod replicas, allowing for updates and scaling.</p>
+</li>
+<li>
+<p>How do you perform a rolling update?</p>
+<p>By updating the <strong>Deployment</strong>, <strong>Kubernetes</strong> automatically performs a rolling update of pods with minimal downtime.</p>
+</li>
+<li>
+<p>How do you rollback a <strong>Deployment</strong>?</p>
+<p>Use <code>kubectl rollout undo Deployment &lt;Deployment-name&gt;</code> to revert to a previous version.</p>
+</li>
+<li>
+<p>How do you scale a <strong>Deployment</strong>?</p>
+<p>Use <code>kubectl scale Deployment &lt;Deployment-name&gt; --replicas=&lt;number&gt;</code> to adjust the number of pod replicas.</p>
+</li>
+<li>
+<p>What <strong>Deployment</strong> strategies does a <strong>Deployment</strong> support and how to change it?</p>
+<p><strong>Kubernetes</strong> <strong>Deployment**s support several strategies for rolling out updates:<br />
+ Rolling Update (default) - Updates pods incrementally, minimizing downtime.
+**Recreate</strong> - Terminates all existing pods before creating new ones.</p>
+<p>You can change the <strong>Deployment</strong> strategy in the spec of a <strong>Deployment</strong> YAML:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="nt">strategy</span><span class="p">:</span>
+</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">  </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">RollingUpdate</span><span class="w"> </span><span class="c1"># or Recreate</span>
+</span></code></pre></div>
+<p>You can further configure the rolling update strategy with parameters like <code>maxSurge</code> and <code>maxUnavailable</code> to control how many pods are created or deleted during the update.</p>
+</li>
+</ol>
+<hr />
+<h4 id="replicasets">ReplicaSets<a class="headerlink" href="#replicasets" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a <strong>ReplicaSet</strong>?</p>
+<ul>
+<li>How is it different from a <strong>Deployment</strong>?</li>
+</ul>
+<p>A <strong>ReplicaSet</strong> ensures that a specified number of pod replicas are running at all times.</p>
+</li>
+</ol>
+<hr />
+<h4 id="statefulsets">StatefulSets<a class="headerlink" href="#statefulsets" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a <strong>StatefulSet</strong>?</p>
+<ul>
+<li>When would you use it?</li>
+</ul>
+<p><strong>StatefulSets</strong> manage stateful applications by maintaining stable network identities and persistent storage.<br />
+  Use a <strong>StatefulSet</strong> for applications that require stable, persistent storage or ordered <strong>Deployment</strong> and scaling (e.g., databases).</p>
+</li>
+<li>
+<p>What are the use cases for the persistent storage in <strong>StatefulSets</strong>?</p>
+<p>Persistent storage ensures that data remains available even if the pod is rescheduled to a different node.</p>
+</li>
+</ol>
+<hr />
+<h4 id="daemonsets">DaemonSets<a class="headerlink" href="#daemonsets" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a <strong>DaemonSet</strong>?</p>
+<ul>
+<li>When would you use it?</li>
+</ul>
+<p>A <strong>DaemonSet</strong> ensures that a copy of a pod runs on all (or selected) nodes in the cluster.<br />
+  **DaemonSet**s are useful for deploying system-level services like log collectors or monitoring agents on every node.</p>
+</li>
+<li>
+<p>How does a <strong>DaemonSet</strong> ensure that a pod is running on every node?</p>
+<p>The <strong>DaemonSet</strong> controller schedules a pod on each node as it joins the cluster.</p>
+</li>
+<li>
+<p>How do you update a <strong>DaemonSet</strong>?</p>
+<p>Update the <strong>DaemonSet</strong> specification, and <strong>Kubernetes</strong> will update each pod in turn.</p>
+</li>
+<li>
+<p>How can you run a <strong>DaemonSet</strong> on only subset of nodes?</p>
+<p>You can use nodeSelector or node affinity to limit which nodes run the <strong>DaemonSet</strong> pods.</p>
+</li>
+</ol>
+<hr />
+<ol>
+<li>
+<p>What is the difference between a <strong>Deployment</strong>, a <strong>ReplicaSet</strong>, a <strong>StatefulSet</strong> and a <strong>DaemonSet</strong>?</p>
+<p><strong>Deployment</strong> - Manages stateless applications and scaling.<br />
+<strong>ReplicaSet</strong> - Ensures a specified number of pod replicas.<br />
+<strong>StatefulSet</strong> - Manages stateful applications with persistent data and ordered <strong>Deployment</strong>.<br />
+<strong>DaemonSet</strong> - Ensures that a pod runs on all or selected nodes.</p>
+</li>
+</ol>
+<hr />
+<h3 id="configmaps-and-secrets">ConfigMaps and Secrets<a class="headerlink" href="#configmaps-and-secrets" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p>What is a <strong>ConfigMap</strong>?</p>
+<ul>
+<li>When would you use it?</li>
+</ul>
+<p>A <strong>ConfigMap</strong> is an API object used to store non-confidential data in key-value pairs.<br />
+  Use a <strong>ConfigMap</strong> to store configuration data that is consumed by containers.</p>
+</li>
+<li>
+<p>What is a Secret in <strong>Kubernetes</strong>?</p>
+<p>A Secret stores sensitive data like passwords, tokens, and keys.</p>
+</li>
+<li>
+<p>What is the difference between a **ConfigMap**s and secrets?</p>
+<p>**ConfigMap**s store plain text data, while Secrets are designed to hold sensitive information and are base64-encoded.</p>
+</li>
+<li>
+<p>How do you mount a secret ot a <strong>ConfigMap</strong> in a pod?</p>
+<p>You can mount a <strong>ConfigMap</strong> or Secret as an environment variable or volume in the pod.<br />
+ Example of mounting a <strong>ConfigMap</strong> as a volume:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="nt">volumes</span><span class="p">:</span>
+</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">config-volume</span>
+</span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="w">   </span><span class="l l-Scalar l-Scalar-Plain">**ConfigMap**</span><span class="p p-Indicator">:</span>
+</span><span id="__span-2-4"><a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a><span class="w">      </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-config-map</span>
+</span><span id="__span-2-5"><a id="__codelineno-2-5" name="__codelineno-2-5" href="#__codelineno-2-5"></a><span class="nt">containers</span><span class="p">:</span>
+</span><span id="__span-2-6"><a id="__codelineno-2-6" name="__codelineno-2-6" href="#__codelineno-2-6"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-container</span>
+</span><span id="__span-2-7"><a id="__codelineno-2-7" name="__codelineno-2-7" href="#__codelineno-2-7"></a><span class="w">   </span><span class="l l-Scalar l-Scalar-Plain">volumeMounts</span><span class="p p-Indicator">:</span>
+</span><span id="__span-2-8"><a id="__codelineno-2-8" name="__codelineno-2-8" href="#__codelineno-2-8"></a><span class="w">      </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">config-volume</span>
+</span><span id="__span-2-9"><a id="__codelineno-2-9" name="__codelineno-2-9" href="#__codelineno-2-9"></a><span class="w">      </span><span class="nt">mountPath</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;/etc/config&quot;</span>
+</span></code></pre></div>
+</li>
+<li>
+<p>Can <strong>ConfigMaps</strong> and Secrets be updated and used without restarting pods?</p>
+<p>Yes, <strong>ConfigMaps</strong> and Secrets can be updated. However, for pods to pick up the changes, certain conditions must be met:<br />
+ Mounted as volumes - When mounted as files in a pod, the updates are automatically reflected, but the application needs to monitor for changes.<br />
+ Environment variables: If **ConfigMap**s or Secrets are set as environment variables, the pod needs to be restarted to pick up the changes.</p>
+</li>
+</ol>
+<hr />
+<h3 id="custom-resource-definitions-crds">Custom Resource Definitions (CRDs)<a class="headerlink" href="#custom-resource-definitions-crds" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p>What is a Custom Resource Definition (CRD) in <strong>Kubernetes</strong>?</p>
+<ul>
+<li>When should you use it?</li>
+<li>How do you create and manage CRDs?</li>
+</ul>
+<p>CRDs are extensions of the <strong>Kubernetes</strong> API that allow you to define your own resource types.<br />
+  Use CRDs to manage applications that require additional types not provided by <strong>Kubernetes</strong> out of the box.<br />
+  CRDs can be defined in YAML files and managed with <code>kubectl apply</code> and <code>kubectl delete</code>.</p>
+<p>For example, if you're building a database operator, you can create a Database CRD that allows users to create and manage databases as if they were <strong>Kubernetes</strong> resources.</p>
+</li>
+<li>
+<p>Can you extend existing <strong>Kubernetes</strong> API resources using CRDs?</p>
+</li>
+</ol>
+<hr />
+<h2 id="networking">Networking<a class="headerlink" href="#networking" title="Permanent link">&para;</a></h2>
+<h4 id="services">Services<a class="headerlink" href="#services" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a service?</p>
+<p>A Service is an abstraction that defines a logical set of pods and a policy for accessing them.</p>
+</li>
+<li>
+<p>What types of services are there?</p>
+<ul>
+<li>What are the differences between them?</li>
+</ul>
+<p><strong>ClusterIP</strong> - Default service type, exposes the service only within the cluster.<br />
+<strong>NodePort</strong> - Exposes the service on each node's IP at a static port.<br />
+<strong>LoadBalancer</strong> - Exposes the service externally using a cloud provider's load balancer.</p>
+</li>
+<li>
+<p>How does a service discover the IP of a pod?</p>
+<p>In <strong>Kubernetes</strong>, services are used to expose a set of pods as a single network endpoint. When a pod is created, it is assigned an IP address. The service discovers the IPs of the pods it should route traffic to through **label selector**s and **endpoint**s.</p>
+<p>The <strong>label selector</strong> in the service definition identifies which pods the service is associated with.
+The <strong>Endpoint Controller</strong> ensures that the service knows the IP addresses of the pods selected by the <strong>label selector</strong>.</p>
+<p>When a pod is created, the IP is registered with the service as an endpoint. <strong>Kubernetes</strong> uses a DNS system, usually via <strong>CoreDNS</strong>, which creates DNS records for services, allowing other pods to resolve a service name to the appropriate pod IP.</p>
+<p>For example, a service named my-service can be resolved as <code>my-service.default.svc.cluster.local</code> within the cluster.</p>
+</li>
+<li>
+<p>How do you expose a service externally?</p>
+<p>Use a <code>NodePort</code> or <code>LoadBalancer</code> service to expose an application outside the cluster.</p>
+</li>
+</ol>
+<hr />
+<h4 id="ingress">Ingress<a class="headerlink" href="#ingress" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is an ingress in <strong>Kubernetes</strong>?</p>
+<p>An Ingress is an API object that manages external access to services, typically via HTTP/HTTPS.</p>
+</li>
+<li>
+<p>What is the difference between an Ingress and a Service?</p>
+<p>A Service exposes a set of pods under a single IP and port, providing a stable endpoint for accessing this group of pods, while an Ingress provides external access to those services via defined routing rules. It allows for URL-based routing, load balancing, SSL termination, and more. Ingress is often backed by an Ingress Controller like NGINX or Traefik.</p>
+</li>
+<li>
+<p>How do you set up ingress rules?</p>
+<p>Ingress rules define how external traffic is routed to services inside the cluster. You can set up rules for host-based or path-based routing.<br />
+ here is an example of a simple ingress rule for routing HTTP traffic:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-3-1"><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">networking.k8s.io/v1</span>
+</span><span id="__span-3-2"><a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Ingress</span>
+</span><span id="__span-3-3"><a id="__codelineno-3-3" name="__codelineno-3-3" href="#__codelineno-3-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-3-4"><a id="__codelineno-3-4" name="__codelineno-3-4" href="#__codelineno-3-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">example-ingress</span>
+</span><span id="__span-3-5"><a id="__codelineno-3-5" name="__codelineno-3-5" href="#__codelineno-3-5"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-3-6"><a id="__codelineno-3-6" name="__codelineno-3-6" href="#__codelineno-3-6"></a><span class="nt">rules</span><span class="p">:</span>
+</span><span id="__span-3-7"><a id="__codelineno-3-7" name="__codelineno-3-7" href="#__codelineno-3-7"></a><span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">host</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;example.com&quot;</span>
+</span><span id="__span-3-8"><a id="__codelineno-3-8" name="__codelineno-3-8" href="#__codelineno-3-8"></a><span class="w">      </span><span class="nt">http</span><span class="p">:</span>
+</span><span id="__span-3-9"><a id="__codelineno-3-9" name="__codelineno-3-9" href="#__codelineno-3-9"></a><span class="w">      </span><span class="nt">paths</span><span class="p">:</span>
+</span><span id="__span-3-10"><a id="__codelineno-3-10" name="__codelineno-3-10" href="#__codelineno-3-10"></a><span class="w">         </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">path</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">/api</span>
+</span><span id="__span-3-11"><a id="__codelineno-3-11" name="__codelineno-3-11" href="#__codelineno-3-11"></a><span class="w">            </span><span class="l l-Scalar l-Scalar-Plain">pathType</span><span class="p p-Indicator">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Prefix</span>
+</span><span id="__span-3-12"><a id="__codelineno-3-12" name="__codelineno-3-12" href="#__codelineno-3-12"></a><span class="w">            </span><span class="l l-Scalar l-Scalar-Plain">backend</span><span class="p p-Indicator">:</span>
+</span><span id="__span-3-13"><a id="__codelineno-3-13" name="__codelineno-3-13" href="#__codelineno-3-13"></a><span class="w">            </span><span class="nt">service</span><span class="p">:</span>
+</span><span id="__span-3-14"><a id="__codelineno-3-14" name="__codelineno-3-14" href="#__codelineno-3-14"></a><span class="w">               </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">api-service</span>
+</span><span id="__span-3-15"><a id="__codelineno-3-15" name="__codelineno-3-15" href="#__codelineno-3-15"></a><span class="w">               </span><span class="nt">port</span><span class="p">:</span>
+</span><span id="__span-3-16"><a id="__codelineno-3-16" name="__codelineno-3-16" href="#__codelineno-3-16"></a><span class="w">                  </span><span class="nt">number</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">80</span>
+</span><span id="__span-3-17"><a id="__codelineno-3-17" name="__codelineno-3-17" href="#__codelineno-3-17"></a><span class="w">         </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">path</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">/web</span>
+</span><span id="__span-3-18"><a id="__codelineno-3-18" name="__codelineno-3-18" href="#__codelineno-3-18"></a><span class="w">            </span><span class="l l-Scalar l-Scalar-Plain">pathType</span><span class="p p-Indicator">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Prefix</span>
+</span><span id="__span-3-19"><a id="__codelineno-3-19" name="__codelineno-3-19" href="#__codelineno-3-19"></a><span class="w">            </span><span class="l l-Scalar l-Scalar-Plain">backend</span><span class="p p-Indicator">:</span>
+</span><span id="__span-3-20"><a id="__codelineno-3-20" name="__codelineno-3-20" href="#__codelineno-3-20"></a><span class="w">            </span><span class="nt">service</span><span class="p">:</span>
+</span><span id="__span-3-21"><a id="__codelineno-3-21" name="__codelineno-3-21" href="#__codelineno-3-21"></a><span class="w">               </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">web-service</span>
+</span><span id="__span-3-22"><a id="__codelineno-3-22" name="__codelineno-3-22" href="#__codelineno-3-22"></a><span class="w">               </span><span class="nt">port</span><span class="p">:</span>
+</span><span id="__span-3-23"><a id="__codelineno-3-23" name="__codelineno-3-23" href="#__codelineno-3-23"></a><span class="w">                  </span><span class="nt">number</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">80</span>
+</span></code></pre></div>
+</li>
+<li>
+<p>What is an ingress controller?</p>
+<p>An Ingress Controller is a specialized load balancer for managing Ingress resources. It watches the <strong>Kubernetes</strong> API for changes in Ingress resources and updates the underlying routing configuration based on these resources.</p>
+<p>Each Ingress Controller has its own set of features for handling load balancing, SSL termination, and URL/path-based routing.</p>
+</li>
+</ol>
+<hr />
+<h4 id="cni">CNI<a class="headerlink" href="#cni" title="Permanent link">&para;</a></h4>
+<ol>
+<li>
+<p>What is a CNI?</p>
+<ul>
+<li>how does it work?</li>
+</ul>
+<p>CNI is the specification and plugins used by <strong>Kubernetes</strong> to manage pod networking.</p>
+</li>
+<li>
+<p>What is the default CNI?</p>
+<p><strong>Kubernetes</strong> uses <strong>kube-router</strong>, <strong>Calico</strong>, or <strong>Flannel</strong> by default, depending on the setup.</p>
+</li>
+<li>
+<p>What is the difference between types of CNI?</p>
+<p>Different CNI plugins provide different features. For example, <strong>Flannel</strong> focuses on simple overlays, while <strong>Calico</strong> offers advanced network policies and routing.</p>
+</li>
+</ol>
+<hr />
+<ol>
+<li>
+<p>How does networking work in <strong>Kubernetes</strong>?</p>
+<p><strong>Kubernetes</strong> assigns each pod a unique IP address, and Services or Ingress rules are used to manage traffic to and from pods.</p>
+</li>
+<li>
+<p>How do pods in <strong>Kubernetes</strong> know which container they should route traffic to when multiple containers are running within a pod?</p>
+<p>In a multi-container pod, containers typically communicate through localhost because they share the same network namespace. <strong>Kubernetes</strong> doesn't automatically route traffic between containers in a pod — instead, you need to explicitly define how containers interact.</p>
+</li>
+<li>
+<p>What is the difference between <strong>kube-proxy</strong> and <strong>CoreDNS</strong>?</p>
+<p><strong>kube-proxy</strong> manages traffic routing to services. It operates at the network layer and handles load balancing between pod IPs for services using either iptables or IPVS.<br />
+<strong>CoreDNS</strong> is responsible for DNS resolution inside the cluster. When a service is created, <strong>CoreDNS</strong> assigns it a DNS name, which can be used by other pods to resolve the service’s IP. <strong>CoreDNS</strong> translates service names like my-service.default.svc.cluster.local into IP addresses.</p>
+<p><strong>kube-proxy</strong> handles low-level routing and forwarding of traffic to the appropriate pod, while <strong>CoreDNS</strong> is responsible for resolving service names to IPs.</p>
+</li>
+<li>
+<p>What are network policies?</p>
+<p>A <strong>NetworkPolicy</strong> is a specification that defines what traffic is allowed to flow between pods and other network endpoints (e.g., other pods, services, or external services).</p>
+<p>For example, here is a <strong>NetworkPolicy</strong> that allows ingress traffic on port 80 to the web pod only from pods labeled frontend.</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-4-1"><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">networking.k8s.io/v1</span>
+</span><span id="__span-4-2"><a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">NetworkPolicy</span>
+</span><span id="__span-4-3"><a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-4-4"><a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">allow-web</span>
+</span><span id="__span-4-5"><a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="nt">namespace</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">default</span>
+</span><span id="__span-4-6"><a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-4-7"><a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a><span class="nt">podSelector</span><span class="p">:</span>
+</span><span id="__span-4-8"><a id="__codelineno-4-8" name="__codelineno-4-8" href="#__codelineno-4-8"></a><span class="w">   </span><span class="nt">matchLabels</span><span class="p">:</span>
+</span><span id="__span-4-9"><a id="__codelineno-4-9" name="__codelineno-4-9" href="#__codelineno-4-9"></a><span class="w">      </span><span class="nt">app</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">web</span>
+</span><span id="__span-4-10"><a id="__codelineno-4-10" name="__codelineno-4-10" href="#__codelineno-4-10"></a><span class="nt">ingress</span><span class="p">:</span>
+</span><span id="__span-4-11"><a id="__codelineno-4-11" name="__codelineno-4-11" href="#__codelineno-4-11"></a><span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">from</span><span class="p">:</span>
+</span><span id="__span-4-12"><a id="__codelineno-4-12" name="__codelineno-4-12" href="#__codelineno-4-12"></a><span class="w">      </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">podSelector</span><span class="p">:</span>
+</span><span id="__span-4-13"><a id="__codelineno-4-13" name="__codelineno-4-13" href="#__codelineno-4-13"></a><span class="w">            </span><span class="nt">matchLabels</span><span class="p">:</span>
+</span><span id="__span-4-14"><a id="__codelineno-4-14" name="__codelineno-4-14" href="#__codelineno-4-14"></a><span class="w">            </span><span class="nt">role</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">frontend</span>
+</span><span id="__span-4-15"><a id="__codelineno-4-15" name="__codelineno-4-15" href="#__codelineno-4-15"></a><span class="w">      </span><span class="nt">ports</span><span class="p">:</span>
+</span><span id="__span-4-16"><a id="__codelineno-4-16" name="__codelineno-4-16" href="#__codelineno-4-16"></a><span class="w">      </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">protocol</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">TCP</span>
+</span><span id="__span-4-17"><a id="__codelineno-4-17" name="__codelineno-4-17" href="#__codelineno-4-17"></a><span class="w">         </span><span class="l l-Scalar l-Scalar-Plain">port</span><span class="p p-Indicator">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">80</span>
+</span></code></pre></div>
+</li>
+</ol>
+<hr />
+<h2 id="storage">Storage<a class="headerlink" href="#storage" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What is a volume?</p>
+<p>A volume is a directory accessible to containers in a pod, abstracting storage from the lifecycle of a pod.</p>
+</li>
+<li>
+<p>What is the difference between ephemeral and persistent storage?</p>
+<p>Ephemeral storage is temporary and tied to the lifecycle of a pod.<br />
+ Persistent storage survives even after the pod is deleted, using PersistentVolumes (PVs).</p>
+</li>
+<li>
+<p>What is a PersistentVolumeClaim (PVC)?</p>
+<p>A PVC is a request for storage by a pod, specifying the amount and access mode for a PersistentVolume.</p>
+</li>
+<li>
+<p>What are storage classes in <strong>Kubernetes</strong>?</p>
+<p>Storage classes define the types of storage (e.g., SSD, HDD) available to dynamically provision PersistentVolumes.</p>
+</li>
+</ol>
+<hr />
+<h2 id="security">Security<a class="headerlink" href="#security" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>How does <strong>Kubernetes</strong> handle security at the pod and cluster levels?</p>
+<p>At the pod level:<br />
+ Network Policies - Define which pods can communicate with each other.<br />
+<strong>SecurityContext</strong> - Controls security settings for pods, such as setting user/group IDs and file permissions.<br />
+<strong>PodSecurityPolicies</strong> (PSP) - Deprecated but used to control pod security settings like privilege escalation and the use of host networking.</p>
+<p>At the cluster level:<br />
+ RBAC (Role-Based Access Control) - Controls who can access and modify <strong>Kubernetes</strong> resources.<br />
+ TLS Encryption - <strong>Kubernetes</strong> uses certificates to secure communication between its components (e.g., <strong>kubelet</strong>, API server).<br />
+<strong>etcd</strong> Encryption - Sensitive data in <strong>etcd</strong> can be encrypted to protect cluster secrets.</p>
+</li>
+<li>
+<p>How do you implement role-based access control (RBAC) in <strong>Kubernetes</strong>?</p>
+<p>RBAC allows you to define roles and role bindings to control what resources and actions are available to users and service accounts.</p>
+<p>First, create a <strong>Role</strong> (within a namespace) or <strong>ClusterRole</strong> (across namespaces) that defines a set of permissions.<br />
+ then bind the role to users or service accounts using a RoleBinding or ClusterRoleBinding.</p>
+<p>For example, this role allows users to read pods in the default namespace:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-5-1"><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Role</span>
+</span><span id="__span-5-2"><a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">rbac.authorization.k8s.io/v1</span>
+</span><span id="__span-5-3"><a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-5-4"><a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a><span class="nt">namespace</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">default</span>
+</span><span id="__span-5-5"><a id="__codelineno-5-5" name="__codelineno-5-5" href="#__codelineno-5-5"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">pod-reader</span>
+</span><span id="__span-5-6"><a id="__codelineno-5-6" name="__codelineno-5-6" href="#__codelineno-5-6"></a><span class="nt">rules</span><span class="p">:</span>
+</span><span id="__span-5-7"><a id="__codelineno-5-7" name="__codelineno-5-7" href="#__codelineno-5-7"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">apiGroups</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;&quot;</span><span class="p p-Indicator">]</span>
+</span><span id="__span-5-8"><a id="__codelineno-5-8" name="__codelineno-5-8" href="#__codelineno-5-8"></a><span class="w">   </span><span class="nt">resources</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;pods&quot;</span><span class="p p-Indicator">]</span>
+</span><span id="__span-5-9"><a id="__codelineno-5-9" name="__codelineno-5-9" href="#__codelineno-5-9"></a><span class="w">   </span><span class="nt">verbs</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;get&quot;</span><span class="p p-Indicator">,</span><span class="w"> </span><span class="s">&quot;list&quot;</span><span class="p p-Indicator">]</span>
+</span></code></pre></div>
+</li>
+<li>
+<p>What is a <strong>PodSecurityPolicy</strong>?</p>
+<p>A <strong>PodSecurityPolicy</strong> (PSP) was a cluster-wide resource that controlled security-sensitive aspects of pod specification, such as whether a pod can run as the root user or use host networking. It has been deprecated in <strong>Kubernetes</strong> 1.21 and removed in 1.25, being replaced by other mechanisms like Pod Security Admission.</p>
+<p>PSPs were used to enforce restrictions on pod creation based on security policies.</p>
+</li>
+<li>
+<p>How do you encrypt Secrets at rest in <strong>Kubernetes</strong>?</p>
+<p>You can configure <strong>Kubernetes</strong> to use encryption providers (like KMS) to encrypt Secrets before storing them in <strong>etcd</strong>.</p>
+</li>
+<li>
+<p>What are cluster roles in <strong>Kubernetes</strong>?</p>
+<p>A <strong>ClusterRole</strong> in <strong>Kubernetes</strong> defines a set of permissions (rules) that apply across the entire cluster, not just within a single namespace. **ClusterRole**s are typically used for cluster-wide resources like nodes, namespaces, and persistent volumes, but they can also be used to grant permissions for namespaced resources across all namespaces.</p>
+<p>In this example, the <strong>ClusterRole</strong> grants all permissions (verbs: ["*"]) for all API groups and resources:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-6-1"><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">ClusterRole</span>
+</span><span id="__span-6-2"><a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">rbac.authorization.k8s.io/v1</span>
+</span><span id="__span-6-3"><a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-6-4"><a id="__codelineno-6-4" name="__codelineno-6-4" href="#__codelineno-6-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">cluster-admin-role</span>
+</span><span id="__span-6-5"><a id="__codelineno-6-5" name="__codelineno-6-5" href="#__codelineno-6-5"></a><span class="nt">rules</span><span class="p">:</span>
+</span><span id="__span-6-6"><a id="__codelineno-6-6" name="__codelineno-6-6" href="#__codelineno-6-6"></a><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">apiGroups</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;*&quot;</span><span class="p p-Indicator">]</span>
+</span><span id="__span-6-7"><a id="__codelineno-6-7" name="__codelineno-6-7" href="#__codelineno-6-7"></a><span class="w">   </span><span class="nt">resources</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;*&quot;</span><span class="p p-Indicator">]</span>
+</span><span id="__span-6-8"><a id="__codelineno-6-8" name="__codelineno-6-8" href="#__codelineno-6-8"></a><span class="w">   </span><span class="nt">verbs</span><span class="p">:</span><span class="w"> </span><span class="p p-Indicator">[</span><span class="s">&quot;*&quot;</span><span class="p p-Indicator">]</span>
+</span></code></pre></div>
+<p>To assign a <strong>ClusterRole</strong> to a user or service account, a <strong>ClusterRoleBinding</strong> is required.</p>
+</li>
+<li>
+<p>What is service account in <strong>Kubernetes</strong>?</p>
+<p>A ServiceAccount is an account used by processes running in pods to authenticate to the <strong>Kubernetes</strong> API and interact with cluster resources. Each pod has access to a service account, and it is used to associate running processes with certain permissions or policies.</p>
+<p>For example, by default, every pod runs under a service account named default in the respective namespace. You can create custom service accounts for specific tasks:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-7-1"><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">v1</span>
+</span><span id="__span-7-2"><a id="__codelineno-7-2" name="__codelineno-7-2" href="#__codelineno-7-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">ServiceAccount</span>
+</span><span id="__span-7-3"><a id="__codelineno-7-3" name="__codelineno-7-3" href="#__codelineno-7-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-7-4"><a id="__codelineno-7-4" name="__codelineno-7-4" href="#__codelineno-7-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">custom-sa</span>
+</span><span id="__span-7-5"><a id="__codelineno-7-5" name="__codelineno-7-5" href="#__codelineno-7-5"></a><span class="nt">namespace</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-namespace</span>
+</span></code></pre></div>
+<p>The service account token is automatically mounted into the pod as a secret and can be used by the application to make requests to the API server.</p>
+<p>You can specify a custom service account in a pod definition:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-8-1"><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">v1</span>
+</span><span id="__span-8-2"><a id="__codelineno-8-2" name="__codelineno-8-2" href="#__codelineno-8-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">Pod</span>
+</span><span id="__span-8-3"><a id="__codelineno-8-3" name="__codelineno-8-3" href="#__codelineno-8-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-8-4"><a id="__codelineno-8-4" name="__codelineno-8-4" href="#__codelineno-8-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-pod</span>
+</span><span id="__span-8-5"><a id="__codelineno-8-5" name="__codelineno-8-5" href="#__codelineno-8-5"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-8-6"><a id="__codelineno-8-6" name="__codelineno-8-6" href="#__codelineno-8-6"></a><span class="nt">serviceAccountName</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">custom-sa</span>
+</span><span id="__span-8-7"><a id="__codelineno-8-7" name="__codelineno-8-7" href="#__codelineno-8-7"></a><span class="nt">containers</span><span class="p">:</span>
+</span><span id="__span-8-8"><a id="__codelineno-8-8" name="__codelineno-8-8" href="#__codelineno-8-8"></a><span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-container</span>
+</span><span id="__span-8-9"><a id="__codelineno-8-9" name="__codelineno-8-9" href="#__codelineno-8-9"></a><span class="w">      </span><span class="l l-Scalar l-Scalar-Plain">image</span><span class="p p-Indicator">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-image</span>
+</span></code></pre></div>
+</li>
+</ol>
+<hr />
+<h2 id="scaling">Scaling<a class="headerlink" href="#scaling" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What is horizontal pod autoscaling in <strong>Kubernetes</strong>?</p>
+<p>Horizontal Pod Autoscaling automatically adjusts the number of pod replicas based on resource utilization.</p>
+</li>
+<li>
+<p>What is vertical pod autoscaling in <strong>Kubernetes</strong>?</p>
+<p>Vertical Pod Autoscaling adjusts the CPU and memory limits for a pod without increasing the number of replicas.</p>
+</li>
+<li>
+<p>What is the difference between horizontal pod scaling and vertical pod scaling?</p>
+<p>Horizontal scaling - Adds more pod replicas.<br />
+ Vertical scaling - Increases the resource limits for a single pod.</p>
+</li>
+<li>
+<p>How does <strong>Cluster Autoscaler</strong> work?</p>
+<p>The <strong>Cluster Autoscaler</strong> adjusts the number of nodes in a cluster based on pod resource requests and utilization.</p>
+</li>
+<li>
+<p>What is KEDA in <strong>Kubernetes</strong>?</p>
+<ul>
+<li>How does it work?</li>
+</ul>
+<p><strong>KEDA</strong> (<strong>Kubernetes</strong> Event-Driven Autoscaling) is an open-source project that allows <strong>Kubernetes</strong> to scale applications based on events from external sources (e.g., message queues, databases, HTTP traffic) in addition to traditional CPU/Memory-based autoscaling. <strong>KEDA</strong> enables event-driven autoscaling by integrating with <strong>Kubernetes</strong> Horizontal Pod Autoscalers (HPA).</p>
+<p>It supports various event sources like Azure Service Bus, Kafka, AWS SQS, RabbitMQ, Prometheus metrics, and more.</p>
+<p>For example, <strong>KEDA</strong> can scale the number of consumers based on the number of messages in the queue:</p>
+<div class="language-yaml highlight"><pre><span></span><code><span id="__span-9-1"><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="nt">apiVersion</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">keda.sh/v1alpha1</span>
+</span><span id="__span-9-2"><a id="__codelineno-9-2" name="__codelineno-9-2" href="#__codelineno-9-2"></a><span class="nt">kind</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">ScaledObject</span>
+</span><span id="__span-9-3"><a id="__codelineno-9-3" name="__codelineno-9-3" href="#__codelineno-9-3"></a><span class="nt">metadata</span><span class="p">:</span>
+</span><span id="__span-9-4"><a id="__codelineno-9-4" name="__codelineno-9-4" href="#__codelineno-9-4"></a><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">queue-worker</span>
+</span><span id="__span-9-5"><a id="__codelineno-9-5" name="__codelineno-9-5" href="#__codelineno-9-5"></a><span class="nt">spec</span><span class="p">:</span>
+</span><span id="__span-9-6"><a id="__codelineno-9-6" name="__codelineno-9-6" href="#__codelineno-9-6"></a><span class="nt">scaleTargetRef</span><span class="p">:</span>
+</span><span id="__span-9-7"><a id="__codelineno-9-7" name="__codelineno-9-7" href="#__codelineno-9-7"></a><span class="w">   </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">my-app</span>
+</span><span id="__span-9-8"><a id="__codelineno-9-8" name="__codelineno-9-8" href="#__codelineno-9-8"></a><span class="nt">triggers</span><span class="p">:</span>
+</span><span id="__span-9-9"><a id="__codelineno-9-9" name="__codelineno-9-9" href="#__codelineno-9-9"></a><span class="w">   </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">type</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">azure-queue</span>
+</span><span id="__span-9-10"><a id="__codelineno-9-10" name="__codelineno-9-10" href="#__codelineno-9-10"></a><span class="w">      </span><span class="l l-Scalar l-Scalar-Plain">metadata</span><span class="p p-Indicator">:</span>
+</span><span id="__span-9-11"><a id="__codelineno-9-11" name="__codelineno-9-11" href="#__codelineno-9-11"></a><span class="w">      </span><span class="nt">queueName</span><span class="p">:</span><span class="w"> </span><span class="l l-Scalar l-Scalar-Plain">myqueue</span>
+</span><span id="__span-9-12"><a id="__codelineno-9-12" name="__codelineno-9-12" href="#__codelineno-9-12"></a><span class="w">      </span><span class="nt">queueLength</span><span class="p">:</span><span class="w"> </span><span class="s">&quot;5&quot;</span>
+</span></code></pre></div>
+<p>This configuration scales the my-app <strong>Deployment</strong> based on the length of the Azure queue.</p>
+</li>
+<li>
+<p>What is <strong>Karpenter</strong> in <strong>Kubernetes</strong>?</p>
+<ul>
+<li>how does it work?</li>
+</ul>
+<p><strong>Karpenter</strong> is an open-source cluster autoscaler for <strong>Kubernetes</strong> that automatically provisions new nodes based on the demands of pending pods. Unlike the default <strong>Kubernetes</strong> Cluster Autoscaler, <strong>Karpenter</strong> is more flexible, capable of scaling nodes with diverse requirements such as instance types, zones, and resource capacities.</p>
+</li>
+</ol>
+<hr />
+<h2 id="monitoring">Monitoring<a class="headerlink" href="#monitoring" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>How do you monitor a <strong>Kubernetes</strong> cluster?</p>
+<p>Use monitoring tools like Prometheus, Grafana, and the <strong>Kubernetes</strong> Dashboard to visualize metrics and health of the cluster.</p>
+</li>
+<li>
+<p>How can you collect and view logs in <strong>Kubernetes</strong>?</p>
+<p>Logs can be collected with <code>kubectl logs</code> for individual pods, or you can set up a centralized logging system like ELK (Elasticsearch, Logstash, Kibana).</p>
+</li>
+</ol>
+<hr />
+<h2 id="upgrades-and-maintenance">Upgrades and Maintenance<a class="headerlink" href="#upgrades-and-maintenance" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>How do you upgrade a <strong>Kubernetes</strong> cluster?</p>
+<p>Upgrading a <strong>Kubernetes</strong> cluster involves updating the control plane components (like the API server, controller manager, and scheduler) and the worker nodes to a newer version of <strong>Kubernetes</strong>.</p>
+<p>Steps:<br />
+ Backup <strong>etcd</strong> - Since <strong>etcd</strong> stores all cluster data, creating a backup ensures you can restore the cluster in case something goes wrong.<br />
+ Update the Control Plane - Upgrade the master nodes and control plane components. For managed <strong>Kubernetes</strong> services like GKE or EKS, this is often a one-click process.<br />
+ Update Node Components - Upgrade kubelet and <strong>kube-proxy</strong> on each node, starting with master nodes and then moving to worker nodes.<br />
+ Drain Nodes - When upgrading worker nodes, drain each node before upgrading to ensure workloads are rescheduled on other nodes.<br />
+ Upgrade Node Operating System - If necessary, upgrade the OS packages to ensure compatibility with the new <strong>Kubernetes</strong> version.<br />
+ Test - Verify that workloads are functioning properly after the upgrade.</p>
+<p>For managed <strong>Kubernetes</strong> services (e.g., GKE, EKS), upgrades are typically handled via the cloud provider's platform, making the process simpler.</p>
+</li>
+<li>
+<p>How do you handle node maintenance in <strong>Kubernetes</strong>?</p>
+<p>Use <code>kubectl drain</code> to gracefully evict pods from a node before performing maintenance.</p>
+</li>
+<li>
+<p>What are disruptive updates, and how do you prevent them?</p>
+<p>A disruptive update is an update that can potentially cause downtime or negatively impact running workloads. Examples include updates to core components like the control plane, node operating systems, or updates that require restarting pods.</p>
+<p>To prevent disruptive updates:<br />
+ Use PodDisruptionBudgets (PDBs) - Ensure that a certain number of pods remain running during an update.<br />
+ Rolling Updates - Apply rolling updates to <strong>Deployment**s to ensure minimal downtime. **Kubernetes</strong> performs rolling updates by gradually replacing old pods with new ones.<br />
+ Draining nodes - Use the kubectl drain command to gracefully evict pods from a node before performing disruptive changes.<br />
+ Monitoring and Alerts - Set up monitoring (e.g., Prometheus) to ensure that you're notified about any potential issues during updates.</p>
+</li>
+<li>
+<p>How do you handle version compatibility between <strong>Kubernetes</strong> components?</p>
+<p>Always ensure that <strong>Kubernetes</strong> components (API server, <strong>kubelet</strong>, <strong>kube-proxy</strong>, etc.) are compatible with each other by referring to the <strong>Kubernetes</strong> version skew policy.</p>
+</li>
+</ol>
+<hr />
+<h2 id="disaster-recovery">Disaster Recovery<a class="headerlink" href="#disaster-recovery" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>How do you handle disaster recovery in <strong>Kubernetes</strong>?</p>
+<p>Disaster recovery involves backing up <strong>etcd</strong>, persistent data, and cluster configuration, and restoring it when necessary.</p>
+</li>
+<li>
+<p>What are <strong>Kubernetes</strong> backups, and how do you perform them?</p>
+<p><strong>Kubernetes</strong> backups typically involve backing up:<br />
+ Cluster state - The <strong>etcd</strong> database stores all cluster state (configurations, secrets, service accounts, <strong>Deployment**s, etc.). Regular **etcd</strong> backups are critical for disaster recovery.<br />
+ Persistent data - Persistent volumes (e.g., for databases) hold important data for applications and must also be backed up.</p>
+<p>How to perform backups:<br />
+<strong>etcd</strong> backup - Backing up <strong>etcd</strong> directly is crucial to restore the cluster state in case of a failure. You can use <strong>etcd</strong>’s built-in snapshot feature.</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-10-1"><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a>**etcd**CTL_API<span class="o">=</span><span class="m">3</span><span class="w"> </span>**etcd**ctl<span class="w"> </span>--endpoints<span class="o">=</span><span class="nv">$ENDPOINTS</span><span class="w"> </span>snapshot<span class="w"> </span>save<span class="w"> </span>/path/to/backup.db
+</span></code></pre></div>
+<p>Velero - A popular open-source tool for backing up and restoring <strong>Kubernetes</strong> resources (YAMLs) and persistent volumes. It integrates with cloud storage like AWS S3 or Azure Blob Storage.</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-11-1"><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a>velero<span class="w"> </span>backup<span class="w"> </span>create<span class="w"> </span>my-backup<span class="w"> </span>--include-namespaces<span class="w"> </span>my-namespace
+</span></code></pre></div>
+<p>Manual YAML backups Periodically export resource definitions (**Deployment**s, services, secrets, etc.) to YAML files and store them in version control.</p>
+</li>
+<li>
+<p>How do you recover from a failed <strong>etcd</strong> cluster?</p>
+<p>Restore <strong>etcd</strong> from a snapshot and rejoin the nodes to the cluster.</p>
+</li>
+</ol>
+<hr />
+<h2 id="operators">Operators<a class="headerlink" href="#operators" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What is a <strong>Kubernetes</strong> Operator?</p>
+<ul>
+<li>when would you use it?</li>
+</ul>
+<p>An Operator is a method of packaging, deploying, and managing a <strong>Kubernetes</strong> application using custom resources.<br />
+  Operators are useful for managing complex applications that need operational tasks automated, such as backups or scaling.</p>
+</li>
+<li>
+<p>How are Operators different from Helm charts?</p>
+<p>Helm charts are used to deploy applications, while Operators manage the lifecycle and automate complex tasks for those applications.</p>
+</li>
+<li>
+<p>How do you create a custom operator for an application?</p>
+<p>Use the Operator SDK to develop and deploy a custom operator that extends <strong>Kubernetes</strong> capabilities.</p>
+</li>
+</ol>
+<hr />
+<h2 id="jobs-and-cronjobs">Jobs and CronJobs<a class="headerlink" href="#jobs-and-cronjobs" title="Permanent link">&para;</a></h2>
+<ol>
+<li>
+<p>What is a job in <strong>Kubernetes</strong>?</p>
+<p>A Job creates one or more pods that run until the specified task is completed.</p>
+</li>
+<li>
+<p>What is a cronjob in <strong>Kubernetes</strong>?</p>
+<ul>
+<li>how do you schedule one?</li>
+</ul>
+<p>A CronJob runs Jobs on a scheduled basis, similar to a cron job in Linux. You schedule it using the <code>schedule</code> field in the CronJob YAML.</p>
+</li>
+<li>
+<p>What is the difference between jobs and cronjobs?</p>
+<p>A Job runs once until completion, while a CronJob runs Jobs at regular intervals.</p>
+</li>
+<li>
+<p>How do you handle failures in Jobs and CronJobs?</p>
+<p>You can configure retries for Jobs, and for CronJobs, you can set <code>successfulJobsHistoryLimit</code> and <code>failedJobsHistoryLimit</code> to manage job history.</p>
+</li>
+</ol>
+<hr />
+<h2 id="deployment-methods"><strong>Deployment</strong> Methods<a class="headerlink" href="#deployment-methods" title="Permanent link">&para;</a></h2>
+<p>1.</p>
+<hr />
+<h2 id="cli">CLI<a class="headerlink" href="#cli" title="Permanent link">&para;</a></h2>
+<ol>
+<li>What is <strong>kubectl</strong>?</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../../../OS/Linux/questions/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Questions">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Questions
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../../../../economy/sources/" class="md-footer__link md-footer__link--next" aria-label="Next: Sources">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Sources
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024 Kivsean
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../../../..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.tabs", "navigation.tabs.sticky", "navigation.path", "navigation.indexes", "navigation.top", "navigation.tracking", "navigation.prune", "navigation.footer", "navigation.expand", "search.suggest", "search.highlight", "content.action.edit", "content.action.view", "content.code.copy", "toc.follow"], "search": "../../../../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>
