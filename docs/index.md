@@ -6,28 +6,26 @@ hide:
 
 # Welcome to the Wanna be Polymath project
 
-This project is a mix of a personal website, a blog and a portfolio.
+hey :)  
 
-I want to organize and share cool things I learn, so I'm gathering everything here - hopefully it would help someone.
+I'm learning new stuff everyday and I want to share some of them in my own unique way.  
+
+the goal is simple. I want to be a polymath, I want to document some stuff that I write, and I want you to see my journey and get encouraged.  
+hopefully the way I do it can help some of you improve your knowledge, thinking, and life itself.
+
+how to use it?  
+just follow along the structure and take a look in the stuff that interests you.
+
+how to contribute?  
+any feedback will be very helpful!
+
+## Getting Started
 
 I divided the website into different sections, each with its own unique style and purpose.
 
-## Structure
+### Structure
 
-0. Home - landing page, explaining this project, how to use it and how to take part.
-1. Round Table - discuss and strategize problems and solutions to different things.
-2. Incubator - incubate ideas and projects.
-3. Academy - share tutorials, how-tos, guides and troubleshooting journals on different subjects.
-4. Observatory - store different collections of keywords that we will or have learned.
-5. Bazaar - share small and random day to day things we have learned.
-6. Forge - try improving ourselves generally and our day to day life.
-7. About - a small about me page.
-
-## Project layout
-
-```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
+1. home - landing page, explaining this project and how to use it.
+2. about - about this project, how it was built, and general things about it. 
+3. corners - random stuff that I'm writing that can't really fit in the "topics" section.
+4. topics - things that interests me and I try to learn, divided into topics and sub-topics. 

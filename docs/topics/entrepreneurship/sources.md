@@ -1,0 +1,3 @@
+- y combinator
+- garry tan
+- bloomberg technology

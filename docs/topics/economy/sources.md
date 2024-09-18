@@ -1,0 +1,2 @@
+- hasolidit - הסולידית
+- tamir mandowsky - תמיר מונדובסקי

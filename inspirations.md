@@ -65,3 +65,7 @@
 
 1. intresting engineering
    - https://interestingengineering.com/
+
+# other
+
+1. saar netzer - https://saarnetzer.co.il/
