@@ -1,61 +1,192 @@
 # Taking Inspiration
 
-taking inspiration from others can help us to form general picture of how everyone doing it, and improve our ideas.
-the keywords I'm using to better search for inspirations are:
+## Overview
+Taking inspiration from others can help us to form general picture of how everyone doing it, and improve our ideas. 
+This document catalogs and analyzes various sources of inspiration for the Wanna be Polymath project, including portfolio websites, personal blogs, and knowledge bases. It serves as a reference for design decisions, technical choices, and content organization strategies.
 
-- portfolio website
-- personal website
-- blogs
+## Research Methodology
 
-the queries I'm building look like this:
+### Search Strategy
+1. **Keywords**
+   - Portfolio website
+   - Personal website
+   - Knowledge base
+   - Blog
+   - Documentation site
 
-- best <keyword>
-- how to make my own <keyword>
-- how to create a <keyword>
-- stack for <keyword>
-- self hosted <keyword>
+2. **Search Patterns**
+   - "best [keyword]"
+   - "how to make my own [keyword]"
+   - "how to create a [keyword]"
+   - "stack for [keyword]"
+   - "self hosted [keyword]"
 
-the places I search for are:
+3. **Research Platforms**
+   - Google
+   - Reddit
+   - YouTube
+   - GitHub
+   - Dev.to
+   - Medium
 
-- google
-- reddit
-- youtube
-- github
+## Case Studies
 
-there are people that inspire me and have their own website or blog.
+### 1. Portfolio Websites
 
-## portfolios
+#### HamishMW Portfolio
+- **URL**: https://github.com/HamishMW/portfolio
+- **Tech Stack**: 
+  - Next.js
+  - Three.js
+  - Remix
+- **Hosting**: Cloudflare
+- **Key Features**:
+  - Interactive 3D elements
+  - Modern design
+  - Smooth animations
+- **Relevance**: 
+  - Strong visual appeal
+  - Modern tech stack
+  - Good performance
 
-1. https://github.com/HamishMW/portfolio
+#### Fireship.io
+- **URL**: https://fireship.io/
+- **Tech Stack**:
+  - Svelte
+  - Tailwind
+  - Hugo
+  - Firebase
+  - Flamethrower
+- **Key Features**:
+  - Fast loading
+  - Clean design
+  - Good content organization
+- **Relevance**:
+  - Excellent performance
+  - Modern architecture
+  - Good content structure
 
-   - technology stack: next.js, three.js, remix
-   - hosted: cloudflare
+### 2. Knowledge Bases
 
-2. https://fireship.io/
+#### Privacy Guides
+- **URL**: https://github.com/privacyguides/privacyguides.org
+- **Tech Stack**: MkDocs
+- **Key Features**:
+  - Clear documentation
+  - Good navigation
+  - Community-driven
+- **Relevance**:
+  - Similar to our goals
+  - Well-organized content
+  - Open source
 
-   - technology stack: Svelte, Tailwind, Hugo, Firebase, Flamethrower
+### 3. Personal Blogs
 
-3. https://www.jeffgeerling.com/
+#### Jeff Geerling
+- **URL**: https://www.jeffgeerling.com/
+- **Tech Stack**: Drupal
+- **Key Features**:
+  - Technical content
+  - Good organization
+  - Regular updates
+- **Relevance**:
+  - Similar content type
+  - Good content structure
 
-   - technology stack: Drupal
+#### Techno Tim
+- **URL**: https://technotim.live/
+- **Tech Stack**: Jekyll
+- **Key Features**:
+  - Technical tutorials
+  - Clean design
+  - Good navigation
+- **Relevance**:
+  - Similar content focus
+  - Good user experience
 
-4. https://technotim.live/
+## Analysis and Insights
 
-   - technology stack: jekyll (https://github.com/timothystewart6/TSdreamer.github.io?tab=readme-ov-file)
+### Common Patterns
+1. **Content Organization**
+   - Clear navigation
+   - Logical structure
+   - Easy to find information
 
-5. https://antonputra.com/
+2. **Technical Choices**
+   - Static site generators
+   - Modern frameworks
+   - Performance focus
 
-   - technology stack: Material for MkDocs
-   - hosted: github pages
+3. **Design Elements**
+   - Clean layouts
+   - Responsive design
+   - Good typography
 
-6. https://johnhammond.org/
+### Lessons Learned
+1. **Content Structure**
+   - Keep navigation simple
+   - Use clear categories
+   - Maintain consistency
 
-   - technology stack: Flask, Gunicorn, Certbot, Nginx
+2. **Technical Implementation**
+   - Choose simple solutions
+   - Focus on performance
+   - Use modern tools
 
-7. https://github.com/privacyguides/privacyguides.org
+3. **User Experience**
+   - Prioritize readability
+   - Ensure fast loading
+   - Make navigation intuitive
 
-## blogs
+## Implementation Decisions
 
-1. dev
-2. medium
-3. towards data science
+### Adopted Features
+1. **From Portfolio Sites**
+   - Clean design principles
+   - Performance optimization
+   - Modern tech stack
+
+2. **From Knowledge Bases**
+   - Documentation structure
+   - Navigation patterns
+   - Content organization
+
+3. **From Personal Blogs**
+   - Content presentation
+   - Update frequency
+   - Community engagement
+
+### Rejected Features
+1. **Complex Animations**
+   - Reason: May impact performance
+   - Alternative: Subtle transitions
+
+2. **Custom CMS**
+   - Reason: Overkill for our needs
+   - Alternative: Static site generator
+
+3. **Complex Backend**
+   - Reason: Not necessary for our content
+   - Alternative: Static hosting
+
+## Future Considerations
+
+### Features to Monitor
+1. **Interactive Elements**
+   - Comments system
+   - Search functionality
+   - User engagement
+
+2. **Content Delivery**
+   - Video integration
+   - Code examples
+   - Interactive tutorials
+
+3. **Community Features**
+   - Contribution guidelines
+   - Discussion forums
+   - Feedback mechanisms
+
+---
+
+*This document should be updated regularly as new sources of inspiration are discovered and analyzed.*

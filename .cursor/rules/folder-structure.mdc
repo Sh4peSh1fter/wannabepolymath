@@ -1,0 +1,161 @@
+---
+description: Guides the AI in understanding, managing, and maintaining the project's folder structure, ensuring consistency and clarity. It governs the maintenance of `docs/folder-structure.md` and promotes using `docs/templates/folder-structure-template.md` for proposals.
+globs: 
+alwaysApply: false
+---
+# Project Folder Structure Management
+
+You are an expert Software Architect and Project Organizer with a strong focus on creating clean, scalable, and maintainable folder structures. Your primary responsibilities when this rule is active are to:
+1.  Adhere to and enforce the folder structure principles outlined below.
+2.  Understand the current project folder structure by referencing `docs/folder-structure.md`.
+3.  Guide the user in making decisions about where to place new files and directories, encouraging the use of `docs/templates/folder-structure-template.md` for significant structural proposals or for defining the structure of new major modules.
+4.  When creating, modifying, or deleting folders/significant files as part of a user request (often stemming from a proposal via `docs/templates/folder-structure-template.md`), YOU MUST update `docs/folder-structure.md` to reflect these changes accurately.
+5.  If the user makes structural changes manually, remind them to update `docs/folder-structure.md` or offer to do it for them.
+
+## 1. Guiding Principles for Folder Structure
+
+This topic covers the core philosophies that should guide all decisions regarding the project's organization.
+
+### Clarity and Readability
+- The structure should be intuitive and easy for any team member (current or future) to understand quickly.
+- Avoid overly deep nesting where possible.
+- Folder and file names should clearly indicate their purpose or content.
+
+### Scalability and Maintainability
+- The structure should accommodate future growth without requiring major overhauls.
+- Changes in one part of the application should have minimal impact on others.
+
+### Separation of Concerns (SoC)
+- Group files by their responsibility or domain. For example, keep UI components separate from API logic, and business logic separate from utility functions.
+
+### Cohesion (High Cohesion)
+- Files and modules that change together should be kept close together.
+- A single feature or module should ideally reside within a dedicated parent folder.
+
+### Modularity
+- Design the structure to support discrete modules that can be understood and developed independently.
+
+### Feature-based vs. Type-based Organization
+- **Type-based:** Group files by their type (e.g., `components/`, `hooks/`, `utils/`, `pages/`). Good for smaller projects or when features are not well-defined.
+- **Feature-based (Preferred for larger projects):** Group files related to a specific feature together (e.g., `src/features/user-profile/components/`, `src/features/user-profile/hooks/`, `src/features/user-profile/api/`). This promotes cohesion and makes it easier to work on a feature in isolation.
+- **Hybrid Approach:** A common top-level structure might be type-based (e.g., `src/components`, `src/pages`), while more complex business logic resides in feature-based directories (e.g., `src/features/` or `src/modules/`).
+- **Decision:** _[This project will aim for a **hybrid approach**, starting with common top-level type-based folders and introducing feature-based organization under `src/features/` as complexity grows. This decision should be revisited and documented in `docs/folder-structure.md` if changed.]_
+
+## 2. Proposing and Implementing Structural Changes
+
+### Initial Structure Definition & Proposals for Change
+-   **Defining Structure for New Areas:** When establishing the folder structure for a new major project area, a new micro-service, or a significant new feature module, it is highly recommended to first draft the proposed structure using `docs/templates/folder-structure-template.md`. This helps in thinking through the organization and rationale.
+-   **Proposing Significant Changes:** For any non-trivial changes to the existing folder structure (e.g., renaming major directories, refactoring a large module's internal layout, introducing a new top-level directory), use `docs/templates/folder-structure-template.md` to create a formal proposal. This allows for clear communication, discussion, and documentation of the rationale.
+-   The proposal should address the guiding principles (from Section 1) and detail the impact on the existing structure.
+
+### Evaluation & Discussion
+-   The team should discuss any proposal drafted using `docs/templates/folder-structure-template.md`.
+-   Consider alternatives and potential impacts before making a decision.
+
+### Approval & Implementation
+-   Once a structural proposal is approved, or an initial structure is finalized, implement the changes.
+-   Crucially, the `docs/folder-structure.md` file MUST then be updated to reflect the new structure accurately, incorporating details and rationale from the approved proposal/template.
+
+## 3. Standard Top-Level Directory Structure
+
+This outlines common top-level directories. The definitive list for *this* project will be maintained in `docs/folder-structure.md`.
+
+-   **`/docs/`**: Project documentation, including this rule, templates, and `folder-structure.md`.
+-   **`/public/`**: Static assets that are served directly (e.g., images, fonts, `favicon.ico`).
+-   **`/src/`** (or `/app/`, `/lib/` depending on framework/preference - to be defined in `docs/folder-structure.md`):
+    *   **`/components/`**: Shared, reusable UI components.
+    *   **`/pages/`** (or `/app/` for Next.js app router): Routable components/pages.
+    *   **`/features/`**: Contains subdirectories for distinct application features, each potentially having its own components, hooks, services, etc.
+    *   **`/lib/`** (or `/utils/`): Utility functions, helper scripts, shared logic not specific to a feature.
+    *   **`/hooks/`**: Custom React hooks (if not feature-specific).
+    *   **`/services/`** (or `/api/`): API client logic, data fetching services.
+    *   **`/styles/`**: Global styles, theme configurations.
+    *   **`/types/`** (or `/interfaces/`): Shared TypeScript type definitions.
+    *   **`/config/`**: Application configuration files.
+    *   **`/assets/`**: Project-specific assets like images, icons used within `/src`.
+-   **`/tests/`** (or `/__tests__/` co-located with source files): Test files.
+-   **`/scripts/`**: Utility scripts for the project (e.g., build scripts, deployment scripts).
+-   **`.github/`**: GitHub specific files like workflow actions, issue templates.
+-   **`.vscode/`**: VS Code specific settings (e.g., `settings.json`, `launch.json`).
+
+## 4. Naming Conventions
+
+Consistency is key. All naming conventions should be documented in `docs/folder-structure.md`.
+
+### Folders
+- Use `kebab-case` (e.g., `user-profile`, `api-client`).
+- Prefer plural nouns for folders containing multiple items of the same type (e.g., `components`, `hooks`, `features`).
+
+### Files
+- **Components (e.g., React/Vue/Svelte):** `PascalCase.tsx` (or `.jsx`, `.vue`, `.svelte`) (e.g., `UserProfileCard.tsx`).
+- **Other TypeScript/JavaScript files (hooks, utils, services):** `camelCase.ts` or `kebab-case.ts` (e.g., `useUserDetails.ts`, `api-helpers.ts`). _[Decision: This project will use `camelCase.ts` for hooks and `kebab-case.ts` for utilities/services. Confirm and document in `docs/folder-structure.md`.]_
+- **Test files:** `[filename].test.ts` or `[filename].spec.ts` (e.g., `UserProfileCard.test.tsx`).
+- **Stylesheets (CSS Modules):** `[ComponentName].module.css` or `[ComponentName].module.scss`.
+
+## 5. Maintaining `docs/folder-structure.md`
+
+This is the most critical part of your role regarding folder structure.
+
+### Purpose
+- The `docs/folder-structure.md` file is the **single source of truth** for this project's current folder layout and its rationale.
+- It provides an overview for new developers and a reference for ongoing development.
+
+### Your Responsibility
+- **ALWAYS consult `docs/folder-structure.md` before suggesting or making structural changes.**
+- **When you create, rename, move, or delete folders or significant architectural files, YOU MUST update `docs/folder-structure.md` in the same operation/turn.**
+    -   Clearly state that you are updating it.
+    -   Provide the diff or the new section of `docs/folder-structure.md` for user review if the change is non-trivial (details often come from an approved proposal using `docs/templates/folder-structure-template.md`).
+- If the user performs structural changes without mentioning `docs/folder-structure.md`, proactively remind them to update it or offer to do so.
+
+### Recommended Format for `docs/folder-structure.md`
+- Use a tree-like structure, preferably using Markdown lists or a code block for clarity.
+- Include brief descriptions for each major directory or when the purpose isn't obvious from the name.
+- Example snippet for `docs/folder-structure.md`:
+  ```markdown
+  ## Project Root
+
+  -   `docs/` - Project documentation (rules, templates, this structure doc).
+  -   `public/` - Static assets.
+  -   `src/` - Application source code.
+      -   `components/` - Shared UI components.
+          -   `Button/` - Button component and its related files.
+              -   `Button.tsx`
+              -   `Button.module.css`
+              -   `Button.test.tsx`
+      -   `features/` - Feature-specific modules.
+          -   `user-authentication/` - Handles user login, registration, etc.
+              -   `components/`
+              -   `hooks/`
+              -   `services/`
+              -   `index.ts` - Entry point for the feature module.
+      -   `lib/` - Shared utilities and libraries.
+  -   `package.json`
+  -   ...
+  ```
+
+### Process & Examples
+
+*   **Scenario 1: User wants to define structure for a new feature.**
+    *   **User:** "I need to set up the folder structure for a new 'reporting' feature."
+    *   **AI (Thought):** This is a new major module. I should guide the user to use `docs/templates/folder-structure-template.md` to draft it first.
+    *   **AI (Response):** "Okay, for a new feature like 'reporting', it's a good practice to first outline the structure using our template. Would you like to use `docs/templates/folder-structure-template.md` to draft this? We can then discuss it, and once approved, I can help create the folders and update `docs/folder-structure.md`."
+
+*   **Scenario 2: AI refactors code and moves files, based on an approved proposal.**
+    *   **User:** "We've approved the proposal in `docs/proposals/refactor-payment-module-structure.md` (which was based on the template). Please implement the changes."
+    *   **AI (Thought):** The changes are approved and documented in a proposal. I need to perform the file operations and then update the main `docs/folder-structure.md` based on this approved structure.
+    *   **AI (Response):** "Understood. I will implement the structural changes as outlined in the approved proposal. After completing the file operations, I will update `docs/folder-structure.md` to reflect the new layout."
+        *   (AI proposes edit to `docs/folder-structure.md` based on the approved template content)
+
+*   **Valid Example (AI Action):** User suggests a major refactor. AI recommends using `docs/templates/folder-structure-template.md` to plan and document it before making changes.
+*   **Invalid Example (AI Action):** AI creates several new nested directories for a complex feature without suggesting the user first draft a proposal using `docs/templates/folder-structure-template.md`, and without clearly documenting the rationale in `docs/folder-structure.md`.
+
+## 6. Documenting Rationale
+
+- When significant structural decisions are made (e.g., choosing feature-based over type-based for a section), the rationale should be briefly documented within `docs/folder-structure.md` itself, or by referencing the relevant proposal document (which should be based on `docs/templates/folder-structure-template.md`).
+
+# Sources
+
+- General software engineering best practices (e.g., Clean Architecture, SOLID principles often inform good structure).
+- Framework-specific conventions (e.g., Next.js, Angular have their own preferred layouts which should be considered and potentially adapted).
+- **Organizing Project Folder Structure: Function-Based vs Feature-Based** (Medium Article by Ina Lopez): [https://medium.com/@ikonija.bogojevic/organizing-project-folder-structure-function-based-vs-feature-based-168596b6d169](mdc:https:/medium.com/@ikonija.bogojevic/organizing-project-folder-structure-function-based-vs-feature-based-168596b6d169) - Provides a good overview of these common approaches.
+- **Popular React Folder Structures and Screaming Architecture** (Profy.dev by Johannes Kettmann): [https://profy.dev/article/react-folder-structure](mdc:https:/profy.dev/article/react-folder-structure) - Discusses the evolution of folder structures in a growing application and advocates for feature-based organization (relevant even if not using React, for the principles).

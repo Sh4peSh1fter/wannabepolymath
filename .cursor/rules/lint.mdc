@@ -1,0 +1,72 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Cursor Rule: lint.mdc
+
+## Purpose
+This rule defines the writing, naming, grammar, and overall documentation standards for this project. It ensures consistency, clarity, and professionalism across all documentation.
+
+---
+
+## 1. Writing Standards
+- **Use clear, concise, and active voice** in all documentation.
+- **Write for your audience**; assume a general technical audience unless specified otherwise.
+- **Be consistent in tone and style** across all documents.
+- **Use present tense** for general descriptions and past tense for historical information.
+- **Avoid jargon and acronyms** unless they are well-defined or commonly understood.
+- **Use bullet points and numbered lists** for clarity and readability.
+- **Keep paragraphs short** (3-4 sentences) to improve readability.
+
+## 2. Naming Conventions
+- **Use lowercase and hyphenated names** for files and folders (e.g., `my-document.md`).
+- **Use descriptive names** that clearly indicate the content of the document.
+- **Avoid spaces and special characters** in file and folder names.
+- **Use consistent naming patterns** across similar types of documents.
+
+## 3. Grammar and Style
+- **Follow standard English grammar rules**.
+- **Use proper punctuation** (commas, periods, semicolons, etc.).
+- **Ensure correct spelling**; use a spell checker if necessary.
+- **Use consistent formatting** for headings, lists, and code blocks.
+- **Use proper Markdown syntax** for formatting (e.g., `#` for headings, `*` for lists).
+
+## 4. Documentation Structure
+- **Include a title and introduction** at the beginning of each document.
+- **Use headings and subheadings** to organize content logically.
+- **Add a table of contents** for longer documents.
+- **Include a conclusion or summary** at the end of the document.
+- **Use cross-references** to link related documents.
+
+## 5. Code and Technical Content
+- **Use code blocks** for code snippets, commands, and technical examples.
+- **Specify the language** in code blocks for syntax highlighting (e.g., ```python).
+- **Explain code snippets** with comments or surrounding text.
+- **Use inline code formatting** for variables, functions, and technical terms.
+
+## 6. Images and Diagrams
+- **Use images and diagrams** to enhance understanding.
+- **Include alt text** for all images to ensure accessibility.
+- **Use consistent image formats** (e.g., PNG, JPEG) and optimize for web.
+- **Place images close to the relevant text** they illustrate.
+
+## 7. Review and Quality Assurance
+- **Review all documentation** for clarity, accuracy, and consistency.
+- **Use peer reviews** to catch errors and improve content.
+- **Update documentation promptly** when changes are made to the project.
+- **Regularly audit documentation** to ensure it remains relevant and accurate.
+
+## 8. Tools and Resources
+- **Use a Markdown editor** with linting capabilities (e.g., VS Code with Markdown linting plugins).
+- **Leverage grammar and spell checkers** to catch errors.
+- **Use version control** to track changes and collaborate on documentation.
+
+## 9. References
+- @Google Developer Documentation Style Guide
+- @Markdown Guide
+- @Technical Writing Best Practices
+
+---
+
+**This rule must be reviewed and updated as the project evolves or as new writing standards and best practices emerge.**

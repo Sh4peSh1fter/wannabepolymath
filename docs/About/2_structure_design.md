@@ -1,47 +1,244 @@
 ---
 title: Structure Design
+description: How we organize and structure the Wanna be Polymath project
+date: 27.5.2025
+tags:
+  - structure
+  - organization
+  - navigation
 ---
 
 # Structure Design
 
-before we start, we need to think of a good way to organize all our data.
+Let's talk about how we're organizing everything in the Wanna be Polymath project, and make sure the structure is intuitive, flexible, and user-friendly.
 
-the structure should follow some important characteristics:
+## What We're Building
 
-- not overwhelming - avoid too many sections.
-- clear naming - it's sections should have short understandable titles.
-- logical - should make sense to the average user, and easy for navigation by logic alone.
-- avoid confusion - it's sections should be easy to differ, and new content should easily know it's place.
-- easy to pivot - shouldn't be locked, and it should be easy and even encouraged to rearrange it into something even better.
-- optimal - each sub topic and content should have an optimal place, without duplications, unnecessary topics above or under it, and no hard to find navigation.
+We're creating a space that needs to handle:
+- Different types of content
+- Various levels of depth
+- Multiple disciplines
+- Personal and community content
 
-the basic things I want to include are:
+## Design Principles
 
-- landing page
-- projects
-- blog (articles and guides)
-- keywords (map of keywords of each topic)
+We've set some ground rules to keep things clear and user-friendly:
 
-## op 1 - by corners
+1. Keep It Simple
+    - Not too many sections
+    - Clear, short names
+    - Logical organization
+    - Easy to navigate
+2. Make It Flexible
+    - Easy to rearrange
+    - Adaptable to change
+    - Encourages improvement
+    - No rigid structure
+3. Optimize Everything
+    - Each piece has its perfect place
+    - No unnecessary nesting
+    - Clear navigation paths
+    - No duplicate content
 
-all the data is so random - it touches on a variety of topics, and at different levels of depth.
-so maybe it would be better to divide it by the purposes I want to use the data. hopefully it will make sense to people.
+## Content Types
 
-I decided to divide it into 6 main sections, each unique in its purpose, style and content.
+Here's what we're working with:
 
-1. Round Table
-2. Incubator
-3. Academy
-4. Observatory
-5. Bazaar
-6. Forge
+### Content Types
+- Article
+- Blog
+- Post
+- Guide / Tutorial
+- Projects
+- Topic maps (keywords, sources, etc)
 
-cool names for sections: Planetarium, Observatory, Shepherd, Academy, Library, Key ring, Archives, Workbench, Armory, Forge, Sanctum, Lighthouse, Citadel, Oasis, Scriptorium, Ripperdoc's Clinic, Athenaeum, Knowledge base, Shower (thoughts), Daybook, Emporium, ledger, Souk, Trove, Lab, Oracle.
+### Content Themes
+- Problem and solution (analysis / debate)
+- Personal project development (Idea development)
+- Learning guide (educational content)
+- Topic exploration and mapping (keyword collection and deepdive)
+- Daily random discoveries (random thoughts and facts)
+- Weekly corner (action list that repeats each week, with a defined theme)
 
-I named them like that to bring some character and uniqueness to each one.
-to better understand it, take a look at the full explanation of each one bellow.
+## Navigation Structure
 
-we should improve it as we go, and afraid not of pivoting and rearranging everything for the sake of optimal usage, reading and contribution.
+The navigation structure is effected from the content types and themes, and we have few options to go with:
+
+### Option 1: Type-Based (Less Recommended for Primary Structure)
+Organizes content primarily by its format (e.g., Articles, Blogs, Projects).
+- **Pros:** Clear for users looking for a specific *type* of content.
+- **Cons:** Can be difficult to find all information on a specific *subject* if it exists in multiple formats. May feel too generic for the "Wanna be Polymath" vision.
+
+```
+├── Home/
+├── About/
+├── Articles/
+│   ├── <group_of_articles_1>/
+│   ├── <group_of_articles_2>/
+│   └── ...
+├── Blogs/
+│   ├── <group_of_blogs_1>/
+│   ├── <group_of_blogs_2>/
+│   └── ...
+├── Projects/
+├── Topic_Maps/
+│   ├── <group_of_topics_1>/
+│   ├── <group_of_topics_2>/
+│   └── ...
+```
+
+### Option 2: Topic-Based (Strong for Knowledge Organization)
+Organizes content primarily by subject matter or discipline.
+- **Pros:** Excellent for users seeking information on a specific topic. Familiar and intuitive for knowledge bases.
+- **Cons:** Might obscure the unique *purpose-driven* sections you've envisioned (Round Table, Incubator, etc.) if these become secondary.
+
+```
+├── Home/
+├── About/
+├── Topics/
+│   ├── <topic_A>/
+│   │   ├── Overviews/
+│   │   ├── Tutorials/
+│   │   ├── Keyword_Maps/
+│   │   └── Related_Projects/
+│   ├── <topic_B>/
+│   └── ...
+├── Corners/ (For content not fitting neatly into topics, or for unique, recurring features)
+│   ├── <group_of_corners_1>/
+│   ├── <group_of_corners_2>/
+│   └── ...
+```
+
+### Recommended Approach: Hybrid Thematic & Topic-Driven Structure
+
+This approach combines the engaging nature of your theme-based "Corners" with the clarity of topic-based organization, aiming for the best of both worlds.
+
+**Core Idea:**
+-   **Primary Navigation by Thematic "Corners":** The main site sections are your uniquely named "Corners" (Round Table, Incubator, Academy, Observatory, Bazaar, Forge). These define the *purpose, style, and type of interaction* for the content within them.
+-   **Strong Secondary Organization by "Topics":** Every piece of content, regardless of its Corner, is tagged with relevant topics/disciplines (e.g., DevOps, Neuroscience, Philosophy).
+-   **Dedicated Topic Hub Pages:** For each major topic, a dedicated hub page is created. This page aggregates and links to all content related to that topic from *across all Corners*. For example, a "DevOps" topic page would show:
+    *   Tutorials from the "Academy."
+    *   Keyword definitions from the "Observatory."
+    *   Problem discussions from the "Round Table."
+    *   Relevant projects from the "Incubator."
+
+**Proposed High-Level Structure:**
+
+```
+├── Home/
+├── About/
+├── Round_Table/ (Content focused on problems, solutions, discussions)
+│   ├── <topic_A_discussion_1.md> (Tagged: topic_A)
+│   └── <topic_B_problem_set.md> (Tagged: topic_B)
+├── Incubator/ (Content focused on project development, ideas)
+│   ├── <project_X_on_topic_A.md> (Tagged: topic_A, project_X)
+│   └── <idea_Y_for_topic_C.md> (Tagged: topic_C, idea_Y)
+├── Academy/ (Tutorials, guides, learning materials)
+│   ├── <topic_A_tutorial.md> (Tagged: topic_A)
+│   └── <topic_B_guide.md> (Tagged: topic_B)
+├── Observatory/ (Keywords, concepts, maps of knowledge areas)
+│   ├── <topic_A_keywords.md> (Tagged: topic_A)
+│   └── <topic_D_concept_map.md> (Tagged: topic_D)
+├── Bazaar/ (Random discoveries, facts, tagged appropriately)
+│   └── <interesting_fact_about_topic_A.md> (Tagged: topic_A, random_discovery)
+├── Forge/ (Self-improvement, tools, methods)
+│   └── <productivity_technique.md> (Tagged: self_improvement, tools)
+├── Topics/ (Dynamically generated or curated hub pages)
+│   ├── <topic_A.md> (Aggregates all content tagged "topic_A")
+│   ├── <topic_B.md> (Aggregates all content tagged "topic_B")
+│   └── ...
+└── Other_Corners/ (If needed for unique, non-topic-specific recurring content)
+```
+
+**Addressing Discoverability:**
+
+This hybrid model tackles the discoverability challenge in several ways:
+1.  **Thematic Exploration:** Users can browse by "Corner" if they're interested in a particular type of content or interaction (e.g., "I want to learn something new" -> Academy; "I want to explore problems and solutions" -> Round Table).
+2.  **Topic-Focused Exploration:** Users can go to the "Topics" section or a specific Topic Hub page to find all content related to a subject they are interested in, regardless of where it "lives" thematically.
+3.  **Powerful Search:** A robust search engine is crucial. It should allow filtering by:
+    *   Keywords
+    *   Tags (including Topics)
+    *   Thematic "Corner"
+    *   Content type (article, guide, project)
+    *   Date, author (if applicable with community contributions)
+4.  **Rich Tagging System:** As you plan, a well-defined set of tags (including topic tags, difficulty tags, content type tags) is essential.
+5.  **Cross-Linking:** Manually and potentially automatically (e.g., "Related Articles" based on shared tags) link between content. For example, a tutorial in the Academy on a specific technology could link to its keyword definition in the Observatory and a project using it in the Incubator.
+6.  **Clear Signposting:** Each piece of content should clearly indicate its primary "Corner" and associated "Topic(s)". Breadcrumbs should reflect this structure.
+
+**Benefits of the Hybrid Approach:**
+-   Maintains your project's unique, engaging thematic identity.
+-   Provides clear pathways for users with different goals (browsing vs. specific search).
+-   Scales well as you add more topics and content.
+-   Encourages interdisciplinary connections by showing how different "Corners" can address the same topic.
+
+This approach turns the potential trade-off you identified into a strength, offering multiple ways to navigate and discover knowledge.
+
+I decided to divide it into 6 main sections (Corners), each unique in its purpose, style and content.
+
+## Content Guidelines
+
+### Templates
+Each section includes:
+- Clear introduction
+- Purpose statement
+- Content guidelines
+- Contribution guide
+
+### Naming Rules
+- Use lowercase
+- Hyphens for spaces
+- Be descriptive
+- Keep it short
+
+### File Organization
+- Group related content
+- Clear hierarchies
+- Consistent structure
+- Easy to find
+
+## Future Plans
+
+### Growth
+- Plan for more content
+- Consider new sections
+- Stay flexible
+- Keep improving
+
+### Maintenance
+- Regular reviews
+- Content audits
+- Navigation checks
+- User feedback
+
+### Community
+- Gather input
+- Test changes
+- Document updates
+- Share improvements
+
+## How We'll Know It Works
+
+### Navigation
+- Easy to find content
+- Clear user paths
+- Effective search
+- Happy users
+
+### Organization
+- Content in right place
+- Easy to update
+- Clear structure
+- No confusion
+
+### User Experience
+- Intuitive navigation
+- Easy discovery
+- Clear purpose
+- Happy community
+
+---
+
+*This structure is designed to evolve with our needs. We'll keep reviewing and improving it as we grow.*
 
 ### Home
 
@@ -225,26 +422,21 @@ a small about me page. also I might include here in depth stuff about the though
 
 ## op 2 - follow the way of thinking and doing
 
-my way of thinking and doing stuff should be reflected in the structure.
+my way of thinking and doing stuff should be reflected in the structure. This journey can be mapped to the Corners:
 
-1.  I see something that interests me in one of the sources I follow, or somewhere else.
-2.  I study it and write down useful information.
-3.  I write down the main keywords in the topic that I studied.
-4.  I think of problems and solutions in this topic, or new stuff that I can implement in other topics.
-5.  I start incubating ideas and working on them.
+1.  I see something that interests me in one of the sources I follow, or somewhere else. (Input to potentially any Corner, especially Bazaar or Observatory)
+2.  I study it and write down useful information. (Academy, Observatory)
+3.  I write down the main keywords in the topic that I studied. (Observatory)
+4.  I think of problems and solutions in this topic, or new stuff that I can implement in other topics. (Round Table)
+5.  I start incubating ideas and working on them. (Incubator)
 
-the two additional things that I do are random blogs that are harder to organize under topics, and self improvement and life stuff.
+the two additional things that I do are random blogs that are harder to organize under topics (Bazaar, with strong tagging), and self improvement and life stuff (Forge).
 
-1.  sources
-2.  library
-3.  keywords
-4.  round table
-5.  incubator
-6.  blogs
+## op 3 - topics and corners (Integrated into the Hybrid Approach)
 
-## op 3 - topics and corners
+(This idea is now largely integrated into the "Recommended Approach: Hybrid Thematic & Topic-Driven Structure" above, where "Topics" become a primary way to aggregate and access content across the thematic "Corners".)
 
-instead of focused places that each stores topics in its own unique structure, maybe its better to list all the topics and inside each one will be a place with unique structure.  
+instead of focused places that each stores topics in its own unique structure, maybe its better to list all the topics and inside each one will be a place with unique structure.
 and corners will be a more unique place to store stuff that didn't fit the topics.
 
 for example:
@@ -252,9 +444,9 @@ for example:
 1.  home
 2.  topics
     1.  devops
-        - sources
-        - observatory
+        - sources (Could be part of a topic page, or linked from Observatory/Academy entries)
+        - observatory (Content from the Observatory Corner, tagged 'devops')
         - ...
     2.  nutrition
-3.  corners
+3.  corners (These are the primary thematic sections in the hybrid model)
 4.  about
