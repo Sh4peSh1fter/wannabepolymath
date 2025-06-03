@@ -1,0 +1,27 @@
+/* Custom CSS for Wanna Be Polymath */
+
+/* Increase logo size */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2.8rem; /* Default is around 1.2rem for image, 0.9rem for SVG icon if used */
+  width: auto;    /* Maintain aspect ratio */
+}
+
+/* Remove excessive margins around logo if any */
+.md-header__button.md-logo {
+  margin-top: 0.1rem; /* Adjust as needed */
+  margin-bottom: 0.1rem; /* Adjust as needed */
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* Increase site title size in the header */
+.md-header__title .md-header__topic:first-child .md-ellipsis {
+  font-size: 1.4rem; /* Adjust as needed, default is smaller */
+  font-weight: 500;  /* Optional: make it a bit bolder if desired */
+}
+
+/* If you have a subtitle/page title in the header, you might want to adjust it too or leave it as is */
+/* .md-header__title .md-header__topic:last-child .md-ellipsis {
+  font-size: 0.8rem; /* Example: keep subtitle smaller */
+/* } */ 

@@ -57,7 +57,7 @@ We've made some important choices about how we're building this platform. Here's
 ### Platform Performance
 - Is everything running smoothly, offering a seamless user experience?
 - Can people access the platform easily across various devices and connections?
-- Are we meeting or exceeding our accessibility standards (as outlined in [Accessibility Guidelines](./6_accessibility.md))?
+- Are we meeting or exceeding our accessibility standards (as outlined in [Accessibility Guidelines](./accessibility.md))?
 
 ## Where We're Headed
 

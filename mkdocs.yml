@@ -15,6 +15,7 @@ copyright: Copyright &copy; 2024 Kivsean
 
 theme:
   name: material
+  # custom_dir: overrides
   features:
     # navigation
     - navigation.instant # internal links will be intercepted and dispatched via XHR without fully reloading the page.
@@ -62,45 +63,114 @@ theme:
   font: # can be set to any valid font from https://fonts.google.com/
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  logo: assets/logo.png
-  language: en
+  favicon: assets/favicon.png # Path relative to docs_dir
+  logo: assets/logo.png     # Path relative to docs_dir
+  # theme.language: en # This should be managed by the i18n plugin
 
-  plugins:
-    - search
-    - search.suggest
-    - search.highlight
-    # - blog
-    # - typeset
-    - tags
-    - i18n:
-        docs_structure: suffix
-        fallback_to_default: true
-        reconfigure_material: true
-        reconfigure_search: true
-        languages:
-          - locale: en
-            default: true
-            name: English
-            build: true
-          - locale: he
-            name: hebrew
-            build: true
+# --- Plugins Section ---
+plugins:
+  - search
+  # search.suggest and search.highlight are features of the search plugin itself,
+  # not separate plugins to be listed here.
+  # - search.suggest
+  # - search.highlight
+  # - blog
+  # - typeset
+  - tags
+  - i18n:
+      docs_structure: suffix # Using suffixed files (e.g., index.en.md)
+      languages:
+        - locale: en
+          default: true     # English is the default language
+          name: English     # Name in the language selector
+          build: true
+          direction: ltr    # Explicitly Left-to-Right
+        - locale: he
+          name: עברית       # Hebrew name in the language selector
+          build: true
+          direction: rtl    # Explicitly Right-to-Left
+      reconfigure_material: true     # Allows the plugin to configure Material theme settings (like language and direction)
+      reconfigure_search: true       # Allows the plugin to configure the search plugin
+      languages_alternate_reconfigure: true # Helps generate correct alternate links for language switching
+      fallback_to_default: true      # If a page is missing in a language, use the default language's page
 
-  extra:
-    # i18n_alternate: true
-    alternate:
-      - name: English
-        link: /en/
-        lang: en
-      - name: Hebrew
-        link: /he/
-        lang: he
-  #   social:
-  #     - icon: fontawesome/brands/github
-  #       link: https://github.com/Sh4peSh1fter
+# --- Custom CSS/JS --- 
+extra_css:
+  - assets/stylesheets/extra.css
 
-  # Extensions
+# --- extra: alternate: is NOT used when mkdocs-static-i18n handles language switching ---
+# extra:
+#   alternate:
+#     - name: English
+#       link: /en/ # Example, adjust if needed
+#       lang: en
+#     - name: Hebrew
+#       link: /he/ # Example, adjust if needed
+#       lang: he
+
+# --- Navigation Section ---
+# Use BASE filenames here. The i18n plugin will find the suffixed versions.
+nav:
+  - Home: index.md
+  - Round Table: round_table/index.md
+  - Incubator: incubator/index.md
+  - Academy: academy/index.md
+  - Observatory: observatory/index.md # Will also cover Topic aggregation
+  - Bazaar: bazaar/index.md
+  # - Forge: forge/index.md # Removed as index.md was deleted
+  # - Topics: topics/index.md # Removing as Observatory will cover this
+  - Other Corners:
+    - Gadget Wishlist:
+      - Earplugs: corners/gadget_wishlist/earplugs.md
+      - Healthy Kitchenware: 
+        - Overview: corners/gadget_wishlist/kitchenware/index.md
+        - Pan: corners/gadget_wishlist/kitchenware/pan.md
+        - Wok: corners/gadget_wishlist/kitchenware/wok.md
+  - About:
+    - Overview: about/index.md
+    - Vision: about/vision.md
+    - Structure & Design: about/structure_design.md
+    - Taking Inspiration: about/taking_inspiration.md
+    - Tech Stack: about/tech_stack.md
+    - Style Guide: about/style.md
+    - Accessibility: about/accessibility.md
+    - Distribution: about/distribution.md
+    - Engagement & Contribution: about/engagement_and_contribution.md
+    - Content Standards: about/standards.md
+    - Formatting Guide:
+      - Overview: about/formatting_guide/index.md
+      - Template: about/formatting_guide/template.md
+      - Other Notes: about/formatting_guide/Other.md
+      - Text Style:
+        - Headings: about/formatting_guide/text_style/headings.md
+        - Text Formatting: about/formatting_guide/text_style/text_formatting.md
+        - Icons, Emojis & Keys: about/formatting_guide/text_style/icons_emojis_keys.md
+      - Text Layout:
+        - Lines & Paragraphs: about/formatting_guide/text_layout/lines_paragraphs.md
+        - Horizontal Rules: about/formatting_guide/text_layout/horizontal_rules.md
+        - Grids: about/formatting_guide/text_layout/grids.md
+        - Tabs: about/formatting_guide/text_layout/tabs.md
+      - Add-ons:
+        - Admonitions: about/formatting_guide/add_ons/Admonitions.md
+        - Annotations: about/formatting_guide/add_ons/Annotations.md
+        - Blockquotes: about/formatting_guide/add_ons/Blockquotes.md
+        - Footnotes: about/formatting_guide/add_ons/Footnotes.md
+        - Tooltips: about/formatting_guide/add_ons/Tooltips.md
+      - Lists, Tables & Diagrams:
+        - Lists: about/formatting_guide/lists_tables_diagrams/lists.md
+        - Tables: about/formatting_guide/lists_tables_diagrams/tables.md
+        - Diagrams: about/formatting_guide/lists_tables_diagrams/diagrams.md
+      - Code Blocks, Interactivity & Media:
+        - Code Blocks: about/formatting_guide/code_blocks_interactivity_media/code_blocks.md
+        - Links: about/formatting_guide/code_blocks_interactivity_media/links.md
+        - Buttons: about/formatting_guide/code_blocks_interactivity_media/buttons.md
+        - Images: about/formatting_guide/code_blocks_interactivity_media/images.md
+        - Embedding Files: about/formatting_guide/code_blocks_interactivity_media/embedding_files.md
+    - Tags Guide: about/tags_guide.md
+  # - Test Page: test_i18n/page.md # Removing after successful i18n test
+
+# --- Markdown Extensions ---
+# Keep only essential ones for this minimal test, can add others back later
 markdown_extensions:
   - abbr # add a small tooltip to an element.
   - admonition # adds support for admonitions (call-outs).
@@ -131,8 +201,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: Sh4peSh1fter # Corrected user
+      repo: wannabepolymath # Corrected repo
   - pymdownx.mark
   - pymdownx.smartsymbols # converts some sequences of characters into their corresponding symbols.
   - pymdownx.snippets: # embed content from arbitrary files into a document.

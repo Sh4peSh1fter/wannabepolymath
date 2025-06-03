@@ -1,4 +1,22 @@
 ---
+title: Topics
+description: Explore all content organized by specific subjects and disciplines.
+tags:
+  - topics
+  - subjects
+  - disciplines
+  - knowledge base
+---
+
+# Topics
+
+Welcome to the Topics hub!
+
+This section provides an overview of all major subjects and disciplines covered across the Wanna be Polymath platform. Each topic will eventually link to a dedicated hub page aggregating all related content from our various "Corners" (Round Table, Academy, Observatory, etc.).
+
+*(This page will be populated or dynamically generated as content and topic hubs are developed.)*
+
+---
 tags: 
     - topics
     - fields

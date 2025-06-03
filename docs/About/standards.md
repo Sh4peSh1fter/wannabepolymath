@@ -161,7 +161,7 @@ This document outlines the standards and guidelines for maintaining consistency 
 
 ### Tagging Strategy
 
-A robust and consistent tagging strategy is crucial for content discoverability, organization, and for enabling the hybrid navigation model (Thematic Corners + Topic Hubs). Tags help users find related information easily and allow for powerful filtering and search functionalities.
+A consistent tagging strategy is crucial for content discoverability, organization, and for enabling the hybrid navigation model (Thematic Corners + Topic Hubs). Tags help users find related information easily and allow for powerful filtering and search functionalities.
 
 **Guiding Principles:**
 - **Clarity:** Tags should be unambiguous and easy to understand.
