@@ -1,7 +1,7 @@
 ---
 title: "Gadget Deep Dive: Choosing the Right [Gadget Type, e.g., Earplugs]"
 description: "Comparing options for [Gadget Type] to find the best fit for [specific need/context, e.g., concerts, focus]."
-date: YYYY-MM-DD # Placeholder: Replace with current date, e.g., 2024-07-16
+date: DD.MM.YYYY # Placeholder: Replace with current date, e.g., 30.5.2020
 tags:
   - gadget
   - comparison
@@ -11,9 +11,6 @@ tags:
   - type:blogpost
   - status:[draft/published]
   - gadget-category:[e.g., earplugs, keyboard, microphone]
-# related_links:
-#   - text: "Helpful Article on [Topic]"
-#     url: "[Link]"
 ---
 
 # Choosing the Right [Gadget Type]: My Research & Comparison
@@ -113,15 +110,13 @@ Here are some of the resources I consulted during this research:
 
 ---
 
-## Join the Conversation!
+## Join the Conversation
 
 This is an ongoing process for me, and I'd love your input:
 
 *   Have you used any of these [Gadget Type]? What are your experiences?
 *   Are there other brands/models of [Gadget Type] I should consider for [your specific need]?
 *   Any tips for making the right choice?
-
-Share your thoughts and recommendations!
 
 ---
 

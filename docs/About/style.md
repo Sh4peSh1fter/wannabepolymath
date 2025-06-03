@@ -12,6 +12,21 @@ The sheep theme represents:
 - Community and collaboration
 - Playful yet professional approach to knowledge
 
+keywords I'm searching for:
+1. sheep drawing
+
+sources I'm looking at:
+1. pinterest - https://www.pinterest.com 
+2. deviantart - https://www.deviantart.com/
+
+other sources of insipration:
+1. maplestory sheep
+
+style:
+1. black and white sketch style with loose linework and crosshatching, minimalist and hand-drawn look. the picture should be 4:1 ratio.
+
+
+
 ### Core Values
 1. **Accessibility**
    - Clear typography
