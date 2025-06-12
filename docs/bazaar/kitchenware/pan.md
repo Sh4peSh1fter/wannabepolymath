@@ -392,6 +392,8 @@ This section includes a mix of scientific studies, articles from reputable consu
     *   *Link:* https://www.bonappetit.com/story/best-carbon-steel-pans
     *   *Note:* A review and test of several popular carbon steel pans.
 
+    https://aharonbros.co.il/%D7%9E%D7%97%D7%91%D7%AA%D7%95%D7%AA-%D7%9E%D7%95%D7%9E%D7%9C%D7%A6%D7%95%D7%AA-%D7%9C%D7%A9%D7%A0%D7%AA-2025/?srsltid=AfmBOopkevPvc1gZBPxDDRxQ6XAuDoahiwk3HTTBKviODKr7dxgP4vbC
+
 **Community Discussions (for anecdotal experiences & product discovery - cross-reference with scientific sources):**
 
 15. Reddit r/cookingforbeginners - "What pans should I buy?"

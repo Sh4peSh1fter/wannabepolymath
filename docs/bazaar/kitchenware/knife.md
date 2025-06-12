@@ -416,6 +416,8 @@ My choice is the following trio, which prioritizes ease of maintenance and durab
     *   *Note:* Provided real-world professional context, confirming the popularity and respect for brands like Victorinox and Mercer in working kitchens.
 
     https://youtu.be/7R2jIyPvcx0?si=wsU8AQkQKhvkKuug
+    https://www.reddit.com/r/chefknives/comments/gpslh1/whats_the_best_serrated_knife/
+    https://www.sabatier-shop.com/kitchen-knives.html
 
 ---
 

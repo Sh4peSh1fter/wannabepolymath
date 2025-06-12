@@ -105,8 +105,8 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 
 ### I. Cookware (Pots, Pans & Baking Dishes)
 1.  **[Pan](./pan.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
+3.  **[Wok](./wok.md)**
 2.  **[Pot](./pot.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
-3.  Wok *(Research pending)*
 4.  Rondeau / Braiser
 5.  Baking Dish (e.g., 9x13-inch glass, ceramic)
 6.  Baking Sheets (Rimmed, half-sheet - considering aluminum, stainless steel, aluminized steel)
@@ -149,6 +149,8 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 honing steel
 knife wipe towel
 cooking chopsticks
+wooden tools
+rubber spatula
 
 ---
 
