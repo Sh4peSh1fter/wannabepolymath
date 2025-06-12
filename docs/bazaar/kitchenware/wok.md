@@ -38,18 +38,32 @@ Before exploring specific materials and brands, here's what I'm looking for in a
 *   **Budget Range:** Flexible for a high-quality, healthy, and durable wok.
 *   **Deal-breakers (Things I want to avoid):** Unsafe coatings, materials that can't handle high heat, poor durability, or materials known for excessive leaching of unwanted metals.
 
+## Researching the Field
+
+Here are the main concepts, terms, and background information to understand before making a decision.
+
+*   **Wok Hei:** Often translated as "breath of the wok," this is the complex, smoky flavor and aroma imparted to food when stir-frying in a seasoned wok over very high heat. It's the hallmark of a well-made stir-fry and is most achievable with materials that can handle and respond to intense heat, like carbon steel [1, 4].
+*   **Seasoning:** Just like with cast iron and carbon steel pans, seasoning is the process of creating a natural, non-stick surface on a wok. It involves heating thin layers of oil onto the metal, which polymerize and bond to the surface, protecting it from rust and preventing food from sticking. A wok's seasoning develops and improves with every use.
+*   **Gauge (Wok Thickness):** This refers to the thickness of the metal used to make the wok. It's typically measured in gauge numbers, where a *lower* number means a *thicker* metal. For woks, 14-gauge (about 2.0mm) is common and considered a good balance of durability and heat responsiveness. 16-gauge (1.5mm) is lighter and more responsive but may be slightly less durable [3].
+*   **Anatomy of a Wok (Bottom & Handles):**
+    *   **Bottom Shape:** Woks come with either a traditional *round bottom* or a more modern *flat bottom*. Round bottoms provide the most even heat distribution up the curved sides but require a special "wok ring" for stability on Western stoves. Flat bottoms are designed to sit directly on electric coil, glass, or induction cooktops.
+    *   **Handles:** The most common styles are a single, long "pow" handle (for tossing) or two smaller, loop-style "Cantonese" handles (for lifting).
+*   **Keywords:** `wok`, `carbon steel wok`, `cast iron wok`, `stir-fry`, `wok hei`, `healthy wok`, `non-toxic wok`, `seasoning wok`.
+
 ---
 
-## Wok Materials: A Closer Look at Health & Performance
+## Part 1: Choosing the Right *Type* of Wok
 
-Many of the health considerations for pans also apply to woks. Here are the primary materials used for woks:
+First, I need to decide on the best *type* of wok for my needs based on its material.
 
-### 1. Carbon Steel
+### Available Types
 
-*   **Overview & Key Selling Points:** The most traditional and widely recommended material for woks. Carbon steel is prized for being lightweight relative to its size, heating up very quickly and evenly, and its ability to achieve and maintain very high temperatures essential for proper stir-frying. It requires seasoning to develop its characteristic non-stick patina.
+#### 1. Carbon Steel
+
+*   **Overview & Key Selling Points:** The most traditional and widely recommended material for woks [1, 2]. Carbon steel is prized for being lightweight relative to its size, heating up very quickly and evenly, and its ability to achieve and maintain very high temperatures essential for proper stir-frying. It requires seasoning to develop its characteristic non-stick patina.
 *   **Health & Safety Profile:**
-    *   **Material Purity:** Composed primarily of iron and carbon (typically ~99% iron, ~1% carbon), carbon steel woks are free from PFOA, PFAS, lead, cadmium, and other synthetic coatings often found in some non-stick cookware.
-    *   **Iron Leaching:** Like carbon steel pans, woks can leach small amounts of dietary iron into food. This is more prominent when the wok is new or when cooking highly acidic ingredients. For most individuals, this is not a concern and can be beneficial. However, those with iron overload conditions (e.g., hemochromatosis) should be mindful.
+    *   **Material Purity:** Composed primarily of iron and carbon (typically ~99% iron, ~1% carbon), carbon steel woks are free from PFOA, PFAS, lead, cadmium, and other synthetic coatings often found in some non-stick cookware [7].
+    *   **Iron Leaching:** Like carbon steel pans, woks can leach small amounts of dietary iron into food. This is more prominent when the wok is new or when cooking highly acidic ingredients. For most individuals, this is not a concern and can be beneficial [8]. However, those with iron overload conditions (e.g., hemochromatosis) should be mindful.
     *   **Seasoning:** A crucial aspect of carbon steel woks. The process involves heating the wok with a thin layer of oil to create a polymerized, hardened surface. This seasoning provides natural non-stick properties, protects the steel from rust, and is considered non-toxic. A well-developed patina improves with use.
     *   **High Heat Tolerance:** Carbon steel excels at high temperatures, making it ideal for the intense heat required for stir-frying and achieving "wok hei" – the unique smoky flavor and aroma.
     *   **Chemical Treatments/Coatings from Manufacturer:** Some woks may come with a protective coating from the manufacturer to prevent rust during shipping. This needs to be thoroughly scrubbed off before the initial seasoning process.
@@ -80,7 +94,7 @@ Many of the health considerations for pans also apply to woks. Here are the prim
 *   **Brands to Research:** Yosukata, Mammafong, Joyce Chen, Souped Up Recipes, Craft Wok, Helen Chen's Asian Kitchen, Zhen San Huan, Made In. (It's important to research current reviews as manufacturing and quality can change.)
 *   **Where to Buy Considerations:** Asian markets often have a good selection at various price points. Restaurant supply stores and online retailers are also common sources. Consider the type of stovetop you have when choosing.
 
-### 2. Cast Iron (Woks)
+#### 2. Cast Iron (Woks)
 
 *   **Overview & Key Selling Points:** Cast iron woks offer superior heat retention, meaning they stay very hot once heated, which can be beneficial for searing. They are extremely durable. Two main types exist: heavier, thicker Western-style cast iron woks, and some traditional, thinner-walled cast iron woks (less common in Western markets).
 *   **Health & Safety Profile:**
@@ -105,7 +119,7 @@ Many of the health considerations for pans also apply to woks. Here are the prim
 *   **Brands to Research:** Lodge (known for heavy, pre-seasoned cast iron, including woks), Joyce Chen (has offered "lightweight" cast iron woks), Imusa (has offered "lightweight" cast iron woks). (Availability and specific models can vary.)
 *   **Where to Buy Considerations:** Similar to other woks; consider weight and your cooking style. Better for simmering, braising, or deep-frying where sustained heat is beneficial, rather than highly dynamic stir-frying that involves tossing.
 
-### 3. Stainless Steel (Woks)
+#### 3. Stainless Steel (Woks)
 
 *   **Overview & Key Selling Points:** Stainless steel woks are durable, non-reactive with acidic foods, and do not require seasoning. They are often available in multi-ply (clad) constructions, typically with an aluminum or copper core, to improve heat conductivity and distribution, which is crucial for a wok.
 *   **Health & Safety Profile:**
@@ -131,12 +145,12 @@ Many of the health considerations for pans also apply to woks. Here are the prim
 *   **Brands to Research:** Hestan Culinary, All-Clad, Demeyere (Zwilling), Cuisinart, Calphalon, Buffalo Cookware. (Focus on brands known for quality clad cookware.)
 *   **Where to Buy Considerations:** Widely available. Prioritize woks with good cladding that extends up the sides for best performance. Better for saucy dishes, steaming, or when non-reactivity is the top priority over achieving a traditional seasoned non-stick surface.
 
-### 4. Non-Stick Coated Woks (e.g., Ceramic, PTFE)
+#### 4. Non-Stick Coated Woks (e.g., Ceramic, PTFE)
 
 *   **Overview & Key Selling Points:** These woks offer the convenience of a non-stick surface, aiming to reduce food sticking with less oil. They typically have an aluminum base with either a PTFE (Teflon-like) coating or a sol-gel ceramic coating.
 *   **Health & Safety Profile:**
-    *   **PTFE-based Coatings:** Modern PTFE coatings are generally PFOA-free (PFOA was a chemical previously used in manufacturing that raised health concerns). However, PTFE coatings can begin to degrade at very high temperatures (typically above 500°F / 260°C), potentially releasing fumes. Traditional wok cooking often exceeds these temperatures.
-    *   **Ceramic (Sol-Gel) Coatings:** Marketed as PFOA/PFAS-free. The main concern is the durability of the sol-gel coating. It can wear down, scratch, or chip over time, especially with high heat and metal utensils. If the coating is compromised, the underlying aluminum core (common in these woks) can be exposed to food.
+    *   **PTFE-based Coatings:** Modern PTFE coatings are generally PFOA-free (PFOA was a chemical previously used in manufacturing that raised health concerns). However, PTFE coatings can begin to degrade at very high temperatures (typically above 500°F / 260°C), potentially releasing fumes. Traditional wok cooking often exceeds these temperatures [8].
+    *   **Ceramic (Sol-Gel) Coatings:** Marketed as PFOA/PFAS-free [5]. The main concern is the durability of the sol-gel coating. It can wear down, scratch, or chip over time, especially with high heat and metal utensils. If the coating is compromised, the underlying aluminum core (common in these woks) can be exposed to food [6, 7].
     *   **Overall Recommendation:** For health-conscious cooking, especially high-heat wok cooking, non-stick coatings are generally less recommended due to concerns about coating stability at high temperatures and limited lifespan.
 *   **Pros (Health & Performance):**
     *   **Initial Non-Stick Properties:** Food releases easily when the coating is new and intact, requiring less oil.
@@ -151,7 +165,7 @@ Many of the health considerations for pans also apply to woks. Here are the prim
 
 ---
 
-## Comparative Summary (To be developed)
+### Comparative Summary of Types
 
 | Feature/Material    | Key Health Pros                    | Key Health/Performance Cons                     | Heat Tolerance | Seasoning | Price Est. |
 |---------------------|------------------------------------|-------------------------------------------------|----------------|-----------|------------|
@@ -162,7 +176,7 @@ Many of the health considerations for pans also apply to woks. Here are the prim
 
 ---
 
-## Leaning Towards / Preliminary Conclusion for My Wok
+### Conclusion on Wok Type
 
 Given my primary cooking tasks with a wok – stir-frying noodles, vegetables, and meat, often with sauces – and prioritizing both health and authentic high-heat performance, the choice of material becomes quite clear.
 
@@ -170,69 +184,86 @@ Given my primary cooking tasks with a wok – stir-frying noodles, vegetables, a
 
 1.  **Carbon Steel Wok:**
     *   **Why it's the best fit:**
-        *   *Health & Safety:* Made from simple iron and carbon, it's free from PFOA, PFAS, lead, and cadmium. When seasoned, it offers a non-toxic cooking surface. Iron leaching is minimal and generally not a concern (unless specific iron overload conditions exist).
-        *   *Performance for Intended Use:* Carbon steel excels at the high, responsive heat needed for stir-frying noodles, vegetables, and meat. It heats quickly, allows for precise temperature control, and is lightweight enough for tossing ingredients, which is key for even cooking and developing flavor.
-        *   *"Wok Hei":* It's the best material for achieving the coveted "wok hei" – the smoky, seared flavor that characterizes authentic stir-fries.
+        *   *Health & Safety:* Made from simple iron and carbon, it's free from PFOA, PFAS, lead, and cadmium. When seasoned, it offers a non-toxic cooking surface.
+        *   *Performance for Intended Use:* Carbon steel excels at the high, responsive heat needed for stir-frying. It's lightweight enough for tossing ingredients, which is key for even cooking and developing flavor.
+        *   *"Wok Hei":* It's the best material for achieving the coveted "wok hei" [1].
         *   *Durability & Patina:* With proper care and seasoning, it becomes naturally non-stick and will last a lifetime.
     *   **Key Considerations for My Choice:**
-        *   **Seasoning:** I am willing to undertake the initial seasoning process and ongoing maintenance required.
-        *   **Bottom Type:** 
-            *   If using a **gas stove with grates that can support it (or with a wok ring)**, a **traditional round-bottom wok** is often preferred for optimal heat distribution and movement of food.
-            *   If using an **electric coil, flat glass/ceramic cooktop, or induction**, a **flat-bottom wok** is necessary for stability and good heat contact.
-The diameter of the flat portion should be appropriate for the burner size.
-        *   **Handle Style:** A long "pow" style handle is generally preferred for tossing, with a helper handle being a useful addition for larger, heavier woks.
+        *   **Bottom Type:** Since I have an electric cooktop, a **flat-bottom wok** is the optimal choice for stability and efficient heat transfer.
+        *   **Handle Style:** A long "pow" style handle is generally preferred for tossing, with a helper handle being a useful addition.
 
-**Other Materials Considered & Why They Are Secondary for My Primary Wok Needs:**
-
-*   **Cast Iron Wok:** While excellent for heat retention and very durable, its heavy weight makes tossing difficult, and it's less responsive to temperature changes than carbon steel. It could be a good option for deep-frying or braising in a wok shape, but not as my primary stir-fry wok.
-*   **Stainless Steel Wok:** Its main advantage is being non-reactive, which is good for very acidic sauces. However, food tends to stick more easily, achieving true "wok hei" is difficult, and it may not be as heat-responsive as carbon steel. Could be a niche choice if I frequently simmered highly acidic things in a wok, but not for general stir-frying.
-*   **Non-Stick Coated Woks:** Generally not suitable for the high temperatures and vigorous techniques of traditional wok cooking. Coating durability and potential health concerns at high heat make them a less desirable option for my intended uses.
-
-**Next Steps:**
-
-My primary focus will be on selecting a high-quality **carbon steel wok**, paying close attention to the appropriate bottom type for my stove and a comfortable handle design. I will research reputable brands known for good quality carbon steel and construction (e.g., appropriate gauge, secure handle attachment).
+**Other Materials Considered & Why They Are Secondary:**
+*   **Cast Iron:** Too heavy and slow to respond for dynamic stir-frying.
+*   **Stainless Steel:** Food sticks too easily, and achieving "wok hei" is difficult.
+*   **Non-Stick Coated:** Not suitable for the high temperatures required for proper stir-frying.
 
 ---
 
-## Buying What I Need: Selecting a Specific Flat-Bottom Carbon Steel Wok
+## Part 2: Choosing the Specific Wok to Buy
 
-Given that I have an electric cooktop, a **flat-bottom carbon steel wok** is the optimal choice for stability and efficient heat transfer. The research points to several well-regarded brands. The decision will come down to a balance of price, features, user reviews regarding performance on electric stoves, and any included accessories.
+Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific products suitable for an electric cooktop.
 
-**Key Contenders for My Electric Cooktop:**
+### Product Options
 
-1.  **Yosukata Carbon Steel Wok (Flat Bottom, e.g., 13.5-inch):**
-    *   *Pros:* Frequently top-rated for overall performance, heat responsiveness, and comfortable handle. Often comes pre-seasoned.
-    *   *Considerations:* Price might be mid-range. Check recent reviews for experiences on electric cooktops specifically.
+#### 1. Yosukata Carbon Steel Wok (Flat Bottom)
 
-2.  **Souped Up Recipes Carbon Steel Wok (Flat Bottom, e.g., 12.5-inch):**
-    *   *Pros:* Marketed for electric, induction, and gas stoves. Often comes as a set with a lid and spatula, representing good value. Pre-seasoned.
-    *   *Considerations:* Some reviews note it can be on the heavier side for its size. Verify flat bottom diameter for optimal contact with the burner.
+![Yosukata Carbon Steel Wok](../../assets/corners/bazaar/kitchenware/wok/%20Yosukata_Carbon_Steel_Wok.jpg)
 
-3.  **Joyce Chen Carbon Steel Wok (Flat Bottom, e.g., 14-inch):**
-    *   *Pros:* Classic, often budget-friendly choice, good for beginners. Generally performs well once seasoned. Available in various sizes.
-    *   *Considerations:* May require more initial seasoning effort if it comes with a minimal factory coating. Ensure the specific model purchased has a sufficiently wide flat bottom.
+*   **Overview & Key Selling Points:** A highly-rated Japanese brand, often praised for its quality construction and performance. Their flat-bottom woks are designed for Western stovetops. Many models come pre-seasoned.
+*   **Pros (based on research):**
+    *   Excellent performance and heat responsiveness.
+    *   Durable, often made from 14-gauge carbon steel.
+    *   Comfortable wooden handle that stays cool.
+*   **Cons (based on research):**
+    *   Can be more expensive than entry-level woks.
+*   **Price Range:** `~$60 - $80`.
+*   **Community Says:** Very positive feedback across Reddit and YouTube for its out-of-the-box performance, especially on Western stoves [2, 4].
 
-4.  **Made In Blue Carbon Steel Wok (Flat Bottom):**
-    *   *Pros:* High-quality construction and materials, good performance.
-    *   *Considerations:* Premium pricing. May be an investment piece.
+#### 2. Souped Up Recipes Carbon Steel Wok (Flat Bottom)
 
-**Decision Factors for My Purchase:**
+![Souped Up Recipes Carbon Steel Wok](../../assets/corners/bazaar/kitchenware/wok/Souped_Up_Recipes_Carbon_Steel_Wok.jpg)
 
-*   **Budget:** While flexible, I'll weigh the cost against long-term value and features.
-*   **Flat Bottom Diameter & Stability:** Crucial for an electric cooktop. I'll look for a flat surface of at least 5-7 inches, depending on my burner size, to ensure good contact and stability.
-*   **Weight & Handle Comfort:** Important for maneuverability, even if tossing isn't the primary motion on an electric stove. A secure, comfortable main handle and a helper handle are desirable.
-*   **Pre-Seasoning Quality:** A good factory pre-seasoning can ease the initial setup, but I'm prepared to do my own seasoning regardless.
-*   **User Reviews (Specific to Electric Cooktops):** I will prioritize reviews from users with similar electric cooktops to gauge real-world performance regarding heat distribution and responsiveness.
-*   **Included Accessories:** A lid or a quality spatula can add value, but the wok's performance is the primary concern.
+*   **Overview & Key Selling Points:** Developed by a food blogger, this wok is specifically designed for home cooks using electric, induction, or gas stoves. It often comes as a complete kit with a lid and spatula.
+*   **Pros (based on research):**
+    *   Wide flat bottom provides good contact with electric burners.
+    *   Comes pre-seasoned and often includes useful accessories.
+    *   Good value for a complete package.
+*   **Cons (based on research):**
+    *   Some users find it slightly heavier than other carbon steel woks of a similar size.
+*   **Price Range:** `~$70 - $90` (for the set).
+*   **Community Says:** Popular among followers of the YouTube channel and praised for being a complete, well-thought-out kit for beginners. Some experienced users find it a bit heavy [4].
 
-**Action Plan:**
+#### 3. Joyce Chen Carbon Steel Wok (Flat Bottom)
 
-1.  Measure my largest electric burner diameter to determine the ideal flat bottom size for a wok.
-2.  Re-check recent reviews for the Yosukata, Souped Up Recipes, and Joyce Chen flat-bottom models, specifically looking for feedback related to use on electric cooktops.
-3.  Compare current prices and any package deals (e.g., with lid/spatula).
-4.  Make a selection based on the best combination of suitability for electric cooktops, positive reviews, features, and value.
+![Joyce Chen Carbon Steel Wok](../../assets/corners/bazaar/kitchenware/wok/Joyce_Chen_Carbon_Steel_Wok.jpg)
 
-My initial leaning is towards the **Yosukata** or **Souped Up Recipes** models due to their strong positive reviews and features suited for electric stoves, but I will confirm with the action plan steps above before purchasing.
+*   **Overview & Key Selling Points:** A classic, widely available, and often budget-friendly choice. Joyce Chen has been a trusted name in Asian cookware for decades.
+*   **Pros (based on research):**
+    *   Very affordable, a great entry-level option.
+    *   Lightweight and easy to handle.
+    *   Performs well once a good seasoning is established.
+*   **Cons (based on research):**
+    *   The factory coating requires thorough scrubbing before the first seasoning.
+    *   The thinner metal (often 15 or 16-gauge) may be more prone to warping over time with very high heat on electric stoves.
+*   **Price Range:** `~$30 - $50`.
+*   **Community Says:** Often recommended as a reliable, inexpensive "first wok" on forums [3, 4]. The main advice from the community is to be prepared to put some effort into stripping the factory coating and doing a proper initial seasoning.
+
+### Comparative Summary of Products
+
+| Feature/Aspect      | Yosukata Wok          | Souped Up Recipes Wok  | Joyce Chen Wok       |
+|---------------------|-----------------------|------------------------|----------------------|
+| **Price**           | $$                    | $$                     | $                    |
+| **Bottom**          | Flat                  | Wide Flat              | Flat                 |
+| **Key Pro**         | Quality build, nice handle | Great for electric, full kit | Excellent value, light |
+| **Key Con**         | Higher price point    | Can be heavy           | Thinner gauge metal  |
+| **Best For**        | Overall Performance   | Electric Stove Value   | Beginners on a Budget|
+
+### Conclusion on Specific Product
+
+My choice is the **Yosukata Carbon Steel Wok (13.5-inch Flat Bottom)**.
+
+*   **Reasoning:** It represents the best balance of quality, performance, and design for my needs. Reviews consistently praise its durability and heat distribution, even on electric stovetops. The comfortable wooden handle and helper handle are significant ergonomic advantages for handling a wok full of noodles and vegetables. While the Souped Up Recipes kit offers great value, I prefer to choose my own accessories, and the Yosukata's reputation for build quality makes it the top choice for a long-term investment.
+*   **Where to Buy:** Available on online retail platforms like Amazon.
 
 ---
 
@@ -242,32 +273,32 @@ This section includes a mix of general cookware safety information and articles/
 
 **Wok-Specific Reviews & Guides:**
 
-*   **Serious Eats - "To Find the Best Woks for Stir Frying and More, We Smoked up Our Kitchen"**
-    *   *Link:* `https://www.seriouseats.com/best-woks-5218113`
+1.  Serious Eats - "To Find the Best Woks for Stir Frying and More, We Smoked up Our Kitchen"
+    *   *Link:* https://www.seriouseats.com/best-woks-5218113
     *   *Note:* Detailed review of primarily carbon steel woks, discusses why carbon steel is preferred, seasoning, and specific brand recommendations.
-*   **Food & Wine - "The 6 Best Woks of 2024, According to Our Tests"**
-    *   *Link:* `https://www.foodandwine.com/best-woks-7973555`
+2.  Food & Wine - "The 6 Best Woks of 2024, According to Our Tests"
+    *   *Link:* https://www.foodandwine.com/best-woks-7973555
     *   *Note:* Reviews various wok types including carbon steel and cast iron, discussing pros, cons, and top picks like Yosukata and Lodge.
-*   **America's Test Kitchen - "The Best Woks"**
-    *   *Link:* `https://www.americastestkitchen.com/equipment_reviews/2120-woks`
+3.  America's Test Kitchen - "The Best Woks"
+    *   *Link:* https://www.americastestkitchen.com/equipment_reviews/2120-woks
     *   *Note:* Compares carbon steel and lightweight cast iron woks, emphasizing factors like weight, handle design, and seasoning.
-*   **Epicurious - "The Best Wok Pans for Stir-Frying at Home, Tested and Reviewed"**
-    *   *Link:* `https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article`
+4.  Epicurious - "The Best Wok Pans for Stir-Frying at Home, Tested and Reviewed"
+    *   *Link:* https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article
     *   *Note:* Focuses on carbon steel flat-bottom woks and discusses key features for home use.
 
 **General Cookware Health & Safety (from Pan Research - relevant for material understanding):**
 
-*   **Consumer Reports - "You Can't Always Trust Claims on 'Non-Toxic' Cookware"**
-    *   *Link:* `https://www.consumerreports.org/toxic-chemicals-substances/you-cant-always-trust-claims-on-non-toxic-cookware-a4849321487/`
+5.  Consumer Reports - "You Can't Always Trust Claims on 'Non-Toxic' Cookware"
+    *   *Link:* https://www.consumerreports.org/toxic-chemicals-substances/you-cant-always-trust-claims-on-non-toxic-cookware-a4849321487/
     *   *Note:* Discusses PFAS in non-stick pans and the reliability of "PFOA-free" claims.
-*   **LeafScore - "Caraway Cookware and Heavy Metals: Which Tests Should We Believe?"**
-    *   *Link:* `https://www.leafscore.com/eco-friendly-kitchen-products/answering-reader-questions-about-caraway-cookware-and-greenwashing/`
+6.  LeafScore - "Caraway Cookware and Heavy Metals: Which Tests Should We Believe?"
+    *   *Link:* https://www.leafscore.com/eco-friendly-kitchen-products/answering-reader-questions-about-caraway-cookware-and-greenwashing/
     *   *Note:* Discusses ceramic coatings (sol-gel) and testing methods.
-*   **I'm Plastic Free - "11 Truly Non-Toxic Cookware Brands, Tested & Reviewed"**
-    *   *Link:* `https://www.implasticfree.com/non-toxic-cookware-brands/`
+7.  I'm Plastic Free - "11 Truly Non-Toxic Cookware Brands, Tested & Reviewed"
+    *   *Link:* https://www.implasticfree.com/non-toxic-cookware-brands/
     *   *Note:* Reviews various materials including cast iron, stainless steel, carbon steel, glass, and pure ceramic.
-*   **NutritionFacts.org - "Is Stainless Steel or Cast Iron Cookware Best? Is Teflon Safe?"**
-    *   *Link:* `https://nutritionfacts.org/blog/is-stainless-steel-or-cast-iron-cookware-best-is-teflon-safe/`
+8.  NutritionFacts.org - "Is Stainless Steel or Cast Iron Cookware Best? Is Teflon Safe?"
+    *   *Link:* https://nutritionfacts.org/blog/is-stainless-steel-or-cast-iron-cookware-best-is-teflon-safe/
     *   *Note:* Discusses iron leaching from cast iron and nickel/chromium from stainless steel.
 
 ---

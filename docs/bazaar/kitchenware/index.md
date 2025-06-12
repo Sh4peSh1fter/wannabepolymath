@@ -105,19 +105,20 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 
 ### I. Cookware (Pots, Pans & Baking Dishes)
 1.  **[Pan](./pan.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
-2.  Pot (Saucepans, Stockpots - considering materials like Stainless Steel, Enameled Cast Iron)
-3.  Rondeau / Braiser
-4.  Baking Dish (e.g., 9x13-inch glass, ceramic)
-5.  Baking Sheets (Rimmed, half-sheet - considering aluminum, stainless steel, aluminized steel)
+2.  **[Pot](./pot.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
+3.  Wok *(Research pending)*
+4.  Rondeau / Braiser
+5.  Baking Dish (e.g., 9x13-inch glass, ceramic)
+6.  Baking Sheets (Rimmed, half-sheet - considering aluminum, stainless steel, aluminized steel)
 
 ### II. Bakeware (Beyond basic sheets/dishes)
 1.  Wire Rack (for cooling - stainless steel preferred)
-2.  Mixing Bowls (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
+2.  **[Mixing Bowls](./mixing_bowls.md)** (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
 3.  *(To consider: Loaf pans, Muffin tins, Pie dishes - focusing on material safety)*
 
 ### III. Food Preparation - Cutting, Chopping & Grating
-1.  Knife (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
-2.  Cutting Board (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
+1.  **[Knife Guide](./knife.md)** (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
+2.  **[Cutting Board](./cutting_board.md)** (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
 3.  Mandoline (Focus on blade material, plastic body safety)
 4.  Kitchen Shears (Stainless steel, handle material)
 5.  Microplane / Zester (Stainless steel)
@@ -139,10 +140,15 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 ### V. Small Kitchen Appliances/Electronics (Food-contact parts focus)
 1.  Stand Mixer (Bowl material - stainless steel; attachment materials)
 2.  Blender (Countertop - glass or high-quality BPA-free plastic pitcher; Immersion - stainless steel shaft)
+3. rice cooker
 3.  *(To consider: Food Processor, Electric Kettle, Toaster/Toaster Oven, Rice Cooker - focusing on materials in contact with food or steam)*
 
 ### VI. Kitchen Safety
 1.  Fire Extinguisher (Essential for any kitchen)
+
+honing steel
+knife wipe towel
+cooking chopsticks
 
 ---
 
@@ -155,6 +161,8 @@ A starting point for our research, with more to be added as we discover them:
 *   **Ethan Chlebowski - My Favorite Kitchen Tools (Under $25):** [https://youtu.be/ZSL_Q6Pe-Ao?si=Hg5d9FD9cWpzmute](https://youtu.be/ZSL_Q6Pe-Ao?si=Hg5d9FD9cWpzmute)
 *   **[14 Toxic Kitchen Items You Should Declutter Immediately (and ...](https://youtu.be/DegKQvHGJ5A?si=LlSe87YQTOPd09--)**
 *   **[TOXIC Kitchenware: Throw These Out Now! | Dr. Steven Gundry](https://youtu.be/meKc1UMP52g?si=t-lDZRamporPk9Sr)**
+
+https://youtu.be/ZSL_Q6Pe-Ao?si=9ztZ3zRxcG9yWRJA
 
 ### Reddit Communities & Discussions
 *   **r/Cooking - What are your favorite kitchen equipment must-haves?:** [https://www.reddit.com/r/Cooking/comments/tr47kd/what_are_your_favorite_kitchen_equipment_musthaves/](https://www.reddit.com/r/Cooking/comments/tr47kd/what_are_your_favorite_kitchen_equipment_musthaves/)

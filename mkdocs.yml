@@ -113,19 +113,23 @@ extra_css:
 nav:
   - Home: index.md
   - Round Table: round_table/index.md
-  - Incubator: incubator/index.md
+  - Incubator:
+    - Overview: incubator/index.md
+    - Sourdough: incubator/food/sourdough/index.md
   - Academy: academy/index.md
   - Observatory: observatory/index.md # Will also cover Topic aggregation
-  - Bazaar: bazaar/index.md
-  # - Forge: forge/index.md # Removed as index.md was deleted
-  # - Topics: topics/index.md # Removing as Observatory will cover this
-  - Other Corners:
-    - Gadget Wishlist:
-      - Earplugs: corners/gadget_wishlist/earplugs.md
-      - Healthy Kitchenware: 
-        - Overview: corners/gadget_wishlist/kitchenware/index.md
-        - Pan: corners/gadget_wishlist/kitchenware/pan.md
-        - Wok: corners/gadget_wishlist/kitchenware/wok.md
+  - Bazaar:
+    - Overview: bazaar/index.md
+    - Air Purifier: bazaar/air_puriffier.md
+    - Earplugs: bazaar/earplugs.md
+    - Healthy Kitchenware: 
+      - Overview: bazaar/kitchenware/index.md
+      - Pan: bazaar/kitchenware/pan.md
+      - Wok: bazaar/kitchenware/wok.md
+      - Pot: bazaar/kitchenware/pot.md
+      - Mixing Bowls: bazaar/kitchenware/mixing_bowls.md
+      - Knife Guide: bazaar/kitchenware/knife.md
+      - Cutting Board: bazaar/kitchenware/cutting_board.md
   - About:
     - Overview: about/index.md
     - Vision: about/vision.md
