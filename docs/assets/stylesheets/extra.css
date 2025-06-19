@@ -21,7 +21,31 @@
   font-weight: 500;  /* Optional: make it a bit bolder if desired */
 }
 
-/* If you have a subtitle/page title in the header, you might want to adjust it too or leave it as is */
-/* .md-header__title .md-header__topic:last-child .md-ellipsis {
-  font-size: 0.8rem; /* Example: keep subtitle smaller */
-/* } */ 
+.md-tabs__list {
+    display: flex;
+    justify-content: space-around; /* Distributes items evenly */
+    width: 100%;
+}
+
+.md-tabs__item {
+    flex-grow: 1; /* Allows items to grow and fill the space */
+    text-align: center; /* Ensures text inside is centered */
+}
+
+/* Center the header buttons */
+.md-header__buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1; /* Allows items to grow and fill the space */
+    text-align: center; /* Ensures text inside is centered */
+}
+
+/* Make single-card grids full width and centered */
+.md-typeset .single-card-grid {
+    grid-template-columns: 1fr;
+}
+
+.md-typeset .single-card-grid li {
+    text-align: center;
+}

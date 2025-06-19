@@ -112,12 +112,12 @@ extra_css:
 # Use BASE filenames here. The i18n plugin will find the suffixed versions.
 nav:
   - Home: index.md
+  - Observatory: observatory/index.md
   - Round Table: round_table/index.md
   - Incubator:
     - Overview: incubator/index.md
     - Sourdough: incubator/food/sourdough/index.md
   - Academy: academy/index.md
-  - Observatory: observatory/index.md # Will also cover Topic aggregation
   - Bazaar:
     - Overview: bazaar/index.md
     - Air Purifier: bazaar/air_puriffier.md
@@ -130,6 +130,52 @@ nav:
       - Mixing Bowls: bazaar/kitchenware/mixing_bowls.md
       - Knife Guide: bazaar/kitchenware/knife.md
       - Cutting Board: bazaar/kitchenware/cutting_board.md
+  - Hall of Fame:
+    - Overview: hall_of_fame/index.en.md
+    - Educators:
+      - Michael Stevens: hall_of_fame/educator/michael_stevens.md
+  - Other Corners:
+    - Overview: other_corners/index.en.md
+    - Improve Myself:
+      - Overview: other_corners/improve_myself/index.en.md
+      - 1. Habits: other_corners/improve_myself/1_habits/index.en.md
+      - 2. Biological Systems: other_corners/improve_myself/2_biological_human_body_systems/index.en.md
+      - 3. Skills:
+        - Overview: other_corners/improve_myself/3_skills/index.en.md
+        - Brain Skills:
+          - Self Expression: other_corners/improve_myself/3_skills/brain_skills/self_expression.en.md
+      - 4. Mental: other_corners/improve_myself/4_mental/index.en.md
+      - 5. Daily Routine:
+        - Overview: other_corners/improve_myself/5_daily_routine/index.en.md
+        - Wake Up: other_corners/improve_myself/5_daily_routine/1_wake_up.en.md
+        - Free Time: other_corners/improve_myself/5_daily_routine/2_free_time.en.md
+        - Hygiene: other_corners/improve_myself/5_daily_routine/3_hygiene.en.md
+        - Meals: other_corners/improve_myself/5_daily_routine/4_meals.en.md
+        - Travel: other_corners/improve_myself/5_daily_routine/5_travel.en.md
+        - Work: other_corners/improve_myself/5_daily_routine/6_work.en.md
+        - Human Connection: other_corners/improve_myself/5_daily_routine/7_human_connection.en.md
+        - Sleep: other_corners/improve_myself/5_daily_routine/8_sleep.en.md
+    - Make Food: other_corners/make_food/index.en.md
+    - War Room:
+      - Overview: other_corners/war_room/index.en.md
+      - Air Systems: other_corners/war_room/air_systems/index.en.md
+      - Land Systems: other_corners/war_room/land_systems/index.en.md
+      - Naval Systems: other_corners/war_room/naval_systems/index.en.md
+      - Missile & Defense Systems:
+        - Overview: other_corners/war_room/missile_and_defense_systems/index.en.md
+        - Missiles Guide: other_corners/war_room/missile_and_defense_systems/missiles/index.en.md
+      - Strategic Concepts: other_corners/war_room/strategic_concepts/index.en.md
+      - Intelligence & Cyber: other_corners/war_room/intelligence_and_cyber/index.en.md
+      - Operations:
+        - Overview: other_corners/war_room/operations/index.en.md
+        - Operation Spider's Web: other_corners/war_room/operations/russia_ukraine_war/operation_spiders_web.en.md
+    - Random:
+      - Abortion: other_corners/random/abortion.en.md
+      - Did you know?: other_corners/random/did_you_know_events.md
+      - Flying Questions: other_corners/random/flying_questions.md
+      - Living with an undo button: other_corners/random/living_with_an_undo_button.en.md
+      - Should I take pills?: other_corners/random/should_i_take_pills.en.md
+      - The thought of suicide: other_corners/random/the_tought_of_suicide.en.md
   - About:
     - Overview: about/index.md
     - Vision: about/vision.md
