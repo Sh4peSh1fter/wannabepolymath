@@ -14,6 +14,29 @@ tags:
 
 This section focuses on oral hygiene. The goal is to move beyond basic cleaning and find tools and products that support long-term gum health, prevent cavities, and are made from safe, effective materials.
 
+## Items List
+
+1.  **[Toothbrush](./toothbrush.en.md)** 
+    *   The primary tool for removing plaque and cleaning teeth.
+2.  **[Toothpaste](./toothpaste.en.md)** 
+    *   The paste used with a toothbrush to aid in cleaning and deliver active ingredients.
+3.  **[Floss](./floss.en.md)** 
+    *   Used to clean between teeth where a toothbrush can't reach.
+4.  **Mouthwash** 
+    *   A liquid rinse used to kill bacteria, freshen breath, and deliver therapeutic ingredients.
+5.  **[Tongue Scraper](./tongue-scraper.en.md)** 
+    *   A tool for removing bacteria and debris from the tongue to improve breath and hygiene.
+6.  **Xylitol Gum** 
+    *   A convenient tool to help neutralize pH and inhibit bacteria after meals.
+7.  **Oral Microbiome Test Kit** 
+    *   A diagnostic tool to analyze the composition of bacteria in the mouth.
+8.  **Saliva pH Test Strips** 
+    *   A diagnostic tool to measure saliva acidity and assess real-time demineralization risk.
+9.  **[Mouthguard](./mouthguard.en.md)** 
+    *   A protective device used to prevent injury from teeth grinding (bruxism) or during sports.
+
+---
+
 ## Keywords for Search & Discovery
 
 *   **Item Types:** `toothbrush`, `toothpaste`, `floss`, `water flosser`, `mouthwash`, `tongue scraper`, `xylitol gum`, `oral microbiome test`
@@ -51,20 +74,6 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
 *   **Mouth Breathing:** Can lead to dry mouth, which reduces saliva's protective effects and can increase the risk of cavities and gum inflammation.
 *   **ADA Seal of Acceptance:** A seal awarded by the American Dental Association to products that have submitted data demonstrating their safety and efficacy. This is a trusted symbol for consumers.
 *   **Relative Dentin Abrasivity (RDA):** A scale measuring the abrasive effect of toothpaste. Low RDA (<70) is gentle; high RDA (>150) is highly abrasive. For daily use, a value under 100 is generally recommended.
-
-## Items List
-
-Below is the list of items I plan to research. Each will link to its own detailed analysis.
-
-*   **[[Toothbrush]](./toothbrush.en.md):** The primary tool for removing plaque and cleaning teeth.
-*   **[[Toothpaste]](./toothpaste.en.md):** The paste used with a toothbrush to aid in cleaning and deliver active ingredients.
-*   **[[Floss]](./floss.en.md):** Used to clean between teeth where a toothbrush can't reach.
-*   **Mouthwash:** A liquid rinse used to kill bacteria, freshen breath, and deliver therapeutic ingredients.
-*   **[[Tongue Scraper]](./tongue-scraper.en.md):** A tool for removing bacteria and debris from the tongue to improve breath and hygiene.
-*   **Xylitol Gum:** A convenient tool to help neutralize pH and inhibit bacteria after meals.
-*   **Oral Microbiome Test Kit:** A diagnostic tool to analyze the composition of bacteria in the mouth.
-*   **Saliva pH Test Strips:** A diagnostic tool to measure saliva acidity and assess real-time demineralization risk.
-*   **[[Mouthguard]](./mouthguard.en.md):** A protective device used to prevent injury from teeth grinding (bruxism) or during sports.
 
 ---
 

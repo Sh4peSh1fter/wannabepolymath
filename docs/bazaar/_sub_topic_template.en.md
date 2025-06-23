@@ -20,6 +20,26 @@ Introduction:
 - e.g., "This section focuses on oral hygiene. The goal is to move beyond basic cleaning and find tools and products that support long-term gum health, prevent cavities, and are made from safe materials."
 -->
 
+## Items List
+
+<!-- Below is the categorized list of items I plan to research. Each item will eventually link to its own detailed analysis. -->
+
+### [Category 1 - e.g., Core Routine]
+1.  **[Item 1 Name](./[item-1-file].en.md)** 
+    *   [A brief, one-sentence description of the item's purpose.]
+2.  **[Item 2 Name](./[item-2-file].en.md)**
+    *   [Description]
+
+### [Category 2 - e.g., Treatments & Serums]
+3.  **[Item 3 Name](./[item-3-file].en.md)** 
+    *   [Description]
+4.  **[Item 4 Name](./[item-4-file].en.md)** 
+    *   [Description]
+
+<!-- Add more categories and items as needed -->
+
+---
+
 ## Keywords for Search & Discovery
 
 <!-- This section helps guide the research process. Combine keywords from different categories to perform targeted searches. -->
@@ -35,20 +55,6 @@ Introduction:
 *   **Concept 2 (e.g., pH Balance):** [Explanation.]
 *   **Term 1 (e.g., Non-Comedogenic):** [Explanation.]
 *   **Term 2 (e.g., SPF & Broad-Spectrum):** [Explanation.]
-
-## Items List
-
-Below is the categorized list of items I plan to research. Each item will eventually link to its own detailed analysis.
-
-### [Category 1 - e.g., Core Routine]
-*   **[[Item 1 Name]](./[item-1-file].en.md):** [A brief, one-sentence description of the item's purpose.]
-*   **[[Item 2 Name]](./[item-2-file].en.md):** [Description]
-
-### [Category 2 - e.g., Treatments & Serums]
-*   **[[Item 3 Name]](./[item-3-file].en.md):** [Description]
-*   **[[Item 4 Name]](./[item-4-file].en.md):** [Description]
-
-<!-- Add more categories and items as needed -->
 
 ---
 
