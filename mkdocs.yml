@@ -119,10 +119,18 @@ nav:
     - Sourdough: incubator/food/sourdough/index.md
   - Academy: academy/index.md
   - Bazaar:
-    - Overview: bazaar/index.md
+    - Overview: bazaar/index.en.md
+    - Health:
+      - Overview: bazaar/health/index.en.md
+      - Oral Care:
+        - Overview: bazaar/health/oral_care/index.en.md
+        - Toothbrush: bazaar/health/oral_care/toothbrush.en.md
+        - Toothpaste: bazaar/health/oral_care/toothpaste.en.md
+        - Floss: bazaar/health/oral_care/floss.en.md
+        - Tongue Scraper: bazaar/health/oral_care/tongue-scraper.en.md
     - Air Purifier: bazaar/air_puriffier.md
     - Earplugs: bazaar/earplugs.md
-    - Healthy Kitchenware: 
+    - Kitchenware: 
       - Overview: bazaar/kitchenware/index.md
       - Pan: bazaar/kitchenware/pan.md
       - Wok: bazaar/kitchenware/wok.md

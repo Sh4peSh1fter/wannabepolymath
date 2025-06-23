@@ -11,3 +11,9 @@ Below is a list of categories. Click on any category to see the entries within i
 ## Categories
 
 *   [Education](./education/)
+
+
+
+
+andrew huberman
+albert ainstein
