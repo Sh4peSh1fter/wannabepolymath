@@ -1,13 +1,15 @@
-# wanna be polymath
+# wannabe-polymath
 
-hey, this is my personal website / blog / portfolio(?).
-huge thanks to mkdocs and all its contributors.
+Hi, this is my personal website / blog / portfolio.  
+Huge thanks to mkdocs and all its contributors.
+And another huge thanks to everyone and everything that inspired me and helped me build this project.
 
 ## getting started
 
 ```bash
 py -m venv .venv
-.\.venv\Scripts\Activate.ps1    # for windows
+source .venv/bin/activate       # for mac
+# .\.venv\Scripts\Activate.ps1  # for windows
 pip install poetry
 poetry init
 ```

@@ -8,20 +8,22 @@ hide:
 
 # Welcome to the Wanna be Polymath project
 
+![Home Banner](./_assets/home/home_banner.png){: .center }
+
 Hey :)  
 
-I'm learning new stuff everyday and I want to share some of them in my own unique way.  
-the goal is simple. I want to be a polymath, I want to document some stuff that I write, and I want you to see my journey and get inspired.  
+I'm learning new things everyday and I want to share some of them in my own unique way.  
+The goal is simple - I want to be a polymath, I want to document some stuff that I write, and I want you to see my journey and get inspired.  
 
 ## Getting Started
 
-The site is organized into several "Corners", each with a unique purpose. Don't worry about understanding everything at once — start with a section that interests you, and you'll see how it all connects as you explore.
+The website is organized into several "Corners", each with a unique purpose. Don't worry about understanding everything at once — start with a section that interests you, and you'll see how it all connects as you explore.
 
 If you're inspired to create your own digital garden, you can follow my guide [here](./about/setting_up_your_own_website.md).
 
 ## Structure
 
-The site is organized into several key theme, each designed for a specific purpose in our journey of learning:
+The website is organized into several key themes ("Corners"), each designed for a specific purpose in our journey of learning:
 
 !!! example "Home"
     <div class="grid cards" markdown>
@@ -96,10 +98,20 @@ The site is organized into several key theme, each designed for a specific purpo
 
     </div>
 
+The line of thought goes as follows:   
+from our day to day we discover new topics and add them to the `Observatory`.  
+While we learn them, we can brainstorm problems and solutions in the `Round Table`.  
+From there we create ideas which we put in the `Incubator`.  
+As we become more professional in the topics, we write blogs and lessons in the `Academy`.  
+If we stumble upon things we need and should get, we list them in the `Bazaar`.  
+Throught the journey we also meet inspiring people which we put in the `Hall of Fame`.
+
+![Line of Thought](./_assets/home/line_of_thought.png){: .center }
+
 ## How to Contribute
 
 Any feedback will be very helpful!  
-This project is a living document, and I would appreciate any comment or suggestions you might have. The best way to contribute is by opening an issue or pull request on the [project's GitHub repository](https://github.com/Sh4peSh1fter/wannabepolymath).
+This project is a living document, and I would appreciate any comment or suggestions you might have. The best way to contribute is by opening an issue or pull request on the [project's GitHub repository](https://github.com/Sh4peSh1fter/wannabepolymath), or reach out to me.
 
 ---
 

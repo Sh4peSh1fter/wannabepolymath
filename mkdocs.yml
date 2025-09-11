@@ -22,6 +22,7 @@ theme:
     - navigation.instant.progress # progress indicator.
     - navigation.tabs # top-level sections are rendered in a menu layer below the header.
     - navigation.tabs.sticky # lock tabs below the header and always remain visible when scrolling down.
+    - navigation.sections # the left sidebar will render all navigation items in expanded sections.
     - navigation.path # breadcrumb navigation is rendered above the title of each page ########### doesn't work!!!!
     - navigation.indexes # documents can be directly attached to sections.
     - navigation.top # A back-to-top button can be shown.
@@ -112,36 +113,259 @@ extra_css:
 # Use BASE filenames here. The i18n plugin will find the suffixed versions.
 nav:
   - Home: index.md
-  - Observatory: observatory/index.md
-  - Round Table: round_table/index.md
+  - Observatory: 
+    - Overview: observatory/index.md
+    - Natural Sciences:
+      - "- Physics":
+        - Overview: observatory/physics/index.en.md
+        - Key Terms & Concepts: observatory/physics/keywords.en.md
+        - Key Entities: observatory/physics/entities.en.md
+        - Sources & Further Reading: observatory/physics/sources.en.md
+      - "- Chemistry":
+        - Overview: observatory/chemistry/index.en.md
+        - Key Terms & Concepts: observatory/chemistry/keywords.en.md
+        - Key Entities: observatory/chemistry/entities.en.md
+        - Sources & Further Reading: observatory/chemistry/sources.en.md
+      - "- Biology":
+        - Overview: observatory/biology/index.en.md
+        - Key Terms & Concepts: observatory/biology/keywords.en.md
+        - Key Entities: observatory/biology/entities.en.md
+        - Sources & Further Reading: observatory/biology/sources.en.md
+      - "- Earth Science":
+        - Overview: observatory/earth_science/index.en.md
+        - Key Terms & Concepts: observatory/earth_science/keywords.en.md
+        - Key Entities: observatory/earth_science/entities.en.md
+        - Sources & Further Reading: observatory/earth_science/sources.en.md
+      - "- Astronomy":
+        - Overview: observatory/astronomy/index.en.md
+        - Key Terms & Concepts: observatory/astronomy/keywords.en.md
+        - Key Entities: observatory/astronomy/entities.en.md
+        - Sources & Further Reading: observatory/astronomy/sources.en.md
+    - Formal Sciences:
+      - "- Mathematics":
+        - Overview: observatory/mathematics/index.en.md
+        - Key Terms & Concepts: observatory/mathematics/keywords.en.md
+        - Key Entities: observatory/mathematics/entities.en.md
+        - Sources & Further Reading: observatory/mathematics/sources.en.md
+      - "- Logic":
+        - Overview: observatory/logic/index.en.md
+        - Key Terms & Concepts: observatory/logic/keywords.en.md
+        - Key Entities: observatory/logic/entities.en.md
+        - Sources & Further Reading: observatory/logic/sources.en.md
+      - "- Computer Science":
+        - Overview: observatory/computer_science/index.en.md
+        - Key Terms & Concepts: observatory/computer_science/keywords.en.md
+        - Key Entities: observatory/computer_science/entities.en.md
+        - Sources & Further Reading: observatory/computer_science/sources.en.md
+    - Social Sciences:
+      - "- Psychology":
+        - Overview: observatory/psychology/index.en.md
+        - Key Terms & Concepts: observatory/psychology/keywords.en.md
+        - Key Entities: observatory/psychology/entities.en.md
+        - Sources & Further Reading: observatory/psychology/sources.en.md
+      - "- Sociology":
+        - Overview: observatory/sociology/index.en.md
+        - Key Terms & Concepts: observatory/sociology/keywords.en.md
+        - Key Entities: observatory/sociology/entities.en.md
+        - Sources & Further Reading: observatory/sociology/sources.en.md
+      - "- Economics":
+        - Overview: observatory/economics/index.en.md
+        - Key Terms & Concepts: observatory/economics/keywords.en.md
+        - Key Entities: observatory/economics/entities.en.md
+        - Sources & Further Reading: observatory/economics/sources.en.md
+      - "- Political Science":
+        - Overview: observatory/political_science/index.en.md
+        - Key Terms & Concepts: observatory/political_science/keywords.en.md
+        - Key Entities: observatory/political_science/entities.en.md
+        - Sources & Further Reading: observatory/political_science/sources.en.md
+      - "- Anthropology":
+        - Overview: observatory/anthropology/index.en.md
+        - Key Terms & Concepts: observatory/anthropology/keywords.en.md
+        - Key Entities: observatory/anthropology/entities.en.md
+        - Sources & Further Reading: observatory/anthropology/sources.en.md
+      - "- History":
+        - Overview: observatory/history/index.en.md
+        - Key Terms & Concepts: observatory/history/keywords.en.md
+        - Key Entities: observatory/history/entities.en.md
+        - Sources & Further Reading: observatory/history/sources.en.md
+    - Applied Sciences:
+      - "- Engineering":
+        - Overview: observatory/engineering/index.en.md
+        - Key Terms & Concepts: observatory/engineering/keywords.en.md
+        - Key Entities: observatory/engineering/entities.en.md
+        - Sources & Further Reading: observatory/engineering/sources.en.md
+      - "- Medicine":
+        - Overview: observatory/medicine/index.en.md
+        - Key Terms & Concepts: observatory/medicine/keywords.en.md
+        - Key Entities: observatory/medicine/entities.en.md
+        - Sources & Further Reading: observatory/medicine/sources.en.md
+    - Humanities:
+      - "- Philosophy":
+        - Overview: observatory/philosophy/index.en.md
+        - Key Terms & Concepts: observatory/philosophy/keywords.en.md
+        - Key Entities: observatory/philosophy/entities.en.md
+        - Sources & Further Reading: observatory/philosophy/sources.en.md
+      - "- Linguistics":
+        - Overview: observatory/linguistics/index.en.md
+        - Key Terms & Concepts: observatory/linguistics/keywords.en.md
+        - Key Entities: observatory/linguistics/entities.en.md
+        - Sources & Further Reading: observatory/linguistics/sources.en.md
+      - "- Literature":
+        - Overview: observatory/literature/index.en.md
+        - Key Terms & Concepts: observatory/literature/keywords.en.md
+        - Key Entities: observatory/literature/entities.en.md
+        - Sources & Further Reading: observatory/literature/sources.en.md
+    - Other:
+      - "- Military":
+        - Overview: observatory/military/index.en.md
+        - Key Terms & Concepts: observatory/military/keywords.en.md
+        - Key Entities: observatory/military/entities.en.md
+        - Sources & Further Reading: observatory/military/sources.en.md
+      - "- Nutrition":
+        - Overview: observatory/nutrition/index.en.md
+        - Key Terms & Concepts: observatory/nutrition/keywords.en.md
+        - Key Entities: observatory/nutrition/entities.en.md
+        - Sources & Further Reading: observatory/nutrition/sources.en.md
+      - "- Woodworking":
+        - Overview: observatory/woodworking/index.en.md
+        - Key Terms & Concepts: observatory/woodworking/keywords.en.md
+        - Key Entities: observatory/woodworking/entities.en.md
+        - Sources & Further Reading: observatory/woodworking/sources.en.md
+  - Round Table: 
+    - Overview: round_table/index.md
+    - Labor: round_table/labor.en.md
+    - Education: round_table/education.en.md
+    - Crime: round_table/crime.en.md
+    - Healthcare: round_table/healthcare.en.md
+    - Transportation: round_table/transportation.en.md
+    - Food: round_table/food.en.md
+    - Oral Health: round_table/oral_health.en.md
   - Incubator:
     - Overview: incubator/index.md
-    - Sourdough: incubator/food/sourdough/index.md
+    - Food:
+      - Overview: incubator/food/index.en.md
+      - "- Sourdough": incubator/food/sourdough_starter.en.md
+    - Furniture: 
+      - Overview: incubator/furniture/index.en.md
+      - "- Closet Storage Wall": incubator/furniture/closet_storage_wall.en.md
+      - "- Coffee Desk": incubator/furniture/coffee_desk.en.md
+      - "- Desk Helping Hand": incubator/furniture/desk_helping_hand.en.md
+      - "- Lantern": incubator/furniture/lantern.en.md
+      - "- Portable Whiteboard": incubator/furniture/portable_whiteboard.en.md
+      - "- Shoe Bench": incubator/furniture/shoe_bench.en.md
+      - "- Smart Robotic Arm": incubator/furniture/smart_robotic_arm.en.md
+      - "- Wall Storage": incubator/furniture/wall_storage.en.md
+    - Plants:
+      - Overview: incubator/plants/index.en.md
+      - "- Bedroom Plants": incubator/plants/bedroom_plants.en.md
+    - Tech:
+      - Overview: incubator/tech/index.en.md
+      - "- Anti-pigeon": incubator/tech/anti-pigeon.en.md
+      - "- Flying Dog": incubator/tech/flying_dog.en.md
+      - "- Smart Home Automation": incubator/tech/smart-home-automation.en.md
+    - Other:
+      - Overview: incubator/other/index.en.md
+      - "- DIY Air Purifier": incubator/other/diy_air_purifier.en.md
+      - "- Workout Plan": incubator/other/workout_plan.en.md
   - Academy: academy/index.md
   - Bazaar:
     - Overview: bazaar/index.en.md
     - Health:
       - Overview: bazaar/health/index.en.md
+      - Air Quality:
+        - Overview: bazaar/health/air_quality/index.en.md
+        - "- Air Quality Monitor": bazaar/health/air_quality/air_quality_monitor.en.md
+        - "- Air Purifier": bazaar/health/air_quality/air_purifier.en.md
       - Oral Care:
         - Overview: bazaar/health/oral_care/index.en.md
-        - Toothbrush: bazaar/health/oral_care/toothbrush.en.md
-        - Toothpaste: bazaar/health/oral_care/toothpaste.en.md
-        - Floss: bazaar/health/oral_care/floss.en.md
-        - Tongue Scraper: bazaar/health/oral_care/tongue-scraper.en.md
-    - Air Purifier: bazaar/air_puriffier.md
-    - Earplugs: bazaar/earplugs.md
+        - "- Toothbrush": bazaar/health/oral_care/toothbrush.en.md
+        - "- Toothpaste": bazaar/health/oral_care/toothpaste.en.md
+        - "- Floss": bazaar/health/oral_care/floss.en.md
+        - "- Tongue Scraper": bazaar/health/oral_care/tongue-scraper.en.md
+      - Skin Care:
+        - Overview: bazaar/health/skin_care/index.en.md
+        - "- Anti-inflammatory": bazaar/health/skin_care/anti-inflammatory.en.md
+        - "- Body Wash": bazaar/health/skin_care/body-wash.en.md
+        - "- Chemical Exfoliant": bazaar/health/skin_care/chemical-exfoliant.en.md
+        - "- Deodorant": bazaar/health/skin_care/deodorant.en.md
+        - "- Face Scrubber": bazaar/health/skin_care/face-scrubber.en.md
+        - "- Face Wash": bazaar/health/skin_care/face-wash.en.md
+        - "- Facial Sunscreen": bazaar/health/skin_care/facial-sunscreen.en.md
+        - "- Scalp Massager": bazaar/health/skin_care/scalp-massager.en.md
+        - "- Shampoo": bazaar/health/skin_care/shampoo.en.md
+        - "- Toner": bazaar/health/skin_care/toner.en.md
+      - Household: bazaar/health/household/index.en.md
+    - Home Automation:
+      - Overview: bazaar/home_automation/index.en.md
+      - Lighting:
+        - Overview: bazaar/home_automation/lighting/index.en.md
+        - "- LED Strips": bazaar/home_automation/lighting/led-strips.en.md
+        - "- Smart Bulbs": bazaar/home_automation/lighting/smart-bulbs.en.md
+      - Sensors:
+        - Overview: bazaar/home_automation/sensors/index.en.md
+        - "- Presence Sensors (mmWave)": bazaar/home_automation/sensors/presence-sensors-mmwave.en.md
+        - "- Motion & Contact Sensors": bazaar/home_automation/sensors/sensors-motion-contact.en.md
+      - Control Interfaces:
+        - Overview: bazaar/home_automation/control_interfaces/index.en.md
+        - "- Hubs and Controllers": bazaar/home_automation/control_interfaces/hubs-and-controllers.en.md
+        - "- Touch Displays": bazaar/home_automation/control_interfaces/touch-displays.en.md
     - Kitchenware: 
-      - Overview: bazaar/kitchenware/index.md
-      - Pan: bazaar/kitchenware/pan.md
-      - Wok: bazaar/kitchenware/wok.md
-      - Pot: bazaar/kitchenware/pot.md
-      - Mixing Bowls: bazaar/kitchenware/mixing_bowls.md
-      - Knife Guide: bazaar/kitchenware/knife.md
-      - Cutting Board: bazaar/kitchenware/cutting_board.md
+      - Overview: bazaar/kitchenware/index.en.md
+      - Cookware:
+        - Overview: bazaar/kitchenware/cookware/index.en.md
+        - "- Pan": bazaar/kitchenware/cookware/pan.en.md
+        - "- Pot": bazaar/kitchenware/cookware/pot.en.md
+        - "- Wok": bazaar/kitchenware/cookware/wok.en.md
+      - Cutlery & Boards:
+        - Overview: bazaar/kitchenware/cutlery_and_boards/index.en.md
+        - "- Knife Guide": bazaar/kitchenware/cutlery_and_boards/knife.en.md
+        - "- Honing Steel": bazaar/kitchenware/cutlery_and_boards/honing_steel.en.md
+        - "- Cutting Board": bazaar/kitchenware/cutlery_and_boards/cutting_board.en.md
+      - Baking Tools:
+        - Overview: bazaar/kitchenware/baking_tools/index.en.md
+        - "- Bench Scraper": bazaar/kitchenware/baking_tools/bench_scraper.en.md
+        - "- Mixing Bowls": bazaar/kitchenware/baking_tools/mixing_bowls.en.md
+        - "- Sourdough Starter Jar": bazaar/kitchenware/baking_tools/sourdough_starter_jar.en.md
+      - Utensils & Accessories:
+        - Overview: bazaar/kitchenware/utensils_and_accessories/index.en.md
+        - "- Tweezers": bazaar/kitchenware/utensils_and_accessories/tweezers.en.md
+        - "- Kitchen Towel": bazaar/kitchenware/utensils_and_accessories/kitchen_towel.en.md
+    - Food:
+      - Overview: bazaar/food/index.en.md
+      - Ingredients:
+        - "- Cast Iron Seasoning Oil": bazaar/food/ingredients/cast_iron_seasoning_oil.en.md
+        - "- Flour for Sourdough": bazaar/food/ingredients/flour_for_sourdough.en.md
+        - "- Tallow": bazaar/food/ingredients/tallow.en.md
+    - Safety:
+        - Overview: bazaar/safety/index.en.md
+        - Health & Personal Safety:
+          - Overview: bazaar/safety/health_and_personal/index.en.md
+          - "- Drinking Water Test": bazaar/safety/health_and_personal/drinking_water_test.en.md
+          - "- Earplugs": bazaar/safety/health_and_personal/earplugs.en.md
+    - Home Decoration:
+      - Overview: bazaar/home_decoration/index.en.md
+      - Home Accessories:
+        - "- Rug": bazaar/home_decoration/home_accessories/rug.en.md
   - Hall of Fame:
     - Overview: hall_of_fame/index.en.md
-    - Educators:
-      - Michael Stevens: hall_of_fame/educator/michael_stevens.md
+    - Education:
+      - Overview: hall_of_fame/education/index.en.md
+      - "- Michael Stevens": hall_of_fame/education/michael_stevens.en.md
+    - Music:
+      - Overview: hall_of_fame/music/index.en.md
+      - "- Arik Einstein": hall_of_fame/music/arik_einstein.en.md
+      - "- MF DOOM": hall_of_fame/music/mf_doom.en.md
+    - Polymaths:
+      - Overview: hall_of_fame/polymath/index.en.md
+      - "- Rambam": hall_of_fame/polymath/rambam.en.md
+    - Science:
+      - Overview: hall_of_fame/science/index.en.md
+      - "- Albert Einstein": hall_of_fame/science/albert_einstein.en.md
+      - "- Andrew Huberman": hall_of_fame/science/andrew_huberman.en.md
+    - Arts & Entertainment:
+      - Overview: hall_of_fame/arts_and_entertainment/index.en.md
+      - "- Nathan Fielder": hall_of_fame/arts_and_entertainment/nathan_fielder.en.md
+      - "- Felix Kjellberg": hall_of_fame/arts_and_entertainment/felix_kjellberg.en.md
   - Other Corners:
     - Overview: other_corners/index.en.md
     - Improve Myself:
@@ -155,15 +379,26 @@ nav:
       - 4. Mental: other_corners/improve_myself/4_mental/index.en.md
       - 5. Daily Routine:
         - Overview: other_corners/improve_myself/5_daily_routine/index.en.md
-        - Wake Up: other_corners/improve_myself/5_daily_routine/1_wake_up.en.md
-        - Free Time: other_corners/improve_myself/5_daily_routine/2_free_time.en.md
-        - Hygiene: other_corners/improve_myself/5_daily_routine/3_hygiene.en.md
-        - Meals: other_corners/improve_myself/5_daily_routine/4_meals.en.md
-        - Travel: other_corners/improve_myself/5_daily_routine/5_travel.en.md
-        - Work: other_corners/improve_myself/5_daily_routine/6_work.en.md
-        - Human Connection: other_corners/improve_myself/5_daily_routine/7_human_connection.en.md
-        - Sleep: other_corners/improve_myself/5_daily_routine/8_sleep.en.md
+        - Morning Routine: other_corners/improve_myself/5_daily_routine/morning_routine.en.md
+        - Evening Routine: other_corners/improve_myself/5_daily_routine/evening_routine.en.md
+        - Workday Routine: other_corners/improve_myself/5_daily_routine/workday_routine.en.md
+        - Sleep: other_corners/improve_myself/5_daily_routine/sleep.en.md
+        - General Habits:
+          - Hygiene: other_corners/improve_myself/5_daily_routine/general_habits/hygiene.en.md
+          - Evening Light: other_corners/improve_myself/5_daily_routine/general_habits/enening_light.en.md
+          - Light Management: other_corners/improve_myself/5_daily_routine/general_habits/light_management.en.md
+          - Mindfulness and Learning: other_corners/improve_myself/5_daily_routine/general_habits/mindfulness_and_learning.en.md
+          - Nutrition: other_corners/improve_myself/5_daily_routine/general_habits/nutrition.en.md
+          - Physical Activity: other_corners/improve_myself/5_daily_routine/general_habits/physical_activity.en.md
+          - Social Connection: other_corners/improve_myself/5_daily_routine/general_habits/social_connection.en.md
     - Make Food: other_corners/make_food/index.en.md
+    - Automating Stuff: other_corners/automating_stuff/index.en.md
+    - Fitness:
+      - Overview: other_corners/fitness/index.en.md
+      - Routine: other_corners/fitness/routine/index.en.md
+      - Workout Plans:
+        - Overview: other_corners/fitness/workout_plans/index.en.md
+        - Foundation Building: other_corners/fitness/workout_plans/01_foundation_building_11-8-2025.en.md
     - War Room:
       - Overview: other_corners/war_room/index.en.md
       - Air Systems: other_corners/war_room/air_systems/index.en.md
@@ -176,10 +411,82 @@ nav:
       - Intelligence & Cyber: other_corners/war_room/intelligence_and_cyber/index.en.md
       - Operations:
         - Overview: other_corners/war_room/operations/index.en.md
+        - Israeli Operations: other_corners/war_room/operations/israeli_operations/index.en.md
         - Operation Spider's Web: other_corners/war_room/operations/russia_ukraine_war/operation_spiders_web.en.md
+    - Expeditions:
+      - Overview: other_corners/expeditions/index.en.md
+      - Expedition 1: other_corners/expeditions/expedition-1.en.md
     - Random:
+      - Overview: other_corners/random/index.en.md
       - Did you know?: other_corners/random/did_you_know_events.md
       - Flying Questions: other_corners/random/flying_questions.md
+      - Should I take pills?: other_corners/random/should_i_take_pills.en.md
+    - Topics:
+      - Overview: other_corners/topics/index.en.md
+      - Biology:
+        - The Human Body: other_corners/topics/biology/the_human_body/index.en.md
+      - Computer Science:
+        - DevOps:
+          - Overview: other_corners/topics/computer_science/devops/index.en.md
+          - Questions: other_corners/topics/computer_science/devops/questions.en.md
+          - IaC (Terraform): other_corners/topics/computer_science/devops/IaC/terraform/questions.en.md
+          - Orchestration (Kubernetes): other_corners/topics/computer_science/devops/orchestration/kubernetes/questions.en.md
+          - OS (Linux): other_corners/topics/computer_science/devops/OS/Linux/questions.en.md
+        - Sources: other_corners/topics/computer_science/sources.en.md
+      - Economy:
+        - Sources: other_corners/topics/economy/sources.en.md
+      - Entrepreneurship:
+        - Market Analysis: 
+          - Overview: other_corners/topics/entrepreneurship/market_analysis/index.en.md
+          - Info: other_corners/topics/entrepreneurship/market_analysis/1_info.en.md
+          - Keywords: other_corners/topics/entrepreneurship/market_analysis/2_keywords.en.md
+          - Questions: other_corners/topics/entrepreneurship/market_analysis/3_questions.en.md
+          - Round Table: other_corners/topics/entrepreneurship/market_analysis/4_roube_table.en.md
+          - Blog: other_corners/topics/entrepreneurship/market_analysis/blog/blog.en.md
+          - Sources: other_corners/topics/entrepreneurship/market_analysis/0_sources.en.md
+        - Sources: other_corners/topics/entrepreneurship/sources.en.md
+      - Labor:
+        - General:
+          - Overview: other_corners/topics/labor/general/index.en.md
+          - Info: other_corners/topics/labor/general/1_info.en.md
+          - Keywords: other_corners/topics/labor/general/2_keywords.en.md
+          - Questions: other_corners/topics/labor/general/3_questions.en.md
+          - Round Table: other_corners/topics/labor/general/4_roube_table.en.md
+          - Incubator: other_corners/topics/labor/general/5_incubator.en.md
+          - Blog: other_corners/topics/labor/general/blog/blog.en.md
+          - Sources: other_corners/topics/labor/general/0_sources.en.md
+        - Job Search:
+          - Overview: other_corners/topics/labor/job search/index.en.md
+          - Market Analysis: other_corners/topics/labor/job search/market_analysis.en.md
+          - Template: other_corners/topics/labor/job search/job_search_template.en.md
+        - Motivation: other_corners/topics/labor/motivation/index.en.md
+      - Military: other_corners/topics/military/index.en.md
+      - Nutrition:
+        - Water:
+          - Overview: other_corners/topics/nutrition/water/index.en.md
+          - Info: other_corners/topics/nutrition/water/1_info.en.md
+          - Keywords: other_corners/topics/nutrition/water/2_keywords.en.md
+          - Questions: other_corners/topics/nutrition/water/3_questions.en.md
+          - Round Table: other_corners/topics/nutrition/water/4_roube_table.en.md
+          - Incubator: other_corners/topics/nutrition/water/5_incubator.en.md
+          - Blog: other_corners/topics/nutrition/water/blog/tap_water_or_bottled_water.en.md
+          - Sources: other_corners/topics/nutrition/water/0_sources.en.md
+      - Philosophy:
+        - Overview: other_corners/topics/philosophy/index.en.md
+        - Info: other_corners/topics/philosophy/1_info.en.md
+        - Keywords: other_corners/topics/philosophy/2_keywords.en.md
+        - Questions: other_corners/topics/philosophy/3_questions.en.md
+        - Round Table: other_corners/topics/philosophy/4_roube_table.en.md
+        - Incubator: other_corners/topics/philosophy/5_incubator.en.md
+        - Sources: other_corners/topics/philosophy/0_sources.en.md
+      - Psychology:
+        - Overview: other_corners/topics/psychology/index.en.md
+        - Info: other_corners/topics/psychology/1_info.en.md
+        - Keywords: other_corners/topics/psychology/2_keywords.en.md
+        - Questions: other_corners/topics/psychology/3_questions.en.md
+        - Round Table: other_corners/topics/psychology/4_roube_table.en.md
+        - Incubator: other_corners/topics/psychology/5_incubator.en.md
+        - Sources: other_corners/topics/psychology/0_sources.en.md
   - About:
     - Overview: about/index.en.md
     - Vision: about/vision.en.md

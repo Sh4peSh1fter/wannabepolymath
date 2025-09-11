@@ -397,6 +397,7 @@ This section details how to get the most out of the chosen toothpaste.
 
 iherb
 https://www.reddit.com/r/Frugal/comments/1arpg4w/dentists_of_reddit_what_toothpaste_do_you/
+https://afterva.com/davids-toothpaste-review/
 
 ---
 

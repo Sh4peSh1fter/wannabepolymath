@@ -56,7 +56,7 @@ To systematically search for information, we can combine keywords from these cat
 
 ---
 
-## Defining the "Health Aspect" in Kitchenware
+## Key Concepts in Healthy Kitchenware
 
 What exactly am I looking for when I prioritize the "health aspect" of kitchen tools? 
 I want to minimize potential harm and maximize safety in relation to the food I prepare and consume. Here's a list of considerations for researching each item:
@@ -143,8 +143,11 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 3. rice cooker
 3.  *(To consider: Food Processor, Electric Kettle, Toaster/Toaster Oven, Rice Cooker - focusing on materials in contact with food or steam)*
 
-### VI. Kitchen Safety
-1.  Fire Extinguisher (Essential for any kitchen)
+### VI. Kitchen Maintenance & Safety
+1. Honing Steel
+2. Knife Wipe Towel
+3. Fire Extinguisher (Essential for any kitchen)
+4. Fermentation Station
 
 honing steel
 knife wipe towel
@@ -152,6 +155,27 @@ cooking chopsticks
 wooden tools
 rubber spatula
 fermentation station
+
+---
+
+## Places to buy from 
+
+1. KSP - https://ksp.co.il/web/
+2. Amazon
+3. hakolabait - https://www.hakolabait.co.il/
+4. kitchenware - https://www.kitchenware.co.il/
+5. sousvide - https://www.sousvide.co.il/
+6. cookshop - https://cookshop.co.il/
+7. 4chef - https://www.4chef.co.il/
+8. naaman - https://www.naamanp.co.il/
+9. soltam - https://soltam.co.il/
+10. iherb - https://il.iherb.com/
+11. Chef Depot - https://www.chefdepot.co.il/
+12. uniqook - https://uniqook.co.il/
+13. carmel direct - https://carmeldirect.com/
+14. argal - https://www.argal.co.il/
+15. riblin - https://www.rivlin.co.il/
+16. cohen itzhak - https://www.cohenitzhak.com/
 
 ---
 
@@ -180,3 +204,14 @@ https://youtu.be/ZSL_Q6Pe-Ao?si=9ztZ3zRxcG9yWRJA
 *   **[Toxic Free Future - Cancer-causing chemicals in black plastic food contact items](https://toxicfreefuture.org/press-room/first-ever-study-finds-cancer-causing-chemicals-in-black-plastic-food-contact-items-sold-in-the-u-s/)**
 *   **[Mamavation (Product investigations & guides)](https://mamavation.com/)**
 *   **[Reader's Digest - Is Cooking With Aluminum Foil Dangerous?](https://www.rd.com/article/cooking-with-aluminum-foil/)**
+
+---
+
+## Join the Conversation
+
+*   Are there other items within kitchenware that are essential to consider?
+*   What are your must-have products or "holy grails" in this category?
+
+---
+
+*Disclaimer: This is a log of my personal research and decision-making process. The principles outlined here guide my choices, but individual product details are subject to change.*

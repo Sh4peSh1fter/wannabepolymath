@@ -49,3 +49,10 @@
 .md-typeset .single-card-grid li {
     text-align: center;
 }
+
+/* Center images */
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

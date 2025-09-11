@@ -1,3 +1,0 @@
-wheat
-spelt
-rye

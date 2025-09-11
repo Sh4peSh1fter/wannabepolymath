@@ -36,6 +36,12 @@ Here are all the other corners that didn't make it in the main selection.
 
     A collection of recipes, cooking techniques, and explorations in making food from scratch.
 
+-   [**Expeditions**](./expeditions/index.en.md)
+
+    ---
+
+    travel.
+
 -   [**Random**](./random/index.en.md)
 
     ---

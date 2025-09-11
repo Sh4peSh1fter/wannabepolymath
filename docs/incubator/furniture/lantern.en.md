@@ -1,0 +1,1 @@
+portable hanging lantern A-shape bulb that I control as part of my smart home system.

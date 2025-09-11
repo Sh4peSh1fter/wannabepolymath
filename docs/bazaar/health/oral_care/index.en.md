@@ -32,7 +32,7 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
     *   A diagnostic tool to analyze the composition of bacteria in the mouth.
 8.  **Saliva pH Test Strips** 
     *   A diagnostic tool to measure saliva acidity and assess real-time demineralization risk.
-9.  **[Mouthguard](./mouthguard.en.md)** 
+9.  **Mouthguard** 
     *   A protective device used to prevent injury from teeth grinding (bruxism) or during sports.
 
 ---
@@ -124,5 +124,5 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
     *   *Link:* [https://youtu.be/_oOEKKiwdDE?si=DoHWd79OIjzxtWiP](https://youtu.be/_oOEKKiwdDE?si=DoHWd79OIjzxtWiP)
     *   *Note:* A breakdown of effective and beneficial ingredients to look for in toothpaste.
 
-
-
+https://www.youtube.com/@afterva
+https://afterva.com/
