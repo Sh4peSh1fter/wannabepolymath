@@ -2,33 +2,29 @@
 title: Hall of Fame
 description: A collection of people and organizations that are inspiring.
 icon: material/trophy
+hide:
+  - navigation
+  - toc
 ---
 
 # Hall of Fame
 
-![Hall of Fame Banner](./_assets/hall_of_fame_banner.png){: .center }
+<figure markdown="span">
+  ![Hall of Fame Banner](./_assets/hall_of_fame_banner.png){: .center }
+  <figcaption>Dedicated space to honor the people, organizations, and ideas that inspire and motivate me</figcaption>
+</figure>
 
 ## Introduction
 
-Welcome to the Hall of Fame – a dedicated space to honor the people, organizations, and ideas that inspire and motivate me. Each entry represents a source of admiration, a lesson learned, or a standard of excellence to strive for.
+Each entry represents a source of admiration, a lesson learned, or a standard of excellence to strive for.
 
-## Categories
+## Structure
+
+The sources of inspiration are grouped by the field of influence
 
 <div class="grid cards" markdown>
 
--   [**Education**](./education/index.en.md)
-
-    ---
-
-    Educators and communicators who make complex topics accessible and exciting.
-
--   [**Music**](./music/index.en.md)
-
-    ---
-    
-    Musicians, composers, and artists who have had a profound impact.
-
--   [**Polymaths**](./polymath/index.en.md)
+-   [**Polymaths**](./polymaths/index.en.md)
 
     ---
 
@@ -40,10 +36,22 @@ Welcome to the Hall of Fame – a dedicated space to honor the people, organizat
 
     Scientists and researchers who have pushed the boundaries of human knowledge.
 
+-   [**Education**](./education/index.en.md)
+
+    ---
+
+    Educators and communicators who make complex topics accessible and exciting.
+
 -   [**Arts & Entertainment**](./arts_and_entertainment/index.en.md)
 
     ---
 
     Creators and entertainers who have made a significant cultural impact.
+
+-   [**Music**](./music/index.en.md)
+
+    ---
+    
+    Musicians, composers, and artists who have had a profound impact.
 
 </div>

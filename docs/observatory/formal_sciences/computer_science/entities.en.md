@@ -1,0 +1,251 @@
+# Key Entities in computer science
+
+A list of key individuals who have made significant contributions to computer science.
+
+## Key Figures
+
+- `Richard Stallman`
+    - *Description* - An American free software movement activist and programmer.
+    - *Link* - https://en.wikipedia.org/wiki/Richard_Stallman
+- `Guido van Rossum`
+    - *Description* - A Dutch programmer who is best known as the author of the Python programming language.
+    - *Link* - https://en.wikipedia.org/wiki/Guido_van_Rossum
+
+## Influencers
+
+ - Itsoknoproblembro
+    - *Description* - A security researcher and content creator.
+    - *Link* - https://www.youtube.com/c/itsoknoproblembro
+<!-- a list of all the modern age influencers -->
+
+ - [Figure Name] 
+    - *Description* - A brief description of their recent or ongoing work.
+    - *Link* - [Link to personal website, publications, or social media]
+
+## Companies
+
+ - Hybrid Analysis
+    - *Description* - A free malware analysis service by CrowdStrike for detecting and analyzing unknown threats.
+    - *Link* - https://www.hybrid-analysis.com/
+ - Imperva
+    - *Description* - A cybersecurity company that provides protection for data and applications.
+    - *Link* - https://www.imperva.com/
+ - Aqua Security Software Ltd.
+    - *Description* - A security company specializing in cloud native applications.
+    - *Link* - https://www.aquasec.com/
+ - Cyberark
+    - *Description* - An identity security company.
+    - *Link* - https://www.cyberark.com/
+ - Lightricks
+    - *Description* - A software company that develops video and image editing mobile apps.
+    - *Link* - https://www.lightricks.com/
+ - appsflyer
+    - *Description* - A SaaS mobile marketing analytics and attribution platform.
+    - *Link* - https://www.appsflyer.com/
+ - forter
+    - *Description* - A SaaS company that provides fraud prevention technology for online retailers and marketplaces.
+    - *Link* - https://www.forter.com/
+ - silverfort
+    - *Description* - A cybersecurity company that provides a unified identity protection platform.
+    - *Link* - https://www.silverfort.com/
+ - Joesecurity – joe sandbox cloud
+    - *Description* - A deep malware analysis sandbox.
+    - *Link* - https://www.joesecurity.org/
+ - namecheap
+    - *Description* - A domain name registrar and web hosting company.
+    - *Link* - https://www.namecheap.com/
+ - Firedome
+    - *Description* - An IoT security company.
+    - *Link* - https://firedome.io/
+ - Arena
+    - *Description* - A discrete event simulation and automation software.
+    - *Link* - https://www.arenasimulation.com/
+ - Linode
+    - *Description* - A cloud hosting company.
+    - *Link* - https://www.linode.com/
+ - Cybereason
+    - *Description* - A cybersecurity company.
+    - *Link* - https://www.cybereason.com/
+ - Pagaya
+    - *Description* - An asset management firm that uses machine learning and big data analytics to manage institutional and private assets.
+    - *Link* - https://www.pagaya.com/
+ - SAS Institute
+    - *Description* - A multinational developer of analytics software.
+    - *Link* - https://www.sas.com/
+ - Feedzai
+    - *Description* - A data science company that sells AI-powered software for fraud and money laundering detection.
+    - *Link* - https://feedzai.com/
+ - Appuse
+    - *Description* - A platform for testing mobile applications.
+    - *Link* - https://appuse.io/
+ - Applitools
+    - *Description* - An application visual management and AI-powered visual UI testing platform.
+    - *Link* - https://applitools.com/
+ - Digitalocean
+    - *Description* - A cloud infrastructure provider.
+    - *Link* - https://www.digitalocean.com/
+ - HashiCorp
+    - *Description* - A software company with a freemium business model based on its open-source tools.
+    - *Link* - https://www.hashicorp.com/
+ - Oracle Ravello
+    - *Description* - A cloud service that enables to run VMware and KVM based workloads in the public cloud.
+    - *Link* - https://www.ravellosystems.com/
+ - 0x00sec
+    - *Description* - A community for cybersecurity enthusiasts.
+    - *Link* - https://0x00sec.org/
+ - Netapp
+    - *Description* - A hybrid cloud data services and data management company.
+    - *Link* - https://www.netapp.com/
+ - Redis
+    - *Description* - An in-memory data structure store, used as a database, cache and message broker.
+    - *Link* - https://redis.io/
+ - Minio browser
+    - *Description* - A graphical user interface for MinIO Server.
+    - *Link* - https://min.io/
+ - Brave browser
+    - *Description* - A free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser.
+    - *Link* - https://brave.com/
+ - suse
+    - *Description* - A German-based multinational open-source software company.
+    - *Link* - https://wwwsuse.com/
+ - Alteon WebSystems
+    - *Description* - A manufacturer of load balancing equipment.
+    - *Link* - https://en.wikipedia.org/wiki/Alteon_WebSystems
+ - jfrog
+    - *Description* - A software company that provides a platform for software developers to manage and distribute their software.
+    - *Link* - https://jfrog.com/
+ - VMware
+    - *Description* - A software company that provides cloud computing and virtualization software and services.
+    - *Link* - https://www.vmware.com/
+ - Oracle Golden Gate
+    - *Description* - A software product that allows you to replicate, filter, and transform data from one database to another.
+    - *Link* - https://www.oracle.com/integration/goldengate/
+ - data guard
+    - *Description* - A feature of the Oracle database that provides a comprehensive set of services that create, maintain, manage, and monitor one or more standby databases to enable production Oracle databases to survive disasters and data corruptions.
+    - *Link* - https://www.oracle.com/database/data-guard/
+ - thanos github (thanos io)
+    - *Description* - A set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
+    - *Link* - https://thanos.io/
+ - stackalytics
+    - *Description* - A web application that provides analytics for OpenStack development.
+    - *Link* - https://wiki.openstack.org/wiki/Stackalytics
+ - Rundeck (ansible)
+    - *Description* - An open-source automation tool for running tasks on a set of nodes.
+    - *Link* - https://www.rundeck.com/
+ - postgrass
+    - *Description* - A free and open-source relational database management system emphasizing extensibility and SQL compliance.
+    - *Link* - https://www.postgresql.org/
+ - mongoDB
+    - *Description* - A source-available cross-platform document-oriented database program.
+    - *Link* - https://www.mongodb.com/
+ - Pxelinux
+    - *Description* - A bootloader for Linux systems that allows them to be booted over a network.
+    - *Link* - https://wiki.syslinux.org/wiki/index.php?title=PXELINUX
+ - System Center Operations Manager (SCOM)
+    - *Description* - A cross-platform data center monitoring system for operating systems and hypervisors.
+    - *Link* - https://docs.microsoft.com/en-us/system-center/scom/welcome
+ - itm monitoring
+    - *Description* - A set of tools for monitoring and managing systems.
+    - *Link* - https://www.ibm.com/support/knowledgecenter/SSTFXA_6.3.0/com.ibm.itm.doc_6.3/welcome.htm
+ - objectserver
+    - *Description* - A high-performance, in-memory database that is the core of Netcool/OMNIbus.
+    - *Link* - https://www.ibm.com/support/knowledgecenter/SSSHTQ_8.1.0/com.ibm.netcool_OMNIbus.doc_8.1.0/omnibus/wip/install/concept/omn_con_core_objectserver.html
+ - edureka
+    - *Description* - An online learning platform.
+    - *Link* - https://www.edureka.co/
+ - Katacoda
+    - *Description* - An interactive learning platform for software engineers.
+    - *Link* - https://www.katacoda.com/
+ - PwC (PricewaterhouseCoopers)
+    - *Description* - A multinational professional services network of firms.
+    - *Link* - https://www.pwc.com/
+ - acronis true image
+    - *Description* - A software product that provides data protection for personal users including, backup, archive, access and recovery for Windows, macOS, iOS, and Android operating systems.
+    - *Link* - https://www.acronis.com/en-us/products/true-image/
+ - Fabric react
+    - *Description* - A responsive, mobile-first, front-end framework.
+    - *Link* - https://developer.microsoft.com/en-us/fluentui#/
+ - afl-unicorn
+    - *Description* - A fuzzer for emulating and fuzzing binaries.
+    - *Link* - https://github.com/AFLplusplus/AFL-Unicorn
+ - cargo fuzz / rust fuzz
+    - *Description* - A command-line fuzzer for Rust.
+    - *Link* - https://github.com/rust-fuzz/cargo-fuzz
+ - nexmon
+    - *Description* - A C-based firmware patching framework for Broadcom/Cypress WiFi chips that enables you to write your own firmware patches.
+    - *Link* - https://github.com/seemoo-lab/nexmon
+ - space cloud (github)
+    - *Description* - A Kubernetes-based serverless platform that provides instant, real-time APIs on top of any database.
+    - *Link* - https://github.com/spaceuptech/space-cloud
+ - op tee
+    - *Description* - An open source Trusted Execution Environment.
+    - *Link* - https://www.op-tee.org/
+ - OSSIM
+    - *Description* - An open source security information and event management system.
+    - *Link* - https://www.alienvault.com/products/ossim
+ - Nessus
+    - *Description* - A proprietary vulnerability scanner.
+    - *Link* - https://www.tenable.com/products/nessus
+ - Sqlmap
+    - *Description* - An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
+    - *Link* - https://sqlmap.org/
+ - Maltego
+    - *Description* - A software used for open-source intelligence and forensics.
+    - *Link* - https://www.maltego.com/
+ - Aircrack-ng
+    - *Description* - A network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool for 802.11 wireless LANs.
+    - *Link* - https://www.aircrack-ng.org/
+ - OpenVAS
+    - *Description* - A software framework of several services and tools offering vulnerability scanning and vulnerability management.
+    - *Link* - https://www.openvas.org/
+ - Zenmap
+    - *Description* - The official Nmap Security Scanner GUI.
+    - *Link* - https://nmap.org/zenmap/
+ - Snort
+    - *Description* - A free and open-source network intrusion prevention system and network intrusion detection system.
+    - *Link* - https://www.snort.org/
+ - Hashcat
+    - *Description* - A password recovery tool.
+    - *Link* - https://hashcat.net/hashcat/
+ - Armitage (computing)
+    - *Description* - A graphical cyber attack management tool for the Metasploit Project.
+    - *Link* - https://www.fastandeasyhacking.com/
+ - w3af
+    - *Description* - A web application attack and audit framework.
+    - *Link* - http://w3af.org/
+ - Grunt
+    - *Description* - A JavaScript task runner.
+    - *Link* - https://gruntjs.com/
+ - Gedit
+    - *Description* - A text editor for the GNOME desktop environment.
+    - *Link* - https://wiki.gnome.org/Apps/Gedit
+ - AkelPad
+    - *Description* - A small, expandable text editor for Windows.
+    - *Link* - http://akelpad.sourceforge.net/en/index.php
+ - Cloud9 IDE
+    - *Description* - An online integrated development environment.
+    - *Link* - https://aws.amazon.com/cloud9/
+ - Wakanda (software)
+    - *Description* - A JavaScript platform for developing web and mobile applications.
+    - *Link* - https://wakanda.io/
+ - pyEMU
+    - *Description* - A Python-based x86 emulator.
+    - *Link* - https://github.com/lameg/pyemu
+ - cryptomove
+    - *Description* - A data security company.
+    - *Link* - https://www.cryptomove.com/
+ - cybrary
+    - *Description* - A cybersecurity and IT training platform.
+    - *Link* - https://www.cybrary.it/
+
+## Organizations
+
+ - [Organization Name] 
+    - *Description* - Brief description of their role and mission.
+    - *Link* - [Link to personal website, publications, or social media]
+
+## Academic & Research Institutions
+
+ - [Institution Name] 
+    - *Description* -  Brief description of their focus and contributions.
+    - *Link* - [Link to personal website, publications, or social media]

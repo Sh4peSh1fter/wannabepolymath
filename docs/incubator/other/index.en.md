@@ -21,4 +21,16 @@ This section contains all miscellaneous projects currently in the incubator.
 
     A customizable workout plan project for achieving fitness goals.
 
+-   [**Sourdough**](./sourdough_starter.en.md)
+
+    ---
+
+    A guide to creating and maintaining a sourdough starter from scratch.
+
+-   [**Bedroom Plants**](./bedroom_plants.en.md)
+
+    ---
+
+    A project focused on selecting and caring for plants that thrive in a bedroom environment.
+
 </div>

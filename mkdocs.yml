@@ -1,7 +1,7 @@
 # Project information
 docs_dir: docs
-site_name: Wanna Be Polymath
-site_url: https://wannabepolymath.github.io/
+site_name: Wannabe Polymath
+site_url: https://Sh4peSh1fter.github.io/wannabepolymath/
 site_author: kivsean
 site_description: >-
   a mix of a personal website, portfolio, blog, and more? about everything?
@@ -115,122 +115,122 @@ nav:
   - Home: index.md
   - Observatory: 
     - Overview: observatory/index.md
-    - Natural Sciences:
-      - "- Physics":
-        - Overview: observatory/physics/index.en.md
-        - Key Terms & Concepts: observatory/physics/keywords.en.md
-        - Key Entities: observatory/physics/entities.en.md
-        - Sources & Further Reading: observatory/physics/sources.en.md
-      - "- Chemistry":
-        - Overview: observatory/chemistry/index.en.md
-        - Key Terms & Concepts: observatory/chemistry/keywords.en.md
-        - Key Entities: observatory/chemistry/entities.en.md
-        - Sources & Further Reading: observatory/chemistry/sources.en.md
-      - "- Biology":
-        - Overview: observatory/biology/index.en.md
-        - Key Terms & Concepts: observatory/biology/keywords.en.md
-        - Key Entities: observatory/biology/entities.en.md
-        - Sources & Further Reading: observatory/biology/sources.en.md
-      - "- Earth Science":
-        - Overview: observatory/earth_science/index.en.md
-        - Key Terms & Concepts: observatory/earth_science/keywords.en.md
-        - Key Entities: observatory/earth_science/entities.en.md
-        - Sources & Further Reading: observatory/earth_science/sources.en.md
-      - "- Astronomy":
-        - Overview: observatory/astronomy/index.en.md
-        - Key Terms & Concepts: observatory/astronomy/keywords.en.md
-        - Key Entities: observatory/astronomy/entities.en.md
-        - Sources & Further Reading: observatory/astronomy/sources.en.md
-    - Formal Sciences:
-      - "- Mathematics":
-        - Overview: observatory/mathematics/index.en.md
-        - Key Terms & Concepts: observatory/mathematics/keywords.en.md
-        - Key Entities: observatory/mathematics/entities.en.md
-        - Sources & Further Reading: observatory/mathematics/sources.en.md
-      - "- Logic":
-        - Overview: observatory/logic/index.en.md
-        - Key Terms & Concepts: observatory/logic/keywords.en.md
-        - Key Entities: observatory/logic/entities.en.md
-        - Sources & Further Reading: observatory/logic/sources.en.md
-      - "- Computer Science":
-        - Overview: observatory/computer_science/index.en.md
-        - Key Terms & Concepts: observatory/computer_science/keywords.en.md
-        - Key Entities: observatory/computer_science/entities.en.md
-        - Sources & Further Reading: observatory/computer_science/sources.en.md
-    - Social Sciences:
-      - "- Psychology":
-        - Overview: observatory/psychology/index.en.md
-        - Key Terms & Concepts: observatory/psychology/keywords.en.md
-        - Key Entities: observatory/psychology/entities.en.md
-        - Sources & Further Reading: observatory/psychology/sources.en.md
-      - "- Sociology":
-        - Overview: observatory/sociology/index.en.md
-        - Key Terms & Concepts: observatory/sociology/keywords.en.md
-        - Key Entities: observatory/sociology/entities.en.md
-        - Sources & Further Reading: observatory/sociology/sources.en.md
-      - "- Economics":
-        - Overview: observatory/economics/index.en.md
-        - Key Terms & Concepts: observatory/economics/keywords.en.md
-        - Key Entities: observatory/economics/entities.en.md
-        - Sources & Further Reading: observatory/economics/sources.en.md
-      - "- Political Science":
-        - Overview: observatory/political_science/index.en.md
-        - Key Terms & Concepts: observatory/political_science/keywords.en.md
-        - Key Entities: observatory/political_science/entities.en.md
-        - Sources & Further Reading: observatory/political_science/sources.en.md
-      - "- Anthropology":
-        - Overview: observatory/anthropology/index.en.md
-        - Key Terms & Concepts: observatory/anthropology/keywords.en.md
-        - Key Entities: observatory/anthropology/entities.en.md
-        - Sources & Further Reading: observatory/anthropology/sources.en.md
-      - "- History":
-        - Overview: observatory/history/index.en.md
-        - Key Terms & Concepts: observatory/history/keywords.en.md
-        - Key Entities: observatory/history/entities.en.md
-        - Sources & Further Reading: observatory/history/sources.en.md
-    - Applied Sciences:
-      - "- Engineering":
-        - Overview: observatory/engineering/index.en.md
-        - Key Terms & Concepts: observatory/engineering/keywords.en.md
-        - Key Entities: observatory/engineering/entities.en.md
-        - Sources & Further Reading: observatory/engineering/sources.en.md
-      - "- Medicine":
-        - Overview: observatory/medicine/index.en.md
-        - Key Terms & Concepts: observatory/medicine/keywords.en.md
-        - Key Entities: observatory/medicine/entities.en.md
-        - Sources & Further Reading: observatory/medicine/sources.en.md
-    - Humanities:
-      - "- Philosophy":
-        - Overview: observatory/philosophy/index.en.md
-        - Key Terms & Concepts: observatory/philosophy/keywords.en.md
-        - Key Entities: observatory/philosophy/entities.en.md
-        - Sources & Further Reading: observatory/philosophy/sources.en.md
-      - "- Linguistics":
-        - Overview: observatory/linguistics/index.en.md
-        - Key Terms & Concepts: observatory/linguistics/keywords.en.md
-        - Key Entities: observatory/linguistics/entities.en.md
-        - Sources & Further Reading: observatory/linguistics/sources.en.md
-      - "- Literature":
-        - Overview: observatory/literature/index.en.md
-        - Key Terms & Concepts: observatory/literature/keywords.en.md
-        - Key Entities: observatory/literature/entities.en.md
-        - Sources & Further Reading: observatory/literature/sources.en.md
-    - Other:
-      - "- Military":
-        - Overview: observatory/military/index.en.md
-        - Key Terms & Concepts: observatory/military/keywords.en.md
-        - Key Entities: observatory/military/entities.en.md
-        - Sources & Further Reading: observatory/military/sources.en.md
-      - "- Nutrition":
-        - Overview: observatory/nutrition/index.en.md
-        - Key Terms & Concepts: observatory/nutrition/keywords.en.md
-        - Key Entities: observatory/nutrition/entities.en.md
-        - Sources & Further Reading: observatory/nutrition/sources.en.md
-      - "- Woodworking":
-        - Overview: observatory/woodworking/index.en.md
-        - Key Terms & Concepts: observatory/woodworking/keywords.en.md
-        - Key Entities: observatory/woodworking/entities.en.md
-        - Sources & Further Reading: observatory/woodworking/sources.en.md
+    - "Natural Sciences":
+      - "Physics":
+        - Overview: observatory/natural_sciences/physics/index.en.md
+        - Key Terms & Concepts: observatory/natural_sciences/physics/keywords.en.md
+        - Key Entities: observatory/natural_sciences/physics/entities.en.md
+        - Sources & Further Reading: observatory/natural_sciences/physics/sources.en.md
+      - "Chemistry":
+        - Overview: observatory/natural_sciences/chemistry/index.en.md
+        - Key Terms & Concepts: observatory/natural_sciences/chemistry/keywords.en.md
+        - Key Entities: observatory/natural_sciences/chemistry/entities.en.md
+        - Sources & Further Reading: observatory/natural_sciences/chemistry/sources.en.md
+      - "Biology":
+        - Overview: observatory/natural_sciences/biology/index.en.md
+        - Key Terms & Concepts: observatory/natural_sciences/biology/keywords.en.md
+        - Key Entities: observatory/natural_sciences/biology/entities.en.md
+        - Sources & Further Reading: observatory/natural_sciences/biology/sources.en.md
+      - "Earth Science":
+        - Overview: observatory/natural_sciences/earth_science/index.en.md
+        - Key Terms & Concepts: observatory/natural_sciences/earth_science/keywords.en.md
+        - Key Entities: observatory/natural_sciences/earth_science/entities.en.md
+        - Sources & Further Reading: observatory/natural_sciences/earth_science/sources.en.md
+      - "Astronomy":
+        - Overview: observatory/natural_sciences/astronomy/index.en.md
+        - Key Terms & Concepts: observatory/natural_sciences/astronomy/keywords.en.md
+        - Key Entities: observatory/natural_sciences/astronomy/entities.en.md
+        - Sources & Further Reading: observatory/natural_sciences/astronomy/sources.en.md
+    - "Formal Sciences":
+      - "Mathematics":
+        - Overview: observatory/formal_sciences/mathematics/index.en.md
+        - Key Terms & Concepts: observatory/formal_sciences/mathematics/keywords.en.md
+        - Key Entities: observatory/formal_sciences/mathematics/entities.en.md
+        - Sources & Further Reading: observatory/formal_sciences/mathematics/sources.en.md
+      - "Logic":
+        - Overview: observatory/formal_sciences/logic/index.en.md
+        - Key Terms & Concepts: observatory/formal_sciences/logic/keywords.en.md
+        - Key Entities: observatory/formal_sciences/logic/entities.en.md
+        - Sources & Further Reading: observatory/formal_sciences/logic/sources.en.md
+      - "Computer Science":
+        - Overview: observatory/formal_sciences/computer_science/index.en.md
+        - Key Terms & Concepts: observatory/formal_sciences/computer_science/keywords.en.md
+        - Key Entities: observatory/formal_sciences/computer_science/entities.en.md
+        - Sources & Further Reading: observatory/formal_sciences/computer_science/sources.en.md
+    - "Social Sciences":
+      - "Psychology":
+        - Overview: observatory/social_sciences/psychology/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/psychology/keywords.en.md
+        - Key Entities: observatory/social_sciences/psychology/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/psychology/sources.en.md
+      - "Sociology":
+        - Overview: observatory/social_sciences/sociology/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/sociology/keywords.en.md
+        - Key Entities: observatory/social_sciences/sociology/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/sociology/sources.en.md
+      - "Economics":
+        - Overview: observatory/social_sciences/economics/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/economics/keywords.en.md
+        - Key Entities: observatory/social_sciences/economics/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/economics/sources.en.md
+      - "Political Science":
+        - Overview: observatory/social_sciences/political_science/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/political_science/keywords.en.md
+        - Key Entities: observatory/social_sciences/political_science/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/political_science/sources.en.md
+      - "Anthropology":
+        - Overview: observatory/social_sciences/anthropology/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/anthropology/keywords.en.md
+        - Key Entities: observatory/social_sciences/anthropology/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/anthropology/sources.en.md
+      - "History":
+        - Overview: observatory/social_sciences/history/index.en.md
+        - Key Terms & Concepts: observatory/social_sciences/history/keywords.en.md
+        - Key Entities: observatory/social_sciences/history/entities.en.md
+        - Sources & Further Reading: observatory/social_sciences/history/sources.en.md
+    - "Applied Sciences":
+      - "Engineering":
+        - Overview: observatory/applied_sciences/engineering/index.en.md
+        - Key Terms & Concepts: observatory/applied_sciences/engineering/keywords.en.md
+        - Key Entities: observatory/applied_sciences/engineering/entities.en.md
+        - Sources & Further Reading: observatory/applied_sciences/engineering/sources.en.md
+      - "Medicine":
+        - Overview: observatory/applied_sciences/medicine/index.en.md
+        - Key Terms & Concepts: observatory/applied_sciences/medicine/keywords.en.md
+        - Key Entities: observatory/applied_sciences/medicine/entities.en.md
+        - Sources & Further Reading: observatory/applied_sciences/medicine/sources.en.md
+    - "Humanities":
+      - "Philosophy":
+        - Overview: observatory/humanities/philosophy/index.en.md
+        - Key Terms & Concepts: observatory/humanities/philosophy/keywords.en.md
+        - Key Entities: observatory/humanities/philosophy/entities.en.md
+        - Sources & Further Reading: observatory/humanities/philosophy/sources.en.md
+      - "Linguistics":
+        - Overview: observatory/humanities/linguistics/index.en.md
+        - Key Terms & Concepts: observatory/humanities/linguistics/keywords.en.md
+        - Key Entities: observatory/humanities/linguistics/entities.en.md
+        - Sources & Further Reading: observatory/humanities/linguistics/sources.en.md
+      - "Literature":
+        - Overview: observatory/humanities/literature/index.en.md
+        - Key Terms & Concepts: observatory/humanities/literature/keywords.en.md
+        - Key Entities: observatory/humanities/literature/entities.en.md
+        - Sources & Further Reading: observatory/humanities/literature/sources.en.md
+    - "Other":
+      - "Military":
+        - Overview: observatory/other/military/index.en.md
+        - Key Terms & Concepts: observatory/other/military/keywords.en.md
+        - Key Entities: observatory/other/military/entities.en.md
+        - Sources & Further Reading: observatory/other/military/sources.en.md
+      - "Nutrition":
+        - Overview: observatory/other/nutrition/index.en.md
+        - Key Terms & Concepts: observatory/other/nutrition/keywords.en.md
+        - Key Entities: observatory/other/nutrition/entities.en.md
+        - Sources & Further Reading: observatory/other/nutrition/sources.en.md
+      - "Woodworking":
+        - Overview: observatory/other/woodworking/index.en.md
+        - Key Terms & Concepts: observatory/other/woodworking/keywords.en.md
+        - Key Entities: observatory/other/woodworking/entities.en.md
+        - Sources & Further Reading: observatory/other/woodworking/sources.en.md
   - Round Table: 
     - Overview: round_table/index.md
     - Labor: round_table/labor.en.md
@@ -242,130 +242,139 @@ nav:
     - Oral Health: round_table/oral_health.en.md
   - Incubator:
     - Overview: incubator/index.md
-    - Food:
-      - Overview: incubator/food/index.en.md
-      - "- Sourdough": incubator/food/sourdough_starter.en.md
-    - Furniture: 
-      - Overview: incubator/furniture/index.en.md
-      - "- Closet Storage Wall": incubator/furniture/closet_storage_wall.en.md
-      - "- Coffee Desk": incubator/furniture/coffee_desk.en.md
-      - "- Desk Helping Hand": incubator/furniture/desk_helping_hand.en.md
-      - "- Lantern": incubator/furniture/lantern.en.md
-      - "- Portable Whiteboard": incubator/furniture/portable_whiteboard.en.md
-      - "- Shoe Bench": incubator/furniture/shoe_bench.en.md
-      - "- Smart Robotic Arm": incubator/furniture/smart_robotic_arm.en.md
-      - "- Wall Storage": incubator/furniture/wall_storage.en.md
-    - Plants:
-      - Overview: incubator/plants/index.en.md
-      - "- Bedroom Plants": incubator/plants/bedroom_plants.en.md
     - Tech:
       - Overview: incubator/tech/index.en.md
-      - "- Anti-pigeon": incubator/tech/anti-pigeon.en.md
-      - "- Flying Dog": incubator/tech/flying_dog.en.md
-      - "- Smart Home Automation": incubator/tech/smart-home-automation.en.md
+      - "Anti-pigeon": incubator/tech/anti-pigeon.en.md
+      - "Flying Dog": incubator/tech/flying_dog.en.md
+      - "Smart Home Automation": incubator/tech/smart-home-automation.en.md
+    - Furniture: 
+      - Overview: incubator/furniture/index.en.md
+      - "Closet Storage Wall": incubator/furniture/closet_storage_wall.en.md
+      - "Coffee Desk": incubator/furniture/coffee_desk.en.md
+      - "Desk Helping Hand": incubator/furniture/desk_helping_hand.en.md
+      - "Lantern": incubator/furniture/lantern.en.md
+      - "Portable Whiteboard": incubator/furniture/portable_whiteboard.en.md
+      - "Shoe Bench": incubator/furniture/shoe_bench.en.md
+      - "Smart Robotic Arm": incubator/furniture/smart_robotic_arm.en.md
+      - "Wall Storage": incubator/furniture/wall_storage.en.md
     - Other:
       - Overview: incubator/other/index.en.md
-      - "- DIY Air Purifier": incubator/other/diy_air_purifier.en.md
-      - "- Workout Plan": incubator/other/workout_plan.en.md
-  - Academy: academy/index.md
+      - "DIY Air Purifier": incubator/other/diy_air_purifier.en.md
+      - "Workout Plan": incubator/other/workout_plan.en.md
+      - "Sourdough": incubator/other/sourdough_starter.en.md
+      - "Bedroom Plants": incubator/other/bedroom_plants.en.md
+  - Academy:
+    - Overview: academy/index.md
+    - Tutorials:
+      - Overview: academy/tutorials/index.en.md
+      - "Example Tutorial 1": academy/tutorials/tutorial-1.en.md
+    - "How-to Guides":
+      - Overview: academy/how-to-guides/index.en.md
+      - "Example How-to Guide 1": academy/how-to-guides/how-to-guide-1.en.md
+    - "Troubleshooting Journals":
+      - Overview: academy/troubleshooting-journals/index.en.md
+      - "Example Troubleshooting Journal 1": academy/troubleshooting-journals/troubleshooting-journal-1.en.md
+    - Presentations:
+      - Overview: academy/presentations/index.en.md
+      - "Example Presentation 1": academy/presentations/presentation-1.en.md
   - Bazaar:
     - Overview: bazaar/index.en.md
     - Health:
       - Overview: bazaar/health/index.en.md
       - Air Quality:
         - Overview: bazaar/health/air_quality/index.en.md
-        - "- Air Quality Monitor": bazaar/health/air_quality/air_quality_monitor.en.md
-        - "- Air Purifier": bazaar/health/air_quality/air_purifier.en.md
+        - "Air Quality Monitor": bazaar/health/air_quality/air_quality_monitor.en.md
+        - "Air Purifier": bazaar/health/air_quality/air_purifier.en.md
       - Oral Care:
         - Overview: bazaar/health/oral_care/index.en.md
-        - "- Toothbrush": bazaar/health/oral_care/toothbrush.en.md
-        - "- Toothpaste": bazaar/health/oral_care/toothpaste.en.md
-        - "- Floss": bazaar/health/oral_care/floss.en.md
-        - "- Tongue Scraper": bazaar/health/oral_care/tongue-scraper.en.md
+        - "Toothbrush": bazaar/health/oral_care/toothbrush.en.md
+        - "Toothpaste": bazaar/health/oral_care/toothpaste.en.md
+        - "Floss": bazaar/health/oral_care/floss.en.md
+        - "Tongue Scraper": bazaar/health/oral_care/tongue-scraper.en.md
       - Skin Care:
         - Overview: bazaar/health/skin_care/index.en.md
-        - "- Anti-inflammatory": bazaar/health/skin_care/anti-inflammatory.en.md
-        - "- Body Wash": bazaar/health/skin_care/body-wash.en.md
-        - "- Chemical Exfoliant": bazaar/health/skin_care/chemical-exfoliant.en.md
-        - "- Deodorant": bazaar/health/skin_care/deodorant.en.md
-        - "- Face Scrubber": bazaar/health/skin_care/face-scrubber.en.md
-        - "- Face Wash": bazaar/health/skin_care/face-wash.en.md
-        - "- Facial Sunscreen": bazaar/health/skin_care/facial-sunscreen.en.md
-        - "- Scalp Massager": bazaar/health/skin_care/scalp-massager.en.md
-        - "- Shampoo": bazaar/health/skin_care/shampoo.en.md
-        - "- Toner": bazaar/health/skin_care/toner.en.md
+        - "Anti-inflammatory": bazaar/health/skin_care/anti-inflammatory.en.md
+        - "Body Wash": bazaar/health/skin_care/body-wash.en.md
+        - "Chemical Exfoliant": bazaar/health/skin_care/chemical-exfoliant.en.md
+        - "Deodorant": bazaar/health/skin_care/deodorant.en.md
+        - "Face Scrubber": bazaar/health/skin_care/face-scrubber.en.md
+        - "Face Wash": bazaar/health/skin_care/face-wash.en.md
+        - "Facial Sunscreen": bazaar/health/skin_care/facial-sunscreen.en.md
+        - "Scalp Massager": bazaar/health/skin_care/scalp-massager.en.md
+        - "Shampoo": bazaar/health/skin_care/shampoo.en.md
+        - "Toner": bazaar/health/skin_care/toner.en.md
       - Household: bazaar/health/household/index.en.md
     - Home Automation:
       - Overview: bazaar/home_automation/index.en.md
       - Lighting:
         - Overview: bazaar/home_automation/lighting/index.en.md
-        - "- LED Strips": bazaar/home_automation/lighting/led-strips.en.md
-        - "- Smart Bulbs": bazaar/home_automation/lighting/smart-bulbs.en.md
+        - "LED Strips": bazaar/home_automation/lighting/led-strips.en.md
+        - "Smart Bulbs": bazaar/home_automation/lighting/smart-bulbs.en.md
       - Sensors:
         - Overview: bazaar/home_automation/sensors/index.en.md
-        - "- Presence Sensors (mmWave)": bazaar/home_automation/sensors/presence-sensors-mmwave.en.md
-        - "- Motion & Contact Sensors": bazaar/home_automation/sensors/sensors-motion-contact.en.md
+        - "Presence Sensors (mmWave)": bazaar/home_automation/sensors/presence-sensors-mmwave.en.md
+        - "Motion & Contact Sensors": bazaar/home_automation/sensors/sensors-motion-contact.en.md
       - Control Interfaces:
         - Overview: bazaar/home_automation/control_interfaces/index.en.md
-        - "- Hubs and Controllers": bazaar/home_automation/control_interfaces/hubs-and-controllers.en.md
-        - "- Touch Displays": bazaar/home_automation/control_interfaces/touch-displays.en.md
+        - "Hubs and Controllers": bazaar/home_automation/control_interfaces/hubs-and-controllers.en.md
+        - "Touch Displays": bazaar/home_automation/control_interfaces/touch-displays.en.md
     - Kitchenware: 
       - Overview: bazaar/kitchenware/index.en.md
       - Cookware:
         - Overview: bazaar/kitchenware/cookware/index.en.md
-        - "- Pan": bazaar/kitchenware/cookware/pan.en.md
-        - "- Pot": bazaar/kitchenware/cookware/pot.en.md
-        - "- Wok": bazaar/kitchenware/cookware/wok.en.md
+        - "Pan": bazaar/kitchenware/cookware/pan.en.md
+        - "Pot": bazaar/kitchenware/cookware/pot.en.md
+        - "Wok": bazaar/kitchenware/cookware/wok.en.md
       - Cutlery & Boards:
         - Overview: bazaar/kitchenware/cutlery_and_boards/index.en.md
-        - "- Knife Guide": bazaar/kitchenware/cutlery_and_boards/knife.en.md
-        - "- Honing Steel": bazaar/kitchenware/cutlery_and_boards/honing_steel.en.md
-        - "- Cutting Board": bazaar/kitchenware/cutlery_and_boards/cutting_board.en.md
+        - "Knife Guide": bazaar/kitchenware/cutlery_and_boards/knife.en.md
+        - "Honing Steel": bazaar/kitchenware/cutlery_and_boards/honing_steel.en.md
+        - "Cutting Board": bazaar/kitchenware/cutlery_and_boards/cutting_board.en.md
       - Baking Tools:
         - Overview: bazaar/kitchenware/baking_tools/index.en.md
-        - "- Bench Scraper": bazaar/kitchenware/baking_tools/bench_scraper.en.md
-        - "- Mixing Bowls": bazaar/kitchenware/baking_tools/mixing_bowls.en.md
-        - "- Sourdough Starter Jar": bazaar/kitchenware/baking_tools/sourdough_starter_jar.en.md
+        - "Bench Scraper": bazaar/kitchenware/baking_tools/bench_scraper.en.md
+        - "Mixing Bowls": bazaar/kitchenware/baking_tools/mixing_bowls.en.md
+        - "Sourdough Starter Jar": bazaar/kitchenware/baking_tools/sourdough_starter_jar.en.md
       - Utensils & Accessories:
         - Overview: bazaar/kitchenware/utensils_and_accessories/index.en.md
-        - "- Tweezers": bazaar/kitchenware/utensils_and_accessories/tweezers.en.md
-        - "- Kitchen Towel": bazaar/kitchenware/utensils_and_accessories/kitchen_towel.en.md
+        - "Tweezers": bazaar/kitchenware/utensils_and_accessories/tweezers.en.md
+        - "Kitchen Towel": bazaar/kitchenware/utensils_and_accessories/kitchen_towel.en.md
     - Food:
       - Overview: bazaar/food/index.en.md
       - Ingredients:
-        - "- Cast Iron Seasoning Oil": bazaar/food/ingredients/cast_iron_seasoning_oil.en.md
-        - "- Flour for Sourdough": bazaar/food/ingredients/flour_for_sourdough.en.md
-        - "- Tallow": bazaar/food/ingredients/tallow.en.md
+        - "Cast Iron Seasoning Oil": bazaar/food/ingredients/cast_iron_seasoning_oil.en.md
+        - "Flour for Sourdough": bazaar/food/ingredients/flour_for_sourdough.en.md
+        - "Tallow": bazaar/food/ingredients/tallow.en.md
     - Safety:
         - Overview: bazaar/safety/index.en.md
         - Health & Personal Safety:
           - Overview: bazaar/safety/health_and_personal/index.en.md
-          - "- Drinking Water Test": bazaar/safety/health_and_personal/drinking_water_test.en.md
-          - "- Earplugs": bazaar/safety/health_and_personal/earplugs.en.md
+          - "Drinking Water Test": bazaar/safety/health_and_personal/drinking_water_test.en.md
+          - "Earplugs": bazaar/safety/health_and_personal/earplugs.en.md
     - Home Decoration:
       - Overview: bazaar/home_decoration/index.en.md
       - Home Accessories:
-        - "- Rug": bazaar/home_decoration/home_accessories/rug.en.md
+        - "Rug": bazaar/home_decoration/home_accessories/rug.en.md
   - Hall of Fame:
     - Overview: hall_of_fame/index.en.md
-    - Education:
-      - Overview: hall_of_fame/education/index.en.md
-      - "- Michael Stevens": hall_of_fame/education/michael_stevens.en.md
-    - Music:
-      - Overview: hall_of_fame/music/index.en.md
-      - "- Arik Einstein": hall_of_fame/music/arik_einstein.en.md
-      - "- MF DOOM": hall_of_fame/music/mf_doom.en.md
     - Polymaths:
-      - Overview: hall_of_fame/polymath/index.en.md
-      - "- Rambam": hall_of_fame/polymath/rambam.en.md
+      - Overview: hall_of_fame/polymaths/index.en.md
+      - "Rambam": hall_of_fame/polymaths/rambam.en.md
     - Science:
       - Overview: hall_of_fame/science/index.en.md
-      - "- Albert Einstein": hall_of_fame/science/albert_einstein.en.md
-      - "- Andrew Huberman": hall_of_fame/science/andrew_huberman.en.md
+      - "Albert Einstein": hall_of_fame/science/albert_einstein.en.md
+      - "Andrew Huberman": hall_of_fame/science/andrew_huberman.en.md
+    - Education:
+      - Overview: hall_of_fame/education/index.en.md
+      - "Michael Stevens": hall_of_fame/education/michael_stevens.en.md
     - Arts & Entertainment:
       - Overview: hall_of_fame/arts_and_entertainment/index.en.md
-      - "- Nathan Fielder": hall_of_fame/arts_and_entertainment/nathan_fielder.en.md
-      - "- Felix Kjellberg": hall_of_fame/arts_and_entertainment/felix_kjellberg.en.md
+      - "Nathan Fielder": hall_of_fame/arts_and_entertainment/nathan_fielder.en.md
+      - "Felix Kjellberg": hall_of_fame/arts_and_entertainment/felix_kjellberg.en.md
+    - Music:
+      - Overview: hall_of_fame/music/index.en.md
+      - "Arik Einstein": hall_of_fame/music/arik_einstein.en.md
+      - "MF DOOM": hall_of_fame/music/mf_doom.en.md
   - Other Corners:
     - Overview: other_corners/index.en.md
     - Improve Myself:

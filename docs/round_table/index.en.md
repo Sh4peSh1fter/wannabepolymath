@@ -2,23 +2,30 @@
 title: Round Table
 description: Collaborative problem-solving and solution conceptualization.
 icon: material/comment-question
-tags:
-  - round table
-  - problems
-  - solutions
-  - discussion
+hide:
+  - navigation
+  - toc
 ---
 
 # Round Table
 
-![Round Table Banner](./_assets/round_table_banner.png){: .center }
+<figure markdown="span">
+  ![Round Table Banner](./_assets/round_table_banner.png){: .center }
+  <figcaption>Dissecting challenges, brainstorming solutions, and envisioning a better future</figcaption>
+</figure>
 
 ## Introduction
 
-Welcome to the Round Table – our collaborative area for dissecting challenges, brainstorming innovative solutions, and envisioning a better future across diverse topics.
-
-This is where we identify problems, explore their impacts, and conceptualize projects to address them. Ideas refined here may move to the Incubator for development. 
+This is where we identify problems, explore their impacts, and conceptualize projects to address them.
 
 ## Structure
 
-Here is the list of topics, each contains all the problems, solutions and applications.
+Each `topic` contains a list of problems, solutions and applications.
+
+- [Labor](./labor.en.md)
+- [Education](./education.en.md)
+- [Crime](./crime.en.md)
+- [Healthcare](./healthcare.en.md)
+- [Transportation](./transportation.en.md)
+- [Food](./food.en.md)
+- [Oral Health](./oral_health.en.md)

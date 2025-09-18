@@ -2,60 +2,59 @@
 title: Bazaar
 description: A curated collection of recommended products and items.
 icon: material/storefront
-tags:
-  - bazaar
-  - products
-  - recommendations
+hide:
+  - navigation
+  - toc
 ---
 
 # Bazaar
 
-![Bazaar Banner](./_assets/bazaar_banner.png){: .center }
+<figure markdown="span">
+  ![Bazaar Banner](./_assets/bazaar_banner.png){: .center }
+  <figcaption>Needs, comparisons and recommendations of items</figcaption>
+</figure>
 
 ## Introduction
 
-Welcome to the Bazaar – a curated marketplace of ideas and recommendations. Here, we explore, review, and recommend products and items that we find valuable, useful, or simply interesting.
+Explore, review, and recommend products and items that we find valuable, useful, or simply interesting.
 
 ## Structure
 
 The Bazaar is organized into several distinct topics, each containing sub-topics and specific item recommendations.
 
-<div class="grid cards" markdown>
+<div class="annotate" markdown>
 
--   [**Health**](./health/index.en.md)
+- Health (1)
+    - [Air Quality](./health/air_quality/)
+    - [Oral Care](./health/oral_care/)
+    - [Skin Care](./health/skin_care/)
+    - [Household](./health/household/)
 
-    ---
+- Home Automation (2)
+    - [Lighting](./home_automation/lighting/)
+    - [Sensors](./home_automation/sensors/)
+    - [Control Interfaces](./home_automation/control_interfaces/)
 
-    Recommendations for health, wellness, and personal care products.
+- Kitchenware (3)
+    - [Cookware](./kitchenware/cookware/)
+    - [Cutlery & Boards](./kitchenware/cutlery_and_boards/)
+    - [Baking Tools](./kitchenware/baking_tools/)
+    - [Utensils & Accessories](./kitchenware/utensils_and_accessories/)
 
--   [**Home Automation**](./home_automation/index.en.md)
+- Food (4)
+    - [Ingredients](./food/ingredients/)
 
-    ---
-    
-    A collection of smart devices and gadgets to automate your home.
+- Safety (5)
+    - [Health & Personal Safety](./safety/health_and_personal/)
 
--   [**Kitchenware**](./kitchenware/index.en.md)
+- Home Decoration (6)
+    - [Home Accessories](./home_decoration/home_accessories/)
 
-    ---
+</div>
 
-    Essential tools, cookware, and gadgets for your kitchen.
-
--   [**Food**](./food/ingredients/index.en.md)
-
-    ---
-
-    Curated list of high-quality food ingredients.
-
--   [**Safety**](./safety/index.en.md)
-
-    ---
-
-    Products and tools to enhance your personal safety and security.
-
--   [**Home Decoration**](./home_decoration/index.en.md)
-
-    ---
-
-    Items and accessories to beautify your living space.
-
-</div> 
+1.  Recommendations for health, wellness, and personal care products.
+2.  A collection of smart devices and gadgets to automate your home.
+3.  Essential tools, cookware, and gadgets for your kitchen.
+4.  Curated list of high-quality food ingredients.
+5.  Products and tools to enhance your personal safety and security.
+6.  Items and accessories to beautify your living space. 

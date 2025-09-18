@@ -61,6 +61,15 @@ Here's what we're working with, described in a more active way:
 - Daily random discoveries (random thoughts and facts)
 - Weekly corner (action list that repeats each week, with a defined theme)
 
+## Lint of thought
+The line of thought goes as follows:   
+from our day to day we discover new topics and add them to the `Observatory`.  
+While we learn them, we can brainstorm problems and solutions in the `Round Table`.  
+From there we create ideas which we put in the `Incubator`.  
+As we become more professional in the topics, we write blogs and lessons in the `Academy`.  
+If we stumble upon things we need and should get, we list them in the `Bazaar`.  
+Throught the journey we also meet inspiring people which we put in the `Hall of Fame`.
+
 ## Navigation Structure
 
 The navigation structure is effected from the content types and themes, and we have few options to go with:

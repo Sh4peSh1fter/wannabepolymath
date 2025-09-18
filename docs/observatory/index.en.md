@@ -2,58 +2,67 @@
 title: Observatory
 description: Mapping knowledge - key terms, concepts, figures, and organizations.
 icon: material/telescope
-tags:
-  - observatory
-  - knowledge map
-  - keywords
-  - concepts
-  - definitions
+hide:
+  - navigation
+  - toc
 ---
 
 # Observatory
 
-![Observatory Banner](./_assets/observatory_banner.png){: .center }
+<figure markdown="span">
+  ![Observatory Banner](./_assets/observatory_banner.png){: .center }
+  <figcaption>Map the constellations of knowledge</figcaption>
+</figure>
 
 ## Introduction
 
-Welcome to the Observatory – where we map the constellations of knowledge.
-
-This space is dedicated to collecting, defining, and connecting key terms, concepts, influential figures, and organizations across various disciplines to help you navigate complex subjects.
+This space is dedicated to collecting, defining, and connecting key word, terms, and influential figures, across various disciplines to help us navigate complex subjects.
 
 ## Structure
 
-Below is a list of the fields we will be exploring in the Observatory, grouped by the science tpye. Each field will be a dedicated section with its own set of key concepts, figures, and resources.
+The `fields` grouped by the science type. Each `field` contains its own set of key concepts, figures, and resources.
 
-### Natural Sciences
-- [**Physics**](./physics/): The study of matter, energy, and the fundamental forces of nature.
-- [**Chemistry**](./chemistry/): The study of the properties and behavior of matter.
-- [**Biology**](./biology/): The study of life and living organisms.
-- [**Earth Science**](./earth_science/): The study of the physical constitution of the earth and its atmosphere.
-- [**Astronomy**](./astronomy/): The study of celestial objects and phenomena.
+<div class="annotate" markdown>
 
-### Formal Sciences
-- [**Mathematics**](./mathematics/): The study of topics such as quantity, structure, space, and change.
-- [**Logic**](./logic/): The study of reasoning and inference.
-- [**Computer Science**](./computer_science/): The study of computation, information, and automation.
+- Natural Sciences (1)
+    - [Physics](./natural_sciences/physics/)
+    - [Chemistry](./natural_sciences/chemistry/)
+    - [Biology](./natural_sciences/biology/)
+    - [Earth Science](./natural_sciences/earth_science/)
+    - [Astronomy](./natural_sciences/astronomy/)
 
-### Social Sciences
-- [**Psychology**](./psychology/): The study of the mind and behavior.
-- [**Sociology**](./sociology/): The study of social behavior, society, patterns of social relationships, social interaction, and culture.
-- [**Economics**](./economics/): The study of scarcity and its implications for the use of resources.
-- [**Political Science**](./political_science/): The study of politics and power from domestic, international, and comparative perspectives.
-- [**Anthropology**](./anthropology/): The study of what makes us human.
-- [**History**](./history/): The study of the past.
+- Formal Sciences (2)
+    - [Mathematics](./formal_sciences/mathematics/)
+    - [Logic](./formal_sciences/logic/)
+    - [Computer Science](./formal_sciences/computer_science/)
 
-### Applied Sciences
-- [**Engineering**](./engineering/): The use of scientific principles to design and build machines, structures, and other items.
-- [**Medicine**](./medicine/): The science and practice of caring for a patient and managing the diagnosis, prognosis, prevention, treatment, or palliation of their injury or disease.
+- Social Sciences (3)
+    - [Psychology](./social_sciences/psychology/)
+    - [Sociology](./social_sciences/sociology/)
+    - [Economics](./social_sciences/economics/)
+    - [Political Science](./social_sciences/political_science/)
+    - [Anthropology](./social_sciences/anthropology/)
+    - [History](./social_sciences/history/)
 
-### Humanities
-- [**Philosophy**](./philosophy/): The study of general and fundamental questions about existence, knowledge, values, reason, mind, and language.
-- [**Linguistics**](./linguistics/): The scientific study of language.
-- [**Literature**](./literature/): The body of written works of a language, period, or culture.
+- Applied Sciences (4)
+    - [Engineering](./applied_sciences/engineering/)
+    - [Medicine](./applied_sciences/medicine/)
 
-### Other
-- [**Military**](./military/): The study of armed forces, warfare, and military strategy.
-- [**Nutrition**](./nutrition/): The study of how food and drink affect our bodies, with a special focus on the essential nutrients necessary to support health and growth.
-- [**Woodworking**](./woodworking/): The craft of making items from wood, including cabinet making, wood carving, joinery, and carpentry.
+- Humanities (5)
+    - [Philosophy](./humanities/philosophy/)
+    - [Linguistics](./humanities/linguistics/)
+    - [Literature](./humanities/literature/)
+
+- Other (6)
+    - [Military](./other/military/)
+    - [Nutrition](./other/nutrition/)
+    - [Woodworking](./other/woodworking/)
+
+</div>
+
+1.  Fields that deal with the physical world, such as physics, chemistry, and biology.
+2.  Fields that are based on formal systems, such as logic, mathematics, and computer science.
+3.  Fields that study societies and the relationships among individuals within those societies.
+4.  The application of existing scientific knowledge to practical purposes, like technology or inventions.
+5.  Fields that study human society and culture.
+6.  Miscellaneous fields that don't fit into the other main categories.

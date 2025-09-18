@@ -27,4 +27,4 @@ docs/
 
 1. script that makes all the titles with capital letters.
 2. in the academy there are questions in each topic. I would like each question to have parameters like difficulty level, tags and so on. then a user can run a script to generate an exam for himself with given tags and difficulties.
-3.
+3. the most repeatable feedback I get is that there are too much text, its samll and overwhelming and that pictures and drawings did help.
