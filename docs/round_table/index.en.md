@@ -29,3 +29,4 @@ Each `topic` contains a list of problems, solutions and applications.
 - [Transportation](./transportation.en.md)
 - [Food](./food.en.md)
 - [Oral Health](./oral_health.en.md)
+- [Disabilities in a Laboratory](./disabilities_in_a_laboratory.en.md)
