@@ -1,0 +1,3495 @@
+
+<!doctype html>
+<html lang="he" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Researching and comparing smart home hubs and controllers to find the best platform for a customizable, local-first, and highly interoperable smart home.">
+      
+      
+        <meta name="author" content="kivsean">
+      
+      
+        <link rel="canonical" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/bazaar/home_automation/control_interfaces/hubs-and-controllers/">
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../touch-displays/">
+      
+      
+      <link rel="icon" href="../../../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
+    
+    
+      
+        <title>Smart Home Hubs & Controllers - Wannabe Polymath</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.e53b48f4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="rtl" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#smart-home-hubs-controllers" class="md-skip">
+          לדלג לתוכן
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="כותרת עליונה">
+    <a href="../../../../" title="Wannabe Polymath" class="md-header__button md-logo" aria-label="Wannabe Polymath" data-md-component="logo">
+      
+  <img src="../../../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Wannabe Polymath
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Smart Home Hubs & Controllers
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5 2c-1.79 1.15-3 3.18-3 5.5s1.21 4.35 3.03 5.5C4.46 13 2 10.54 2 7.5A5.5 5.5 0 0 1 7.5 2m11.57 1.5 1.43 1.43L4.93 20.5 3.5 19.07zm-6.18 2.43L11.41 5 9.97 6l.42-1.7L9 3.24l1.75-.12.58-1.65L12 3.1l1.73.03-1.35 1.13zm-3.3 3.61-1.16-.73-1.12.78.34-1.32-1.09-.83 1.36-.09.45-1.29.51 1.27 1.36.03-1.05.87zM19 13.5a5.5 5.5 0 0 1-5.5 5.5c-1.22 0-2.35-.4-3.26-1.07l7.69-7.69c.67.91 1.07 2.04 1.07 3.26m-4.4 6.58 2.77-1.15-.24 3.35zm4.33-2.7 1.15-2.77 2.2 2.54zm1.15-4.96-1.14-2.78 3.34.24zM9.63 18.93l2.77 1.15-2.53 2.19z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="purple"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="בחירת שפה">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../../../../bazaar/home_automation/control_interfaces/hubs-and-controllers/" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="./" hreflang="he" class="md-select__link">
+              עברית
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="חיפוש" placeholder="חיפוש" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="חיפוש">
+        
+        <button type="reset" class="md-search__icon md-icon" title="ניקוי" aria-label="ניקוי" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            אתחול חיפוש
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Sh4peSh1fter/wannabepolymath" title="לעבור אל המאגר" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Sh4peSh1fter/wannabepolymath
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="לשוניות" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../../" class="md-tabs__link">
+        
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../observatory/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.9 8.9-1.7 1-4-6.9 1.7-1zm-12.1-1 3 5.2 6.1-3.5-3-5.2zm1.6 4.8-2-3.5-4.3 2.5 2 3.5zm-9.3 1.9 1 1.7 2.6-1.5-1-1.7zm10-.6-.3-.4-4.3 2.5.3.4c.2.3.5.6.8.8L7 22h2l1.4-4.3h.1L12 22h2l-1.9-5.6c.5-.7.5-1.6 0-2.4"/></svg>
+    
+  
+  Observatory
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../round_table/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-6.1l-3.7 3.71c-.2.19-.45.29-.7.29H9a1 1 0 0 1-1-1v-3H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2m8.19 3.5c-.89 0-1.6.18-2.14.54-.55.36-.83.96-.78 1.65h1.97c0-.28.1-.49.26-.63.2-.14.42-.21.69-.21.31 0 .58.08.76.26.18.17.27.39.27.69 0 .28-.08.53-.22.74-.17.22-.38.4-.64.54-.52.32-.86.6-1.07.84-.19.24-.29.58-.29 1.08h2c0-.28.05-.5.14-.68.09-.17.26-.32.52-.47.46-.21.84-.49 1.13-.85.29-.37.44-.76.44-1.2q0-1.05-.81-1.68c-.54-.41-1.29-.62-2.23-.62M11 12v2h2v-2z"/></svg>
+    
+  
+  Round Table
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../incubator/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9z"/></svg>
+    
+  
+  Incubator
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../academy/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.91V17h2V9M5 13.18v4L12 21l7-3.82v-4L12 17z"/></svg>
+    
+  
+  Academy
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.06 3c-.43 0-.84.14-1.22.42s-.6.64-.7 1.08L2.11 8.91c-.25 1.09-.05 2.01.58 2.82.12.12.24.24.35.34.59.57 1.24.93 2.18.93s1.69-.41 2.25-.95c.63.62 1.39.95 2.33.95.84 0 1.64-.37 2.2-.93.68.63 1.45.93 2.3.93.87 0 1.61-.33 2.24-.95.57.57 1.32.95 2.27.95s1.62-.35 2.19-.94c.09-.09.18-.19.28-.29.66-.82.86-1.77.61-2.86L20.86 4.5c-.13-.44-.36-.8-.73-1.08A1.88 1.88 0 0 0 18.94 3m-.05 1.97 1.08 4.41c.09.43 0 .82-.28 1.17-.25.31-.56.45-.94.45-.31 0-.58-.1-.8-.34-.22-.23-.34-.5-.37-.82L16.97 5M5.06 5h1.97l-.61 4.84C6.3 10.63 5.91 11 5.25 11c-.41 0-.72-.14-.94-.45-.28-.35-.37-.74-.28-1.17M9.05 5H11v4.7c0 .35-.11.65-.36.92-.25.26-.56.38-.94.38-.34 0-.63-.12-.86-.41S8.5 10 8.5 9.66V9.5M13 5h1.95l.55 4.5c.08.42 0 .77-.29 1.07-.26.3-.6.43-1.01.43-.31 0-.59-.12-.84-.38A1.3 1.3 0 0 1 13 9.7M3 14.03V19c0 1.11.89 2 2 2h14a2 2 0 0 0 2-2v-4.95c-.55.58-1.25.91-2 .95-1 .03-1.75-.26-2.46-.95-.6.6-1.4.95-2.24.95-.9 0-1.7-.36-2.3-.93-.57.57-1.35.93-2.22.93-.91 0-1.71-.35-2.31-.95-.58.59-1.37.95-2.24.95-.9 0-1.57-.35-2.23-.97"/></svg>
+    
+  
+  Bazaar
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../hall_of_fame/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 2c-.9 0-2 1-2 2H8c0-1-1.1-2-2-2H2v9c0 1 1 2 2 2h2.2c.4 2 1.7 3.7 4.8 4v2.08C8 19.54 8 22 8 22h8s0-2.46-3-2.92V17c3.1-.3 4.4-2 4.8-4H20c1 0 2-1 2-2V2zM6 11H4V4h2zm14 0h-2V4h2z"/></svg>
+    
+  
+  Hall of Fame
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../other_corners/" class="md-tabs__link">
+          
+  
+  
+    
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 12a2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2m-6 0a2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2m-6 0a2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2"/></svg>
+    
+  
+  Other Corners
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../../../about/index.en.md" class="md-tabs__link">
+          
+  
+  
+    
+  
+  About
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="ניווט" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../" title="Wannabe Polymath" class="md-nav__button md-logo" aria-label="Wannabe Polymath" data-md-component="logo">
+      
+  <img src="../../../../../assets/logo.png" alt="logo">
+
+    </a>
+    Wannabe Polymath
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Sh4peSh1fter/wannabepolymath" title="לעבור אל המאגר" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Sh4peSh1fter/wannabepolymath
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../" class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../observatory/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Observatory
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../round_table/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Round Table
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../incubator/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Incubator
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../academy/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Academy
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../" class="md-nav__link ">
+              
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.06 3c-.43 0-.84.14-1.22.42s-.6.64-.7 1.08L2.11 8.91c-.25 1.09-.05 2.01.58 2.82.12.12.24.24.35.34.59.57 1.24.93 2.18.93s1.69-.41 2.25-.95c.63.62 1.39.95 2.33.95.84 0 1.64-.37 2.2-.93.68.63 1.45.93 2.3.93.87 0 1.61-.33 2.24-.95.57.57 1.32.95 2.27.95s1.62-.35 2.19-.94c.09-.09.18-.19.28-.29.66-.82.86-1.77.61-2.86L20.86 4.5c-.13-.44-.36-.8-.73-1.08A1.88 1.88 0 0 0 18.94 3m-.05 1.97 1.08 4.41c.09.43 0 .82-.28 1.17-.25.31-.56.45-.94.45-.31 0-.58-.1-.8-.34-.22-.23-.34-.5-.37-.82L16.97 5M5.06 5h1.97l-.61 4.84C6.3 10.63 5.91 11 5.25 11c-.41 0-.72-.14-.94-.45-.28-.35-.37-.74-.28-1.17M9.05 5H11v4.7c0 .35-.11.65-.36.92-.25.26-.56.38-.94.38-.34 0-.63-.12-.86-.41S8.5 10 8.5 9.66V9.5M13 5h1.95l.55 4.5c.08.42 0 .77-.29 1.07-.26.3-.6.43-1.01.43-.31 0-.59-.12-.84-.38A1.3 1.3 0 0 1 13 9.7M3 14.03V19c0 1.11.89 2 2 2h14a2 2 0 0 0 2-2v-4.95c-.55.58-1.25.91-2 .95-1 .03-1.75-.26-2.46-.95-.6.6-1.4.95-2.24.95-.9 0-1.7-.36-2.3-.93-.57.57-1.35.93-2.22.93-.91 0-1.71-.35-2.31-.95-.58.59-1.37.95-2.24.95-.9 0-1.57-.35-2.23-.97"/></svg>
+  
+  <span class="md-ellipsis">
+    Bazaar
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Bazaar
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../health/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Health
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_2" id="__nav_6_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Health
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../health/air_quality/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Air Quality
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../health/oral_care/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Oral Care
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../health/skin_care/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Skin Care
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../health/household/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Household
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Home Automation
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_3" id="__nav_6_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Home Automation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../lighting/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Lighting
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../sensors/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Sensors
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Control Interfaces
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_3_4" id="__nav_6_3_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_6_3_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Control Interfaces
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Hubs and Controllers
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Hubs and Controllers
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#phase-1-researching-the-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 1: Researching the Field
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 1: Researching the Field">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#keywords-terms-and-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Keywords, Terms and Concepts
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guiding-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guiding Questions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-2-defining-my-needs-priorities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 2: Defining My Needs &amp; Priorities
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-3-comparing-choosing-the-item-type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 3: Comparing &amp; Choosing the Item Type
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 3: Comparing &amp; Choosing the Item Type">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#available-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Available Types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comparison-table-of-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comparison Table of Types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion-on-item-type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion on Item Type
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-4-choosing-the-specific-product" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 4: Choosing the Specific Product
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 4: Choosing the Specific Product">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#product-options" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Options
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comparison-table-of-products" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comparison Table of Products
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion-on-specific-product" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion on Specific Product
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-5-post-purchase-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 5: Post-Purchase Guide
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 5: Post-Purchase Guide">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-hardware-selection-initial-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Hardware Selection &amp; Initial Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-dailyregular-use-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Daily/Regular Use &amp; Care
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-6-essential-accessories-add-ons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 6: Essential Accessories &amp; Add-Ons
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 6: Essential Accessories &amp; Add-Ons">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-zigbee-coordinator" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Zigbee Coordinator
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-recommended-home-assistant-add-ons" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Recommended Home Assistant Add-ons
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sources-further-reading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sources &amp; Further Reading
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Sources &amp; Further Reading">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reputable-organizations-consumer-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reputable Organizations &amp; Consumer Information
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-discussions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Discussions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#youtube-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      YouTube Videos
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../touch-displays/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Touch Displays
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../kitchenware/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Kitchenware
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_4" id="__nav_6_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Kitchenware
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../kitchenware/cookware/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Cookware
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../kitchenware/cutlery_and_boards/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Cutlery & Boards
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../kitchenware/baking_tools/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Baking Tools
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../kitchenware/utensils_and_accessories/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Utensils & Accessories
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../food/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Food
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_5" id="__nav_6_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_5">
+            <span class="md-nav__icon md-icon"></span>
+            Food
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../food/ingredients/cast_iron_seasoning_oil/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Ingredients
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../safety/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Safety
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_6" id="__nav_6_6_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_6">
+            <span class="md-nav__icon md-icon"></span>
+            Safety
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../safety/health_and_personal/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Health & Personal Safety
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../home_decoration/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Home Decoration
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6_7" id="__nav_6_7_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_7">
+            <span class="md-nav__icon md-icon"></span>
+            Home Decoration
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../home_decoration/home_accessories/rug/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Home Accessories
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../hall_of_fame/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Hall of Fame
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../other_corners/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Other Corners
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../../../about/index.en.md" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#phase-1-researching-the-field" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 1: Researching the Field
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 1: Researching the Field">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#keywords-terms-and-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Keywords, Terms and Concepts
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#guiding-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Guiding Questions
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-2-defining-my-needs-priorities" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 2: Defining My Needs &amp; Priorities
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-3-comparing-choosing-the-item-type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 3: Comparing &amp; Choosing the Item Type
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 3: Comparing &amp; Choosing the Item Type">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#available-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Available Types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comparison-table-of-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comparison Table of Types
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion-on-item-type" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion on Item Type
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-4-choosing-the-specific-product" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 4: Choosing the Specific Product
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 4: Choosing the Specific Product">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#product-options" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Options
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comparison-table-of-products" class="md-nav__link">
+    <span class="md-ellipsis">
+      Comparison Table of Products
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusion-on-specific-product" class="md-nav__link">
+    <span class="md-ellipsis">
+      Conclusion on Specific Product
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-5-post-purchase-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 5: Post-Purchase Guide
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 5: Post-Purchase Guide">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-hardware-selection-initial-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Hardware Selection &amp; Initial Setup
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-dailyregular-use-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Daily/Regular Use &amp; Care
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#phase-6-essential-accessories-add-ons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Phase 6: Essential Accessories &amp; Add-Ons
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phase 6: Essential Accessories &amp; Add-Ons">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-zigbee-coordinator" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Zigbee Coordinator
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-recommended-home-assistant-add-ons" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Recommended Home Assistant Add-ons
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sources-further-reading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sources &amp; Further Reading
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Sources &amp; Further Reading">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reputable-organizations-consumer-information" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reputable Organizations &amp; Consumer Information
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community-discussions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Community Discussions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#youtube-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      YouTube Videos
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <span class="md-tag">comparison</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">controller</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">corner:bazaar</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">home-assistant</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">hub</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">item</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">item-category:home_automation</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">research</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">type:blogpost</span>
+      
+    
+      
+      
+      
+        <span class="md-tag">zigbee</span>
+      
+    
+  </nav>
+
+
+  
+    <a href="https://github.com/Sh4peSh1fter/wannabepolymath/edit/master/docs/bazaar/home_automation/control_interfaces/hubs-and-controllers.en.md" title="עריכת הדף הזה" class="md-content__button md-icon" rel="edit">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/Sh4peSh1fter/wannabepolymath/raw/master/docs/bazaar/home_automation/control_interfaces/hubs-and-controllers.en.md" title="צפה במקור של דף זה" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.2 8.2 0 0 1-1.23-2"/></svg>
+    </a>
+  
+
+
+<h1 id="smart-home-hubs-controllers">Smart Home Hubs &amp; Controllers<a class="headerlink" href="#smart-home-hubs-controllers" title="Permanent link">&para;</a></h1>
+<p>A smart home hub, or controller, is the central nervous system of a smart home. Its job is to unite disparate devices, protocols, and services, allowing them to work together in cohesive automations. My goal is to find a hub that is powerful, customizable, and prioritizes local control, ensuring my home runs efficiently and privately without relying on cloud services. I need a system that can handle a primarily Zigbee-based device network but is flexible enough to integrate with other technologies and has a strong community for support and extensions.</p>
+<hr />
+<h2 id="phase-1-researching-the-field">Phase 1: Researching the Field<a class="headerlink" href="#phase-1-researching-the-field" title="Permanent link">&para;</a></h2>
+<h3 id="keywords-terms-and-concepts">Keywords, Terms and Concepts<a class="headerlink" href="#keywords-terms-and-concepts" title="Permanent link">&para;</a></h3>
+<p>To choose the right hub, it's essential to understand the underlying technologies and concepts.</p>
+<ol>
+<li><strong>Hub Architecture</strong><ul>
+<li><strong>Software Platform (e.g., Home Assistant, openHAB):</strong> Highly flexible software that can be installed on various hardware. Offers maximum customization but requires more setup.</li>
+<li><strong>Hardware Hub (e.g., Hubitat, SmartThings):</strong> A dedicated, pre-packaged device with software pre-installed. Simpler to set up but offers less hardware flexibility and may be less powerful.</li>
+<li><strong>Cloud-Based Controller (e.g., Amazon Alexa, Google Home):</strong> A smart speaker or display that acts as a basic controller, often relying heavily on the cloud for logic and integrations. Automations may fail if the internet is down.</li>
+</ul>
+</li>
+<li><strong>Core Concepts</strong><ul>
+<li><strong>Local Control:</strong> Automations and device control are processed on the local network, not sent to a company's server. This is critical for privacy, speed, and reliability.</li>
+<li><strong>Integrations:</strong> The "plugins" or "connectors" that allow the hub to communicate with specific devices or services (e.g., a Philips Hue integration, a Google Cast integration).</li>
+<li><strong>Add-ons / Plugins:</strong> Community- or developer-created extensions that add new functionality to the hub itself, such as advanced data visualization, network-wide ad blocking, or code editors.</li>
+<li><strong>Dashboard / Lovelace UI:</strong> The user interface for controlling devices and visualizing data. Highly customizable dashboards are a key feature of powerful hubs.</li>
+</ul>
+</li>
+<li><strong>Communication Protocols</strong><ul>
+<li><strong>Zigbee:</strong> A low-power mesh protocol ideal for battery-powered sensors. Requires a Zigbee Coordinator (usually a USB stick) connected to the hub.</li>
+<li><strong>Z-Wave:</strong> Another low-power mesh protocol, known for strict certification and reliability. Requires a Z-Wave USB stick.</li>
+<li><strong>Matter:</strong> A newer, IP-based standard designed to unify device communication across ecosystems.</li>
+<li><strong>Thread:</strong> A low-power, IP-based mesh network protocol that Matter often runs on.</li>
+<li><strong>Wi-Fi/Ethernet:</strong> Used for high-bandwidth devices like cameras and for the hub's primary network connection.</li>
+</ul>
+</li>
+</ol>
+<h3 id="guiding-questions">Guiding Questions<a class="headerlink" href="#guiding-questions" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>What is the difference between a hub and a smart speaker?</strong>
+    A smart speaker (like an Amazon Echo) is primarily a voice assistant with some basic hub functionality, often cloud-dependent. A true smart home hub (like Home Assistant) is a dedicated automation engine focused on local control, deep integration, and complex logic.</li>
+<li><strong>How important is local control?</strong>
+    For my needs, it is paramount. Local control means my home's core functions (lights, security) work without an internet connection, automations run faster, and my personal data stays within my home network.</li>
+<li><strong>What hardware is needed to run a self-hosted platform like Home Assistant?</strong>
+    It can run on a variety of devices, from a low-power single-board computer (SBC) like a Raspberry Pi &#8536; or ODROID-N2+, to a more powerful Intel NUC, or as a virtual machine (VM) on an always-on server.</li>
+<li><strong>How do I connect Zigbee devices?</strong>
+    You need a piece of hardware called a Zigbee Coordinator, which typically comes as a USB dongle. This device communicates directly with the Zigbee network, and the hub software (like Home Assistant) controls the coordinator. Popular examples include a Sonoff Zigbee 3.0 Dongle or a ConBee II.</li>
+</ol>
+<hr />
+<h2 id="phase-2-defining-my-needs-priorities">Phase 2: Defining My Needs &amp; Priorities<a class="headerlink" href="#phase-2-defining-my-needs-priorities" title="Permanent link">&para;</a></h2>
+<p>Based on my goals, I can define a clear set of requirements.</p>
+<ol>
+<li><strong>Primary Use Case(s):</strong><ul>
+<li>To serve as the central, local-first brain for all home automations.</li>
+<li>To integrate devices across multiple protocols, with a primary focus on Zigbee.</li>
+<li>To provide a platform for extensive customization, data analysis, and community-driven add-ons.</li>
+</ul>
+</li>
+<li><strong>Key Features Needed:</strong><ol>
+<li><strong>Control &amp; Customization:</strong><ul>
+<li>Must run entirely locally.</li>
+<li>Must be open-source or have a highly extensible architecture.</li>
+<li>Must have a powerful automation engine (triggers, conditions, actions).</li>
+<li>Must have fully customizable dashboards.</li>
+</ul>
+</li>
+<li><strong>Connectivity:</strong><ul>
+<li>Excellent Zigbee support via a dedicated coordinator.</li>
+<li>Extensible to support other protocols and services (e.g., Z-Wave, Wi-Fi devices, Alexa).</li>
+</ul>
+</li>
+<li><strong>Ecosystem:</strong><ul>
+<li>Large, active, and supportive community.</li>
+<li>Rich library of integrations and add-ons.</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><strong>Nice to Have:</strong><ul>
+<li>A companion mobile app for notifications and control.</li>
+<li>Energy consumption monitoring capabilities.</li>
+</ul>
+</li>
+<li><strong>Deal-breakers:</strong><ul>
+<li>Primary reliance on the cloud for core automation logic.</li>
+<li>A closed ecosystem with limited integrations.</li>
+<li>Poor or small community support.</li>
+</ul>
+</li>
+<li><strong>Budget Range:</strong> Flexible. Willing to invest in robust hardware (e.g., NUC or ODROID) for a powerful system, but also open to starting with a Raspberry Pi.</li>
+</ol>
+<hr />
+<h2 id="phase-3-comparing-choosing-the-item-type">Phase 3: Comparing &amp; Choosing the Item <em>Type</em><a class="headerlink" href="#phase-3-comparing-choosing-the-item-type" title="Permanent link">&para;</a></h2>
+<p>First, I need to decide on the best <em>type</em> of hub for my needs.</p>
+<h3 id="available-types">Available Types<a class="headerlink" href="#available-types" title="Permanent link">&para;</a></h3>
+<h4 id="1-self-hosted-open-source-software-eg-home-assistant">1. Self-Hosted Open-Source Software (e.g., Home Assistant)<a class="headerlink" href="#1-self-hosted-open-source-software-eg-home-assistant" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Pros:</strong><ul>
+<li>Maximum customizability and control.</li>
+<li>Runs 100% locally.</li>
+<li>Massive community and integration library.</li>
+<li>Hardware can be scaled to meet performance needs.</li>
+<li>Free software.</li>
+</ul>
+</li>
+<li><strong>Cons:</strong><ul>
+<li>Requires more initial setup and technical knowledge.</li>
+<li>User is responsible for hardware and maintenance.</li>
+</ul>
+</li>
+</ol>
+<h4 id="2-turnkey-local-hub-eg-hubitat">2. Turnkey Local Hub (e.g., Hubitat)<a class="headerlink" href="#2-turnkey-local-hub-eg-hubitat" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Pros:</strong><ul>
+<li>Prioritizes local control.</li>
+<li>Easier setup than self-hosted options.</li>
+<li>All-in-one hardware and software package.</li>
+</ul>
+</li>
+<li><strong>Cons:</strong><ul>
+<li>Less customizable than Home Assistant.</li>
+<li>Hardware is fixed and may be less powerful.</li>
+<li>Smaller community and fewer integrations compared to Home Assistant.</li>
+</ul>
+</li>
+</ol>
+<h4 id="3-cloud-dependent-hub-eg-amazon-alexa-smartthings">3. Cloud-Dependent Hub (e.g., Amazon Alexa, SmartThings)<a class="headerlink" href="#3-cloud-dependent-hub-eg-amazon-alexa-smartthings" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Pros:</strong><ul>
+<li>Very easy to set up for beginners.</li>
+<li>Good voice control integration.</li>
+</ul>
+</li>
+<li><strong>Cons:</strong><ul>
+<li>Core logic runs in the cloud; automations fail without internet.</li>
+<li>Significant privacy concerns.</li>
+<li>Limited and simplistic automation capabilities.</li>
+<li>Vendor lock-in.</li>
+</ul>
+</li>
+</ol>
+<h3 id="comparison-table-of-types">Comparison Table of Types<a class="headerlink" href="#comparison-table-of-types" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th style="text-align: center;">Local Control</th>
+<th style="text-align: center;">Customization</th>
+<th style="text-align: center;">Community Support</th>
+<th style="text-align: center;">Ease of Setup</th>
+<th style="text-align: center;">Overall Match</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Self-Hosted OSS</strong></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"><img alt="❌" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/274c.svg" title=":x:" /></td>
+<td style="text-align: center;">3 / 4</td>
+</tr>
+<tr>
+<td><strong>Turnkey Local Hub</strong></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;">2 / 4</td>
+</tr>
+<tr>
+<td><strong>Cloud-Dependent Hub</strong></td>
+<td style="text-align: center;"><img alt="❌" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/274c.svg" title=":x:" /></td>
+<td style="text-align: center;"><img alt="❌" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/274c.svg" title=":x:" /></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;">1 / 4</td>
+</tr>
+</tbody>
+</table>
+<h3 id="conclusion-on-item-type">Conclusion on Item Type<a class="headerlink" href="#conclusion-on-item-type" title="Permanent link">&para;</a></h3>
+<p>Based on my stated need for high customization, local control, and strong community support, <strong>Self-Hosted Open-Source Software</strong> is unequivocally the best choice. While it requires more initial effort, it is the only category that meets all my primary requirements.</p>
+<hr />
+<h2 id="phase-4-choosing-the-specific-product">Phase 4: Choosing the Specific <em>Product</em><a class="headerlink" href="#phase-4-choosing-the-specific-product" title="Permanent link">&para;</a></h2>
+<p>Within the Self-Hosted OSS category, the two main contenders are Home Assistant and openHAB.</p>
+<h3 id="product-options">Product Options<a class="headerlink" href="#product-options" title="Permanent link">&para;</a></h3>
+<h4 id="1-home-assistant">1. Home Assistant<a class="headerlink" href="#1-home-assistant" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Pros:</strong><ul>
+<li>Extremely large and active community.</li>
+<li>Massive library of over 2,000 integrations.</li>
+<li>Rapid development pace with monthly release cycles.</li>
+<li>User-friendly UI (Lovelace) and powerful YAML-based configurations.</li>
+<li>Supervisor system allows for easy management of add-ons (like Zigbee2MQTT, AdGuard).</li>
+</ul>
+</li>
+<li><strong>Cons:</strong><ul>
+<li>Breaking changes can occasionally occur between releases, requiring user attention.</li>
+</ul>
+</li>
+<li><strong>Community Opinion:</strong> Overwhelmingly positive. It is widely regarded as the most powerful and popular open-source smart home platform.</li>
+<li><strong>Price:</strong> Software is free. Hardware costs vary ($50 for a Raspberry Pi to $200+ for a NUC).</li>
+</ol>
+<h4 id="2-openhab">2. openHAB<a class="headerlink" href="#2-openhab" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Pros:</strong><ul>
+<li>Mature and stable platform, has been around longer than Home Assistant.</li>
+<li>Strong focus on being technology-agnostic.</li>
+<li>Good support for a wide range of devices.</li>
+</ul>
+</li>
+<li><strong>Cons:</strong><ul>
+<li>Steeper learning curve, generally considered less user-friendly than Home Assistant.</li>
+<li>Smaller community and slower development pace in recent years.</li>
+<li>Fewer integrations compared to Home Assistant.</li>
+</ul>
+</li>
+<li><strong>Community Opinion:</strong> Respected for its stability and technical foundation, but often seen as more complex and less "plug-and-play" than Home Assistant.</li>
+<li><strong>Price:</strong> Software is free. Hardware costs are similar to Home Assistant.</li>
+</ol>
+<h3 id="comparison-table-of-products">Comparison Table of Products<a class="headerlink" href="#comparison-table-of-products" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th style="text-align: center;">Community Size</th>
+<th style="text-align: center;">Ease of Use</th>
+<th style="text-align: center;">Integrations Count</th>
+<th style="text-align: center;">Overall Match</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Home Assistant</strong></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;"><img alt="✅" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/2705.svg" title=":white_check_mark:" /></td>
+<td style="text-align: center;">3 / 3</td>
+</tr>
+<tr>
+<td><strong>openHAB</strong></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><img alt="❌" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/274c.svg" title=":x:" /></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;">0 / 3</td>
+</tr>
+</tbody>
+</table>
+<h3 id="conclusion-on-specific-product">Conclusion on Specific Product<a class="headerlink" href="#conclusion-on-specific-product" title="Permanent link">&para;</a></h3>
+<p>My choice is <strong>Home Assistant</strong>.</p>
+<p><strong>Reasoning:</strong> It perfectly aligns with my desire for a system with a large community, extensive customization options, and a vast library of add-ons. While openHAB is a capable platform, Home Assistant's momentum, larger user base, and more beginner-friendly (yet still deeply powerful) approach make it the clear winner for my needs.</p>
+<p><strong>Where to Start:</strong>
+*   <strong>Official Website:</strong> <a href="https://www.home-assistant.io/">home-assistant.io</a>
+*   <strong>Installation Guide:</strong> <a href="https://www.home-assistant.io/installation/">home-assistant.io/installation/</a></p>
+<hr />
+<h2 id="phase-5-post-purchase-guide">Phase 5: Post-Purchase Guide<a class="headerlink" href="#phase-5-post-purchase-guide" title="Permanent link">&para;</a></h2>
+<p>This section details how to get started with Home Assistant.</p>
+<h3 id="1-hardware-selection-initial-setup">1. Hardware Selection &amp; Initial Setup<a class="headerlink" href="#1-hardware-selection-initial-setup" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Hardware Options:</strong><ul>
+<li><strong>Good (Beginner):</strong> Raspberry Pi 4 (4GB+ recommended) or Raspberry Pi 5.</li>
+<li><strong>Better (Recommended):</strong> A dedicated device like the Home Assistant Green, ODROID-N2+, or a refurbished enterprise mini PC (e.g., Lenovo ThinkCentre, Dell Optiplex). These offer more power and reliability.</li>
+<li><strong>Best (Advanced):</strong> Run as a virtual machine (VM) on an existing home server (Proxmox, Unraid).</li>
+</ul>
+</li>
+<li><strong>Installation:</strong> The recommended method is to install <strong>Home Assistant OS</strong>, which is a minimal operating system that includes the Home Assistant Supervisor for easy management. Flash the appropriate image for your hardware to an SD card or SSD.</li>
+<li><strong>First Boot:</strong> Connect the device to your network via Ethernet (recommended) and power it on. Access the web interface by navigating to <code>http://homeassistant.local:8123</code> in your browser.</li>
+</ul>
+<h3 id="2-dailyregular-use-care">2. Daily/Regular Use &amp; Care<a class="headerlink" href="#2-dailyregular-use-care" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Backups:</strong> Use the built-in backup feature (or the Google Drive Backup add-on) to create regular, automated backups of your configuration. <strong>This is critical.</strong></li>
+<li><strong>Updates:</strong> Home Assistant releases updates monthly. Read the release notes for "Breaking Changes" before updating. It's wise to wait a few days after a release for any initial bugs to be patched.</li>
+</ul>
+<hr />
+<h2 id="phase-6-essential-accessories-add-ons">Phase 6: Essential Accessories &amp; Add-Ons<a class="headerlink" href="#phase-6-essential-accessories-add-ons" title="Permanent link">&para;</a></h2>
+<h3 id="1-zigbee-coordinator">1. Zigbee Coordinator<a class="headerlink" href="#1-zigbee-coordinator" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>What to Look For:</strong> A USB dongle that is broadly compatible with open-source software like ZHA (Zigbee Home Automation, built into HA) and Zigbee2MQTT (a popular add-on). Look for modern chips like the TI CC2652P.</li>
+<li><strong>Recommendation:</strong><ul>
+<li><strong>Sonoff Zigbee 3.0 USB Dongle Plus (Model "P"):</strong> A popular, affordable, and powerful choice.</li>
+<li><strong>ConBee II / III:</strong> A well-regarded stick from a European company.</li>
+</ul>
+</li>
+<li><strong>Where to Buy:</strong> Amazon, AliExpress, specialty electronics stores.</li>
+</ul>
+<h3 id="2-recommended-home-assistant-add-ons">2. Recommended Home Assistant Add-ons<a class="headerlink" href="#2-recommended-home-assistant-add-ons" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>Zigbee2MQTT:</strong> An alternative to the built-in ZHA that supports a massive number of devices and offers deep configuration options.</li>
+<li><strong>File editor / Studio Code Server:</strong> Allows you to edit your configuration files (like <code>configuration.yaml</code>) directly from the Home Assistant UI.</li>
+<li><strong>Google Drive Backup:</strong> Automates backups of your Home Assistant instance to Google Drive.</li>
+</ul>
+<hr />
+<h2 id="sources-further-reading">Sources &amp; Further Reading<a class="headerlink" href="#sources-further-reading" title="Permanent link">&para;</a></h2>
+<p><em>A list of resources I consulted during this research.</em></p>
+<h3 id="reputable-organizations-consumer-information">Reputable Organizations &amp; Consumer Information<a class="headerlink" href="#reputable-organizations-consumer-information" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Home Assistant Official Documentation</strong><ul>
+<li><em>Link:</em> <code>https://www.home-assistant.io/docs/</code></li>
+<li><em>Note:</em> The single most important resource.</li>
+</ul>
+</li>
+</ol>
+<h3 id="community-discussions">Community Discussions<a class="headerlink" href="#community-discussions" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Home Assistant Subreddit (r/homeassistant)</strong><ul>
+<li><em>Link:</em> <code>https://www.reddit.com/r/homeassistant/</code></li>
+<li><em>Note:</em> Excellent for troubleshooting, inspiration, and seeing what others are building.</li>
+</ul>
+</li>
+<li><strong>Home Assistant Community Forums</strong><ul>
+<li><em>Link:</em> <code>https://community.home-assistant.io/</code></li>
+<li><em>Note:</em> The official place for support and in-depth discussion.</li>
+</ul>
+</li>
+</ol>
+<h3 id="youtube-videos">YouTube Videos<a class="headerlink" href="#youtube-videos" title="Permanent link">&para;</a></h3>
+<ol>
+<li><strong>Smart Home Solver</strong><ul>
+<li><em>Link:</em> <code>https://www.youtube.com/@SmartHomeSolver</code></li>
+<li><em>Note:</em> High-quality videos on new devices, Home Assistant features, and project ideas.</li>
+</ul>
+</li>
+<li><strong>Everything Smart Home</strong><ul>
+<li><em>Link:</em> <code>https://www.youtube.com/@EverythingSmartHome</code></li>
+<li><em>Note:</em> In-depth tutorials and reviews, particularly for DIY projects. </li>
+</ul>
+</li>
+</ol>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  חזרה למעלה
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="כותרת תחתונה" >
+        
+          
+          <a href="../" class="md-footer__link md-footer__link--prev" aria-label="הקודם: Overview">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                הקודם
+              </span>
+              <div class="md-ellipsis">
+                Overview
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../touch-displays/" class="md-footer__link md-footer__link--next" aria-label="הבא: Touch Displays">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                הבא
+              </span>
+              <div class="md-ellipsis">
+                Touch Displays
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2024 Kivsean
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../../../..", "features": ["navigation.instant", "navigation.instant.progress", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.path", "navigation.indexes", "navigation.top", "navigation.tracking", "navigation.prune", "navigation.footer", "navigation.expand", "search.suggest", "search.highlight", "content.action.edit", "content.action.view", "content.code.copy", "toc.follow"], "search": "../../../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "\u05d4\u05d5\u05e2\u05ea\u05e7 \u05dc\u05dc\u05d5\u05d7", "clipboard.copy": "\u05d4\u05e2\u05ea\u05e7\u05d4 \u05dc\u05dc\u05d5\u05d7", "search.result.more.one": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3 \u05d1\u05d3\u05e3 \u05d4\u05d6\u05d4", "search.result.more.other": "\u05e2\u05d5\u05d3 # \u05d1\u05d3\u05e3 \u05d4\u05d6\u05d4", "search.result.none": "\u05d0\u05d9\u05df \u05de\u05e1\u05de\u05db\u05d9\u05dd \u05ea\u05d5\u05d0\u05de\u05d9\u05dd", "search.result.one": "\u05de\u05e1\u05de\u05da1 \u05ea\u05d5\u05d0\u05dd", "search.result.other": "# \u05de\u05e1\u05de\u05da \u05ea\u05d5\u05d0\u05dd", "search.result.placeholder": "\u05d9\u05e9 \u05dc\u05d4\u05e7\u05dc\u05d9\u05d3 \u05db\u05d3\u05d9 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05dc\u05d7\u05e4\u05e9", "search.result.term.missing": "\u05d7\u05e1\u05e8", "select.version": "\u05d1\u05d7\u05d9\u05e8\u05ea \u05d2\u05e8\u05e1\u05d4"}, "version": null}</script>
+    
+    
+      <script src="../../../../../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
