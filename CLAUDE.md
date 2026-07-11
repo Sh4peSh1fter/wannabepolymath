@@ -15,7 +15,13 @@ poetry run mkdocs build             # build static site into ./site (gitignored)
 poetry run mkdocs build --strict    # fail on broken links / config warnings — run before committing
 ```
 
-Deployment is automatic: pushing to `master` triggers `.github/workflows/ci.yaml`, which runs `mkdocs gh-deploy --force` to publish to GitHub Pages. Do not commit the `site/` directory (gitignored). Note the CI installs deps with plain `pip` (`mkdocs-material mkdocs-static-i18n pymdown-extensions`), not Poetry, and `poetry.lock` is gitignored — so `pyproject.toml` is the dependency source of truth.
+`mkdocs build --strict` **must pass with zero warnings** — CI enforces it as a hard gate on every push and PR (`.github/workflows/ci.yaml`, `check` job). Run it before committing. `markdownlint` and a `lychee` link-check also run in CI but are currently *advisory* (non-blocking) until the content backlog is cleared.
+
+Deployment: the `deploy` job (push to `master` only) installs native cairo libs, sets `CI=true` (which enables the social-cards plugin), and runs `mkdocs gh-deploy --force`. Dependencies come from the committed `poetry.lock` via `poetry install` (reproducible). `pyproject.toml` is the dependency source of truth; `site/` and `.cache/` are gitignored.
+
+**Licensing is dual:** code/config under MIT (`LICENSE`); all `docs/` content under CC BY-NC-SA 4.0 (`LICENSE-CONTENT`). Keep that split intact.
+
+**Two features are temporarily DISABLED** (with TODOs in `mkdocs.yml`) due to incompatibility with `mkdocs-static-i18n`: `mkdocs-llmstxt` (emitted wrong `/he/` URLs) and `git-revision-date-localized` (broke the strict gate). Machine-readability is currently served by the JSON-LD injected from `overrides/main.html`.
 
 ## Content architecture
 
