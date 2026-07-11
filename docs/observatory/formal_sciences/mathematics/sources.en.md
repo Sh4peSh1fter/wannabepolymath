@@ -1,39 +1,39 @@
 ---
-title: "Sources & Further Reading for Mathematics"
-description: Curated sources and further reading for Mathematics.
+title: "Sources & Further Reading — Mathematics"
+description: Curated resources for diving deeper into mathematics.
 tags:
   - topic:mathematics
   - type:reference
-  - status:published
+  - status:budding
+entry_type: Article
 ---
 
-# Sources & Further Reading for Mathematics
+# Sources & Further Reading — Mathematics
 
-A curated list of resources for diving deeper into Mathematics.
+A curated list of resources for diving deeper into mathematics.
 
 ## Websites & Online Publications
 
-1.  Wolfram MathWorld
-    -   *Link*: <https://mathworld.wolfram.com/>
-    -   *Note*: An extensive online mathematics resource, providing definitions, theorems, and interactive examples.
-
-2.  Khan Academy - Math
-    -   *Link*: <https://www.khanacademy.org/math>
-    -   *Note*: Offers free courses on a wide range of mathematical topics, from basic arithmetic to advanced calculus.
+1. Wolfram MathWorld
+    - *Link*: [mathworld.wolfram.com](https://mathworld.wolfram.com/)
+    - *Note*: An extensive online mathematics resource with definitions, theorems, and interactive examples.
+2. Khan Academy — Math
+    - *Link*: [khanacademy.org/math](https://www.khanacademy.org/math)
+    - *Note*: Free courses across mathematics, from basic arithmetic to advanced calculus.
 
 ## Videos & Documentaries
 
-1.  3Blue1Brown
-    -   *Link*: <https://www.youtube.com/c/3blue1brown>
-    -   *Note*: A YouTube channel that explains complex math with a focus on visualization and intuitive understanding.
-
+1. 3Blue1Brown
+    - *Link*: [youtube.com/c/3blue1brown](https://www.youtube.com/c/3blue1brown)
+    - *Note*: Explains complex mathematics with a focus on visualization and intuition.
 
 ## Academic Papers & Journals
 
+_None curated yet._
+
 ## Books
 
-1.  "The Princeton Companion to Mathematics" by Timothy Gowers
-    -   *Note*: An extensive reference work covering a wide range of topics in modern mathematics.
-
-2.  "Gödel, Escher, Bach: An Eternal Golden Braid" by Douglas Hofstadter
-    -   *Note*: A Pulitzer Prize-winning book that explores the common themes in the works of a logician, an artist, and a composer.
+1. *The Princeton Companion to Mathematics* — by Timothy Gowers
+    - *Note*: An extensive reference work covering modern mathematics.
+2. *Gödel, Escher, Bach: An Eternal Golden Braid* — by Douglas Hofstadter
+    - *Note*: A Pulitzer Prize-winning exploration of the shared themes across logic, art, and music.

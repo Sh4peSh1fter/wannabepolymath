@@ -1,56 +1,40 @@
 ---
-title: "Key Terms & Concepts for uiology"
-description: Key terms and concepts in Biology.
+title: "Key Terms & Concepts — Biology"
+description: Core terms and concepts in biology.
 tags:
   - topic:biology
   - type:reference
-  - status:published
+  - status:seedling
+entry_type: DefinedTermSet
 ---
 
-# Key Terms & Concepts for uiology
+# Key Terms & Concepts — Biology
 
-This document contains a curated list of important keywords, terms, and concepts related to uiology.
+A curated, scannable reference of important terms in biology. Hover a term to reveal its
+definition. Terms are grouped by real sub-fields.
 
-## [Topic 1]
+## Biotechnology & Genomics
 
-`Term A`
+<div class="annotate" markdown>
 
-:   A brief, clear definition of the term.
+- Biomimetic (1)
+- Shotgun metagenomics (2)
 
-`Term B`
+</div>
 
-:   A brief, clear definition of the term.
+1.  The emulation of the models, systems, and elements of nature to solve complex human problems. **Aliases:** biomimicry. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Biomimetics).
+2.  A non-targeted approach for sequencing all microbial genomes in a sample, allowing researchers to comprehensively sample every gene in every organism present. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Metagenomics).
 
-## [Topic 2]
+## Physiology & Health
 
-`Term C`
+<div class="annotate" markdown>
 
-:   A brief, clear definition of the term.
+- Henneman's size principle (1)
+- Red light therapy (2)
+- Barefoot (3)
 
-### [Sub-Topic 1]
+</div>
 
-`Term D`
-
-:   A brief, clear definition of the term.
-
-## General
-
-`Biomimetic`
-
-:   The emulation of the models, systems, and elements of nature for the purpose of solving complex human problems.
-
-`Shotgun metagenomics`
-
-:   A nontargeted approach for sequencing all microbial genomes in a sample, allowing researchers to comprehensively sample all genes in all organisms present.
-
-`Red light therapy`
-
-:   A therapeutic technique that uses red low-level wavelengths of light to treat skin issues, such as wrinkles, scars, and persistent wounds, among other conditions.
-
-`Barefoot`
-
-:   The state of not wearing any footwear.
-
-`Henneman's size principle`
-
-:   Describes the relationship between the size of a motor neuron and the order in which it is recruited to participate in a muscle contraction.
+1.  Describes the relationship between the size of a motor neuron and the order in which it is recruited during a muscle contraction (smaller units recruited first). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Henneman%27s_size_principle).
+2.  A therapeutic technique using red, low-level wavelengths of light to treat skin conditions such as wrinkles, scars, and persistent wounds. **Aliases:** low-level laser therapy, photobiomodulation.
+3.  The state of not wearing any footwear.

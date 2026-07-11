@@ -16,11 +16,16 @@ hide:
 
 ## Introduction
 
-This space is dedicated to collecting, defining, and connecting key word, terms, and influential figures, across various disciplines to help us navigate complex subjects.
+This space is dedicated to collecting, defining, and connecting key words, terms, and influential figures across various disciplines, to help us navigate complex subjects.
+
+Two views cut across the whole Observatory:
+
+- **[Cross-Cutting Concepts](./cross_cutting/index.en.md)** — ideas (like cryptography or entropy) that recur across many fields, mapped once and linked everywhere.
+- **[Browse by Tag](./tags.en.md)** — a faceted index that pivots the fields by discipline, concept, type, and maturity.
 
 ## Structure
 
-The `fields` grouped by the science type. Each `field` contains its own set of key concepts, figures, and resources.
+The fields are grouped by science type. Each field contains its own set of key concepts, figures, and resources.
 
 <div class="annotate" markdown>
 

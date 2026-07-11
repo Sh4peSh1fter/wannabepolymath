@@ -47,7 +47,15 @@ The Observatory groups fields under a science taxonomy (`formal_sciences/`, `nat
 - `entities.en.md` — key figures/organizations
 - `sources.en.md` — further reading
 
-When creating a new field, copy `docs/observatory/_templates/field_template/` and fill it in. `keywords.en.md` uses a specific annotation pattern: terms live inside `<div class="annotate" markdown>` with `(1)`, `(2)` markers, and definitions follow as a numbered list below the div (Material's inline annotations). Match this pattern rather than inventing another.
+When creating a new field, copy `docs/observatory/_templates/field_template/` and fill it in. Mathematics (`formal_sciences/mathematics/`) is the **reference exemplar** — mirror it.
+
+**Frontmatter schema (all four files).** Title Case `title` (same casing across a field's four files), `description`, `tags` (`topic:<field>`, `type:reference` for keywords/entities/sources or `type:explanation` for `index`, and a `status:` from the epistemic scale `seedling` → `budding` → `evergreen`), `entry_type` (drives per-page JSON-LD in `overrides/main.html`: keywords → `DefinedTermSet`, entities → `CollectionPage`, index → `TechArticle`, sources → `Article`), and optional `aliases`. `index` files also carry an `icon`.
+
+**`keywords.en.md` annotation pattern (get this right).** Terms use Material inline annotations, but with **one `<div class="annotate" markdown>` block PER `## sub-topic`, each immediately followed by its OWN ordered list restarting at `1`.** Never one giant div over the whole page (that is what corrupted the old `computer_science` file — a single 645-item list drifts and desyncs). Local numbering keeps inserts cheap and mappings stable. A definition may carry inline `**Aliases:**`, `**Scope:**`, and `**See also:** [Wikipedia](…)` (or Wikidata) semantics. Group terms under real sub-topics — **no `General`/`Other` catch-alls**. Term formatting: plain text for concept names; reserve backticks for literal code/command/format identifiers (e.g. ``` `eBPF` ```, ``` `ext4` ```).
+
+**`index.en.md` is a Map of Content**, not a link dump: connective prose + the three file links + a **Related concepts & fields** section that links related fields and cross-cutting concepts with a phrase saying *why* they connect.
+
+**Cross-cutting concepts (define once, link many).** A term spanning multiple fields is defined fully in its most-native field; other fields gloss + link. Tag the canonical entry and every referencing field with the same `concept:<term>` tag. `docs/observatory/tags.en.md` (the `<!-- material/tags -->` marker page) generates the faceted index; `docs/observatory/cross_cutting/` holds curated MOC pages for terms spanning 3+ fields (see `cross_cutting/cryptography.en.md`). Both are wired into `nav:` by hand.
 
 For new Corners, `docs/_templates/corner_template/` is the starting point.
 
