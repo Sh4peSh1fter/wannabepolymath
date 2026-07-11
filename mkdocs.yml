@@ -10,16 +10,21 @@ site_description: >-
 repo_name: Sh4peSh1fter/wannabepolymath
 repo_url: https://github.com/Sh4peSh1fter/wannabepolymath
 
-# Copyright
-copyright: Copyright &copy; 2024 Kivsean
+# Copyright — content is CC BY-NC-SA 4.0; site code is MIT (see LICENSE / LICENSE-CONTENT)
+copyright: >-
+  Copyright &copy; 2024-2026 Kivsean &middot;
+  Content licensed
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" target="_blank">CC BY-NC-SA 4.0</a>
+  &middot; Code licensed MIT
 
 theme:
   name: material
   # custom_dir: overrides
   features:
     # navigation
-    - navigation.instant # internal links will be intercepted and dispatched via XHR without fully reloading the page.
-    - navigation.instant.progress # progress indicator.
+    # NOTE: navigation.instant is intentionally disabled — it is incompatible with the
+    # mkdocs-static-i18n language switcher (the contextual language link breaks under
+    # instant loading). Re-enable only if the site becomes single-language.
     - navigation.tabs # top-level sections are rendered in a menu layer below the header.
     - navigation.tabs.sticky # lock tabs below the header and always remain visible when scrolling down.
     - navigation.sections # the left sidebar will render all navigation items in expanded sections.
@@ -80,24 +85,45 @@ plugins:
   - tags
   - i18n:
       docs_structure: suffix # Using suffixed files (e.g., index.en.md)
+      # Text direction (LTR/RTL) is derived automatically from each locale by
+      # mkdocs-static-i18n; Hebrew (he) renders RTL without an explicit key.
       languages:
         - locale: en
           default: true     # English is the default language
           name: English     # Name in the language selector
           build: true
-          direction: ltr    # Explicitly Left-to-Right
         - locale: he
           name: עברית       # Hebrew name in the language selector
           build: true
-          direction: rtl    # Explicitly Right-to-Left
       reconfigure_material: true     # Allows the plugin to configure Material theme settings (like language and direction)
       reconfigure_search: true       # Allows the plugin to configure the search plugin
-      languages_alternate_reconfigure: true # Helps generate correct alternate links for language switching
       fallback_to_default: true      # If a page is missing in a language, use the default language's page
 
-# --- Custom CSS/JS --- 
+# --- Custom CSS/JS ---
 extra_css:
   - assets/stylesheets/extra.css
+
+# MathJax loader for pymdownx.arithmatex (generic: true). Without this, block/inline
+# math ($...$, $$...$$) would render as raw text instead of typeset equations.
+extra_javascript:
+  - assets/javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+# --- Build hygiene ---
+# exclude_docs: files kept in the repo (templates, scaffolding, drafts) but NOT built into
+# the site. This is how unfinished drafts are "quarantined" — versioned yet unpublished.
+exclude_docs: |
+  # Scaffolding & templates (referenced by the authoring guide, not published)
+  **/_templates/
+  **/_prompts_and_rules/
+  observatory/_templates/
+  _templates/
+  **/README.md
+  **/_template.md
+  **/_expedition_template.en.md
+  other_corners/improve_myself/temp.md
+  # Assets folders that contain stray .md notes not meant as pages
+  incubator/_assets/3d_models/personal_oral_kit.en.md
 
 # --- extra: alternate: is NOT used when mkdocs-static-i18n handles language switching ---
 # extra:
@@ -577,8 +603,11 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols # converts some sequences of characters into their corresponding symbols.
   - pymdownx.snippets: # embed content from arbitrary files into a document.
+      # Auto-append a shared abbreviations glossary to every page so the `abbr`
+      # extension can render tooltips for common terms site-wide. Path is relative to
+      # the project root (snippets' default base_path); the file lives outside docs/.
       auto_append:
-        - includes/mkdocs.md
+        - includes/abbreviations.md
   - pymdownx.superfences: # arbitrary nesting of code and content blocks inside each other.
       custom_fences:
         - name: mermaid
