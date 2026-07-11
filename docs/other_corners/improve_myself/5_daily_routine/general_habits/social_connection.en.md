@@ -1,3 +1,12 @@
+---
+title: "Social Connection: Building Meaningful Relationships"
+description: Building meaningful relationships and social connection.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Social Connection: Building Meaningful Relationships
 
 Social connections are fundamental to human health, happiness, and longevity. Quality relationships impact physical health, mental well-being, and cognitive function. This guide provides strategies for building and maintaining meaningful connections that integrate naturally throughout your daily routine.

@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Woodworking"
+description: Curated sources and further reading for Woodworking.
+tags:
+  - topic:woodworking
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Woodworking
 
 A curated list of resources for diving deeper into Woodworking.

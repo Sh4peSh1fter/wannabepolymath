@@ -1,3 +1,12 @@
+---
+title: Key Entities in anthropology
+description: Influential figures and organizations in Anthropology.
+tags:
+  - topic:anthropology
+  - type:reference
+  - status:published
+---
+
 # Key Entities in anthropology
 
 A list of key individuals who have made significant contributions to anthropology.

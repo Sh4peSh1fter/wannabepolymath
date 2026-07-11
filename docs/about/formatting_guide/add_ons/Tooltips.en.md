@@ -1,3 +1,12 @@
+---
+title: Tooltips
+description: How to add tooltips to content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Tooltips
 
 ## basic

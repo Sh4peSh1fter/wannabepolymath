@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Physics"
+description: Curated sources and further reading for Physics.
+tags:
+  - topic:physics
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Physics
 
 A curated list of resources for diving deeper into Physics.

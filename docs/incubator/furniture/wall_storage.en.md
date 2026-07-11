@@ -1,3 +1,12 @@
+---
+title: Wall Storage
+description: A project for building a modular wall storage system.
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # Wall Storage
 
 

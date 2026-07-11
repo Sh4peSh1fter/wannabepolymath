@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for earth science"
+description: Key terms and concepts in Earth Science.
+tags:
+  - topic:earth-science
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for earth science
 
 This document contains a curated list of important keywords, terms, and concepts related to earth science.

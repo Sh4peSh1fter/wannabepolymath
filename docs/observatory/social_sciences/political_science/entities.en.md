@@ -1,3 +1,12 @@
+---
+title: Key Entities in political science
+description: Influential figures and organizations in Political Science.
+tags:
+  - topic:political-science
+  - type:reference
+  - status:published
+---
+
 # Key Entities in political science
 
 A list of key individuals who have made significant contributions to political science.

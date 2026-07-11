@@ -1,3 +1,12 @@
+---
+title: Self Expression
+description: Notes on improving self-expression through language.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Self Expression
 
 ## Language

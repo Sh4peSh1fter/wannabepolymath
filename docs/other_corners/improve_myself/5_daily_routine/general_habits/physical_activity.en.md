@@ -1,3 +1,12 @@
+---
+title: "Physical Activity: Movement for Optimal Health"
+description: Movement and physical activity for optimal health.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Physical Activity: Movement for Optimal Health
 
 Physical activity is a cornerstone of health that extends far beyond fitness. It impacts cognitive function, mood regulation, sleep quality, and longevity. This guide provides science-based movement protocols that integrate throughout your daily routine.

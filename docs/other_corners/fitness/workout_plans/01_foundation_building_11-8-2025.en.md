@@ -1,3 +1,12 @@
+---
+title: "Workout Plan 01: Foundation Building Phase"
+description: A foundation-building phase workout plan.
+tags:
+  - topic:fitness
+  - type:how-to
+  - status:published
+---
+
 # Workout Plan 01: Foundation Building Phase
 **Created:** August 11, 2025  
 **Duration:** 8-12 weeks  

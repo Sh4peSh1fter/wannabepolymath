@@ -1,3 +1,12 @@
+---
+title: "Sleep: The Foundation of Health and Performance"
+description: Why sleep matters and how to optimize it for health and performance.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Sleep: The Foundation of Health and Performance
 
 Sleep is not a passive state of rest; it is an active and critical biological process that underpins all aspects of our physical and mental health. The morning and evening routines are fundamentally designed to serve one primary purpose: to ensure the quantity and quality of our sleep are as high as possible.

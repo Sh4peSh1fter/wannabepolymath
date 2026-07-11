@@ -1,3 +1,12 @@
+---
+title: living with an undo button
+description: A reflective essay on what life would be like with an undo button.
+tags:
+  - topic:philosophy
+  - type:explanation
+  - status:published
+---
+
 # living with an undo button
 
 what if we lived with an undo button?  

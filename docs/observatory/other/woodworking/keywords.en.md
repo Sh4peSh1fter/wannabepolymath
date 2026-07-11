@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for Woodworking"
+description: Key terms and concepts in Woodworking.
+tags:
+  - topic:woodworking
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for Woodworking
 
 This document contains a curated list of important keywords, terms, and concepts related to Woodworking.

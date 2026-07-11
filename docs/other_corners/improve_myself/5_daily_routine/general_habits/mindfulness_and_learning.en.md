@@ -1,3 +1,12 @@
+---
+title: "Mindfulness & Learning: Mental Cultivation"
+description: Cultivating the mind through mindfulness and continual learning.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Mindfulness & Learning: Mental Cultivation
 
 Mindfulness and continuous learning are essential for cognitive health, emotional regulation, and personal growth. This guide provides science-based practices for developing awareness, focus, and knowledge that integrate seamlessly throughout your daily routine.

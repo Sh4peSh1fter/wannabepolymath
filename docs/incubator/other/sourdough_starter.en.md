@@ -1,3 +1,12 @@
+---
+title: Sourdough
+description: Notes on creating and maintaining a sourdough starter for homemade bread.
+tags:
+  - topic:cooking
+  - type:how-to
+  - status:published
+---
+
 # Sourdough
 
 While exploring healthier eating habits, I came across sourdough and sourdough bread, and decided I want to give it a try.

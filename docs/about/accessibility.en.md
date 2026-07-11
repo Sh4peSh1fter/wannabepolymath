@@ -1,3 +1,12 @@
+---
+title: Accessibility Guidelines
+description: Guidelines for making knowledge-base content accessible to all readers.
+tags:
+  - topic:meta
+  - type:reference
+  - status:published
+---
+
 # Accessibility Guidelines
 
 ## Overview

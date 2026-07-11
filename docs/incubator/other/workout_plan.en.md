@@ -1,3 +1,12 @@
+---
+title: Workout Plan
+description: Working notes toward a personal workout plan.
+tags:
+  - topic:fitness
+  - type:how-to
+  - status:published
+---
+
 
 
 

@@ -1,3 +1,12 @@
+---
+title: Key Entities in history
+description: Influential figures and organizations in History.
+tags:
+  - topic:history
+  - type:reference
+  - status:published
+---
+
 # Key Entities in history
 
 A list of key individuals who have made significant contributions to history.

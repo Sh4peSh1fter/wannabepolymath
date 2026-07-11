@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for political science"
+description: Curated sources and further reading for Political Science.
+tags:
+  - topic:political-science
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for political science
 
 A curated list of resources for diving deeper into political science.

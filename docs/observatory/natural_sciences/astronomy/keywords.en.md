@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for astronomy"
+description: Key terms and concepts in Astronomy.
+tags:
+  - topic:astronomy
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for astronomy
 
 This document contains a curated list of important keywords, terms, and concepts related to astronomy.

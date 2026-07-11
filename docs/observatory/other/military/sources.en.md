@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Military"
+description: Curated sources and further reading for Military.
+tags:
+  - topic:military
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Military
 
 A curated list of resources for diving deeper into Military.

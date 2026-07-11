@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for logic"
+description: Key terms and concepts in Logic.
+tags:
+  - topic:logic
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for logic
 
 This document contains a curated list of important keywords, terms, and concepts related to logic.

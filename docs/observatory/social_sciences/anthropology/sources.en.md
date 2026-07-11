@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for anthropology"
+description: Curated sources and further reading for Anthropology.
+tags:
+  - topic:anthropology
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for anthropology
 
 A curated list of resources for diving deeper into anthropology.

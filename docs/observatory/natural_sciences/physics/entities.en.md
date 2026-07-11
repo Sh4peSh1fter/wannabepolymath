@@ -1,3 +1,12 @@
+---
+title: Key Entities in Physics
+description: Influential figures and organizations in Physics.
+tags:
+  - topic:physics
+  - type:reference
+  - status:published
+---
+
 # Key Entities in Physics
 
 A list of key individuals who have made significant contributions to Physics.

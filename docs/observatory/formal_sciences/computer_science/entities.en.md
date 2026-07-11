@@ -1,3 +1,12 @@
+---
+title: Key Entities in computer science
+description: Influential figures and organizations in Computer Science.
+tags:
+  - topic:computer-science
+  - type:reference
+  - status:published
+---
+
 # Key Entities in computer science
 
 A list of key individuals who have made significant contributions to computer science.

@@ -1,3 +1,12 @@
+---
+title: Tabs
+description: How to create content tabs.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Tabs
 
 ## Content Tabs

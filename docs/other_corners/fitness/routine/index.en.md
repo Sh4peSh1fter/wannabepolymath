@@ -1,3 +1,12 @@
+---
+title: "Your Personalized Fitness & Nutrition Blueprint"
+description: A personalized fitness and nutrition blueprint for building functional strength and long-term health.
+tags:
+  - topic:fitness
+  - type:how-to
+  - status:published
+---
+
 # Your Personalized Fitness & Nutrition Blueprint
 
 ## 1. Introduction & Philosophy

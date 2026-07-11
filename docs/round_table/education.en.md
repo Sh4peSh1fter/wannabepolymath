@@ -1,3 +1,12 @@
+---
+title: Education
+description: "A round-table exploration of the problems, solutions, and applications within education."
+tags:
+  - topic:education
+  - type:explanation
+  - status:published
+---
+
 # Education
 
 <!-- This document serves as a template for a structured brainstorming session. Follow the sections below to map out the problems, solutions, and applications within a given topic, identify the relationships between them, and ultimately design a new application to address a specific gap. -->

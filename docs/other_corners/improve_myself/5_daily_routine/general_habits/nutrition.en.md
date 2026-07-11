@@ -1,3 +1,12 @@
+---
+title: "Nutrition: Fueling Optimal Performance"
+description: Fueling optimal performance through nutrition.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Nutrition: Fueling Optimal Performance
 
 Nutrition is a cornerstone habit that affects every aspect of your daily performance, from cognitive function and energy levels to mood and recovery. This guide provides science-based principles for meal timing, composition, and hydration that integrate seamlessly with your daily routine.

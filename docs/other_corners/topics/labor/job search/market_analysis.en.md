@@ -1,3 +1,12 @@
+---
+title: Market Analysis
+description: Market analysis for the job search.
+tags:
+  - topic:labor
+  - type:explanation
+  - status:published
+---
+
 # Market Analysis
 
 ## Job Applications

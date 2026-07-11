@@ -1,3 +1,12 @@
+---
+title: Key Entities in uiology
+description: Influential figures and organizations in Biology.
+tags:
+  - topic:biology
+  - type:reference
+  - status:published
+---
+
 # Key Entities in uiology
 
 A list of key individuals who have made significant contributions to uiology.

@@ -1,3 +1,12 @@
+---
+title: Job Searching
+description: An overview of the job-searching process.
+tags:
+  - topic:labor
+  - type:index
+  - status:published
+---
+
 # Job Searching
 
 ## Introduction

@@ -1,3 +1,12 @@
+---
+title: Headings
+description: How to use headings and maintain heading hierarchy.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Headings
 
 === "Markdown"

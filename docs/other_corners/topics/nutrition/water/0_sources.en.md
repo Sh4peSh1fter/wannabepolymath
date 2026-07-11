@@ -1,3 +1,12 @@
+---
+title: Sources
+description: Curated sources and further reading for drinking water.
+tags:
+  - topic:nutrition
+  - type:reference
+  - status:published
+---
+
 # Sources
 
 sources can come in different types and forms. we will list all of them here to better find and map those sources when needed.  

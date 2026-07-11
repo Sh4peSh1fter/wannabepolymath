@@ -1,3 +1,12 @@
+---
+title: Crime
+description: "A round-table exploration of the problems, solutions, and applications surrounding crime and public safety."
+tags:
+  - topic:crime
+  - type:explanation
+  - status:published
+---
+
 ## Problems
 
 <!-- List the core problems within the topic we are exploring. Each problem should have a short, descriptive explanation. -->

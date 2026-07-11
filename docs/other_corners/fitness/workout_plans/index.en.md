@@ -1,3 +1,12 @@
+---
+title: Workout Plans Archive
+description: An archive of dated workout plans.
+tags:
+  - topic:fitness
+  - type:index
+  - status:published
+---
+
 # Workout Plans Archive
 
 This directory contains all your personalized workout plans, organized chronologically. Each plan is designed based on your current fitness level, goals, and progress from previous phases.

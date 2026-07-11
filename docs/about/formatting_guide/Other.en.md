@@ -1,3 +1,12 @@
+---
+title: Other
+description: Miscellaneous Markdown formatting features such as definition lists.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Other
 
 ## Definition List

@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for computer science"
+description: Curated sources and further reading for Computer Science.
+tags:
+  - topic:computer-science
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for computer science
 
 A curated list of resources for diving deeper into computer science.

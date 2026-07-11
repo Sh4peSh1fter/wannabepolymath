@@ -1,3 +1,12 @@
+---
+title: Admonitions
+description: How to use admonition call-out boxes in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Admonitions
 
 ```

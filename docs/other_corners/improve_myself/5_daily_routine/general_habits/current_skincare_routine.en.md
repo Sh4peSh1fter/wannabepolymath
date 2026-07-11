@@ -1,3 +1,12 @@
+---
+title: Current Skincare Routine
+description: My current daily skincare routine.
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 I have 5 skincare products that I use:
 1. KB Pure Pure Tea Tree Soap
 2. ON Macabim NR Lotion Toner

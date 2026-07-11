@@ -1,3 +1,12 @@
+---
+title: Personal Oral Kit
+description: A design for a personal 3D-printed holder that stores oral-care items.
+tags:
+  - topic:oral-health
+  - type:how-to
+  - status:published
+---
+
 this is my personal oral kit that holds all the things that are related to my oral care routine. 
 
 the things it wil l hold:

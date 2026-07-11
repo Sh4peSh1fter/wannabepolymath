@@ -1,3 +1,12 @@
+---
+title: Key Entities in Military
+description: Influential figures and organizations in Military.
+tags:
+  - topic:military
+  - type:reference
+  - status:published
+---
+
 # Key Entities in Military
 
 A list of key individuals who have made significant contributions to Military.

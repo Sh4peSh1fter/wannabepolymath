@@ -1,3 +1,12 @@
+---
+title: "Fitness: Functional Strength & Health"
+description: An overview of a functional-strength and health-focused approach to fitness.
+tags:
+  - topic:fitness
+  - type:index
+  - status:published
+---
+
 # Fitness: Functional Strength & Health
 
 This fitness system is designed for performance-driven training focused on overall health, functional movement, and long-term well-being. The approach emphasizes strength, endurance, mobility, and injury prevention rather than aesthetics or bulk.

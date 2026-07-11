@@ -1,3 +1,12 @@
+---
+title: "Icons, Emojis & Keys"
+description: "How to add icons, emojis, and keyboard keys to content."
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Icons, Emojis & Keys
 
 ```yaml

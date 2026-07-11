@@ -1,3 +1,12 @@
+---
+title: Key Entities in logic
+description: Influential figures and organizations in Logic.
+tags:
+  - topic:logic
+  - type:reference
+  - status:published
+---
+
 # Key Entities in logic
 
 A list of key individuals who have made significant contributions to logic.

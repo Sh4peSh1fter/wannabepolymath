@@ -1,3 +1,12 @@
+---
+title: "Workday Routine (9:00 AM - 5:00 PM)"
+description: "A structured workday routine from 9:00 AM to 5:00 PM."
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 # Workday Routine (9:00 AM - 5:00 PM)
 
 The workday routine is about structuring your time and energy to maximize productivity and well-being. The goal is to perform deep, focused work while managing energy levels through strategic breaks and movement, ending the day with a clear transition into your personal time.

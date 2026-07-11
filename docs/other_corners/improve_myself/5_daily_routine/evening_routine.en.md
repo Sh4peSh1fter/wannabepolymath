@@ -1,3 +1,12 @@
+---
+title: "Evening Routine (6:00 PM - 10:30 PM)"
+description: "A structured evening routine from 6:00 PM to 10:30 PM."
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 # Evening Routine (6:00 PM - 10:30 PM)
 
 The evening routine is critical for winding down the nervous system, facilitating recovery, and preparing the brain and body for a night of high-quality sleep. The goal is to gradually reduce stimulation, lower core body temperature, and signal to your internal clock that the day is ending.

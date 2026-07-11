@@ -1,3 +1,12 @@
+---
+title: Key Entities in medicine
+description: Influential figures and organizations in Medicine.
+tags:
+  - topic:medicine
+  - type:reference
+  - status:published
+---
+
 # Key Entities in medicine
 
 A list of key individuals who have made significant contributions to medicine.

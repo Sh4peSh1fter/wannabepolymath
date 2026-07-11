@@ -1,3 +1,12 @@
+---
+title: Code Blocks
+description: How to format and syntax-highlight code blocks.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Code Blocks
 
 ## Language / Syntax

@@ -1,3 +1,12 @@
+---
+title: Images
+description: How to add and format images in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Images
 
 ## Image Alignment

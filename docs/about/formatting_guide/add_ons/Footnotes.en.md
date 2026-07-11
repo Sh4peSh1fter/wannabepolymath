@@ -1,3 +1,12 @@
+---
+title: Footnotes
+description: How to add footnotes to content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Footnotes
 
 ```

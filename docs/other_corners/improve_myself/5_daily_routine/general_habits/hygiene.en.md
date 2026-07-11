@@ -1,3 +1,12 @@
+---
+title: "Hygiene: Health & Wellness Foundations"
+description: Hygiene practices as a foundation for health and wellness.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Hygiene: Health & Wellness Foundations
 
 Personal hygiene is fundamental to health, confidence, and social well-being. This guide provides science-based protocols for maintaining optimal cleanliness and health while integrating seamlessly with your daily routine.

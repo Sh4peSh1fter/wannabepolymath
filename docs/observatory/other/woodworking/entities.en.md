@@ -1,3 +1,12 @@
+---
+title: Key Entities in Woodworking
+description: Influential figures and organizations in Woodworking.
+tags:
+  - topic:woodworking
+  - type:reference
+  - status:published
+---
+
 # Key Entities in Woodworking
 
 A list of key individuals who have made significant contributions to Woodworking.

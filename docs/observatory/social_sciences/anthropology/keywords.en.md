@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for anthropology"
+description: Key terms and concepts in Anthropology.
+tags:
+  - topic:anthropology
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for anthropology
 
 This document contains a curated list of important keywords, terms, and concepts related to anthropology.

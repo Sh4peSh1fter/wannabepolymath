@@ -1,3 +1,12 @@
+---
+title: Key Entities in astronomy
+description: Influential figures and organizations in Astronomy.
+tags:
+  - topic:astronomy
+  - type:reference
+  - status:published
+---
+
 # Key Entities in astronomy
 
 A list of key individuals who have made significant contributions to astronomy.

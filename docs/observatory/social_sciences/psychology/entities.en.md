@@ -1,3 +1,12 @@
+---
+title: Key Entities in psychology
+description: Influential figures and organizations in Psychology.
+tags:
+  - topic:psychology
+  - type:reference
+  - status:published
+---
+
 # Key Entities in psychology
 
 A list of key individuals who have made significant contributions to psychology.

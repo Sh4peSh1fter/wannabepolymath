@@ -1,3 +1,12 @@
+---
+title: Community Engagement and Contribution
+description: How readers can engage with and contribute to the knowledge base.
+tags:
+  - topic:meta
+  - type:reference
+  - status:published
+---
+
 # Community Engagement and Contribution
 
 ## Overview

@@ -1,3 +1,12 @@
+---
+title: Bedroom Plants
+description: "A curated list of healthy, air-improving plants suited to the bedroom."
+tags:
+  - topic:gardening
+  - type:how-to
+  - status:published
+---
+
 I want the healthiest plants for my bedroom
 
 # Plant List

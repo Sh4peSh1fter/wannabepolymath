@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for sociology"
+description: Key terms and concepts in Sociology.
+tags:
+  - topic:sociology
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for sociology
 
 This document contains a curated list of important keywords, terms, and concepts related to sociology.

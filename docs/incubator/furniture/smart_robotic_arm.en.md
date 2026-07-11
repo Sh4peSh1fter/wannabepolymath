@@ -1,3 +1,12 @@
+---
+title: smart robotic arm
+description: A project exploring the build of a smart robotic arm.
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # smart robotic arm
 
 ## Models 

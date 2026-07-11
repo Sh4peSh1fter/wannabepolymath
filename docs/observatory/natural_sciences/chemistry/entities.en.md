@@ -1,3 +1,12 @@
+---
+title: Key Entities in chemistry
+description: Influential figures and organizations in Chemistry.
+tags:
+  - topic:chemistry
+  - type:reference
+  - status:published
+---
+
 # Key Entities in chemistry
 
 A list of key individuals who have made significant contributions to chemistry.

@@ -1,3 +1,12 @@
+---
+title: Grids
+description: How to build grid card layouts in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Grids
 
 ## Card Grids

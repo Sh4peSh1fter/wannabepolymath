@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for sociology"
+description: Curated sources and further reading for Sociology.
+tags:
+  - topic:sociology
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for sociology
 
 A curated list of resources for diving deeper into sociology.

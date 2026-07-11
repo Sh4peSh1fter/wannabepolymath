@@ -1,3 +1,12 @@
+---
+title: Key Entities in earth science
+description: Influential figures and organizations in Earth Science.
+tags:
+  - topic:earth-science
+  - type:reference
+  - status:published
+---
+
 # Key Entities in earth science
 
 A list of key individuals who have made significant contributions to earth science.

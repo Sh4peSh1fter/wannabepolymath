@@ -1,3 +1,12 @@
+---
+title: Key Entities in literature
+description: Influential figures and organizations in Literature.
+tags:
+  - topic:literature
+  - type:reference
+  - status:published
+---
+
 # Key Entities in literature
 
 A list of key individuals who have made significant contributions to literature.

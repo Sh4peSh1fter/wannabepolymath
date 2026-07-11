@@ -1,3 +1,12 @@
+---
+title: "Light Management: Circadian Optimization"
+description: Managing light exposure to optimize circadian rhythm.
+tags:
+  - topic:self-improvement
+  - type:explanation
+  - status:published
+---
+
 # Light Management: Circadian Optimization
 
 Light is the most powerful external cue for regulating your circadian rhythm. Strategic light exposure and avoidance can dramatically improve sleep quality, energy levels, mood, and overall health. This guide provides science-based protocols for optimizing your light environment throughout the day.

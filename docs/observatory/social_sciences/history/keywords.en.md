@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for history"
+description: Key terms and concepts in History.
+tags:
+  - topic:history
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for history
 
 This document contains a curated list of important keywords, terms, and concepts related to history.

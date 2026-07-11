@@ -1,3 +1,12 @@
+---
+title: distribution
+description: "Notes on publishing, exposing, and distributing the knowledge base's content."
+tags:
+  - topic:meta
+  - type:explanation
+  - status:published
+---
+
 # distribution
 
 publication, exposure

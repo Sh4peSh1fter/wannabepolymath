@@ -1,3 +1,12 @@
+---
+title: Questions
+description: Open questions exploring Linux.
+tags:
+  - topic:devops
+  - type:explanation
+  - status:published
+---
+
 # Questions
 
 ## Resource Management

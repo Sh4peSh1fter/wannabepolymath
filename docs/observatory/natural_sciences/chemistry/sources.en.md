@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for chemistry"
+description: Curated sources and further reading for Chemistry.
+tags:
+  - topic:chemistry
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for chemistry
 
 A curated list of resources for diving deeper into chemistry.

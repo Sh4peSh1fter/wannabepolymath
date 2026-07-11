@@ -1,3 +1,12 @@
+---
+title: Key Entities in Mathematics
+description: Influential figures and organizations in Mathematics.
+tags:
+  - topic:mathematics
+  - type:reference
+  - status:published
+---
+
 # Key Entities in Mathematics
 
 A list of key individuals and organizations that have made significant contributions to Mathematics.

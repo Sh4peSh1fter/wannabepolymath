@@ -1,3 +1,12 @@
+---
+title: Annotations
+description: How to use annotations to add inline explanatory markers.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Annotations
 
 ```markdown title="Text with annotations"

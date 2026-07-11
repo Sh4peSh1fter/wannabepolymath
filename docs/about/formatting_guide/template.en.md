@@ -1,3 +1,12 @@
+---
+title: - Template -
+description: A template showing the standard structure for a formatting-guide page.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # - Template -
 
 ````Markdown

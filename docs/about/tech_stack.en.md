@@ -1,3 +1,12 @@
+---
+title: Technology Stack
+description: An overview of the technologies that power the knowledge base.
+tags:
+  - topic:meta
+  - type:reference
+  - status:published
+---
+
 # Technology Stack
 
 ## Overview

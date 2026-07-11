@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for linguistics"
+description: Curated sources and further reading for Linguistics.
+tags:
+  - topic:linguistics
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for linguistics
 
 A curated list of resources for diving deeper into linguistics.

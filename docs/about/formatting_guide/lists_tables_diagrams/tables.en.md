@@ -1,3 +1,12 @@
+---
+title: Tables
+description: How to format tables in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Tables
 
 to use this add the following to the mkdocs.yaml:

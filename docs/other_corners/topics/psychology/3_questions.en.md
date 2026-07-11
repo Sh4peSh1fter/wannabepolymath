@@ -1,3 +1,12 @@
+---
+title: Questions
+description: Open questions exploring psychology.
+tags:
+  - topic:psychology
+  - type:explanation
+  - status:published
+---
+
 # Questions
 
 ## <category-1>

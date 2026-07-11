@@ -1,3 +1,12 @@
+---
+title: Key Entities in Nutrition
+description: Influential figures and organizations in Nutrition.
+tags:
+  - topic:nutrition
+  - type:reference
+  - status:published
+---
+
 # Key Entities in Nutrition
 
 A list of key individuals who have made significant contributions to Nutrition.

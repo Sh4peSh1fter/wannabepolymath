@@ -1,3 +1,12 @@
+---
+title: Rug
+description: A buying guide comparing rug materials and listing where to purchase a rug.
+tags:
+  - topic:home-decoration
+  - type:item-review
+  - status:published
+---
+
 
 
 *   size: around 230 cm x 160 cm

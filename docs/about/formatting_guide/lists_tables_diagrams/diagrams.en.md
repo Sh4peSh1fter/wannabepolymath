@@ -1,3 +1,12 @@
+---
+title: Diagrams
+description: How to create Mermaid diagrams in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Diagrams
 
 This configuration enables native support for Mermaid.js diagrams. Material for MkDocs will automatically initialize the JavaScript runtime when a page includes a mermaid code block:

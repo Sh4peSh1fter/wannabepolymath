@@ -1,3 +1,12 @@
+---
+title: Key Entities in sociology
+description: Influential figures and organizations in Sociology.
+tags:
+  - topic:sociology
+  - type:reference
+  - status:published
+---
+
 # Key Entities in sociology
 
 A list of key individuals who have made significant contributions to sociology.

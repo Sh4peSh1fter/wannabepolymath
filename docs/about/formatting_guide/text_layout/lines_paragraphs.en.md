@@ -1,3 +1,12 @@
+---
+title: "Lines & Paragraphs"
+description: How to format lines and paragraphs in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Lines & Paragraphs
 
 ## Line Breaks

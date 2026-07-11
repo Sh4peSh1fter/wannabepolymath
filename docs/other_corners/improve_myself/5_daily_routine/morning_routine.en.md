@@ -1,3 +1,12 @@
+---
+title: "Morning Routine (6:30 AM - 8:30 AM)"
+description: "A structured morning routine from 6:30 AM to 8:30 AM."
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 # Morning Routine (6:30 AM - 8:30 AM)
 
 The morning routine is arguably the most crucial part of the day. It sets the foundation for your energy, mood, and cognitive function. The primary goals are to signal to your body that the day has begun, regulate your circadian rhythm, and prepare for the demands of the day.

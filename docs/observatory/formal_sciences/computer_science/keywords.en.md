@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for computer science"
+description: Key terms and concepts in Computer Science.
+tags:
+  - topic:computer-science
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for computer science
 
 This document contains a curated list of important keywords, terms, and concepts related to computer science.

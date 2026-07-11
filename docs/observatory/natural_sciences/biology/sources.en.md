@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for uiology"
+description: Curated sources and further reading for Biology.
+tags:
+  - topic:biology
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for uiology
 
 A curated list of resources for diving deeper into uiology.

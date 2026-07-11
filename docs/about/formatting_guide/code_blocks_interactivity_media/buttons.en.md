@@ -1,3 +1,12 @@
+---
+title: Buttons
+description: How to add styled buttons to content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Buttons
 
 ## Style

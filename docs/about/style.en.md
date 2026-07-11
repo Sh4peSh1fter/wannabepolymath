@@ -1,3 +1,12 @@
+---
+title: Style Guide
+description: The writing and visual style guide for the knowledge base.
+tags:
+  - topic:meta
+  - type:reference
+  - status:published
+---
+
 # Style Guide
 
 ## Overview

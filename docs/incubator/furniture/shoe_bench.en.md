@@ -1,3 +1,12 @@
+---
+title: Shoe Bench
+description: A project to build a bench that provides seating and shoe storage near the entrance.
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # Shoe Bench
 
 I want to build a shoe bench that you can sit on and store shoes in. The shoe bench will be located between the door and the sofa (in the living room), so the size should be tailored to this specific space.

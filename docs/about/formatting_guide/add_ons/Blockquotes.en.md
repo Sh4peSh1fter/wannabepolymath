@@ -1,3 +1,12 @@
+---
+title: Blockquotes
+description: How to format blockquotes in content.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Blockquotes
 
 ## Basic

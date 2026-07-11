@@ -1,3 +1,12 @@
+---
+title: Disabilities in a Laboratory
+description: A round-table exploration of the challenges and possible solutions for people with disabilities working in a laboratory.
+tags:
+  - topic:disabilities
+  - type:explanation
+  - status:published
+---
+
 # Disabilities in a Laboratory
 
 ## Problems

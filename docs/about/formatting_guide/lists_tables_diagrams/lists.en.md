@@ -1,3 +1,12 @@
+---
+title: Lists
+description: "How to format ordered, unordered, and task lists."
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Lists
 
 ## Ordered list

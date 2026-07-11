@@ -1,3 +1,12 @@
+---
+title: Formatting Guide
+description: An overview of the formatting features available for authoring pages.
+tags:
+  - topic:formatting
+  - type:index
+  - status:published
+---
+
 # Formatting Guide
 
 ## keywords

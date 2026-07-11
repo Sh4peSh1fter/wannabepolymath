@@ -1,3 +1,12 @@
+---
+title: Current Supplements
+description: My current supplement regimen.
+tags:
+  - topic:self-improvement
+  - type:reference
+  - status:published
+---
+
 I bought and want to start using the following vitamins and supplements:
 1. California Gold Nutrition, Vitamin D3, 125 mcg (5,000 IU), 90 Fish Gelatin Softgels
 2. Doctor's Best, High Absorption Magnesium, 240 Tablets (100 mg Per Tablet)

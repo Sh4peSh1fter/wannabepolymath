@@ -1,3 +1,12 @@
+---
+title: Key Entities in linguistics
+description: Influential figures and organizations in Linguistics.
+tags:
+  - topic:linguistics
+  - type:reference
+  - status:published
+---
+
 # Key Entities in linguistics
 
 A list of key individuals who have made significant contributions to linguistics.

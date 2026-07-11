@@ -1,3 +1,12 @@
+---
+title: Taking Inspiration
+description: How this project draws inspiration from other knowledge bases and sites.
+tags:
+  - topic:meta
+  - type:explanation
+  - status:published
+---
+
 # Taking Inspiration
 
 ## Overview

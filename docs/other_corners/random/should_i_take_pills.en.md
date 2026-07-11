@@ -1,3 +1,12 @@
+---
+title: Should I take pills?
+description: A personal reflection on whether to take medication.
+tags:
+  - topic:philosophy
+  - type:explanation
+  - status:published
+---
+
 # Should I take pills?
 
 should I take pills in general?  

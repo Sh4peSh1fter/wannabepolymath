@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Mathematics"
+description: Curated sources and further reading for Mathematics.
+tags:
+  - topic:mathematics
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Mathematics
 
 A curated list of resources for diving deeper into Mathematics.

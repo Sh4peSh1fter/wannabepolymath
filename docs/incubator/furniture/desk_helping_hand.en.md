@@ -1,3 +1,12 @@
+---
+title: Desk Helping Hand System
+description: A design for a desk-mounted helping-hand system for holding tools and parts.
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # Desk Helping Hand System
 
 ## 1. Overview

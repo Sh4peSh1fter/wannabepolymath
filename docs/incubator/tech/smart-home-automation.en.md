@@ -1,3 +1,12 @@
+---
+title: Smart Home Automation
+description: Goals and plans for automating the home with local-first smart-home controls.
+tags:
+  - topic:home-automation
+  - type:how-to
+  - status:published
+---
+
 # Project Goals
 
 1.  Automate daily routines to enhance comfort, efficiency, and wellbeing.

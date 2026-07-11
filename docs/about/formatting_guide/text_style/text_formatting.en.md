@@ -1,3 +1,12 @@
+---
+title: Text Formatting
+description: How to apply inline text formatting such as bold and italic.
+tags:
+  - topic:formatting
+  - type:reference
+  - status:published
+---
+
 # Text Formatting
 
 ## Text Styles & Emphasis
