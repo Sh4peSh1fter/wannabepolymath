@@ -30,7 +30,7 @@ dates: "[September/October 2025]"
 *   **Size:** 2 friends.
 *   **Available Date Ranges:** The overlapping travel window is **September 24, 2025 - October 15, 2025**. This period conveniently covers the main Israeli holidays (Rosh Hashanah, Sukkot).
     *   my friend can travel between 1.8.2025 - 20.9.2025, and 24.9.2025 - 26.10.2025
-    *   I would want to plan this trip around the Israeli holidays @https://www.mako.co.il/home-family-kids/Article-df5ebe37893f281026.htm between 22.9.2025 - 15.10.2025. I'm flexiable with those dates.
+    *   I would want to plan this trip around the Israeli holidays @<https://www.mako.co.il/home-family-kids/Article-df5ebe37893f281026.htm> between 22.9.2025 - 15.10.2025. I'm flexiable with those dates.
 *   **Flight Parameters:**
     *   **Budget:** Up to $500 per person.
     *   **Company:** `El Al`
@@ -51,10 +51,10 @@ dates: "[September/October 2025]"
 
 ## Phase 2: Flight Research
 
-1.  https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=BCN
-2.  https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=MUC
-3.  https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=VCE
-4.  https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=VIE
+1.  <https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=BCN>
+2.  <https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=MUC>
+3.  <https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=VCE>
+4.  <https://inspireme.elal.com/travel-web/inspirationalSearch?entityCode=LY&languageCode=HE&tripTypeCode=R&maxPrice=500&originAirportCode=TLV&startMonth=9&endMonth=10&regions=LYR002-LYR003-LYR004-LYR005-LYR006&ADT=2&destinationAirportCode=VIE>
 
 | Dates        | Airline   | Outbound (Depart-Arrive) | Inbound (Depart-Arrive) | Price (per person) | Link      | Notes                  |
 |--------------|-----------|--------------------------|-------------------------|--------------------|-----------|------------------------|
@@ -73,10 +73,11 @@ dates: "[September/October 2025]"
 | **Munich, Germany**   | Spring & Fall                | Crisp, cool autumn air. Oktoberfest season.       | 6-17°C         | Mix of bright sunny days and overcast periods.   | $140 - $190+         |
 
 ### Option 1: Vienna, Austria
+
 *   **Why here?** Known as the "City of Music," Vienna offers unparalleled classical art, imperial history, and grand architecture. It's famous for its palaces (Schönbrunn, Hofburg), world-class museums, and vibrant coffeehouse culture. It's also an incredibly clean, safe, and easy-to-navigate city with excellent public transport.
 *   **Best Time to Visit:** September and October are ideal. The summer crowds have thinned, and the weather is typically mild and pleasant, perfect for city walks and enjoying the autumn colors in the city's parks and nearby Vienna Woods.
 *   **Estimated Cost:** Mid-range. Expect approximately $150-$200 per person per day, excluding accommodation.
-*   weather: https://www.accuweather.com/en/es/barcelona/307297/october-weather/307297
+*   weather: <https://www.accuweather.com/en/es/barcelona/307297/october-weather/307297>
 *   **Pros:**
     *   **Rich Culture & History:** Home to Mozart, Beethoven, and Freud. You can spend days exploring imperial palaces, the MuseumsQuartier, and the State Opera.
     *   **Excellent for Walking:** The city center (Innere Stadt) is a UNESCO World Heritage site and is very pedestrian-friendly.
@@ -87,12 +88,13 @@ dates: "[September/October 2025]"
 *   Sources:
     1. [Vienna Tourist Board](https://www.wien.info/en)
     2. [Lonely Planet - Vienna](https://www.lonelyplanet.com/austria/vienna)
-    3. https://austriatravel.co.il/vienna/vienna-3-day-itinerary
-    4. https://www.myaustria.co.il/%D7%95%D7%99%D7%A0%D7%94-vienna-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%A6%D7%A8%D7%99%D7%9A-%D7%9C%D7%93%D7%A2%D7%AA-%D7%9C%D7%A4%D7%A0%D7%99-%D7%94%D7%98%D7%99%D7%95%D7%9C/
-    5. https://www.facebook.com/groups/viennainfo/?locale=he_IL
+    3. <https://austriatravel.co.il/vienna/vienna-3-day-itinerary>
+    4. <https://www.myaustria.co.il/%D7%95%D7%99%D7%A0%D7%94-vienna-%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%A6%D7%A8%D7%99%D7%9A-%D7%9C%D7%93%D7%A2%D7%AA-%D7%9C%D7%A4%D7%A0%D7%99-%D7%94%D7%98%D7%99%D7%95%D7%9C/>
+    5. <https://www.facebook.com/groups/viennainfo/?locale=he_IL>
 
 
 ### Option 2: Venice, Italy
+
 *   **Why here?** A truly one-of-a-kind city built on water, offering a unique historical experience. The entire city is a UNESCO World Heritage site, with a maze of canals, stunning architecture, and a rich artistic legacy. It's a city for getting lost and discovering beauty around every corner.
 *   **Best Time to Visit:** September/October is one of the best times to go. The intense summer heat and cruise ship crowds diminish, leaving pleasant weather for exploring. There's a lower chance of "acqua alta" (high water) than later in autumn.
 *   **Estimated Cost:** Mid-range to High. Can be expensive, especially in tourist-heavy areas. Approx. $170-$220 per person per day.
@@ -109,6 +111,7 @@ dates: "[September/October 2025]"
     2. [Lonely Planet - Venice](https://www.lonelyplanet.com/italy/venice)
 
 ### Option 3: Barcelona, Spain
+
 *   **Why here?** A vibrant city that perfectly blends Gothic and modern architecture with a lively beach-city atmosphere. Famous for Gaudí's unique creations (Sagrada Família, Park Güell), a fantastic food scene (tapas!), and a bustling nightlife.
 *   **Best Time to Visit:** September is perfect. The weather is still warm enough to enjoy the beach, but the peak summer crowds have departed. October is also pleasant, though slightly cooler.
 *   **Estimated Cost:** Mid-range. More affordable than Vienna or Venice. Approx. $130-$180 per person per day.
@@ -124,6 +127,7 @@ dates: "[September/October 2025]"
     2. [Lonely Planet - Barcelona](https://www.lonelyplanet.com/spain/barcelona)
 
 ### Option 4: Munich, Germany
+
 *   **Why here?** The capital of Bavaria, Munich is a hub of German culture known for its beautiful parks, numerous museums, and laid-back beer gardens. It offers a clean, orderly, and friendly atmosphere with a mix of historical buildings and modern life.
 *   **Best Time to Visit:** September is famous for Oktoberfest (which can be a pro or a con). Outside of the festival, late September and October offer beautiful autumn scenery and fewer crowds. The weather is cool and crisp.
 *   **Estimated Cost:** Mid-range. Similar to Vienna. Approx. $140-$190 per person per day (costs can skyrocket during Oktoberfest).
@@ -248,13 +252,16 @@ dates: "[September/October 2025]"
 <!-- To be filled out after the expedition is complete. -->
 
 ### Highlights & Memories
+
 *   [What were the absolute best moments? The most memorable meal, view, or experience?]
 
 ### Lessons Learned
+
 *   **What Went Well:** [e.g., The packing list was perfect; the pre-booked train tickets saved a lot of hassle.]
 *   **What to Do Differently Next Time:** [e.g., Pack fewer shoes; schedule more downtime; learn a few basic phrases in the local language.]
 
 ### Budget vs. Actual
+
 | Category      | Estimated | Actual | Difference |
 |---------------|:---------:|:------:|:----------:|
 | Flights       | $         | $      | $          |
@@ -264,4 +271,5 @@ dates: "[September/October 2025]"
 | **Total**     | **$**     | **$**  | **$**      |
 
 ### Photo Gallery
-*   [Link to Google Photos album, blog post, or social media gallery.] 
+
+*   [Link to Google Photos album, blog post, or social media gallery.]

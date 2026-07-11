@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for political science"
+description: Key terms and concepts in Political Science.
+tags:
+  - topic:political-science
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for political science
 
 This document contains a curated list of important keywords, terms, and concepts related to political science.

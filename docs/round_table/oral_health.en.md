@@ -1,3 +1,12 @@
+---
+title: Oral Health
+description: "A round-table exploration of the problems, solutions, and applications surrounding oral health."
+tags:
+  - topic:oral-health
+  - type:explanation
+  - status:published
+---
+
 # Oral Health
 
 <!-- This document serves as a template for a structured brainstorming session. Follow the sections below to map out the problems, solutions, and applications within a given topic, identify the relationships between them, and ultimately design a new application to address a specific gap. -->
@@ -21,7 +30,7 @@
 
 <!-- List potential solutions that could address the problems we've identified. For each solution, describe what it is and then detail the specific problems it solves and how. -->
 
-1. [Solution 1] 
+1. [Solution 1]
     - Description:
         - [description]
     - What problems does it solve and how:

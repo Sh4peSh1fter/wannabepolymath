@@ -1,3 +1,12 @@
+---
+title: Daily Routine
+description: An overview of a structured daily routine.
+tags:
+  - topic:self-improvement
+  - type:index
+  - status:published
+---
+
 # Daily Routine
 
 ## Guiding Questions

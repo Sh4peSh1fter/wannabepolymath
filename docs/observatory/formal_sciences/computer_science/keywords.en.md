@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for computer science"
+description: Key terms and concepts in Computer Science.
+tags:
+  - topic:computer-science
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for computer science
 
 This document contains a curated list of important keywords, terms, and concepts related to computer science.
@@ -543,6 +552,7 @@ This document contains a curated list of important keywords, terms, and concepts
 - `hybrid cloud` (642)
 
 ## Operating Systems & Low Level
+
 - `file allocation table (fat)` (329)
 - `KVM` (330)
 - `ESXI` (331)
@@ -604,6 +614,7 @@ This document contains a curated list of important keywords, terms, and concepts
 - `system v` (488)
 
 ## Storage
+
 - `DAS storage` (334)
 - `RAID` (335)
 - `File system` (336)
@@ -638,6 +649,7 @@ This document contains a curated list of important keywords, terms, and concepts
 - `radosgw` (579)
 
 ## Cloud Computing
+
 - `Cloud computing` (339)
 - `P2V` (340)
 - `V2V` (341)
@@ -667,6 +679,7 @@ This document contains a curated list of important keywords, terms, and concepts
 - `hybrid cloud` (642)
 
 ## Big Data
+
 - `Big data` (342)
 - `3 V's of big data` (343)
 - `Big data ecosystem` (344)
@@ -695,6 +708,7 @@ This document contains a curated list of important keywords, terms, and concepts
 - `k8s` (643)
 
 ## Networking
+
 - `VPN (Virtual Private Network)` (35)
 - `TCP/IP Model` (36)
 - `OSI Model` (37)

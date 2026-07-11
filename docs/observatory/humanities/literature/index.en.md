@@ -13,4 +13,4 @@ Literature, in its broadest sense, is any collection of written work. More restr
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

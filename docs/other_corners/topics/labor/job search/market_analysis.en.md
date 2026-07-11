@@ -1,3 +1,12 @@
+---
+title: Market Analysis
+description: Market analysis for the job search.
+tags:
+  - topic:labor
+  - type:explanation
+  - status:published
+---
+
 # Market Analysis
 
 ## Job Applications
@@ -7,7 +16,7 @@ we can add a column of the seniority / title itself just for easier reading.
 
 ## Job Experience Table
 
-list all the titles that are wanted as job experience and the minimum years of it. 
+list all the titles that are wanted as job experience and the minimum years of it.
 
 | Job Title                 | + (no years mentioned)    | +2    | +3    | +4    | +5    | +6    | +10   |
 | ------------------------- | ------------------------- | ----- | ----- | ----- | ----- | ----- | ----- |

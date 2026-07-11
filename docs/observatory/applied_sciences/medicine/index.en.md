@@ -13,4 +13,4 @@ Medicine is the science and practice of caring for a patient, managing the diagn
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

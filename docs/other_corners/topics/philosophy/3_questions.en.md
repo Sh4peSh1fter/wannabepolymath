@@ -1,3 +1,12 @@
+---
+title: Questions
+description: Open questions exploring philosophy.
+tags:
+  - topic:philosophy
+  - type:explanation
+  - status:published
+---
+
 # Questions
 
 ## <category-1>

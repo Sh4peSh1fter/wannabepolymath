@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for philosophy"
+description: Key terms and concepts in Philosophy.
+tags:
+  - topic:philosophy
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for philosophy
 
 This document contains a curated list of important keywords, terms, and concepts related to philosophy.

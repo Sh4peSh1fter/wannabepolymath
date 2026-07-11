@@ -221,10 +221,12 @@ This combination provides a professional-grade maintenance solution for my entir
 Using a honing rod correctly is a skill that transforms knife maintenance from a chore into a satisfying, two-minute ritual. The goal is consistency and safety.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check the ceramic rod for any cracks that may have occurred during shipping. Ensure the steel rod is straight.
 *   **First-Time Cleaning:** Wash both rods with warm, soapy water and dry them completely.
 
 ### 2. The Honing Technique (The Most Important Part)
+
 *   **The Stance:** Do **not** hone with the rod waving in the air like a sword fighter. For maximum safety and consistency, hold the rod vertically with its tip planted firmly on a cutting board. Place a folded, damp dish towel under the tip to prevent it from slipping.
 *   **The Angle:** This is crucial. You want to match the angle of your knife's edge, which is typically between 15 and 20 degrees. A simple way to visualize this: 90 degrees is straight out, 45 is halfway to the board. Halve that again to get close to 22.5, and then go a little shallower. It doesn't need to be perfect, but it *must be consistent* on both sides and with every stroke.
 *   **The Stroke:**
@@ -234,6 +236,7 @@ Using a honing rod correctly is a skill that transforms knife maintenance from a
 *   **How Many Strokes?** For routine maintenance, 3-6 alternating strokes per side are all you need. You are realigning, not grinding.
 
 ### 3. Periodic Maintenance
+
 *   **Cleaning the Ceramic Rod:** The white ceramic rod will quickly become coated with grey streaks of metal filings (called swarf). This clogs the abrasive pores and reduces its effectiveness. To clean it, simply use a standard pencil eraser. The rubber will lift the metal filings right off, restoring the white surface. You can also use Bar Keeper's Friend or a melamine sponge for a deeper clean.
 *   **Cleaning the Steel Rod:** Wipe it down with a damp cloth periodically.
 
@@ -244,6 +247,7 @@ Using a honing rod correctly is a skill that transforms knife maintenance from a
 The honing rods are the main event, but proper storage is key to protecting them and your other tools.
 
 ### 1. Knife & Tool Storage
+
 *   **What to Look For:** Do not simply toss the rods in a drawer with other metal utensils. The ceramic rod can be chipped, and the steel rod can be dented. A dedicated knife block with extra slots, a magnetic knife strip, or a tool roll are all excellent options.
 *   **Recommendation:** A countertop knife block with vertical slots is often the safest and most convenient solution.
 *   **Where to Buy:** [Amazon (for knife blocks)](https://www.amazon.com/s?k=knife+block)
@@ -278,4 +282,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

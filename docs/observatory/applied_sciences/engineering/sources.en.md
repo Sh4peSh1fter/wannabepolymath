@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for engineering"
+description: Curated sources and further reading for Engineering.
+tags:
+  - topic:engineering
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for engineering
 
 A curated list of resources for diving deeper into engineering.

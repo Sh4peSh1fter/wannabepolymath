@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{#
+  Inject Schema.org JSON-LD structured data into every content page's <head>, driven by
+  the page's frontmatter (single source of truth) plus git-derived dates. This makes the
+  knowledge base machine-readable for search engines (rich results) and LLMs.
+
+  Conditional fields each carry their own trailing comma and are always followed by the
+  unconditional "author"/"isPartOf" keys, so the emitted JSON is valid regardless of which
+  optional fields are present.
+#}
+{% block extrahead %}
+  {{ super() }}
+  {% if page and not page.is_homepage %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ (page.meta.title if page.meta.title else page.title) | tojson }},
+    {% if page.meta.description %}"description": {{ page.meta.description | tojson }},{% endif %}
+    {% if page.canonical_url %}"url": {{ page.canonical_url | tojson }},{% endif %}
+    {% if page.meta.git_creation_date_localized_raw_iso_datetime %}"datePublished": {{ page.meta.git_creation_date_localized_raw_iso_datetime | tojson }},{% endif %}
+    {% if page.meta.git_revision_date_localized_raw_iso_datetime %}"dateModified": {{ page.meta.git_revision_date_localized_raw_iso_datetime | tojson }},{% endif %}
+    {% if page.meta.tags %}"keywords": {{ page.meta.tags | join(", ") | tojson }},{% endif %}
+    "inLanguage": "en",
+    "author": {"@type": "Person", "name": "Kivsean"},
+    "isPartOf": {"@type": "WebSite", "name": {{ config.site_name | tojson }}, "url": {{ config.site_url | tojson }}}
+  }
+  </script>
+  {% endif %}
+{% endblock %}

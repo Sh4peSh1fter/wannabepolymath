@@ -88,12 +88,12 @@ Now that I understand the science, I can clearly define what I'm looking for in 
         *   **Gentle Surfactants:** Sulfate-free or using very mild sulfates with buffering agents.
         *   **Fragrance-Free:** To minimize risk of sensitization and irritation.
         *   **Non-comedogenic:** Won't clog pores or contribute to breakouts.
-    
+
     2.  **Performance**
         *   **Effective Cleansing:** Removes sunscreen, and daily impurities.
         *   **Maintains Barrier Function:** Doesn't leave skin feeling tight, dry, or stripped.
         *   **Rinses Cleanly:** No residue left behind that could clog pores or interfere with subsequent products.
-    
+
     3.  **Usability & Experience**
         *   **Suitable for Daily Use:** Gentle enough for consistent, long-term use.
         *   **Good Value:** Reasonable cost per use for a quality formulation.
@@ -287,6 +287,7 @@ My choice is the **CeraVe Foaming Facial Cleanser**.
 **Note on KB Pure Tea Tree Soap:** Based on detailed ingredient analysis from [SkinSort](https://skinsort.com/products/kb-pure/pure-tea-tree-facial-soap), while this soap does offer antimicrobial benefits from tea tree oil and is fungal acne-safe, it contains several concerning elements for daily facial use. The presence of sulfates (Ammonium Lauryl/Laureth Sulfate), multiple potential irritants including DMDM Hydantoin and Methylchloroisothiazolinone, plus fragrance components make it less suitable for sensitive or normal-dry skin. The analysis flags 6 ingredients as potentially irritating and notes concerns for eczema and rosacea-prone skin. While it may work for some people with oily, acne-prone skin who aren't sensitive to sulfates and fragrances, it doesn't align with the gentle, barrier-supporting approach I'm seeking for daily use.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/CeraVe-Foaming-Facial-Cleanser-Washing/dp/B01N1LL62W)
 *   [Target](https://www.target.com/p/cerave-foaming-facial-cleanser-for-normal-to-oily-skin-12-fl-oz/-/A-13977967)
 *   [CVS](https://www.cvs.com/shop/cerave-foaming-facial-cleanser-12-oz-prodid-1011479)
@@ -298,10 +299,12 @@ My choice is the **CeraVe Foaming Facial Cleanser**.
 This section details how to get the most out of the CeraVe Foaming Facial Cleanser while maintaining optimal skin health.
 
 ### 1. Initial Setup and Introduction
+
 *   **Patch Test:** Before full use, test a small amount on your inner wrist or behind your ear for 24-48 hours to check for any adverse reactions.
 *   **Gradual Introduction:** If transitioning from a different cleanser type, use every other day for the first week to allow your skin to adjust.
 
 ### 2. Daily Use Technique
+
 *   **Water Temperature:** Use lukewarm water - hot water can strip natural oils and cause irritation.
 *   **Amount:** A pea-sized amount is sufficient for the entire face and neck.
 *   **Application Method:**
@@ -314,11 +317,13 @@ This section details how to get the most out of the CeraVe Foaming Facial Cleans
 *   **Frequency:** Start with once daily (evening). If well-tolerated and needed, can use twice daily.
 
 ### 3. Optimizing Results
+
 *   **Evening Priority:** Always cleanse in the evening to remove sunscreen, makeup, and daily accumulation of pollutants.
 *   **Morning Consideration:** Only use in the morning if you feel it's necessary. Many people with normal-dry skin do well with just water or a gentle wipe in the morning.
 *   **Follow with Appropriate Products:** Always follow cleansing with a suitable moisturizer and sunscreen during the day.
 
 ### 4. Monitoring and Adjustment
+
 *   **Signs of Over-Cleansing:** Tightness, increased sensitivity, flaking, or paradoxically increased oiliness (rebound effect).
 *   **Seasonal Adjustments:** You may need to reduce frequency during winter months when skin tends to be drier.
 *   **When to Stop:** Discontinue if you experience persistent irritation, breakouts, or allergic reactions.
@@ -330,21 +335,25 @@ This section details how to get the most out of the CeraVe Foaming Facial Cleans
 To maximize the effectiveness of your facial cleansing routine and support overall skin health.
 
 ### 1. Gentle Face Towel or Cleansing Cloth
+
 *   **What to Look For:** Soft, non-abrasive material like bamboo or microfiber. Avoid rough terry cloth which can cause micro-tears.
 *   **Recommendation:** Dedicated face towels that are washed frequently and used only for the face to prevent bacterial transfer.
 *   **Usage:** Pat dry gently rather than rubbing to avoid irritation.
 
 ### 2. Follow-Up Moisturizer
+
 *   **Why Essential:** Cleansing, even gentle cleansing, temporarily disrupts the skin barrier. A good moisturizer helps restore and maintain barrier function.
 *   **What to Look For:** For normal-dry skin, look for ingredients like hyaluronic acid, ceramides, glycerin, and gentle emollients.
 *   **Recommendation:** Consider the CeraVe Daily Moisturizing Lotion or CeraVe PM Facial Moisturizing Lotion to maintain ingredient synergy.
 
 ### 3. Pre-Cleansing Oil (Optional)
+
 *   **When Needed:** For days with heavy makeup, waterproof sunscreen, or very dry skin.
 *   **What to Look For:** A gentle cleansing oil that emulsifies well with water (like DHC Deep Cleansing Oil or Simple Hydrating Cleansing Oil).
 *   **Usage:** Use as the first step in a double-cleansing routine, followed by your regular cleanser.
 
 ### 4. pH Testing Strips (Optional)
+
 *   **For the Curious:** To verify the pH of your cleanser and ensure it's within the optimal range (4.5-6.0).
 *   **Educational Value:** Helps you understand product formulations and make more informed choices.
 
@@ -414,4 +423,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

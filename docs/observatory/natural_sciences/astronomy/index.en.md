@@ -13,4 +13,4 @@ Astronomy is a natural science that studies celestial objects and phenomena. It 
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

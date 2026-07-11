@@ -34,37 +34,37 @@ Don't worry about understanding everything at once — start with a section that
 !!! example "Corners"
     <div class="grid cards" markdown>
 
-    -   [:material-telescope: **Observatory**](./observatory/)
+    -   [:material-telescope: **Observatory**](./observatory/index.md)
 
         ---
 
         Collect, define, and connect key terms, concepts, influential figures, and sources.
 
-    -   [:material-comment-question: **Round Table**](./round_table/)
+    -   [:material-comment-question: **Round Table**](./round_table/index.md)
 
         ---
 
         Dissecting challenges, brainstorming solutions, and conceptualizing projects.
 
-    -   [:material-lightbulb: **Incubator**](./incubator/)
+    -   [:material-lightbulb: **Incubator**](./incubator/index.md)
 
         ---
 
         Showcasing projects and ideas being designed and developed.
 
-    -   [:material-school: **Academy**](./academy/)
+    -   [:material-school: **Academy**](./academy/index.md)
 
         ---
 
         Learning and skill-sharing hub I write.
 
-    -   [:material-cart: **Bazaar**](./bazaar/)
+    -   [:material-cart: **Bazaar**](./bazaar/index.md)
 
         ---
 
         Collection of needs, and researched and recommended items to fit them.
 
-    -   [:material-trophy: **Hall of Fame**](./hall_of_fame/)
+    -   [:material-trophy: **Hall of Fame**](./hall_of_fame/index.md)
 
         ---
 
@@ -73,7 +73,7 @@ Don't worry about understanding everything at once — start with a section that
     </div>
     <div class="grid cards single-card-grid" markdown>
 
-    -   [:material-dots-horizontal: **Other Corners**](./other_corners/)
+    -   [:material-dots-horizontal: **Other Corners**](./other_corners/index.md)
 
         ---
 
@@ -84,7 +84,7 @@ Don't worry about understanding everything at once — start with a section that
 !!! example "About"
     <div class="grid cards" markdown>
 
-    -   [:material-information: **About**](./about/)
+    -   [:material-information: **About**](./about/index.md)
 
         ---
 

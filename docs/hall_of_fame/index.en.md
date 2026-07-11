@@ -51,7 +51,7 @@ The sources of inspiration are grouped by the field of influence
 -   [**Music**](./music/index.en.md)
 
     ---
-    
+
     Musicians, composers, and artists who have had a profound impact.
 
 </div>

@@ -1,3 +1,12 @@
+---
+title: Shoe Bench
+description: A project to build a bench that provides seating and shoe storage near the entrance.
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # Shoe Bench
 
 I want to build a shoe bench that you can sit on and store shoes in. The shoe bench will be located between the door and the sofa (in the living room), so the size should be tailored to this specific space.
@@ -20,8 +29,8 @@ Here is the list of all the parts we need:
 
 ![shoe_bench_sketch](../_assets/furniture/shoe_bench/shoe_bench_parts_list.png)
 
-| Length x Hight x Depth (cm) | Amount | Purpose 
-|:---:|:---:|:---:|
+| Length x Hight x Depth (cm) | Amount | Purpose
+| :---: | :---: | :---: |
 | 4x46x4 | 4 | Legs |
 | 4x4x20 | 4 | Aprons |
 | 100x2x4 | 6 | Shoes Shelves |

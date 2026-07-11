@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for linguistics"
+description: Key terms and concepts in Linguistics.
+tags:
+  - topic:linguistics
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for linguistics
 
 This document contains a curated list of important keywords, terms, and concepts related to linguistics.

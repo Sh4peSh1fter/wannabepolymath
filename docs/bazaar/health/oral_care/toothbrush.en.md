@@ -71,6 +71,7 @@ The goal is to find a toothbrush that cleans effectively, is gentle on the gums,
 ### Available Types
 
 #### 1. Manual Toothbrush
+
 1.  **Pros:**
     *   Very inexpensive and widely available.
     *   No charging required, simple to travel with.
@@ -80,6 +81,7 @@ The goal is to find a toothbrush that cleans effectively, is gentle on the gums,
     *   Clinically proven to be less effective at removing plaque than quality electric options.
 
 #### 2. Oscillating-Rotating Electric
+
 1.  **Pros:**
     *   Excellent plaque removal, with some studies showing a slight statistical advantage.
     *   The polishing effect from the round head is preferred by some users.
@@ -89,6 +91,7 @@ The goal is to find a toothbrush that cleans effectively, is gentle on the gums,
     *   Can be slightly louder than sonic models.
 
 #### 3. Sonic Electric
+
 1.  **Pros:**
     *   Very effective plaque removal, with a fluid dynamics action that cleans slightly beyond where the bristles touch.
     *   Often perceived as gentler on the gums.
@@ -191,9 +194,10 @@ My choice is the **Oral-B iO Series 3**.
 **Reasoning:** While the Philips Sonicare 4100 is the ultimate value pick, the Oral-B iO Series 3 is the best choice for my needs as it represents the most significant technological step-up at a reasonable price. It features the latest magnetic iO technology, which is quieter and gentler than older Oral-B models, and includes the essential smart pressure sensor with clear visual feedback (green for good, red for bad). The inclusion of a travel case meets one of my "nice-to-have" criteria, making it a complete, modern package.
 
 **Where to Buy:**
+
 *   [Oral-B Product Page](https://oralb.com/en-us/products/electric-toothbrushes/oral-b-io-series-3-electric-toothbrush-rechargeable-black/)
-*   KSP     - 345 ils   - https://ksp.co.il/web/item/298126
-*   Ivory   - 345 ils   - https://www.ivory.co.il/catalog.php?id=91794
+*   KSP     - 345 ils   - <https://ksp.co.il/web/item/298126>
+*   Ivory   - 345 ils   - <https://www.ivory.co.il/catalog.php?id=91794>
 *   Widely available on Amazon, Target, Walmart, and other major retailers.
 
 ---
@@ -203,20 +207,24 @@ My choice is the **Oral-B iO Series 3**.
 This section details how to get the most out of the chosen toothbrush, taking care of it, and ensuring its longevity and proper performance.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check that the brush handle, charger, iO brush head, and travel case are all included and free of defects.
 *   **First-Time Cleaning/Preparation:** Rinse the brush head thoroughly under tap water.
 *   **Initial Charging:** The brush may have some charge out of the box, but it is recommended to place it on the magnetic charger for a full charge (approx. 3 hours) to calibrate the battery.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:** Apply a pea-sized amount of toothpaste. To avoid splatter, guide the brush head to your teeth *before* turning it on. Move the brush head slowly from tooth to tooth, pausing for a couple of seconds on the surface of each one and letting the brush do the work.
 *   **Smart Pressure Sensor:** Pay attention to the light ring. White indicates low pressure (you may need to press a bit more), **Green indicates the ideal pressure**, and Red indicates you are brushing too hard.
 *   **Cleaning Routine:** After each use, rinse the brush head while it's still on, then turn it off and remove it. Rinse the head and handle separately and wipe them dry.
 *   **Replacement:** Replace the iO brush head every 3 months, or when the bristles are visibly frayed.
 
 ### 3. Periodic Maintenance
+
 *   The toothbrush is largely maintenance-free. Ensure the charging base is kept clean and dry.
 
 ### 4. Long-Term Storage
+
 *   If storing for an extended period, ensure the handle is fully charged, then clean it thoroughly and store it in a cool, dry place away from direct sunlight.
 
 ---
@@ -226,11 +234,13 @@ This section details how to get the most out of the chosen toothbrush, taking ca
 Once the main item is chosen, it's important to consider the necessary accessories for its use, maintenance, and protection.
 
 ### 1. Replacement Heads
+
 *   **What to Look For:** The Oral-B iO series uses exclusive iO-specific brush heads that are not compatible with other Oral-B models. The two main types are the **iO Ultimate Clean** (for rigorous cleaning) and the **iO Gentle Care** (for a softer touch, ideal for sensitive gums).
 *   **Recommendation:** Oral-B iO Ultimate Clean Replacement Heads.
 *   **Where to Buy:** Widely available on Amazon, Target, Walmart, and the official Oral-B website. Multi-packs offer the best value.
 
 ### 2. Travel Case
+
 *   **What to Look For:** The Oral-B iO Series 3 comes with a simple and effective hard travel case, so there is no need to purchase a separate one. It holds the handle and up to two brush heads.
 *   **Recommendation:** Use the case provided.
 *   **Where to Buy:** N/A
@@ -242,6 +252,7 @@ Once the main item is chosen, it's important to consider the necessary accessori
 *A list of resources I consulted during this research, categorized to ensure a well-rounded perspective.*
 
 ### Scientific Journals & Research Databases
+
 1.  Yaacob M, et al. "Powered versus manual toothbrushing for oral health." *Cochrane Database of Systematic Reviews*, 2014.
     *   *Link:* [https://pubmed.ncbi.nlm.nih.gov/24282870/](https://pubmed.ncbi.nlm.nih.gov/24282870/)
     *   *Note:* The landmark systematic review concluding that powered toothbrushes provide a statistically significant reduction in plaque and gingivitis compared to manual toothbrushes.
@@ -250,6 +261,7 @@ Once the main item is chosen, it's important to consider the necessary accessori
     *   *Note:* A recent meta-analysis finding a small but significant advantage for oscillating-rotating technology in reducing plaque and gingivitis.
 
 ### Reputable Organizations & Consumer Information
+
 3.  Sven, Derik J. "The Great Debate: Sonic or Rotating Toothbrush?" *Dentistry with Derik*, 2024.
     *   *Link:* [https://www.dentistrywithderik.com/blog/sonic-or-rotating-toothbrush](https://www.dentistrywithderik.com/blog/sonic-or-rotating-toothbrush)
     *   *Note:* A dental hygienist's breakdown of the practical differences in technique and gentleness between the two technologies.
@@ -258,20 +270,21 @@ Once the main item is chosen, it's important to consider the necessary accessori
     *   *Note:* In-depth testing that consistently recommends the Philips Sonicare 4100 as the top value pick for its effectiveness and simplicity.
 
 ### Community Discussions (for anecdotal experiences)
+
 5.  Reddit (r/DentalHygiene). "What are your opinions on using a sonic or an oscillating toothbrush?"
     *   *Link:* [https://www.reddit.com/r/DentalHygiene/comments/1kjex1l/what_are_your_opinions_on_using_a_sonic_or/](https://www.reddit.com/r/DentalHygiene/comments/1kjex1l/what_are_your_opinions_on_using_a_sonic_or/)
     *   *Note:* A thread of anecdotal experiences from both professionals and users, confirming that preference for gentleness (Sonic) vs. a "deep clean" feeling (Oscillating-Rotating) is a primary deciding factor.
 6.  MyPrivateDentist - "Best Electric Toothbrushes 2025"
     *   *Link:* [https://myprivatedentist.com/best-electric-toothbrush/](https://myprivatedentist.com/best-electric-toothbrush/)
     *   *Note:* A dentist-led review that highlights the Oral-B iO3 as a new top-value contender with modern technology.
-7.  https://www.reddit.com/r/BuyItForLife/comments/1j4fvee/best_electric_toothbrush_to_buy_2025/
+7.  <https://www.reddit.com/r/BuyItForLife/comments/1j4fvee/best_electric_toothbrush_to_buy_2025/>
 
 
 ### YouTube Videos (for visual guides, reviews, and opinions - cross-reference with scientific sources):
 <!-- For visual guides, reviews, and opinions from figures in the industry (to be cross-referenced). -->
 
-1.  https://youtu.be/UhN0B2XDPRI?si=UDWrmUFbOQOp0gi6
-2.  https://youtu.be/EzrAArrCL5Q?si=tlVch2GmC4OETcgX
+1.  <https://youtu.be/UhN0B2XDPRI?si=UDWrmUFbOQOp0gi6>
+2.  <https://youtu.be/EzrAArrCL5Q?si=tlVch2GmC4OETcgX>
 
 ---
 
@@ -285,4 +298,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features, prices, and scientific consensus are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features, prices, and scientific consensus are subject to change. Opinions are my own based on the information available at the time of writing.*

@@ -113,13 +113,13 @@ Based on my understanding of skin inflammation science and my goals for skin hea
         *   **Compatible with Sensitive Skin:** Suitable for reactive or compromised skin barriers.
         *   **Non-Comedogenic:** Won't clog pores or contribute to breakouts.
         *   **Fragrance-Free:** Avoids common sensitizers that could worsen inflammation.
-    
+
     2.  **Proven Effectiveness**
         *   **Evidence-Based Ingredients:** Contains clinically proven anti-inflammatory actives.
         *   **Rapid Soothing Action:** Provides noticeable relief within hours for acute inflammation.
         *   **Long-Term Benefits:** Reduces baseline skin reactivity with consistent use.
         *   **Multi-Mechanism Action:** Addresses inflammation through multiple pathways for comprehensive effect.
-    
+
     3.  **Practical Application**
         *   **Versatile Use:** Suitable for face and body application as needed.
         *   **Easy Integration:** Compatible with existing skincare routine and products.
@@ -223,13 +223,13 @@ Based on my skin health goals and need for safe, effective anti-inflammatory sup
 
 ### Comparison Table of Types
 
-| Type                    | Immediate Relief | Long-Term Benefits | Safety Profile | Daily Use Suitable | Evidence Base | Overall Match |
-|-------------------------|:----------------:|:------------------:|:--------------:|:------------------:|:-------------:|:-------------:|
-| **Niacinamide Serum**   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
-| **Centella Products**   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
-| **Azelaic Acid**        | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Very Good** |
-| **OTC Hydrocortisone**  | :white_check_mark: | :x: | :x: | :x: | :white_check_mark: | **Emergency Only** |
-| **Botanical Blends**    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | **Good** |
+| Type | Immediate Relief | Long-Term Benefits | Safety Profile | Daily Use Suitable | Evidence Base | Overall Match |
+| ------------------------- | :----------------: | :------------------: | :--------------: | :------------------: | :-------------: | :-------------: |
+| **Niacinamide Serum** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
+| **Centella Products** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
+| **Azelaic Acid** | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Very Good** |
+| **OTC Hydrocortisone** | :white_check_mark: | :x: | :x: | :x: | :white_check_mark: | **Emergency Only** |
+| **Botanical Blends** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | **Good** |
 
 ### Conclusion on Item Type
 
@@ -373,6 +373,7 @@ My choice is **The Ordinary Niacinamide 10% + Zinc 1%**.
 **Note on KB Pure Skin Relaxer Cream:** While this is an excellent professional-grade treatment cream for acute inflammation and post-procedure recovery, it serves a different purpose than the daily anti-inflammatory support I'm seeking. The combination of calamine, camphor, and zinc makes it ideal for immediate relief of redness, irritation, and inflammatory episodes - essentially a "rescue" cream for when skin is actively inflamed or compromised. However, for consistent daily anti-inflammatory support and prevention, the niacinamide-based approach of The Ordinary provides better long-term skin health benefits. The KB Pure cream would be an excellent addition to have on hand for acute situations, but it's more complementary to rather than a replacement for a daily anti-inflammatory routine.
 
 **Where to Buy:**
+
 *   [The Ordinary Official](https://theordinary.com/en-us/niacinamide-10-zinc-1-serum-100436.html)
 *   [Sephora](https://www.sephora.com/product/the-ordinary-niacinamide-10-zinc-1-P427417)
 *   [ULTA](https://www.ulta.com/p/niacinamide-10-zinc-1-pimprod2007102)
@@ -384,12 +385,14 @@ My choice is **The Ordinary Niacinamide 10% + Zinc 1%**.
 This section details how to safely and effectively incorporate The Ordinary Niacinamide 10% + Zinc into your routine for optimal anti-inflammatory benefits.
 
 ### 1. Initial Introduction Protocol
+
 *   **Patch Test:** Apply small amount to inner wrist or behind ear for 24-48 hours before facial use.
 *   **Start Slowly:** Begin with every other day for first week to assess tolerance.
 *   **Monitor Response:** Watch for any increased redness, irritation, or sensitivity.
 *   **Gradual Increase:** If well-tolerated, can increase to daily use after 1-2 weeks.
 
 ### 2. Proper Application Technique
+
 *   **Timing in Routine:** Apply to clean skin after cleansing/toner, before moisturizer.
 *   **Amount Needed:** 2-3 drops for entire face - a little goes a long way.
 *   **Application Method:**
@@ -400,12 +403,14 @@ This section details how to safely and effectively incorporate The Ordinary Niac
 *   **Coverage Areas:** Focus on areas prone to inflammation, redness, or sensitivity.
 
 ### 3. Integration with Existing Routine
+
 *   **Compatible Products:** Works well with your CeraVe cleanser, toner, and moisturizer.
 *   **Layering Order:** Water-based serum should go before oil-based products.
 *   **Avoid Mixing:** Don't mix directly with vitamin C or acids - use at different times if needed.
 *   **Timing Flexibility:** Can be used morning for protection or evening for repair.
 
 ### 4. Managing Expectations & Results
+
 *   **Timeline for Results:**
     *   **Immediate:** May provide slight cooling/soothing sensation upon application
     *   **1-2 weeks:** Reduced sensitivity and reactivity to environmental stressors
@@ -414,7 +419,8 @@ This section details how to safely and effectively incorporate The Ordinary Niac
 *   **Signs of Effectiveness:** Less redness, reduced sensitivity, improved skin texture, fewer inflammatory breakouts.
 
 ### 5. Troubleshooting Common Issues
-*   **Pilling/Texture Issues:** 
+
+*   **Pilling/Texture Issues:**
     *   Allow more time between application and moisturizer
     *   Use gentle patting motions rather than rubbing
     *   Ensure previous products are fully absorbed
@@ -422,6 +428,7 @@ This section details how to safely and effectively incorporate The Ordinary Niac
 *   **Not Seeing Results:** Ensure consistent daily use for at least 6-8 weeks before evaluating effectiveness.
 
 ### 6. Long-Term Use Strategy
+
 *   **Maintenance Phase:** Once skin sensitivity improves, can continue daily use for ongoing protection.
 *   **Seasonal Adjustments:** May need to increase frequency during high-stress periods or harsh weather.
 *   **Complement with Other Treatments:** Works synergistically with gentle moisturizers and sun protection.
@@ -433,28 +440,33 @@ This section details how to safely and effectively incorporate The Ordinary Niac
 To maximize the effectiveness of your anti-inflammatory routine and provide comprehensive skin support.
 
 ### 1. Gentle, Fragrance-Free Moisturizer
+
 *   **Why Essential:** Niacinamide can be slightly drying initially; a good moisturizer supports barrier function and enhances anti-inflammatory benefits.
 *   **Recommendation:** Your existing CeraVe routine is perfect - the PM moisturizer contains additional niacinamide for synergistic effect.
 *   **Application:** Always follow niacinamide application with appropriate moisturizer.
 
 ### 2. Centella Asiatica Spot Treatment (Backup Option)
+
 *   **Why Useful:** Having a backup botanical anti-inflammatory for acute situations or areas needing extra attention.
 *   **What to Look For:** Products with high centella concentration (madecassoside, asiaticoside).
 *   **Usage:** Apply to specific inflamed areas as needed for additional soothing.
 *   **Recommendation:** Purito Centella Unscented Serum or La Roche-Posay Cicaplast Baume B5.
 
 ### 3. Gentle Sunscreen (Non-Negotiable)
+
 *   **Why Critical:** UV exposure is a major inflammatory trigger; daily sun protection is essential for anti-inflammatory routine success.
 *   **What to Look For:** Mineral sunscreens (zinc oxide) provide additional anti-inflammatory benefits.
 *   **Timing:** Always apply after niacinamide and moisturizer in morning routine.
 
 ### 4. Cooling Gel or Aloe (Emergency Relief)
+
 *   **Why Helpful:** For acute inflammatory episodes or immediate cooling relief.
 *   **What to Look For:** Pure aloe vera gel or cooling gels without alcohol or fragrances.
 *   **Storage:** Keep refrigerated for enhanced cooling effect when needed.
 *   **Usage:** Apply before niacinamide for severe inflammation, or as needed for spot treatment.
 
 ### 5. Anti-Inflammatory Oral Supplements (Optional)
+
 *   **Supporting from Within:** Omega-3 fatty acids, curcumin, or quercetin can provide systemic anti-inflammatory support.
 *   **Consultation:** Discuss with healthcare provider before adding supplements.
 *   **Research:** Look for third-party tested supplements with proven bioavailability.

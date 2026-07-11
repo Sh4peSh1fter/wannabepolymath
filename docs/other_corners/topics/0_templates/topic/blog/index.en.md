@@ -12,8 +12,8 @@
 
 - info / guide on tech tool / solution
 - troubleshooting journey
-- 
+-
 
 ## standards
 
-titling 
+titling

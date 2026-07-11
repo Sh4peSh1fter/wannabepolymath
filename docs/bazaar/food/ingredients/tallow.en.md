@@ -127,7 +127,7 @@ Now that I understand the science behind cooking fats, I can clearly define what
     * Local sourcing to support regenerative agriculture
     * Bulk purchasing options for economic efficiency
 
-4. **Deal-breakers:** 
+4. **Deal-breakers:**
     * Grain-fed sources (compromised fatty acid profile)
     * Mixed with vegetable oils (defeats health purpose)
     * Heavily processed or refined (nutrient depletion)
@@ -202,7 +202,7 @@ First, I need to decide on the best *type* of tallow for my health-focused cooki
 ### Comparison Table of Types
 
 | Type | Fatty Acid Profile | Nutrient Density | Oxidative Stability | Price Range | Overall Match |
-|------|:-----------------:|:----------------:|:------------------:|:-----------:|:-------------:|
+| ------ | :-----------------: | :----------------: | :------------------: | :-----------: | :-------------: |
 | **Grass-Fed Beef (Suet)** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ | 3 / 3 |
 | **Grass-Fed Lamb** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$ | 3 / 3 |
 | **Grain-Fed Beef** | :x: | :x: | | $ | 0 / 3 |
@@ -210,7 +210,7 @@ First, I need to decide on the best *type* of tallow for my health-focused cooki
 
 ### Conclusion on Item Type
 
-Based on the research, I am leaning towards **Grass-Fed Beef Tallow from Suet**. 
+Based on the research, I am leaning towards **Grass-Fed Beef Tallow from Suet**.
 
 **Reasoning:** This type provides the optimal balance of health benefits, cooking performance, and availability. The scientific evidence clearly shows grass-fed sources have dramatically superior fatty acid profiles and nutrient density. While more expensive, the health benefits of avoiding inflammatory omega-6 fatty acids and gaining beneficial compounds like CLA justify the investment. Beef tallow is more readily available than lamb while still providing excellent nutritional benefits.
 
@@ -224,7 +224,6 @@ Now that I've decided on grass-fed beef tallow from suet, I'll compare specific 
 
 #### 1. Fatworks Grass-Fed Beef Tallow
 
-![Fatworks Tallow](../../_assets/food/ingredients/tallow/fatworks_tallow.jpg)
 
 1. **Pros:**
     * Made from 100% grass-fed, grass-finished suet (kidney fat)
@@ -317,7 +316,7 @@ Now that I've decided on grass-fed beef tallow from suet, I'll compare specific 
 ### Comparison Table of Products
 
 | Product | Source Quality | Processing | Community Opinion | Price Value | Overall Match |
-|---------|:--------------:|:----------:|:-----------------:|:-----------:|:-------------:|
+| --------- | :--------------: | :----------: | :-----------------: | :-----------: | :-------------: |
 | **Fatworks** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ | 3 / 3 |
 | **Primal Pastures** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ | 3 / 3 |
 | **Thousand Hills** | :white_check_mark: | | :white_check_mark: | $ | 2 / 3 |
@@ -335,6 +334,7 @@ My primary choice is the **Fatworks Grass-Fed Beef Tallow**.
 For those prioritizing convenience and budget, Epic's tallow is an excellent alternative. At $13.89 for 11oz and widely available in stores like Target and iHerb, it offers 100% grass-fed quality with proper processing (non-deodorized, unbleached) at a more accessible price point. While it may lack some of the artisanal quality control of specialty producers, it represents excellent value for daily cooking needs.
 
 **Where to Buy:**
+
 * **Fatworks:** [Direct Website](https://fatworks.com/products/grass-fed-beef-tallow-14oz), select health food stores
 * **Epic:** [iHerb](https://il.iherb.com/pr/epic-bar-rendered-grass-fed-beef-tallow-11-oz-312-g/86447), Target, many grocery stores
 
@@ -374,16 +374,19 @@ This section details how to get the most out of grass-fed beef tallow, proper st
 While tallow is simple to use, a few accessories can enhance your experience and maximize the benefits.
 
 ### 1. Fine Mesh Strainer or Cheesecloth
+
 * **What to Look For:** Stainless steel fine mesh strainer or unbleached cheesecloth for filtering used tallow.
 * **Recommendation:** OXO Good Grips Fine Mesh Strainer or organic cheesecloth.
 * **Where to Buy:** Kitchen supply stores, Amazon, or health food stores.
 
 ### 2. Glass Storage Containers
+
 * **What to Look For:** Wide-mouth glass jars with tight-fitting lids for storing filtered tallow.
 * **Recommendation:** Mason jars or Pyrex glass containers with secure lids.
 * **Where to Buy:** Hardware stores, kitchen supply stores, or online retailers.
 
 ### 3. Digital Thermometer
+
 * **What to Look For:** Instant-read thermometer to monitor cooking temperatures and avoid overheating.
 * **Recommendation:** ThermoPro TP03 Digital Food Thermometer for accuracy and speed.
 * **Where to Buy:** Kitchen supply stores or online retailers.

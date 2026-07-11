@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for logic"
+description: Curated sources and further reading for Logic.
+tags:
+  - topic:logic
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for logic
 
 A curated list of resources for diving deeper into logic.

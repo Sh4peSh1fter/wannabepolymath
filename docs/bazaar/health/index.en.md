@@ -19,10 +19,10 @@ In this topic of the Bazaar, I explore items related to personal health and well
 This page serves as a central hub for all things related to Health. Below, you'll find a list of subtopics. Each subtopic has its own landing page that lists the specific items I am researching within that category.
 
 *   **[[Oral Care]](./oral_care/index.en.md):** Research into products for a complete and healthy oral hygiene routine, from toothbrushes to floss.
-*   **[[Skincare]](./skincare/index.en.md):** Investigating products for facial care, focusing on effective, non-irritating ingredients and formulations.
-*   **[[Body & Hair Care]](./body_care/index.en.md):** A look into daily-use products like soaps, shampoos, and deodorants to find safe and effective options.
+*   **[[Skincare]](./skin_care/index.en.md):** Investigating products for facial care, focusing on effective, non-irritating ingredients and formulations.
+*   **[Body & Hair Care]:** A look into daily-use products like soaps, shampoos, and deodorants to find safe and effective options.
 *   **[[Air Quality]](./air_quality/index.en.md):** Research into devices that help improve the air quality within the home, such as air purifiers.
-*   **[[Safety]](./safety/index.en.md):** A category for miscellaneous safety and health items, like hearing protection and water testing kits.
+*   **[[Safety]](../safety/index.en.md):** A category for miscellaneous safety and health items, like hearing protection and water testing kits.
 
 # Sources
 

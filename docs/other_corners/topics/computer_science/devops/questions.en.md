@@ -1,3 +1,12 @@
+---
+title: Questions
+description: Open questions exploring DevOps.
+tags:
+  - topic:devops
+  - type:explanation
+  - status:published
+---
+
 1.  A web application has two endpoints - https://<url>/login and https://<url>/register.  
     this web application reading and writing to DB instances were everything is stored.
 

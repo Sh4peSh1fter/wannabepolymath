@@ -26,7 +26,7 @@ The improvment starts with the very tools I use to prepare food. From the pans I
 ## How This Section Will Work
 
 1.  **Discovery Hub (This Page):** This page maintains the categorized list of all kitchenware being researched. Items will link to dedicated pages as they are created.
-2.  **Detailed Research Pages:** Each significant item or sub-category (e.g., "[Pan](./pan.md)", "Cutting Boards") will have its own page. These pages will follow a template focusing on:
+2.  **Detailed Research Pages:** Each significant item or sub-category (e.g., "[Pan](./cookware/pan.en.md)", "Cutting Boards") will have its own page. These pages will follow a template focusing on:
     *   Specific health concerns with conventional options.
     *   Healthier alternatives and materials.
     *   Scientific backing and certifications.
@@ -58,7 +58,7 @@ To systematically search for information, we can combine keywords from these cat
 
 ## Key Concepts in Healthy Kitchenware
 
-What exactly am I looking for when I prioritize the "health aspect" of kitchen tools? 
+What exactly am I looking for when I prioritize the "health aspect" of kitchen tools?
 I want to minimize potential harm and maximize safety in relation to the food I prepare and consume. Here's a list of considerations for researching each item:
 
 *   **Material Composition:**
@@ -104,21 +104,24 @@ By systematically evaluating kitchenware against these points, the aim is to bui
 Below is the categorized list of tools and gadgets we plan to dive into. The goal is to research each for health implications, material safety, and overall best choices. Each item will eventually link to its own detailed research page.
 
 ### I. Cookware (Pots, Pans & Baking Dishes)
-1.  **[Pan](./pan.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
-3.  **[Wok](./wok.md)**
-2.  **[Pot](./pot.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
+
+1.  **[Pan](./cookware/pan.en.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
+3.  **[Wok](./cookware/wok.en.md)**
+2.  **[Pot](./cookware/pot.en.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
 4.  Rondeau / Braiser
 5.  Baking Dish (e.g., 9x13-inch glass, ceramic)
 6.  Baking Sheets (Rimmed, half-sheet - considering aluminum, stainless steel, aluminized steel)
 
 ### II. Bakeware (Beyond basic sheets/dishes)
+
 1.  Wire Rack (for cooling - stainless steel preferred)
-2.  **[Mixing Bowls](./mixing_bowls.md)** (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
+2.  **[Mixing Bowls](./baking_tools/mixing_bowls.en.md)** (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
 3.  *(To consider: Loaf pans, Muffin tins, Pie dishes - focusing on material safety)*
 
 ### III. Food Preparation - Cutting, Chopping & Grating
-1.  **[Knife Guide](./knife.md)** (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
-2.  **[Cutting Board](./cutting_board.md)** (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
+
+1.  **[Knife Guide](./cutlery_and_boards/knife.en.md)** (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
+2.  **[Cutting Board](./cutlery_and_boards/cutting_board.en.md)** (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
 3.  Mandoline (Focus on blade material, plastic body safety)
 4.  Kitchen Shears (Stainless steel, handle material)
 5.  Microplane / Zester (Stainless steel)
@@ -126,6 +129,7 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 7.  Peeler (Vegetable peeler - blade and handle material)
 
 ### IV. Food Preparation - Utensils & Small Tools
+
 1.  Bench Scraper (Stainless steel, plastic - material focus)
 2.  Tweezers (Kitchen/Plating tweezers - stainless steel)
 3.  Pastry Brush (Silicone, natural bristles - head and handle material)
@@ -138,12 +142,14 @@ Below is the categorized list of tools and gadgets we plan to dive into. The goa
 10. Can Opener (Manual, electric - focus on cutting mechanism cleanliness and material)
 
 ### V. Small Kitchen Appliances/Electronics (Food-contact parts focus)
+
 1.  Stand Mixer (Bowl material - stainless steel; attachment materials)
 2.  Blender (Countertop - glass or high-quality BPA-free plastic pitcher; Immersion - stainless steel shaft)
 3. rice cooker
 3.  *(To consider: Food Processor, Electric Kettle, Toaster/Toaster Oven, Rice Cooker - focusing on materials in contact with food or steam)*
 
 ### VI. Kitchen Maintenance & Safety
+
 1. Honing Steel
 2. Knife Wipe Towel
 3. Fire Extinguisher (Essential for any kitchen)
@@ -158,24 +164,24 @@ fermentation station
 
 ---
 
-## Places to buy from 
+## Places to buy from
 
-1. KSP - https://ksp.co.il/web/
+1. KSP - <https://ksp.co.il/web/>
 2. Amazon
-3. hakolabait - https://www.hakolabait.co.il/
-4. kitchenware - https://www.kitchenware.co.il/
-5. sousvide - https://www.sousvide.co.il/
-6. cookshop - https://cookshop.co.il/
-7. 4chef - https://www.4chef.co.il/
-8. naaman - https://www.naamanp.co.il/
-9. soltam - https://soltam.co.il/
-10. iherb - https://il.iherb.com/
-11. Chef Depot - https://www.chefdepot.co.il/
-12. uniqook - https://uniqook.co.il/
-13. carmel direct - https://carmeldirect.com/
-14. argal - https://www.argal.co.il/
-15. riblin - https://www.rivlin.co.il/
-16. cohen itzhak - https://www.cohenitzhak.com/
+3. hakolabait - <https://www.hakolabait.co.il/>
+4. kitchenware - <https://www.kitchenware.co.il/>
+5. sousvide - <https://www.sousvide.co.il/>
+6. cookshop - <https://cookshop.co.il/>
+7. 4chef - <https://www.4chef.co.il/>
+8. naaman - <https://www.naamanp.co.il/>
+9. soltam - <https://soltam.co.il/>
+10. iherb - <https://il.iherb.com/>
+11. Chef Depot - <https://www.chefdepot.co.il/>
+12. uniqook - <https://uniqook.co.il/>
+13. carmel direct - <https://carmeldirect.com/>
+14. argal - <https://www.argal.co.il/>
+15. riblin - <https://www.rivlin.co.il/>
+16. cohen itzhak - <https://www.cohenitzhak.com/>
 
 ---
 
@@ -184,14 +190,16 @@ fermentation station
 A starting point for our research, with more to be added as we discover them:
 
 ### YouTube Channels & Videos
+
 *   **Pro Home Cooks - 15 Kitchen Tools I Can't Live Without:** [https://youtu.be/O5hW_65fTxs?si=Y4QExZQLXqmujyRZ](https://youtu.be/O5hW_65fTxs?si=Y4QExZQLXqmujyRZ)
 *   **Ethan Chlebowski - My Favorite Kitchen Tools (Under $25):** [https://youtu.be/ZSL_Q6Pe-Ao?si=Hg5d9FD9cWpzmute](https://youtu.be/ZSL_Q6Pe-Ao?si=Hg5d9FD9cWpzmute)
 *   **[14 Toxic Kitchen Items You Should Declutter Immediately (and ...](https://youtu.be/DegKQvHGJ5A?si=LlSe87YQTOPd09--)**
 *   **[TOXIC Kitchenware: Throw These Out Now! | Dr. Steven Gundry](https://youtu.be/meKc1UMP52g?si=t-lDZRamporPk9Sr)**
 
-https://youtu.be/ZSL_Q6Pe-Ao?si=9ztZ3zRxcG9yWRJA
+<https://youtu.be/ZSL_Q6Pe-Ao?si=9ztZ3zRxcG9yWRJA>
 
 ### Reddit Communities & Discussions
+
 *   **r/Cooking - What are your favorite kitchen equipment must-haves?:** [https://www.reddit.com/r/Cooking/comments/tr47kd/what_are_your_favorite_kitchen_equipment_musthaves/](https://www.reddit.com/r/Cooking/comments/tr47kd/what_are_your_favorite_kitchen_equipment_musthaves/)
 *   **r/cookingforbeginners - What essential kitchen tools do you recommend for...:** [https://www.reddit.com/r/cookingforbeginners/comments/1b6sbm9/what_essential_kitchen_tools_do_you_recommend_for/](https://www.reddit.com/r/cookingforbeginners/comments/1b6sbm9/what_essential_kitchen_tools_do_you_recommend_for/)
 *   **r/BuyItForLife - I'm looking for the most overbuilt/best kitchen...:** [https://www.reddit.com/r/BuyItForLife/comments/1infbvm/im_looking_for_the_most_overbuiltbest_kitchen/](https://www.reddit.com/r/BuyItForLife/comments/1infbvm/im_looking_for_the_most_overbuiltbest_kitchen/)
@@ -199,7 +207,8 @@ https://youtu.be/ZSL_Q6Pe-Ao?si=9ztZ3zRxcG9yWRJA
 *   **[r/Cooking - Best non toxic cookware set stainless or ceramic?](https://www.reddit.com/r/Cooking/comments/1178u5b/best_non_toxic_cookware_set_stainless_or_ceramic/)**
 
 ### Other Resources & Lists
-*   **Google Sheets - Kitchen Essentials v2.0 (Example List):** [https://docs.google.com/spreadsheets/d/1nKkPjKHh9D9jBHzBDXbXRO54vdX41jdDCbr8L7j_omU/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1nKkPjKHh9D9jBHzBDXbXRO54vdX41jdDCbr8L7j_omU/edit?gid=0#gid=0) 
+
+*   **Google Sheets - Kitchen Essentials v2.0 (Example List):** [https://docs.google.com/spreadsheets/d/1nKkPjKHh9D9jBHzBDXbXRO54vdX41jdDCbr8L7j_omU/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1nKkPjKHh9D9jBHzBDXbXRO54vdX41jdDCbr8L7j_omU/edit?gid=0#gid=0)
 *   **[Daily Mail - Urgent warning common kitchen item toxic chemicals](https://www.dailymail.co.uk/news/article-14030955/urgent-warning-common-kitchen-item-toxic-chemicals.html)**
 *   **[Toxic Free Future - Cancer-causing chemicals in black plastic food contact items](https://toxicfreefuture.org/press-room/first-ever-study-finds-cancer-causing-chemicals-in-black-plastic-food-contact-items-sold-in-the-u-s/)**
 *   **[Mamavation (Product investigations & guides)](https://mamavation.com/)**

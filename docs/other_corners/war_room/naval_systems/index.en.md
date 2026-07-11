@@ -16,4 +16,4 @@ This section covers all military assets that operate on or below the surface of 
 
 ---
 
-*(No entries yet. You can add some!)* 
+*(No entries yet. You can add some!)*

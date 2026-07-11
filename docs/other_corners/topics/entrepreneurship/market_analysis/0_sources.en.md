@@ -1,9 +1,18 @@
+---
+title: Sources
+description: Curated sources and further reading for market analysis.
+tags:
+  - topic:entrepreneurship
+  - type:reference
+  - status:published
+---
+
 # Sources
 
 sources can come in different types and forms. we will list all of them here to better find and map those sources when needed.  
 we need to identify those **sources** and the **platforms** they post on.
 
-the source can be an individual, a group or an organization / company, or a community. 
+the source can be an individual, a group or an organization / company, or a community.
 
 the platforms those sources post on are media platforms which can take a verity of forms:
 

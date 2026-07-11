@@ -309,6 +309,7 @@ This combination provides proven, robust protection during the day and gentle, t
 This section details how to get the most out of the chosen toothpaste.
 
 ### 1. Best Practices for Use
+
 *   **Amount:** Use only a pea-sized amount of toothpaste for adults. For children aged 3-6, a rice-grain-sized amount is recommended.
 *   **Technique:** Brush gently for two full minutes, covering all surfaces of the teeth. Do not "scrub" hard, as this can damage enamel and gums.
 *   **After Brushing:** Spit out the excess toothpaste, but do not rinse your mouth with water immediately. Leaving a small amount of fluoride on the teeth allows it to continue working.
@@ -359,16 +360,16 @@ This section details how to get the most out of the chosen toothpaste.
 <!-- For anecdotal experiences, user feedback, and discovering popular opinions (to be cross-referenced). e.g., Reddit, forums. -->
 
 1.  Best Toothpaste? - /r/askdentists
-    *   *Link:* https://www.reddit.com/r/askdentists/comments/1dusx5d/best_toothpaste/
+    *   *Link:* <https://www.reddit.com/r/askdentists/comments/1dusx5d/best_toothpaste/>
     *   *Note:* General discussion among professionals and users about preferred brands.
 2.  What is your favorite toothpaste? - /r/hygiene
-    *   *Link:* https://www.reddit.com/r/hygiene/comments/1hg5nmw/what_is_your_favorite_toothpaste/
+    *   *Link:* <https://www.reddit.com/r/hygiene/comments/1hg5nmw/what_is_your_favorite_toothpaste/>
     *   *Note:* User preferences and experiences with different types.
 3.  What toothpaste do you use? - /r/30PlusSkinCare
-    *   *Link:* https://www.reddit.com/r/30PlusSkinCare/comments/1fea1g7/what_toothpaste_do_you_use/
+    *   *Link:* <https://www.reddit.com/r/30PlusSkinCare/comments/1fea1g7/what_toothpaste_do_you_use/>
     *   *Note:* Focus on ingredient-conscious users.
 4.  Dentists of reddit what toothpaste do you... - /r/Frugal
-    *   *Link:* https://www.reddit.com/r/Frugal/comments/1arpg4w/dentists_of_reddit_what_toothpaste_do_you/
+    *   *Link:* <https://www.reddit.com/r/Frugal/comments/1arpg4w/dentists_of_reddit_what_toothpaste_do_you/>
     *   *Note:* Dentists' opinions on what is essential vs. marketing.
 
 ### Product Pages (where to buy from, like manufacturer)
@@ -391,13 +392,13 @@ This section details how to get the most out of the chosen toothpaste.
 <!-- For visual guides, reviews, and opinions from figures in the industry (to be cross-referenced). -->
 
 1.  Dentist Explains the Best Toothpaste - Dr. Derik
-    *   *Link:* https://youtu.be/l_GpHjng7OE
+    *   *Link:* <https://youtu.be/l_GpHjng7OE>
     *   *Note:* Expert opinion on what to look for in a toothpaste.
-2. https://youtu.be/l_GpHjng7OE?si=9zVA3OuxQodxTrYd
+2. <https://youtu.be/l_GpHjng7OE?si=9zVA3OuxQodxTrYd>
 
 iherb
-https://www.reddit.com/r/Frugal/comments/1arpg4w/dentists_of_reddit_what_toothpaste_do_you/
-https://afterva.com/davids-toothpaste-review/
+<https://www.reddit.com/r/Frugal/comments/1arpg4w/dentists_of_reddit_what_toothpaste_do_you/>
+<https://afterva.com/davids-toothpaste-review/>
 
 ---
 
@@ -408,4 +409,4 @@ https://afterva.com/davids-toothpaste-review/
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

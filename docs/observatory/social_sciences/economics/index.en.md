@@ -13,4 +13,4 @@ Economics is a social science that focuses on the production, distribution, and 
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

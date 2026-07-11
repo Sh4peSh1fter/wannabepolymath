@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for earth science"
+description: Curated sources and further reading for Earth Science.
+tags:
+  - topic:earth-science
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for earth science
 
 A curated list of resources for diving deeper into earth science.

@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for Military"
+description: Key terms and concepts in Military.
+tags:
+  - topic:military
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for Military
 
 This document contains a curated list of important keywords, terms, and concepts related to Military.

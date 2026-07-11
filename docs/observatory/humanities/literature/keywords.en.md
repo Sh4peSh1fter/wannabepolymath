@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for literature"
+description: Key terms and concepts in Literature.
+tags:
+  - topic:literature
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for literature
 
 This document contains a curated list of important keywords, terms, and concepts related to literature.

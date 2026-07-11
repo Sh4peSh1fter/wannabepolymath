@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for philosophy"
+description: Curated sources and further reading for Philosophy.
+tags:
+  - topic:philosophy
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for philosophy
 
 A curated list of resources for diving deeper into philosophy.

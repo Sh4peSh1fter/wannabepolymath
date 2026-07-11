@@ -1,3 +1,12 @@
+---
+title: Questions
+description: Open questions exploring market analysis.
+tags:
+  - topic:entrepreneurship
+  - type:explanation
+  - status:published
+---
+
 # Questions
 
 ## <category-1>

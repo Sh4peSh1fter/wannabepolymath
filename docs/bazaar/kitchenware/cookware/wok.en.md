@@ -92,6 +92,7 @@ First, I need to decide on the best *type* of wok for my needs based on its mate
 ### Available Types
 
 #### 1. Carbon Steel
+
 *   **Pros:**
     *   Excellent heat responsiveness allows for precise temperature control.
     *   Can handle the very high temperatures needed for authentic stir-frying.
@@ -104,6 +105,7 @@ First, I need to decide on the best *type* of wok for my needs based on its mate
     *   Can rust if not dried thoroughly.
 
 #### 2. Cast Iron
+
 *   **Pros:**
     *   Unmatched heat retention, keeping the wok very hot even when food is added.
     *   Extremely durable and can be seasoned to a non-stick surface.
@@ -114,6 +116,7 @@ First, I need to decide on the best *type* of wok for my needs based on its mate
     *   Requires seasoning and is reactive to acidic foods.
 
 #### 3. Stainless Steel (Clad)
+
 *   **Pros:**
     *   Completely non-reactive, making it safe for all ingredients.
     *   Durable, corrosion-resistant, and requires no seasoning.
@@ -123,6 +126,7 @@ First, I need to decide on the best *type* of wok for my needs based on its mate
     *   Potential for minimal leaching of nickel/chromium, a concern for sensitive individuals.
 
 #### 4. Non-Stick Coated (PTFE or "Ceramic")
+
 *   **Pros:**
     *   Excellent food release with less oil when the coating is new.
     *   Easy to clean.
@@ -134,11 +138,11 @@ First, I need to decide on the best *type* of wok for my needs based on its mate
 ### Comparison Table of Types
 
 | Type | High-Heat Performance | Non-Stick Surface | Non-Reactive | Low Maintenance | Overall Match |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Carbon Steel** | :white_check_mark: | :white_check_mark: | | | 2 / 4 |
 | **Cast Iron** | :white_check_mark: | :white_check_mark: | | | 2 / 4 |
 | **Stainless Steel** | | | :white_check_mark: | :white_check_mark: | 2 / 4 |
-| **Non-Stick Coated**| :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 3 / 4 |
+| **Non-Stick Coated** | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 3 / 4 |
 
 ### Conclusion on Item Type
 
@@ -158,7 +162,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 1. Yosukata Carbon Steel Wok (13.5-inch Flat Bottom)
 
-![Yosukata Carbon Steel Wok](../../_assets/kitchenware/wok/Yosukata_Carbon_Steel_Wok.jpg)
+![Yosukata Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/%20Yosukata_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Excellent performance and heat responsiveness.
@@ -171,7 +175,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 2. Souped Up Recipes Carbon Steel Wok (Flat Bottom)
 
-![Souped Up Recipes Carbon Steel Wok](../../_assets/kitchenware/wok/Souped_Up_Recipes_Carbon_Steel_Wok.jpg)
+![Souped Up Recipes Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/Souped_Up_Recipes_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Wide flat bottom provides good contact with electric burners.
@@ -184,7 +188,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 3. Joyce Chen Carbon Steel Wok (Flat Bottom)
 
-![Joyce Chen Carbon Steel Wok](../../_assets/kitchenware/wok/Joyce_Chen_Carbon_Steel_Wok.jpg)
+![Joyce Chen Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/Joyce_Chen_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Very affordable, making it a great entry-level option.
@@ -199,9 +203,9 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 ### Comparison Table of Products
 
 | Product | Performance | Ease of Use | Build Quality | Community Opinion | Price |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Yosukata Wok** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ |
-| **Souped Up Recipes Wok**| :white_check_mark: | :white_check_mark: | | :white_check_mark: | $$ |
+| **Souped Up Recipes Wok** | :white_check_mark: | :white_check_mark: | | :white_check_mark: | $$ |
 | **Joyce Chen Wok** | :white_check_mark: | | | :white_check_mark: | $ |
 
 ### Conclusion on Specific Product
@@ -211,6 +215,7 @@ My choice is the **Yosukata Carbon Steel Wok (13.5-inch Flat Bottom)**.
 **Reasoning:** It represents the best balance of quality, performance, and design. Reviews consistently praise its durability and heat distribution, even on electric stovetops. The combination of a comfortable wooden handle and a helper handle provides a significant ergonomic advantage. While the other woks are excellent for their respective price points, the Yosukata's superior build quality makes it the best choice for a long-term, buy-it-for-life investment.
 
 **Where to Buy:**
+
 *   [Yosukata 13.5" Carbon Steel Wok Pan on Amazon](https://www.amazon.com/Yosukata-Carbon-Steel-Wok-Pan/dp/B084DQYV8R/)
 
 ---
@@ -220,16 +225,19 @@ My choice is the **Yosukata Carbon Steel Wok (13.5-inch Flat Bottom)**.
 Properly preparing and maintaining your new carbon steel wok is crucial for developing a non-stick surface and ensuring its longevity.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Remove Factory Coating:** New carbon steel woks are shipped with a protective coating to prevent rust. This must be removed. Scrub the entire wok, inside and out, with hot, soapy water and a coarse scouring pad or steel wool. Your goal is to get to the bare metal.
 *   **Initial Heating (Bluing):** Dry the wok completely. Place it over high heat. The metal will change color, turning from silver to blue and then to a dark grey. This process, known as bluing, opens the pores of the metal to accept the seasoning oil. Ensure you heat all surfaces, including the sides.
 *   **Initial Seasoning:** Once the wok is blued and while it's still very hot, carefully apply a very thin layer of a high-smoke-point oil (like grapeseed, canola, or a dedicated seasoning blend) to the entire interior surface with a paper towel held by tongs. Let the oil smoke off for a few minutes until it stops, then wipe away any excess. Repeat this process 3-4 times to build up the initial layers of seasoning.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:** Always preheat your wok for a minute or two before adding oil. Swirl the oil to coat the sides before adding your ingredients. This helps prevent sticking.
 *   **Cleaning Routine:** After cooking, while the wok is still warm, wash it with hot water and a gentle scrubber (like a bamboo wok brush or a non-abrasive sponge). **Avoid soap** if possible, as it can strip the seasoning. For stuck-on food, you can boil a little water in the wok to loosen it.
 *   **Drying & Oiling:** **Immediately** after washing, dry the wok thoroughly by hand, then place it back on the stove over low heat for a minute to evaporate all moisture. This is the most critical step to prevent rust. Once dry, wipe a very thin layer of oil onto the interior surface before storing.
 
 ### 3. Periodic Maintenance
+
 *   **Deep Cleaning/Stripping:** If your seasoning becomes sticky, uneven, or if rust develops, you may need to strip it and start over. Scrub the wok down to the bare metal with steel wool and repeat the initial setup steps.
 *   **Re-seasoning:** If the seasoning looks a bit thin or you accidentally scraped some off, simply perform a "maintenance season" by heating the wok and applying a thin layer of oil as you would after cleaning.
 
@@ -240,16 +248,19 @@ Properly preparing and maintaining your new carbon steel wok is crucial for deve
 A few specific tools are designed for wok cooking and make the experience much better.
 
 ### 1. Wok Spatula (Chuan)
+
 *   **What to Look For:** A long-handled spatula with a curved edge that perfectly matches the contour of the wok. This allows you to get under food and toss it effectively. Stainless steel is the classic choice for carbon steel woks.
 *   **Recommendation:** A classic stainless steel wok spatula.
 *   **Where to Buy:** [ZhenSanHuan Chinese Wok Spatula on Amazon](https://www.amazon.com/dp/B07D31CC8S)
 
 ### 2. Wok Ladle (Hoak)
+
 *   **What to Look For:** A large, deep ladle used for scooping up liquids and sauces from the bottom of the wok. Often paired with the spatula.
 *   **Recommendation:** A stainless steel wok ladle.
 *   **Where to Buy:** [ZhenSanHuan Chinese Wok Ladle on Amazon](https://www.amazon.com/dp/B07D3228R6)
 
 ### 3. Bamboo Wok Brush
+
 *   **What to Look For:** A bundle of split bamboo used for cleaning the wok under running hot water. It's stiff enough to remove food particles without damaging the seasoning.
 *   **Recommendation:** A standard 10-inch bamboo wok brush.
 *   **Where to Buy:** [Helen's Asian Kitchen Bamboo Wok Brush on Amazon](https://www.amazon.com/dp/B00012K51C)
@@ -263,31 +274,31 @@ This section includes a mix of general cookware safety information and articles/
 **Wok-Specific Reviews & Guides:**
 
 1.  Serious Eats - "To Find the Best Woks for Stir Frying and More, We Smoked up Our Kitchen"
-    *   *Link:* https://www.seriouseats.com/best-woks-5218113
+    *   *Link:* <https://www.seriouseats.com/best-woks-5218113>
     *   *Note:* Detailed review of primarily carbon steel woks, discusses why carbon steel is preferred, seasoning, and specific brand recommendations.
 2.  Food & Wine - "The 6 Best Woks of 2024, According to Our Tests"
-    *   *Link:* https://www.foodandwine.com/best-woks-7973555
+    *   *Link:* <https://www.foodandwine.com/best-woks-7973555>
     *   *Note:* Reviews various wok types including carbon steel and cast iron, discussing pros, cons, and top picks like Yosukata and Lodge.
 3.  America's Test Kitchen - "The Best Woks"
-    *   *Link:* https://www.americastestkitchen.com/equipment_reviews/2120-woks
+    *   *Link:* <https://www.americastestkitchen.com/equipment_reviews/2120-woks>
     *   *Note:* Compares carbon steel and lightweight cast iron woks, emphasizing factors like weight, handle design, and seasoning.
 4.  Epicurious - "The Best Wok Pans for Stir-Frying at Home, Tested and Reviewed"
-    *   *Link:* https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article
+    *   *Link:* <https://www.epicurious.com/expert-advice/the-best-wok-for-stir-frying-at-home-article>
     *   *Note:* Focuses on carbon steel flat-bottom woks and discusses key features for home use.
 
 **General Cookware Health & Safety (from Pan Research - relevant for material understanding):**
 
 5.  Consumer Reports - "You Can't Always Trust Claims on 'Non-Toxic' Cookware"
-    *   *Link:* https://www.consumerreports.org/toxic-chemicals-substances/you-cant-always-trust-claims-on-non-toxic-cookware-a4849321487/
+    *   *Link:* <https://www.consumerreports.org/toxic-chemicals-substances/you-cant-always-trust-claims-on-non-toxic-cookware-a4849321487/>
     *   *Note:* Discusses PFAS in non-stick pans and the reliability of "PFOA-free" claims.
 6.  LeafScore - "Caraway Cookware and Heavy Metals: Which Tests Should We Believe?"
-    *   *Link:* https://www.leafscore.com/eco-friendly-kitchen-products/answering-reader-questions-about-caraway-cookware-and-greenwashing/
+    *   *Link:* <https://www.leafscore.com/eco-friendly-kitchen-products/answering-reader-questions-about-caraway-cookware-and-greenwashing/>
     *   *Note:* Discusses ceramic coatings (sol-gel) and testing methods.
 7.  I'm Plastic Free - "11 Truly Non-Toxic Cookware Brands, Tested & Reviewed"
-    *   *Link:* https://www.implasticfree.com/non-toxic-cookware-brands/
+    *   *Link:* <https://www.implasticfree.com/non-toxic-cookware-brands/>
     *   *Note:* Reviews various materials including cast iron, stainless steel, carbon steel, glass, and pure ceramic.
 8.  NutritionFacts.org - "Is Stainless Steel or Cast Iron Cookware Best? Is Teflon Safe?"
-    *   *Link:* https://nutritionfacts.org/blog/is-stainless-steel-or-cast-iron-cookware-best-is-teflon-safe/
+    *   *Link:* <https://nutritionfacts.org/blog/is-stainless-steel-or-cast-iron-cookware-best-is-teflon-safe/>
     *   *Note:* Discusses iron leaching from cast iron and nickel/chromium from stainless steel.
 
 ---

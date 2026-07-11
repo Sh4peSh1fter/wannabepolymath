@@ -1,3 +1,12 @@
+---
+title: biological human body systems
+description: "An overview of the body's biological systems relevant to self-improvement."
+tags:
+  - topic:self-improvement
+  - type:index
+  - status:published
+---
+
 # biological human body systems
 
 what is a biological system?

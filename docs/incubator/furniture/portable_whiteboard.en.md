@@ -1,3 +1,12 @@
+---
+title: Portable Whiteboard
+description: "A project to convert a wall-mounted whiteboard into a mobile, wheeled unit."
+tags:
+  - topic:furniture
+  - type:how-to
+  - status:published
+---
+
 # Portable Whiteboard
 
 This project aims to convert a fixed wall-mounted whiteboard (90 cm height × 120 cm width) into a mobile whiteboard unit with a sturdy wooden frame and lockable wheels. The goal is to make the whiteboard portable for flexible use in various rooms, while keeping it stable and ergonomic.
@@ -82,6 +91,6 @@ Wood Specs: 4×4 cm or 5×5 cm for legs
 | Pencil + Square Ruler       | Precise marking for cuts       |
 
 
-# Sources 
+# Sources
 
-1. https://youtu.be/OzZgYhIypns?si=70djSObWHxv9rhqV
+1. <https://youtu.be/OzZgYhIypns?si=70djSObWHxv9rhqV>

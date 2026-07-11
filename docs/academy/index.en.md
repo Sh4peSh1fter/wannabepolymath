@@ -16,7 +16,7 @@ hide:
 
 ## Introduction
 
-Content I write on different subjects, designed to make learning effective and engaging. 
+Content I write on different subjects, designed to make learning effective and engaging.
 
 ## Structure
 
@@ -35,7 +35,7 @@ There are different `content types` which contain content from different topics.
 -   [**How-to Guides**](./how-to-guides/index.en.md)
 
     ---
-    
+
     Practical guides that solve a specific problem.
 
     - [Example How-to Guide 1](./how-to-guides/how-to-guide-1.en.md)

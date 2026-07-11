@@ -13,4 +13,4 @@ Psychology is the scientific study of mind and behavior. It is a multifaceted di
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

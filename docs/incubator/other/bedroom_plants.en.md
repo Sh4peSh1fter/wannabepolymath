@@ -1,3 +1,12 @@
+---
+title: Bedroom Plants
+description: "A curated list of healthy, air-improving plants suited to the bedroom."
+tags:
+  - topic:gardening
+  - type:how-to
+  - status:published
+---
+
 I want the healthiest plants for my bedroom
 
 # Plant List
@@ -14,7 +23,7 @@ I want the healthiest plants for my bedroom
 1. Light Requirements
     ![light_map](../_assets/plants/bedroom_plants/Light-map.jpeg)
     1.  low indirect light
-    2.  medium indirect light 
+    2.  medium indirect light
     3.  high indirect light
     4.  direct light
 2. Watering
@@ -39,7 +48,7 @@ I want the healthiest plants for my bedroom
 3. Variegated white pothos
 4. Red syngonium
     1.  light
-        *   neta - medium indirect light 
+        *   neta - medium indirect light
 5. Fiddler's Ficus
 
 # Plant Care Table
@@ -54,10 +63,11 @@ I want the healthiest plants for my bedroom
 
 # Prompt
 
-Hey, you are a professional botanist and plant scientist with vast knowledge experience in growing, cultivating and maintaining optimal conditions for plants. I got some new plants for my bedroom and I want to create a table with the optimal conditions and routines for the plants. 
+Hey, you are a professional botanist and plant scientist with vast knowledge experience in growing, cultivating and maintaining optimal conditions for plants. I got some new plants for my bedroom and I want to create a table with the optimal conditions and routines for the plants.
 please create a table and parameters for each plant, using science based sources and well trusted articles.
 
 the plants are:
+
 1. Aloe vera
 2. Variegated Sansevieria
 3. Variegated white pothos
@@ -68,9 +78,9 @@ I live in Israel and it can be somewhat hot here so please take note of the temp
 
 # Sources
 
-https://youtu.be/dG75mCGnh4U?si=cDcWirbWVUddIBf6
-https://www.plants4u.co.il/
-https://www.youtube.com/@monstrofarm
-https://daganbagan.co.il/
-https://en.wikipedia.org/wiki/NASA_Clean_Air_Study
-https://www.plantit.co.il/
+<https://youtu.be/dG75mCGnh4U?si=cDcWirbWVUddIBf6>
+<https://www.plants4u.co.il/>
+<https://www.youtube.com/@monstrofarm>
+<https://daganbagan.co.il/>
+<https://en.wikipedia.org/wiki/NASA_Clean_Air_Study>
+<https://www.plantit.co.il/>

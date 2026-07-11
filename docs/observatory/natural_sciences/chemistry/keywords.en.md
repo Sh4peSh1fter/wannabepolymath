@@ -1,3 +1,12 @@
+---
+title: "Key Terms & Concepts for chemistry"
+description: Key terms and concepts in Chemistry.
+tags:
+  - topic:chemistry
+  - type:reference
+  - status:published
+---
+
 # Key Terms & Concepts for chemistry
 
 This document contains a curated list of important keywords, terms, and concepts related to chemistry.

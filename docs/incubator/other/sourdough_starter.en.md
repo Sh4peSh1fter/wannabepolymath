@@ -1,3 +1,12 @@
+---
+title: Sourdough
+description: Notes on creating and maintaining a sourdough starter for homemade bread.
+tags:
+  - topic:cooking
+  - type:how-to
+  - status:published
+---
+
 # Sourdough
 
 While exploring healthier eating habits, I came across sourdough and sourdough bread, and decided I want to give it a try.
@@ -39,6 +48,7 @@ To create a vibrant and resilient starter, we need to provide the best possible 
 The best option is **a blend of whole-grain and white flour.** Whole-grain flours like **Rye** or **Whole Wheat** introduce a high concentration of yeast and nutrients, essentially seeding the starter. White flours like **Bread Flour** provide easily accessible food (simple starches and sugars) for that new colony to consume and grow. A 50/50 blend of whole wheat and bread flour is a reliable choice to build a strong starter quickly.
 
 **Options:**
+
 *   **Whole Wheat:**
     1.  [Bob's Red Mill, Organic Spelt Flour, Whole Grain, 20 oz (567 g)](https://il.iherb.com/pr/bob-s-red-mill-organic-spelt-flour-whole-grain-20-oz-567-g/97754)
     2.  [Arrowhead Mills, Organic Whole Wheat Flour, Stone Ground, 22 oz (623 g)](https://il.iherb.com/pr/arrowhead-mills-organic-whole-wheat-flour-stone-ground-22-oz-623-g/115331)
@@ -56,6 +66,7 @@ Once the starter is established, the goal of feeding shifts from *creation* to *
 A great compromise is to feed the starter with **mostly bread flour plus a small amount (10-20%) of whole wheat or rye.** This gives the starter a consistent nutrient boost and flavor complexity while still maximizing the gluten potential for a well-risen loaf.
 
 **Options:**
+
 *   **Bread Flour:**
     1.  [Pivetti Tipo Manitoba](https://derech-hatavlinim.co.il/product/%D7%A7%D7%9E%D7%97-%D7%9C%D7%97%D7%9D/) (Hebrew) - A high-protein flour ideal for providing structure to sourdough.
     2.  [Maimon's Sourdough Flour](https://deli.yango.com/en-il/good/8b33b798a75540a4a32b9ca19f4fadd3000300020002) - A strong flour (13% protein) with added sourdough cultures to enhance fermentation.
@@ -127,28 +138,34 @@ This recipe creates a loaf with 50% whole grains and a hydration of 78%, which i
 #### Day 1: Fermentation and Dough Development
 
 **Morning (e.g., 9:00 AM): Feed Your Starter**
+
 *   **Action:** Feed your starter as usual, but give it a bit more food: to **30g** of starter, add **60g** of Manitoba flour and **60g** of water.
 *   **The Science:** We are creating a "young" leaven. Using a larger feed ratio ensures the starter is at its absolute peak of yeast activity (and lower in acidity) when we mix the dough, which promotes a better rise.
 
 **Afternoon (e.g., 2:00 PM): Autolyse**
+
 *   **Action:** In a large bowl, mix the **375g of water** with the **250g Manitoba flour** and the **250g whole wheat/spelt blend**. Mix until no dry flour remains. Do NOT add the starter or salt yet. Cover and let it rest for 1-2 hours.
 *   **The Science:** This is the autolyse. It allows the flour to fully hydrate and kickstarts gluten development enzymatically, without any kneading. The protease enzymes begin to break down proteins, making the dough extensible and easier to work with later.
 
 **Afternoon (e.g., 4:00 PM): Final Mix**
+
 *   **Action:** Add **100g of your active starter** and the **10g of salt** to the dough. Use wet hands to dimple everything in, then squeeze and fold the dough for 3-4 minutes until fully incorporated.
 *   **The Science:** We add the starter now to begin bulk fermentation. Salt is added last because it can tighten the gluten network and hinder the enzymatic activity of the autolyse.
 
 **Evening (e.g., 4:30 PM - 7:30 PM): Bulk Fermentation & Strength Building**
+
 *   **Action:** Let the dough ferment in a warm place for about 3-5 hours. During the first 1.5 hours, perform a set of "stretch and folds" every 30 minutes (3 sets total).
 *   **The Science:** This is the primary fermentation where flavor develops. The yeast produces CO2, and the LAB produce acids. The stretch and folds build a strong and organized gluten network, which is essential for trapping the CO2 gas. Whole grain flours ferment faster, so watch the dough, not the clock. The dough is ready when it has increased in volume by about 30-50% (not doubled!) and shows bubbles on the surface.
 
 **Night (e.g., 8:00 PM): Shape and Cold Proof (Rétardation)**
+
 *   **Action:** Gently shape your dough into a tight ball (boule). Place it seam-side up in a floured proofing basket, cover it, and immediately put it in the refrigerator for 12-16 hours.
 *   **The Science:** This is the cold proof, or *rétardation*. The cold temperature dramatically slows down the yeast's CO2 production but allows the LAB to continue working. This is where the complex, tangy sourdough flavors are developed. It also makes the dough firm and much easier to score and handle.
 
 #### Day 2: The Bake
 
 **Morning/Afternoon: Baking**
+
 *   **Action:**
     1.  Place a Dutch oven in your oven and preheat it for 1 hour at 232°C (450°F).
     2.  Take the dough straight from the fridge. Flip it onto parchment paper, score the top with a lame or razor blade, and carefully place it in the hot Dutch oven.
@@ -157,6 +174,7 @@ This recipe creates a loaf with 50% whole grains and a hydration of 78%, which i
 *   **The Science:** The intense heat from the preheated Dutch oven creates rapid "oven spring." The lid traps steam released from the dough, which keeps the crust soft initially, allowing the loaf to expand to its full potential. Removing the lid allows this steam to escape, and the dry heat then forms the crisp, caramelized crust through the Maillard reaction.
 
 **The Final, Crucial Step: Cooling**
+
 *   **Action:** Place the loaf on a wire rack and let it cool completely for at least 2-4 hours.
 *   **The Science:** The bread is not finished baking when you take it out of the oven. The internal crumb is still setting as the loaf cools. Slicing into it too early releases steam and moisture, resulting in a gummy, dense texture. Patience here is essential for the perfect crumb.
 

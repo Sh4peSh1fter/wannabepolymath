@@ -1,3 +1,12 @@
+---
+title: Labor
+description: "A round-table exploration of the problems, solutions, and applications within labor and work."
+tags:
+  - topic:labor
+  - type:explanation
+  - status:published
+---
+
 # Labor
 
 <!-- This document serves as a template for a structured brainstorming session. Follow the sections below to map out the problems, solutions, and applications within a given topic, identify the relationships between them, and a new application to address a specific gap. -->

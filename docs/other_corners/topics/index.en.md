@@ -17,7 +17,8 @@ This section provides an overview of all major subjects and disciplines covered 
 *(This page will be populated or dynamically generated as content and topic hubs are developed.)*
 
 ---
-tags: 
+
+tags:
     - topics
     - fields
     - areas
@@ -58,7 +59,7 @@ Library
 
 ### Templates
 
-we need to define standards for writing down a topic, for consistency and readability. so I wrote a template for writing a generic topic. 
+we need to define standards for writing down a topic, for consistency and readability. so I wrote a template for writing a generic topic.
 
 when discussing a topic, there are helpful parts or sections that we write down and every topic should have them, like a "sources" section, or a "questions" section. we can build a pattern and template it for all the topics to use.
 

@@ -156,6 +156,7 @@ This path involves choosing two main components: the display itself and a Single
 My choice is the **Waveshare 7-inch PoE Touch Display** driven by a **dedicated Raspberry Pi 4**.
 
 **Reasoning:**
+
 *   **The Display:** The 7-inch Waveshare display is the perfect size for a control panel—large enough to be easily readable and interactive, but small enough to be unobtrusive on a wall. The integrated PoE is the most critical feature for a clean, professional install.
 *   **The Driver:** While you *could* connect the display directly to a Home Assistant Yellow, it's highly recommended to use a **separate, dedicated Raspberry Pi 4** to drive the display. This decouples your main Home Assistant server from the display, meaning you can restart or work on your server without taking the panel offline, which is a major benefit for reliability.
 
@@ -166,19 +167,24 @@ My choice is the **Waveshare 7-inch PoE Touch Display** driven by a **dedicated 
 This guide details setting up a dedicated Raspberry Pi 4 to act as a kiosk for your Home Assistant dashboard.
 
 ### 1. Hardware Assembly
+
 *   Mount the Raspberry Pi 4 to the back of the Waveshare display using the included standoffs.
 *   Connect the display to the Pi's DSI port (for video) and connect the power pins (for touch and power passthrough from the PoE board).
 
 ### 2. OS Installation & Configuration
+
 *   **Install Raspberry Pi OS Lite (64-bit):** Flash this lightweight, command-line-only OS to a high-quality SD card. A full desktop environment is unnecessary overhead.
 *   **Basic Setup:** After booting, run `sudo raspi-config` to set your locale, keyboard layout, and enable the SSH server for remote access.
 *   **Install Required Software:** Install a minimal window manager and a browser.
+
     ```bash
     sudo apt update && sudo apt install --no-install-recommends xserver-xorg x11-xserver-utils xinit openbox chromium-browser
     ```
 
 ### 3. Configure Auto-start Kiosk Mode
+
 *   **Create the Kiosk Script:** Create a file at `/home/pi/kiosk.sh` with the following content. This script disables the screen saver and launches Chromium in kiosk mode, pointing to your Home Assistant instance.
+
     ```bash
     #!/bin/bash
     xset s noblank
@@ -190,6 +196,7 @@ This guide details setting up a dedicated Raspberry Pi 4 to act as a kiosk for y
     
     /usr/bin/chromium-browser --noerrdialogs --disable-infobars --kiosk http://homeassistant.local:8123/
     ```
+
 *   **Make it Executable:** `chmod +x /home/pi/kiosk.sh`
 *   **Auto-start on Boot:** Edit the `~/.profile` file and add this line to the end: `[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && startx /home/pi/kiosk.sh`
 *   Reboot the Raspberry Pi. It should now boot directly into your Home Assistant dashboard.
@@ -199,15 +206,18 @@ This guide details setting up a dedicated Raspberry Pi 4 to act as a kiosk for y
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. PoE Power Source
+
 *   **Requirement:** The display requires power from a PoE-capable device conforming to the 802.3af standard.
 *   **Option A: PoE Switch:** If you have multiple PoE devices, a network switch with built-in PoE ports is the cleanest solution.
 *   **Option B: PoE Injector:** If this is your only PoE device, a simple PoE injector is a more cost-effective choice. It sits between your regular switch and the display, adding power to the Ethernet cable.
 *   **Recommendation:** A single-port PoE+ injector from a brand like TP-Link or Ubiquiti.
 
 ### 2. Wall Mount
+
 *   **Recommendation:** The Waveshare display is often designed to be mounted to a standard single-gang or double-gang electrical box. A simple "low-voltage cutout bracket" is the easiest way to install this in drywall.
 
 ### 3. Ethernet Cable
+
 *   **Requirement:** A standard Cat5e or Cat6 Ethernet cable of the appropriate length to run from your switch/injector to the wall-mounted display.
 
 ---
@@ -215,10 +225,11 @@ This guide details setting up a dedicated Raspberry Pi 4 to act as a kiosk for y
 ## Sources & Further Reading
 
 ### Community Guides & Tutorials
+
 1.  **Home Assistant Kiosk Controller - The Right Way**
     *   *Note:* A popular and detailed guide that covers the principles of setting up a Raspberry Pi-based kiosk.
 2.  **Waveshare Product Wiki**
-    *   *Note:* The official documentation from Waveshare, providing specific details on hardware connections and dimensions for their displays. 
+    *   *Note:* The official documentation from Waveshare, providing specific details on hardware connections and dimensions for their displays.
 
-https://youtu.be/gpyYCTgJO88?si=rcAogH451g5HjTA4
-https://www.reddit.com/r/homeassistant/comments/17rahys/what_is_everyone_using_for_a_mounted_display/
+<https://youtu.be/gpyYCTgJO88?si=rcAogH451g5HjTA4>
+<https://www.reddit.com/r/homeassistant/comments/17rahys/what_is_everyone_using_for_a_mounted_display/>

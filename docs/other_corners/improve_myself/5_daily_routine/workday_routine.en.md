@@ -1,3 +1,12 @@
+---
+title: "Workday Routine (9:00 AM - 5:00 PM)"
+description: "A structured workday routine from 9:00 AM to 5:00 PM."
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 # Workday Routine (9:00 AM - 5:00 PM)
 
 The workday routine is about structuring your time and energy to maximize productivity and well-being. The goal is to perform deep, focused work while managing energy levels through strategic breaks and movement, ending the day with a clear transition into your personal time.
@@ -20,6 +29,7 @@ The workday routine is about structuring your time and energy to maximize produc
 ## The Routine
 
 ### 1. Commute / Travel to Work (optional)
+
 - duration: variable (typically 10-40 min)
 - time slot: 8:50 - 9:30 (depends on distance)
 - **Action:** Use commute time intentionally: listen to educational podcasts, audiobooks, or practice mindfulness. If driving, focus on breathing exercises at traffic lights. If using public transport, read or meditate.
@@ -28,9 +38,10 @@ The workday routine is about structuring your time and energy to maximize produc
 - **sources:**
   1. "Commuting and well-being" - *Journal of Health Economics*, 2014
   2. "The psychology of commuting" - *Transportation Research*, 2018
-  3. "Transition rituals and work performance" - *Organizational Behavior Studies*, 2019 
+  3. "Transition rituals and work performance" - *Organizational Behavior Studies*, 2019
 
 ### 2. Plan Your Day
+
 - duration: 15 min
 - time slot: 9:35 - 9:50
 - **Action:** Review your calendar and task list. Identify 1-3 most important tasks (MITs) for the day. Time-block these priorities into your deep work sessions. Quickly scan emails for true urgencies only.
@@ -39,9 +50,10 @@ The workday routine is about structuring your time and energy to maximize produc
 - **sources:**
   1. "Implementation intentions and goal achievement" - *Psychological Science*, 2006
   2. "The planning fallacy and productivity" - *Organizational Behavior Review*, 2017
-  3. David Allen's "Getting Things Done" methodology 
+  3. David Allen's "Getting Things Done" methodology
 
 ### 3. Break 1
+
 - duration: 15 min
 - time slot: 9:50 - 10:05
 - **Action:** Step away from your desk. Do light stretches, walk around the office/home, or practice deep breathing. Hydrate with water. Avoid checking phone or social media.
@@ -53,6 +65,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Micro-breaks and workplace productivity" - *Applied Psychology*, 2020
 
 ### 4. Work Block 1 - Deep
+
 - duration: 50 min
 - time slot: 10:05 - 10:55
 - **Action:** Focus on your #1 priority task requiring deep thinking. Turn off all notifications, close unnecessary browser tabs, and use website blockers if needed. Work in single-task mode only.
@@ -64,6 +77,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. Cal Newport's "Deep Work" research
 
 ### 5. Break 2
+
 - duration: 15 min
 - time slot: 10:55 - 11:10
 - **Action:** Take an active break following the 52-17 rule: walk outside if possible, do stretching exercises, or climb stairs. Get natural light exposure. Drink water and avoid screens completely.
@@ -75,6 +89,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Optimal break timing for sustained attention" - *Cognition*, 2011
 
 ### 6. Deep Work Block 2
+
 - duration: 50 min
 - time slot: 11:10 - 12:00
 - **Action:** Continue with your main priority or tackle your second most important task. Maintain the same focus protocols: no notifications, single-tasking only. If energy dips, do 10 desk push-ups or quick breathing exercise.
@@ -86,6 +101,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Attention span and productivity cycles" - *Applied Cognitive Psychology*, 2019
 
 ### 7. Lunch & Movement
+
 - duration: 40 min
 - time slot: 12:00 - 12:40
 - **Action:** Eat a balanced lunch away from work area: lean protein (20-25g), complex carbohydrates, healthy fats, and vegetables. Chew slowly and mindfully. Follow with a 10-15 minute walk outside.
@@ -96,7 +112,8 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Light exposure and afternoon alertness" - *Sleep Medicine*, 2019
   3. "Mindful eating and cognitive performance" - *Appetite*, 2020
 
-### 8. Work Block 3 - Shallow 
+### 8. Work Block 3 - Shallow
+
 - duration: 50 min
 - time slot: 12:40 - 13:30
 - **Action:** Handle administrative tasks, emails, meetings, and routine work that requires less intense focus. Batch similar tasks together (e.g., all emails at once).
@@ -108,6 +125,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Task batching and productivity" - *Management Science*, 2019
 
 ### 9. Break 3
+
 - duration: 15 min
 - time slot: 13:30 - 13:45
 - **Action:** Take a restorative break following the 52-17 rule. Step outside if possible, do light stretching, or practice a brief meditation. Avoid screens and stimulating content.
@@ -119,6 +137,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Afternoon naps and cognitive performance" - *Sleep*, 2020
 
 ### 10. Work Block 4 - Deep, Creative Work
+
 - duration: 50 min
 - time slot: 13:45 - 14:35
 - **Action:** Engage in creative or strategic work that benefits from a more relaxed mental state. This could include brainstorming, planning, writing, or problem-solving that doesn't require intense analysis.
@@ -130,6 +149,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Optimal timing for creative work" - *Journal of Creative Behavior*, 2019
 
 ### 11. Break 4
+
 - duration: 15 min
 - time slot: 14:35 - 14:50
 - **Action:** Take another active break following the 52-17 pattern. Walk, stretch, hydrate, or practice brief mindfulness. Avoid digital stimulation.
@@ -140,6 +160,7 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Sustained attention and break timing" - *Applied Psychology*, 2020
 
 ### 12. Work Block 5 - Deep, Project Completion
+
 - duration: 50 min
 - time slot: 14:50 - 15:40
 - **Action:** Focus on completing tasks, wrapping up projects, or tackling any remaining priorities. Use this block for final pushes on important work.
@@ -150,6 +171,7 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Task completion and daily closure" - *Organizational Psychology*, 2019
 
 ### 13. Break 5
+
 - duration: 15 min
 - time slot: 15:40 - 15:55
 - **Action:** Take another active break following the 52-17 pattern. Walk, stretch, hydrate, or practice brief mindfulness. Avoid digital stimulation.
@@ -160,6 +182,7 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Sustained attention and break timing" - *Applied Psychology*, 2020
 
 ### 14. Work Block 6 - Deep, Final Tasks
+
 - duration: 50 min
 - time slot: 15:55 - 16:45
 - **Action:** Focus on completing remaining tasks, wrapping up projects, or handling final priorities. Use this block for end-of-day task completion and organizing.
@@ -170,6 +193,7 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Task completion and daily closure" - *Organizational Psychology*, 2019
 
 ### 15. Break 6
+
 - duration: 15 min
 - time slot: 16:45 - 17:00
 - **Action:** Take a final active break following the 52-17 pattern. Walk, stretch, hydrate, or practice brief mindfulness. Begin mentally transitioning from work mode.
@@ -180,6 +204,7 @@ The workday routine is about structuring your time and energy to maximize produc
   2. "Work-life transition rituals" - *Applied Psychology*, 2020
 
 ### 16. Work Block 7 - Wind-Down & Next-Day Planning
+
 - duration: flexible (typically 20-60 min)
 - time slot: 17:00 - 18:00 (flexible end time)
 - **Action:** Complete any urgent remaining tasks. Conduct a daily review: what was accomplished, what's pending. Plan tomorrow's top 3 priorities and time-block them according to the 52-17 pattern. Clear your workspace and shut down properly.
@@ -191,6 +216,7 @@ The workday routine is about structuring your time and energy to maximize produc
   3. "Implementation intentions and productivity" - *Journal of Applied Psychology*, 2016
 
 ### 17. Travel Home & Post-Work Transition
+
 - duration: variable (10-40 min)
 - time slot: 18:40
 - **Action:** Execute your work shutdown ritual. During commute home, listen to calming music, podcasts, or practice mindfulness. Avoid work calls or stressful news.
@@ -241,4 +267,4 @@ The workday routine is about structuring your time and energy to maximize produc
   - **The Pomodoro Technique:** Developed by Francesco Cirillo, a simple yet effective method for implementing focused work sessions.
   - **The Eisenhower Matrix:** A decision-making tool for prioritizing tasks by urgency and importance.
 
-  https://desktime.com/blog/productivity-research
+  <https://desktime.com/blog/productivity-research>

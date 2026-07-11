@@ -137,4 +137,4 @@ A hybrid strategy is the optimal approach for sensors.
 
 ## Sources & Further Reading
 
-*(A list of resources will be added here, including in-depth comparisons and reviews from smart home technology channels.)* 
+*(A list of resources will be added here, including in-depth comparisons and reviews from smart home technology channels.)*

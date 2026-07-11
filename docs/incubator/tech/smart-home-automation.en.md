@@ -1,3 +1,12 @@
+---
+title: Smart Home Automation
+description: Goals and plans for automating the home with local-first smart-home controls.
+tags:
+  - topic:home-automation
+  - type:how-to
+  - status:published
+---
+
 # Project Goals
 
 1.  Automate daily routines to enhance comfort, efficiency, and wellbeing.
@@ -56,4 +65,4 @@
 
 # Sources
 
-https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/18nu3kk/i_just_finished_integrating_chat_gpt_into_a_billy/
+<https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/18nu3kk/i_just_finished_integrating_chat_gpt_into_a_billy/>

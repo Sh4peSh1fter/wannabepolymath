@@ -5,7 +5,6 @@ description: "Creator of Vsauce, an educational YouTube channel."
 
 # Michael Stevens
 
-![A portrait of Michael Stevens](../assets/general/michael_stevens.jpg)
 > "I don't want to just create things that are me reading a Wikipedia page, I want them to be a journey – a logic train that makes you go 'Oh wow, where are we going today?'"
 
 ## Profile

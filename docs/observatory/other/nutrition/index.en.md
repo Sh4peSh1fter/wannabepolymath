@@ -13,4 +13,4 @@ Nutrition is the study of nutrients in food, how the body uses them, and the rel
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

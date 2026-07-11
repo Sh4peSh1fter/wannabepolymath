@@ -101,13 +101,13 @@ Based on my understanding of chemical exfoliation science and my normal-dry skin
         *   **Beginner-Friendly Concentration:** Safe starting strength that can be increased gradually if needed.
         *   **pH-Optimized:** Properly formulated pH for effectiveness without unnecessary irritation.
         *   **Compatible with Existing Routine:** Works well with CeraVe cleanser and toner without conflicts.
-    
+
     2.  **Formulation Quality**
         *   **Gentle but Effective:** Provides noticeable results without causing irritation or barrier damage.
         *   **Well-Buffered:** Contains ingredients to minimize irritation and support skin comfort.
         *   **Stable Formula:** Maintains potency over time and doesn't degrade quickly.
         *   **Additional Beneficial Ingredients:** Contains hydrating or soothing components to offset potential dryness.
-    
+
     3.  **Usability & Experience**
         *   **Easy Integration:** Fits naturally into evening skincare routine.
         *   **Pleasant Application:** Comfortable texture and application experience.
@@ -337,6 +337,7 @@ My choice is **The INKEY List Lactic Acid Treatment**.
 **Alternative Consideration:** The Good Molecules 5% Lactic Acid would be perfect if I want to be extremely cautious, but The INKEY List provides better long-term value and growth potential as my skin builds tolerance.
 
 **Where to Buy:**
+
 *   [Sephora](https://www.sephora.com/product/the-inkey-list-lactic-acid-treatment-P446654)
 *   [ULTA](https://www.ulta.com/p/lactic-acid-treatment-pimprod2007097)
 *   [The INKEY List Official](https://www.theinkeylist.com/products/lactic-acid-treatment)
@@ -348,15 +349,17 @@ My choice is **The INKEY List Lactic Acid Treatment**.
 This section details how to safely and effectively incorporate The INKEY List Lactic Acid Treatment into your routine for optimal results while minimizing irritation.
 
 ### 1. Initial Setup and Introduction Protocol
+
 *   **Patch Test:** Apply a small amount to your inner wrist or behind your ear for 24-48 hours before first facial use.
 *   **Start Slowly:** Begin with once weekly application for 2 weeks, then twice weekly for 2 weeks.
 *   **Evening Only:** Always use at night due to increased photosensitivity from AHAs.
 *   **Clean Slate:** Start with freshly cleansed skin using your CeraVe cleanser.
 
 ### 2. Proper Application Technique
+
 *   **Timing in Routine:** Apply after cleansing and toner, before moisturizer.
 *   **Amount:** 2-3 drops for entire face - a little goes a long way.
-*   **Application Method:** 
+*   **Application Method:**
     1.  Dispense product onto clean fingertips
     2.  Gently pat and spread evenly across face, avoiding eye area
     3.  Allow 10-15 minutes to absorb before applying moisturizer
@@ -364,6 +367,7 @@ This section details how to safely and effectively incorporate The INKEY List La
 *   **Areas to Avoid:** Immediate eye area, lips, and any broken or irritated skin.
 
 ### 3. Frequency Progression Schedule
+
 *   **Weeks 1-2:** Once weekly (every 7 days)
 *   **Weeks 3-4:** Twice weekly (every 3-4 days)
 *   **Weeks 5-6:** Three times weekly (every other day)
@@ -371,17 +375,20 @@ This section details how to safely and effectively incorporate The INKEY List La
 *   **Listen to Your Skin:** Reduce frequency if any irritation, excessive dryness, or sensitivity occurs.
 
 ### 4. Essential Safety Protocols
+
 *   **Sun Protection:** Mandatory daily SPF 30+ use - AHAs increase photosensitivity for up to a week after use.
 *   **No Mixing:** Don't combine with retinol, vitamin C, or other acids on the same night.
 *   **Hydration Focus:** Always follow with a good moisturizer to support skin barrier.
 *   **Monitor Skin Response:** Stop use if persistent redness, burning, or increased sensitivity occurs.
 
 ### 5. Integration with Existing Routine
+
 *   **Compatible Products:** Your CeraVe cleanser, toner, and moisturizer work well with AHAs.
 *   **Scheduling:** Use on non-retinol nights if you plan to add retinoids later.
 *   **Enhancement Effect:** Will improve absorption and effectiveness of your moisturizer and any serums.
 
 ### 6. Results Timeline and Expectations
+
 *   **Week 1-2:** May notice skin feels smoother immediately after use.
 *   **Week 3-4:** Visible improvements in skin texture and radiance.
 *   **Week 6-8:** Significant improvements in overall skin smoothness and clarity.
@@ -394,29 +401,34 @@ This section details how to safely and effectively incorporate The INKEY List La
 To maximize the benefits and safety of your chemical exfoliant routine.
 
 ### 1. High-Quality Facial Sunscreen (Non-Negotiable)
+
 *   **Why Essential:** AHAs significantly increase photosensitivity, making daily sun protection mandatory.
 *   **What to Look For:** Broad-spectrum SPF 30+ that's cosmetically elegant for daily use.
 *   **Recommendation:** Since you're building a CeraVe routine, consider CeraVe AM Facial Moisturizing Lotion with SPF 30.
 *   **Usage:** Must be applied every morning, regardless of weather or plans to stay indoors.
 
 ### 2. Barrier-Repair Moisturizer Enhancement
+
 *   **Why Helpful:** Chemical exfoliation can temporarily disrupt the skin barrier, requiring enhanced moisture support.
 *   **What to Look For:** Rich, barrier-supporting ingredients like ceramides, cholesterol, and fatty acids.
 *   **Timing:** Apply 10-15 minutes after the acid treatment for optimal barrier support.
 *   **Recommendation:** Your existing CeraVe routine is perfect, but consider their PM moisturizer for extra nighttime support.
 
 ### 3. Hydrating Serum (Optional Enhancement)
+
 *   **Why Beneficial:** Extra hydration can help offset any drying effects and enhance results.
 *   **What to Look For:** Hyaluronic acid or glycerin-based serums without other actives.
 *   **Application:** Apply before the lactic acid treatment for extra hydration cushion.
 *   **Recommendation:** The Ordinary Hyaluronic Acid 2% + B5 pairs excellently with lactic acid.
 
 ### 4. pH Testing Strips (Educational Tool)
+
 *   **For the Curious:** Verify your product's pH and understand how it works with your skin's natural pH.
 *   **Educational Value:** Helps you understand why pH matters in acid effectiveness and skin comfort.
 *   **Usage:** Test the product and monitor your skin's pH response over time.
 
 ### 5. Gentle Physical Exfoliant (Backup Option)
+
 *   **Why Useful:** For weeks when chemical exfoliation feels too strong or for body areas where you want exfoliation.
 *   **What to Look For:** Very gentle options like a soft washcloth or konjac sponge.
 *   **Rule:** Never use physical and chemical exfoliation on the same day.

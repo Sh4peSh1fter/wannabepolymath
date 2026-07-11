@@ -1,3 +1,12 @@
+---
+title: "Morning Routine (6:30 AM - 8:30 AM)"
+description: "A structured morning routine from 6:30 AM to 8:30 AM."
+tags:
+  - topic:self-improvement
+  - type:how-to
+  - status:published
+---
+
 # Morning Routine (6:30 AM - 8:30 AM)
 
 The morning routine is arguably the most crucial part of the day. It sets the foundation for your energy, mood, and cognitive function. The primary goals are to signal to your body that the day has begun, regulate your circadian rhythm, and prepare for the demands of the day.
@@ -23,14 +32,16 @@ The morning routine is arguably the most crucial part of the day. It sets the fo
 The following routine is built from steps - each one has its own parameters. the duration and time slot of the step are only approximate values and are subject to change. The goal is to give the big picture and keep the steps flexible so that it is easier to maintain the routine.
 
 ### 1. Wake Up
+
 - duration: none
 - time slot: 6:30
 - **Action:** Wake up without a jarring alarm if possible (e.g., using a sunrise alarm clock).
 - **Why?** There is no perfect hour to wake up, but it should be in the end of a sleep cycle.
 - Sources
-  1.  https://sleepopolis.com/calculators/sleep/
+  1.  <https://sleepopolis.com/calculators/sleep/>
 
-### 2. Hydrate 
+### 2. Hydrate
+
 - duration: 10 min
 - time slot: 6:30 - 6:40
 - **Action:** Drink a large glass of water (500ml) with electrolytes (a pinch of salt and a squeeze of lemon).
@@ -40,7 +51,8 @@ The following routine is built from steps - each one has its own parameters. the
   2. "Electrolyte balance and exercise performance" - *Sports Medicine*, 2015
   3. Dr. Andy Galpin's hydration protocols
 
-### 3. Get Morning Sunlight 
+### 3. Get Morning Sunlight
+
 - duration: 10 min
 - time slot: 6:40 - 6:50
 - **Action:** Go outside for 10-15 minutes. Look in the direction of the sun without staring directly at it. Do not wear sunglasses.
@@ -51,7 +63,8 @@ The following routine is built from steps - each one has its own parameters. the
   2. Dr. Andrew Huberman's light exposure protocols
   3. "Bright light therapy for mood and sleep" - *Chronobiology International*, 2019
 
-### 4. Zone 2 Exercise 
+### 4. Zone 2 Exercise
+
 - duration: 40 min
 - time slot: 6:50 - 7:30
 - **Action:** Engage in low-intensity cardiovascular exercise where you can maintain a conversation (Zone 2 heart rate: ~60-70% max HR). Options include brisk walking, light jogging, cycling, or swimming. Can be combined with morning sunlight exposure if outdoors.
@@ -63,6 +76,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. "Morning exercise and circadian rhythms" - *Physiology & Behavior*, 2018
 
 ### 5. Cold Shower
+
 - duration: 10 min
 - time slot: 7:30 - 7:40
 - **Action:** Take a cold shower for 1-3 minutes. Start with lukewarm water and gradually decrease the temperature. Focus on controlled breathing.
@@ -74,6 +88,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. Wim Hof Method research studies
 
 ### 6. Skincare
+
 - duration: 20 min
 - time slot: 7:50 - 8:10
 - **Action:** Complete skincare routine:
@@ -89,6 +104,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. Dr. Dray (dermatologist) evidence-based skincare protocols
 
 ### 7. Meditation
+
 - duration: 10 min
 - time slot: 8:10 - 8:20
 - **Action:** Practice mindfulness meditation: sit comfortably, focus on breath, observe thoughts without judgment. Alternatively, practice gratitude journaling or body scan meditation.
@@ -100,6 +116,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. "The Relaxation Response" by Dr. Herbert Benson
 
 ### 8. Breakfast
+
 - duration: 20 min
 - time slot: 8:20 - 8:40
 - **Action:** Consume a balanced breakfast with 20-30g protein, healthy fats, and complex carbohydrates. Examples: eggs with avocado and whole grain toast, Greek yogurt with nuts and berries, or protein smoothie with spinach and banana.
@@ -111,6 +128,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. Dr. Rhonda Patrick's nutrition research
 
 ### 9. Oral Care
+
 - duration: 10 min
 - time slot: 8:40 - 8:50
 - **Action:** Complete oral hygiene routine:
@@ -126,6 +144,7 @@ The following routine is built from steps - each one has its own parameters. the
   3. Research on oil pulling effectiveness
 
 ### 10. Free Time (until start of workday)
+
 - duration: flexible (typically 10-40 min)
 - time slot: 8:50 - 9:00+ (depending on commute/work start)
 - **Action:** Use remaining time flexibly based on the day's needs: review daily priorities, read news/articles, prepare work materials, or simply relax. If commuting, use travel time for podcasts, audiobooks, or mental preparation.

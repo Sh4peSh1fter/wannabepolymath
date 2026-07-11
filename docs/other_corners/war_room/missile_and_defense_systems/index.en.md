@@ -9,11 +9,12 @@ This section covers projectile-based weapon systems and the technologies designe
 
 ## Categories
 
-*   **[Missiles](./missiles/)**: An in-depth guide to missile systems, including ballistic missiles, cruise missiles, and more.
+*   **[Missiles](./missiles/index.md)**: An in-depth guide to missile systems, including ballistic missiles, cruise missiles, and more.
 *   **Air Defense Systems**
 *   **Anti-Tank Guided Missiles (ATGMs)**
 
 ---
 
 # Sources
-1. https://www.youtube.com/@MilitarySummary10Minutes
+
+1. <https://www.youtube.com/@MilitarySummary10Minutes>

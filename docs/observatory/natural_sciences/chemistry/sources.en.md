@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for chemistry"
+description: Curated sources and further reading for Chemistry.
+tags:
+  - topic:chemistry
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for chemistry
 
 A curated list of resources for diving deeper into chemistry.
@@ -5,7 +14,7 @@ A curated list of resources for diving deeper into chemistry.
 ## Websites & Online Publications
 
 1.  Open Beauty Facts
-    *   *Link*: https://world.openbeautyfacts.org/
+    *   *Link*: <https://world.openbeautyfacts.org/>
     *   *Note*: A free, open, and collaborative database of cosmetic products from around the world.
 
 ## Videos & Documentaries

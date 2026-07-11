@@ -13,4 +13,4 @@ Earth science is the study of our planet's physical characteristics, from earthq
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

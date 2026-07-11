@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for psychology"
+description: Curated sources and further reading for Psychology.
+tags:
+  - topic:psychology
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for psychology
 
 A curated list of resources for diving deeper into psychology.

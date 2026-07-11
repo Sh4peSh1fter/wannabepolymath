@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for history"
+description: Curated sources and further reading for History.
+tags:
+  - topic:history
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for history
 
 A curated list of resources for diving deeper into history.

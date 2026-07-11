@@ -28,7 +28,7 @@ My number one priority is protecting my hearing. If I can find a pair of reusabl
 
 Before I get lost in a sea of brands and decibel ratings, here's what I'm looking for:
 
-*   **Primary Use Case(s):** Shielding my ears at loud social gatherings. 
+*   **Primary Use Case(s):** Shielding my ears at loud social gatherings.
 *   **Key Features Needed (or to learn about):**
     *   **Serious Noise Reduction:** I need to understand what Noise Reduction Rating (NRR) or Single Number Rating (SNR) is truly effective for hearing protection in these environments. Aiming for something that can bring very loud (100-115dB+) environments to a safer ~85dB level.
     *   **Comfort is King:** They need to be comfortable for potentially several hours.
@@ -135,7 +135,7 @@ Now that I've decided on the item type, I'll compare specific products within th
 
 These seem to pop up everywhere and are highly rated. They have a distinct look, which is kinda cool.
 
-![Loop Earplugs Image](../../assets/corners/bazaar/earplugs/loop_experience.jpg)
+![Loop Earplugs Image](../../../assets/corners/bazaar/earplugs/loop_experience.jpg)
 
 *   **Overview & Key Selling Points:** Stylish design, focus on different "experiences." The **Loop Experience Plus** (which includes "Mute" silicone inserts for extra reduction) is frequently recommended [1, 3].
 *   **Relevant Model(s) I'm Considering:**
@@ -162,7 +162,7 @@ These seem to pop up everywhere and are highly rated. They have a distinct look,
 
 Another name that comes up frequently, especially in musician circles [1, 3, 10]. They seem to have a strong focus on protection with optional enhancers.
 
-![Eargasm Earplugs Image](../../assets/corners/bazaar/earplugs/eargasm_high_fidelity.jpg)
+![Eargasm Earplugs Image](../../../assets/corners/bazaar/earplugs/eargasm_high_fidelity.jpg)
 
 *   **Overview & Key Selling Points:** Aim for clear sound with good protection. Their standard High Fidelity earplugs are popular, and they offer a **"High dB Filter"** (sometimes called "Additional Attenuation Filters") for increased noise reduction.
 *   **Relevant Model(s) Considered:**
@@ -187,7 +187,7 @@ Another name that comes up frequently, especially in musician circles [1, 3, 10]
 
 These offer a custom moldable design at a lower price than professionally molded custom earplugs [1]. Intriguing for comfort and secure fit.
 
-![Decibullz Earplugs Image](../../assets/corners/bazaar/earplugs/decibullz_custom_molded.webp)
+![Decibullz Earplugs Image](../../../assets/corners/bazaar/earplugs/decibullz_custom_molded.webp)
 
 *   **Overview & Key Selling Points:** Users mold the thermoplastic earpieces in hot water for a custom fit. They offer "High Fidelity" and also "Contour" (non-filtered, higher NRR) versions.
 *   **Relevant Model(s) Considered:**
@@ -210,7 +210,7 @@ These offer a custom moldable design at a lower price than professionally molded
 
 Mentioned as a solid alternative, especially if discreetness is key [1, 2]. They offer different filter levels.
 
-![EarPeace Earplugs Image](../../assets/corners/bazaar/earplugs/earpeace.webp)
+![EarPeace Earplugs Image](../../../assets/corners/bazaar/earplugs/earpeace.webp)
 
 *   **Overview & Key Selling Points:** Soft, malleable silicone, flush fit. Offer different filter sets (e.g., "Music Pro" with Medium, High, Max protection filters).
 *   **Relevant Model(s) Considered:** EarPeace Music Pro (or similar models that come with interchangeable filters, NRR can range from ~9dB to ~19dB or higher depending on the filter).
@@ -231,7 +231,7 @@ Mentioned as a solid alternative, especially if discreetness is key [1, 2]. They
 
 A long-standing name in high-fidelity earplugs, praised for sound quality and value, though fit can be polarizing [1, 2, 11].
 
-![Etymotic Earplugs Image](../../assets/corners/bazaar/earplugs/etymotic_er20xs.webp)
+![Etymotic Earplugs Image](../../../assets/corners/bazaar/earplugs/etymotic_er20xs.webp)
 
 *   **Overview & Key Selling Points:** Known for their "flat" attenuation. The ER20XS is a popular model.
 *   **Relevant Model(s) Considered:** ER20XS (NRR around 12-13dB). They also have higher-end musician series like the ER•25, ER•15.
@@ -251,7 +251,7 @@ A long-standing name in high-fidelity earplugs, praised for sound quality and va
 
 These came up in a review for metal concerts, noted for good protection and comfort [5].
 
-![Downbeats Earplugs Image](../../assets/corners/bazaar/earplugs/downbeats.jpg)
+![Downbeats Earplugs Image](../../../assets/corners/bazaar/earplugs/downbeats.jpg)
 
 *   **Overview & Key Selling Points (from initial research):** Reusable high-fidelity earplugs, advertise around 18dB noise reduction.
 *   **Relevant Model(s) Considered:** Standard Downbeats model.
@@ -297,60 +297,63 @@ The crucial next step is to really nail down what level of NRR translates to "sa
 ## Sources & Further Reading
 
 ### Key Reviews & Lab Tests
+
 1.  NYT Wirecutter - Best Earplugs for Concerts
-    *   *Link:* https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-concerts/
+    *   *Link:* <https://www.nytimes.com/wirecutter/reviews/best-earplugs-for-concerts/>
     *   *Note:* A good starting point for general recommendations.
 2.  HearingTracker - Best Earplugs for Concerts (Lab Tested)
-    *   *Link:* https://www.hearingtracker.com/earplugs
+    *   *Link:* <https://www.hearingtracker.com/earplugs>
     *   *Note:* Excellent resource for NRR explanation and real-world protection estimates.
 3.  Unearthed.com - Earplug Comparison (Loop vs. Eargasm at Metal Show)
-    *   *Link:* https://unearthed.com/product-reviews/earplug-comparison-eargasm-high-fidelity-vs-loop-experience-plus-vs-airpods-pro-2/
+    *   *Link:* <https://unearthed.com/product-reviews/earplug-comparison-eargasm-high-fidelity-vs-loop-experience-plus-vs-airpods-pro-2/>
     *   *Note:* Real-world comparison in a very loud environment.
 4.  MakeThatLouder.com - Best Ear Plugs for Concerts (2023)
-    *   *Link:* https://makethatlouder.com/best-ear-plugs-for-concerts/
+    *   *Link:* <https://makethatlouder.com/best-ear-plugs-for-concerts/>
     *   *Note:* General review roundup.
 5.  Medium - Downbeats Reusable High Fidelity Hearing Protection Review
-    *   *Link:* https://medium.com/audiophilia-music-and-headphones/downbeats-reusable-high-fidelity-hearing-protection-review-379179d39887
+    *   *Link:* <https://medium.com/audiophilia-music-and-headphones/downbeats-reusable-high-fidelity-hearing-protection-review-379179d39887>
     *   *Note:* Specific, in-depth review of the Downbeats model.
 6.  HearAdvisor - Earplug Rankings
-    *   *Link:* https://www.hearadvisor.com/earplug-rankings
+    *   *Link:* <https://www.hearadvisor.com/earplug-rankings>
     *   *Note:* Data-driven rankings.
 
 ### Community Discussions (for anecdotal experiences & product discovery - cross-reference with scientific sources)
+
 7.  r/Techno - What earplugs you use?
-    *   *Link:* https://www.reddit.com/r/Techno/comments/1dvulda/what_earplugs_you_use_any_recommendations/
+    *   *Link:* <https://www.reddit.com/r/Techno/comments/1dvulda/what_earplugs_you_use_any_recommendations/>
     *   *Note:* Discussion on various brands used in electronic music settings.
 8.  r/GoosetheBand - Best concert earplugs?
-    *   *Link:* https://www.reddit.com/r/GoosetheBand/comments/13ms2ch/best_concert_earplugs/
+    *   *Link:* <https://www.reddit.com/r/GoosetheBand/comments/13ms2ch/best_concert_earplugs/>
     *   *Note:* User recommendations and feedback.
 9.  r/Music - Ear plugs that block out the most sound?
-    *   *Link:* https://www.reddit.com/r/Music/comments/15q3ami/ear_plugs_that_block_out_the_most_sound/
+    *   *Link:* <https://www.reddit.com/r/Music/comments/15q3ami/ear_plugs_that_block_out_the_most_sound/>
     *   *Note:* General discussion about maximum protection.
 10. r/metalmusicians - Which earplugs for concert?
-    *   *Link:* https://www.reddit.com/r/metalmusicians/comments/1e3ahch/which_earplugs_for_concert/
+    *   *Link:* <https://www.reddit.com/r/metalmusicians/comments/1e3ahch/which_earplugs_for_concert/>
     *   *Note:* Recommendations from musicians in loud environments.
 11. r/audiophile - Best concert ear plugs in 2024 (links to HearingTracker)
-    *   *Link:* https://www.reddit.com/r/audiophile/comments/1eblho9/best_concert_ear_plugs_in_2024_lab_tested/
+    *   *Link:* <https://www.reddit.com/r/audiophile/comments/1eblho9/best_concert_ear_plugs_in_2024_lab_tested/>
     *   *Note:* Community discussion pointing towards lab-tested data.
 
 ### Product Pages (where to buy from, like manufacturer)
+
 12. Loop Earplugs Official Site
-    *   *Link:* https://www.loopearplugs.com/
+    *   *Link:* <https://www.loopearplugs.com/>
     *   *Note:* Official product information and purchasing.
 13. Eargasm Earplugs Official Site
-    *   *Link:* https://eargasm.com/
+    *   *Link:* <https://eargasm.com/>
     *   *Note:* Official product information and purchasing.
 14. Decibullz Official Site
-    *   *Link:* https://www.decibullz.com/
+    *   *Link:* <https://www.decibullz.com/>
     *   *Note:* Official product information and purchasing.
 15. EarPeace Official Site
-    *   *Link:* https://www.earpeace.com/
+    *   *Link:* <https://www.earpeace.com/>
     *   *Note:* Official product information and purchasing.
 16. Etymotic Official Site
-    *   *Link:* https://www.etymotic.com/
+    *   *Link:* <https://www.etymotic.com/>
     *   *Note:* Official product information and purchasing.
 17. Downbeats Official Site
-    *   *Link:* https://downbeats.com/
+    *   *Link:* <https://downbeats.com/>
     *   *Note:* Official product information and purchasing.
 
 ---

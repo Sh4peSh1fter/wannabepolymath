@@ -15,4 +15,4 @@ This section is dedicated to educators who have inspired me.
 
     Creator of the educational YouTube channel *Vsauce*.
 
-</div> 
+</div>

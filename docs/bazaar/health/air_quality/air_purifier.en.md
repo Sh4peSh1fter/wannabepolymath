@@ -20,6 +20,7 @@ Indoor air can be significantly more polluted than outdoor air, containing a mix
 ## Phase 1: Researching the Field
 
 ### Components
+
 *   **Fan & Motor:** Draws air into the purifier. The power and noise level (measured in decibels, dB) are key performance factors.
 *   **Filters:** The core component responsible for capturing pollutants. This can include pre-filters, HEPA filters, and activated carbon filters.
 *   **Housing:** The physical structure of the unit, which affects airflow dynamics and aesthetics.
@@ -27,6 +28,7 @@ Indoor air can be significantly more polluted than outdoor air, containing a mix
 *   **Control Panel/Interface:** Allows for manual control of fan speed, modes, and timers.
 
 ### Materials & Technologies
+
 This section evaluates the core technologies used in air purification.
 
 *   **Mechanical Filtration (e.g., HEPA):** Physically traps particles.
@@ -56,6 +58,7 @@ This section evaluates the core technologies used in air purification.
     *   **Rating:** 1/5 (Ozone production is a major health concern).
 
 ### Keywords, Terms and Concepts
+
 Understanding these terms is critical for evaluating air purifiers.
 
 1.  **Performance Metrics**
@@ -170,73 +173,97 @@ This final, definitive analysis incorporates all products discussed and all rese
 ### Product Options
 
 #### 1. Levoit Core 600S
+
 A top-tier appliance praised for its exceptional raw cleaning power and full suite of smart features.
+
 1.  **Pros:** Very high CADR (410 CFM) for rapid cleaning. Full smart features. No ozone.
 2.  **Cons:** Higher price for the unit and filters. Larger physical footprint.
 3.  **Community Opinion:** Lauded by experts for its no-compromise performance.
 
 #### 2. AirFanta 3Pro
+
 A unique, high-performance DIY-style kit offering exceptional power for its cost.
+
 1.  **Pros:** Extremely high CADR (413 CFM) for its low price. Portable design.
 2.  **Cons:** DIY assembly required. Louder than traditional purifiers. No smart features.
 3.  **Community Opinion:** Highly regarded in "clean air" communities for its raw power and value.
 
 #### 3. Blueair Blue Pure 311i+ Max
+
 A premium model from a trusted brand, excelling at quiet operation while delivering strong performance.
+
 1.  **Pros:** Very quiet. Strong CADR (280 CFM) for its noise level. Smart features and clean design.
 2.  **Cons:** Fabric pre-filter can be less convenient than a mesh screen.
 3.  **Community Opinion:** Highly rated for its quietness and aesthetic.
 
 #### 4. Winix 5500-2
+
 A legendary value proposition, famous for its performance-to-price ratio and superior VOC filtration.
+
 1.  **Pros:** Excellent performance for the price. Superior granular activated carbon filter for odors/chemicals.
 2.  **Cons:** Lacks smart features. Includes a "PlasmaWave" ionizer that **must be turned off**.
 3.  **Community Opinion:** A community favorite, considered a reliable "workhorse."
 
 #### 5. Coway Airmega AP-1512HH(W) "Mighty"
+
 A long-standing market leader known for its smart, efficient operation and compact design.
+
 1.  **Pros:** Excellent performance for its size. Highly intelligent and responsive "Auto" mode.
 2.  **Cons:** More expensive filters. Includes an ionizer that **must be turned off**.
 3.  **Community Opinion:** Overwhelmingly positive; a trusted "set it and forget it" machine.
 
 #### 6. Xiaomi Smart Air Purifier 4
+
 A sleek, modern smart purifier with good performance and value.
+
 1.  **Pros:** Good CADR for the price. Excellent smart home integration.
 2.  **Cons:** Carbon filtration is less substantial than top competitors.
 3.  **Community Opinion:** Popular for its design and performance-to-price ratio.
 
 #### 7. Shark NeverChange HP302
+
 An innovative model featuring a HEPA filter designed to last up to 5 years.
+
 1.  **Pros:** Extremely low long-term filter cost. Compact and well-designed.
 2.  **Cons:** Lower CADR (~175 CFM) for its price point. The long-life filter may lose carbon effectiveness over time.
 3.  **Community Opinion:** Praised for its innovative filter system, but noted to be less powerful than competitors.
 
 #### 8. Sensibo Pure
+
 A smart purifier with a focus on deep smart home integration and automation.
+
 1.  **Pros:** Strong smart features and geofencing capabilities.
 2.  **Cons:** Lower CADR (176 CFM) for its price point.
 3.  **Community Opinion:** Liked by smart home enthusiasts for its automation potential.
 
 #### 9. Levoit Vital 200S
+
 A popular mid-range smart purifier with a focus on value and a washable pre-filter.
+
 1.  **Pros:** Great value for a smart purifier. Washable pre-filter adds convenience. Quiet.
 2.  **Cons:** Lower CADR (194 CFM), suitable for medium-sized rooms.
 3.  **Community Opinion:** Often recommended as a strong all-rounder for medium-sized rooms.
 
 #### 10. Xiaomi Smart Air Purifier 4 Lite
+
 A smaller, more affordable version in the Xiaomi ecosystem.
+
 1.  **Pros:** Good CADR for the price in the small room category.
 2.  **Cons:** Less substantial carbon filter.
 3.  **Community Opinion:** A good entry-level smart purifier.
 
 #### 11. WINIX A231
+
 A compact, design-focused model from Winix.
+
 1.  **Pros:** Clean design. 360-degree air intake.
 2.  **Cons:** Lower CADR (~150 CFM). Includes the PlasmaWave feature that **must be turned off**.
 3.  **Community Opinion:** Liked for its design, but seen as less powerful.
 
 #### 12. Sharp FP-J30
+
 An older, widely available model from a major electronics brand.
+
 1.  **Pros:** From a well-known, established brand.
 2.  **Cons:** Low CADR (~106 CFM), making it suitable only for very small rooms. Includes a "Plasmacluster" ionizer that cannot be fully disabled and is a core part of its marketing.
 3.  **Community Opinion:** Generally seen as an entry-level device, but the non-optional ionizer is a significant drawback for air quality purists.
@@ -275,6 +302,7 @@ This final, data-rich conclusion provides a definitive recommendation based on c
     *   **Winix 5500-2:** For the best performance-per-dollar, especially against VOCs and odors, the Winix is the winner. Its granular carbon filter is a significant advantage. The key is that you **must disable the PlasmaWave feature upon setup** to ensure no byproducts are created.
 
 **Final Recommendation:**
+
 1.  For the **most powerful and convenient appliance**, buy the **Levoit Core 600S**.
 2.  For the **best balance of strong, quiet performance**, buy the **Blueair Blue Pure 311i+ Max**.
 3.  For the **best value, especially for odors/fumes**, buy the **Winix 5500-2** (and immediately turn off PlasmaWave).
@@ -286,19 +314,23 @@ This final, data-rich conclusion provides a definitive recommendation based on c
 This section details how to get the most out of the chosen Air Purifier, ensuring its longevity and proper performance.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Remove All Packaging:** Before plugging in the unit, ensure all plastic wrap is removed from the filters inside the device. This is a common mistake that prevents the purifier from working.
 *   **Initial Placement:** Place the unit in the bedroom, ensuring at least 30-50 cm of clear space on all sides for optimal air intake and circulation. Avoid placing it in a tight corner or directly against a wall.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Run Continuously:** For best results, run the air purifier 24/7. Air quality changes constantly, and continuous filtration is the most effective way to maintain a clean environment. Use the "Auto Mode" if available, or a low, quiet setting during sleep.
 *   **Keep Room Sealed:** Keep the bedroom door and windows closed while the purifier is operating to prevent polluted air from entering and reducing the device's effectiveness.
 *   **Wipe Down Exterior:** Regularly wipe the exterior of the unit and the air intake/outlet grilles with a dry or slightly damp cloth to prevent dust buildup.
 
 ### 3. Periodic Maintenance
+
 *   **Pre-Filter Cleaning:** Check the washable pre-filter every 2-4 weeks. If it's visibly dirty, rinse it with water and let it dry completely before reinstalling. This prolongs the life of the main HEPA and carbon filters.
 *   **Filter Replacement:** Replace the HEPA and Activated Carbon filters according to the manufacturer's recommendation (typically every 6-12 months) or when the filter change indicator light turns on. This is critical for maintaining performance and ensuring the carbon filter hasn't become saturated.
 
 ### 4. Long-Term Storage
+
 *   If storing the unit for an extended period, clean it thoroughly, place the filters in a sealed plastic bag to prevent them from adsorbing ambient pollutants, and store the unit in its original box in a cool, dry place.
 
 ---
@@ -308,6 +340,7 @@ This section details how to get the most out of the chosen Air Purifier, ensurin
 Once the main item is chosen, it's important to consider the necessary accessories for its use, maintenance, and protection.
 
 ### 1. Replacement Filters
+
 *   **What to Look For:** Always purchase genuine, manufacturer-approved replacement filters (e.g., official Tadiran, Levoit, or Coway filters). Third-party filters may not meet the same HEPA specifications and can compromise performance or damage the unit.
 *   **Recommendation:** Identify the exact model number for your purifier's filter pack (it usually contains both the HEPA and Carbon filter).
 *   **Where to Buy:**
@@ -321,11 +354,13 @@ Once the main item is chosen, it's important to consider the necessary accessori
 *A list of resources I will consult during this research, categorized to ensure a well-rounded perspective.*
 
 ### Scientific Journals & Research Databases
+
 1.  **[To be populated with specific studies on filtration, UVGI, PCO, etc.]**
     *   *Link:* [e.g., PubMed, Google Scholar]
     *   *Note:* For finding peer-reviewed evidence on the efficacy and safety of different technologies.
 
 ### Reputable Organizations & Consumer Information
+
 1.  **United States Environmental Protection Agency (EPA)**
     *   *Link:* [https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home](https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home)
     *   *Note:* Provides unbiased information on air cleaning technologies and what to look for.
@@ -334,6 +369,7 @@ Once the main item is chosen, it's important to consider the necessary accessori
     *   *Note:* Global perspective on air pollution standards and health impacts.
 
 ### Community Discussions & Product Discovery
+
 1.  **Breathe Safe Air**
     *   *Link:* [https://breathesafeair.com/](https://breathesafeair.com/)
     *   *Note:* A blog providing reviews and articles. To be used for product discovery, but claims will be cross-referenced.
@@ -351,6 +387,7 @@ Once the main item is chosen, it's important to consider the necessary accessori
     *   *Note:* Another local Israeli review site that can help identify popular models and retailers in the region.
 
 ### YouTube Videos & Expert Review Sites
+
 1.  **HouseFresh**
     *   *Link:* [https://www.youtube.com/@HouseFresh](https://www.youtube.com/@HouseFresh) and [https://housefresh.com/air-purifiers/](https://housefresh.com/air-purifiers/)
     *   *Note:* An expert review site and YouTube channel known for in-depth, hands-on testing of air purifiers, including performance tests (e.g., the "fog test").
@@ -374,6 +411,7 @@ Once the main item is chosen, it's important to consider the necessary accessori
     *   *Note:* The creator of the AirFanta, providing insights into the design and performance of high-efficiency DIY-style purifiers.
 
 ### Community Analysis & Data-Rich Sources
+
 1.  **Reddit - /r/Masks4All Analysis**
     *   *Link:* [https://www.reddit.com/r/Masks4All/comments/1g4cp0m/i_analyzed_the_25_most_recommended_air_purifiers/](https://www.reddit.com/r/Masks4All/comments/1g4cp0m/i_analyzed_the_25_most_recommended_air_purifiers/)
     *   *Note:* An extremely detailed, data-driven analysis of community recommendations, focusing on CADR/price and CADR/noise ratios. Excellent for identifying top value performers.

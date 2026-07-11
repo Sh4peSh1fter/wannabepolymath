@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for literature"
+description: Curated sources and further reading for Literature.
+tags:
+  - topic:literature
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for literature
 
 A curated list of resources for diving deeper into literature.

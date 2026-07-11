@@ -90,12 +90,12 @@ Based on my understanding of UV protection science and my daily routine needs, I
         *   **SPF 30-50:** Optimal protection level for daily use.
         *   **Photostable Formula:** Maintains protection throughout the day without degrading.
         *   **FDA-Compliant:** Meets or exceeds regulatory standards for sun protection.
-    
+
     2.  **Facial Skin Compatibility**
         *   **Non-Comedogenic:** Won't clog pores or cause breakouts.
         *   **Gentle Formulation:** Suitable for daily use without irritation, especially on normal-dry skin.
         *   **Compatible with Skincare Routine:** Works well with my existing CeraVe cleanser, toner, and moisturizer.
-    
+
     3.  **Cosmetic Elegance & Usability**
         *   **Minimal to No White Cast:** Blends seamlessly without leaving a visible chalky residue.
         *   **Pleasant Texture:** Absorbs well without feeling greasy or sticky.
@@ -180,7 +180,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 1. CeraVe Hydrating Mineral Sunscreen SPF 30 Face Sheer Tint
 
-![CeraVe Hydrating Mineral Sunscreen](../../../assets/bazaar/health/oral_care/toothbrush/CeraVe_Hydrating_Mineral_Sunscreen.jpg)
 
 *   **Key Ingredients:** 10% Zinc Oxide, 5.5% Titanium Dioxide, Niacinamide, Ceramides (1, 3, 6-II), Hyaluronic Acid.
 *   **Pros:**
@@ -198,7 +197,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 2. EltaMD UV Clear Broad-Spectrum SPF 46
 
-![EltaMD UV Clear SPF 46](../../../assets/bazaar/health/oral_care/toothbrush/EltaMD_UV_Clear_SPF_46.jpg)
 
 *   **Key Ingredients:** 9% Zinc Oxide, 7.5% Octinoxate (Chemical Filter), Niacinamide, Hyaluronic Acid.
 *   **Pros:**
@@ -214,7 +212,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 3. La Roche-Posay Anthelios Mineral Tinted Sunscreen SPF 50
 
-![La Roche-Posay Anthelios Mineral Tinted Sunscreen SPF 50](../../../assets/bazaar/health/oral_care/toothbrush/La_Roche-Posay_Anthelios_Mineral_Tinted_Sunscreen_SPF_50.jpg)
 
 *   **Key Ingredients:** 11% Titanium Dioxide, antioxidants.
 *   **Pros:**
@@ -231,7 +228,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 4. Supergoop! Unseen Sunscreen SPF 40
 
-![Supergoop! Unseen Sunscreen SPF 40](../../../assets/bazaar/health/oral_care/toothbrush/Supergoop!_Unseen_Sunscreen_SPF_40.jpg)
 
 *   **Key Ingredients:** Avobenzone, Homosalate, Octisalate, Octocrylene (All Chemical Filters).
 *   **Pros:**
@@ -247,7 +243,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 5. FRÉ Skincare GLOW ME+ Tinted Mineral Sunscreen SPF 50
 
-![FRÉ Skincare GLOW ME+](../../../assets/bazaar/health/skin_care/facial-sunscreen/fre_glow_me.jpg)
 
 *   **Key Ingredients:** 25% Non-Nano Zinc Oxide, Niacinamide, Vitamin C, Argania Active Complex™.
 *   **Pros:**
@@ -264,7 +259,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 6. Hero Cosmetics Force Shield Superlight Sunscreen SPF 30
 
-![Hero Cosmetics Force Shield](../../../assets/bazaar/health/skin_care/facial-sunscreen/hero_force_shield.jpg)
 
 *   **Key Ingredients:** 17.53% Non-Nano Zinc Oxide, Ectoin, Green Tea Extract, Bisabolol.
 *   **Pros:**
@@ -281,7 +275,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 7. FRÉ Skincare PROTECT ME SPF 30
 
-![FRÉ Skincare PROTECT ME](../../../assets/bazaar/health/skin_care/facial-sunscreen/fre_protect_me.jpg)
 
 *   **Key Ingredients:** Non-Nano Zinc Oxide, Argania Active Complex™, Tocopherol (Vitamin E), Panthenol (Vitamin B5).
 *   **Pros:**
@@ -297,7 +290,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 8. Bioderma Photoderm Cover Touch SPF 50+
 
-![Bioderma Photoderm Cover Touch](../../../assets/bazaar/health/skin_care/facial-sunscreen/bioderma_cover_touch.jpg)
 
 *   **Key Ingredients:** Nano Zinc Oxide, Nano Titanium Dioxide, Ectoin, Iron Oxides.
 *   **Pros:**
@@ -332,6 +324,7 @@ My choice is the **CeraVe Hydrating Mineral Sunscreen SPF 30 Face Sheer Tint**.
 **Reasoning:** This product is the embodiment of the chosen strategy: a science-backed, safety-focused formulation that supports overall skin health. It exclusively uses GRASE-designated mineral filters, aligning with the most conservative approach for daily, long-term use [6, 7]. Its true strength lies in its "skincare-first" formulation. The inclusion of **Ceramides (1, 3, 6-II), Niacinamide, and Hyaluronic Acid** makes it more than just sun protection; it is an active contributor to maintaining a healthy skin barrier. For someone with normal-to-dry skin already using a CeraVe routine, this product ensures ingredient philosophy synergy. The sheer tint effectively mitigates the primary drawback of mineral sunscreens (white cast), and its excellent value encourages the liberal application necessary for achieving proper protection. It is the ideal synthesis of safety, skin health, and usability.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/CeraVe-Hydrating-Mineral-Sunscreen-Face/dp/B07X2Z2KCL)
 *   [Target](https://www.target.com/p/cerave-hydrating-mineral-sunscreen-spf-30-face-sheer-tint-1-7-fl-oz/-/A-76545935)
 *   [CVS](https://www.cvs.com/shop/cerave-hydrating-mineral-sunscreen-spf-30-5-oz-prodid-1370018664)
@@ -343,11 +336,13 @@ My choice is the **CeraVe Hydrating Mineral Sunscreen SPF 30 Face Sheer Tint**.
 This section details how to get the most out of CeraVe Hydrating Mineral Sunscreen while ensuring optimal protection and skin health benefits.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Patch Test:** Before first facial use, test a small amount on your inner wrist or jawline for 24 hours to ensure the tint is a good match and to check for any reactions.
 *   **Integration Timing:** This product should be the final step in your morning skincare routine, after any other serums or moisturizers, but before makeup.
 *   **Amount Calibration:** Use the "1/4 teaspoon" rule as a guide. Dispense this amount to see how it feels and looks to ensure you're applying enough for the labeled protection [4, 1].
 
 ### 2. Daily Application Technique & Routine
+
 *   **Morning Sequence:** Cleanser → Toner → Serum(s) → Moisturizer (optional) → **CeraVe Sunscreen**.
 *   **Dispense and Warm:** Dispense about 1/4 teaspoon onto fingertips. Gently rub fingertips together to warm the product slightly, which can improve spreadability.
 *   **Dot and Blend:** Dot the sunscreen evenly across the forehead, cheeks, nose, and chin.
@@ -357,6 +352,7 @@ This section details how to get the most out of CeraVe Hydrating Mineral Sunscre
 *   **Moisturizer Check:** Because this formula is hydrating and contains ceramides, you may be able to skip your regular morning moisturizer, especially if your skin is not exceptionally dry.
 
 ### 3. Reapplication Guidelines
+
 *   **Indoor Days:** For days spent mostly indoors away from windows, one generous morning application is sufficient.
 *   **Outdoor/Active Days:** Reapply at least every 2 hours, or more frequently after swimming, sweating, or towel drying, per standard dermatological advice [4].
 *   **Reapplication Over Makeup:** This is challenging with tinted lotions. For touch-ups, consider a dedicated mineral powder sunscreen or a sunscreen spray (applied carefully to avoid inhalation).
@@ -368,19 +364,23 @@ This section details how to get the most out of CeraVe Hydrating Mineral Sunscre
 To maximize the effectiveness of your sun protection routine and support comprehensive skin health.
 
 ### 1. SPF Lip Balm
+
 *   **Why Essential:** The skin on the lips is very thin and susceptible to sun damage, yet is often forgotten.
 *   **What to Look For:** A balm with broad-spectrum SPF 30+ in a moisturizing base.
 *   **Recommendation:** EltaMD UV Lip Balm SPF 36 or a similar high-protection mineral lip balm.
 
 ### 2. Wide-Brimmed Hat
+
 *   **Why Important:** Physical barriers provide the most reliable protection. A hat adds a crucial layer of defense for the face, scalp, and ears.
 *   **What to Look For:** A hat with at least a 3-inch brim and a UPF (Ultraviolet Protection Factor) rating of 50+.
 
 ### 3. UV-Protective Sunglasses
+
 *   **Why Critical:** Protects the delicate skin of the eyelids (where sunscreen application can be difficult) and the eyes themselves from UV damage.
 *   **What to Look For:** Sunglasses that block 100% of UV rays (UVA and UVB). Look for a "UV400" label.
 
 ### 4. Antioxidant Serum (Complementary Protection)
+
 *   **Why Helpful:** No sunscreen blocks 100% of UV radiation. An antioxidant serum (like Vitamin C) applied in the morning before sunscreen can help neutralize the free radicals generated by the UV rays that get through, providing a second line of defense.
 *   **Recommendation:** CeraVe Skin Renewing Vitamin C Serum for brand synergy and a gentle formulation.
 
@@ -407,11 +407,11 @@ To maximize the effectiveness of your sun protection routine and support compreh
 ### Figures in the Industry (scientists, researchers, content creators, etc)
 
 9.  **Dekel, D.** (n.d.). Sunscreen Series Part 3. *The Dekel.* (Hebrew)
-    *   *Link:* https://thedekel.co.il/sunscreen_pt3/
+    *   *Link:* <https://thedekel.co.il/sunscreen_pt3/>
 10. **Dekel, D.** (n.d.). Sunscreen Series Part 5. *The Dekel.* (Hebrew)
-    *   *Link:* https://thedekel.co.il/sunscreen_pt5/
+    *   *Link:* <https://thedekel.co.il/sunscreen_pt5/>
 
-https://www.reviews-by-maya.com/
+<https://www.reviews-by-maya.com/>
 
 ---
 

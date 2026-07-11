@@ -1,15 +1,26 @@
 [tool.poetry]
 name = "wannabepolymath"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Wannabe Polymath — a personal knowledge base, blog, and portfolio built with MkDocs Material."
+authors = ["Kivsean <seanso@cyber.org.il>"]
 license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-mkdocs-material = "^9.5.33"
+# "imaging" extra pulls Pillow + CairoSVG for the social-cards plugin.
+mkdocs-material = {extras = ["imaging"], version = "^9.5.33"}
 mkdocs-static-i18n = "^1.2.3"
+mkdocs-git-revision-date-localized-plugin = "^1.5.0"
+mkdocs-minify-plugin = "^0.8.0"
+mkdocs-redirects = "^1.2.0"
+
+# Optional group for the planned exam-generator script (README roadmap). Not installed
+# for the docs build/CI. Install with: poetry install --with scripts
+[tool.poetry.group.scripts]
+optional = true
+
+[tool.poetry.group.scripts.dependencies]
 pandas = "^2.3.1"
 openpyxl = "^3.1.5"
 tabulate = "^0.9.0"

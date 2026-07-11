@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for astronomy"
+description: Curated sources and further reading for Astronomy.
+tags:
+  - topic:astronomy
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for astronomy
 
 A curated list of resources for diving deeper into astronomy.

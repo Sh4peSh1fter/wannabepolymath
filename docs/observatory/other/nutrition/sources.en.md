@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Nutrition"
+description: Curated sources and further reading for Nutrition.
+tags:
+  - topic:nutrition
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Nutrition
 
 A curated list of resources for diving deeper into Nutrition.
@@ -5,8 +14,8 @@ A curated list of resources for diving deeper into Nutrition.
 ## Websites & Online Publications
 
 1.  NutritionFacts.org
-    *   *Link*: https://nutritionfacts.org/
-    *   *Note*: 
+    *   *Link*: <https://nutritionfacts.org/>
+    *   *Note*:
 
 ## Videos & Documentaries
 

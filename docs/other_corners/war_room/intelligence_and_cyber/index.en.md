@@ -15,4 +15,4 @@ This section explores the domains of intelligence, surveillance, reconnaissance,
 
 ---
 
-*(No entries yet. You can add some!)* 
+*(No entries yet. You can add some!)*

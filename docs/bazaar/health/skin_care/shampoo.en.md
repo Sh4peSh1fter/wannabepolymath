@@ -78,7 +78,7 @@ To find the right shampoo, we need to understand the difference between a dry sc
 3.  **Nice to Have:**
     *   Contains additional nourishing ingredients like botanical extracts, vitamins, or proteins.
     *   Has a pleasant, natural scent (not overly perfumed).
-4.  **Deal-breakers:** 
+4.  **Deal-breakers:**
     *   Contains harsh sulfates.
     *   Makes my scalp feel tighter or drier.
     *   Leaves my hair feeling stripped, frizzy, or weighed down.
@@ -144,7 +144,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 1. Briogeo Scalp Revival MegaStrength+ Dandruff Relief Shampoo
 
-![Briogeo Scalp Revival Shampoo](../../../assets/bazaar/health/body_care/shampoo/briogeo-scalp-revival.jpg)
 
 *   **Active Ingredient:** Salicylic Acid 3%
 *   **Pros:**
@@ -159,7 +158,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 2. SheaMoisture Apple Cider Vinegar Anti-Dandruff Shampoo
 
-![SheaMoisture ACV Shampoo](../../../assets/bazaar/health/body_care/shampoo/sheamoisture-acv.jpg)
 
 *   **Active Ingredient:** Salicylic Acid
 *   **Pros:**
@@ -173,7 +171,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 3. Neutrogena T/Sal Therapeutic Shampoo
 
-![Neutrogena T/Sal Shampoo](../../../assets/bazaar/health/body_care/shampoo/neutrogena-tsal.jpg)
 
 *   **Active Ingredient:** Salicylic Acid 3%
 *   **Pros:**
@@ -201,6 +198,7 @@ My choice is to start with the **Briogeo Scalp Revival MegaStrength+ Dandruff Re
 **Reasoning:** It represents the perfect intersection of all my needs. It has the maximum strength 3% Salicylic Acid to be truly effective against flakes, but it's also formulated within a high-quality, sulfate-free, and silicone-free base that is designed to be gentle on the hair and scalp. It strikes the ideal balance between being a potent treatment and a "healthy," modern shampoo. While it is the most expensive, its targeted formula is the most likely to solve the problem without compromise.
 
 **Where to Buy:**
+
 *   [Sephora](https://www.sephora.com/product/briogeo-scalp-revival-tm-megastrength-dandruff-relief-shampoo-with-charcoal-aha-bha-P500293)
 *   [Amazon](https://www.amazon.com/Briogeo-Scalp-Revival-Dandruff-Shampoo/dp/B0B64YJ8L8)
 *   [Briogeo Official Website](https://briogeohair.com/products/scalp-revival-megastrength-dandruff-relief-shampoo-charcoal-aha-bha-with-salicylic-acid-3)
@@ -212,9 +210,11 @@ My choice is to start with the **Briogeo Scalp Revival MegaStrength+ Dandruff Re
 Using an exfoliating shampoo correctly is key to getting results without causing irritation.
 
 ### 1. Initial Setup
+
 *   **Have a Great Conditioner Ready:** The single most important thing is to have a deeply hydrating, silicone-free conditioner on hand to use immediately after shampooing.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Focus on the Scalp:** When applying the shampoo, concentrate the product on your scalp. Use the pads of your fingers to gently but thoroughly massage it in for at least 30-60 seconds.
 *   **Let it Sit:** To allow the salicylic acid to work effectively, let the lather sit on your scalp for 2-3 minutes before rinsing.
 *   **Rinse Thoroughly:** Ensure all of the shampoo is rinsed out of your hair.
@@ -222,6 +222,7 @@ Using an exfoliating shampoo correctly is key to getting results without causing
 *   **Frequency:** Start by using it 2-3 times per week. You can adjust up or down depending on how your scalp responds. On other days, you can use a regular gentle shampoo or just co-wash (wash with conditioner only).
 
 ### 3. Periodic Maintenance
+
 *   **Clarify if Needed:** If you ever feel like your hair has buildup, you can use a stronger clarifying shampoo once a month, but it may not be necessary with this product.
 *   **Deep Condition:** Once a week, use a deep conditioning mask instead of your regular conditioner to give your hair an extra boost of moisture.
 
@@ -230,11 +231,13 @@ Using an exfoliating shampoo correctly is key to getting results without causing
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Hydrating Conditioner (Non-Negotiable)
+
 *   **What to Look For:** A silicone-free conditioner with ingredients like shea butter, glycerin, argan oil, or other natural oils and hydrators.
 *   **Recommendation:** As I don't have a specific conditioner yet, the goal is to find one that aligns with the "healthy" ingredients philosophy. A good starting point would be another product from the Briogeo Scalp Revival or Be Gentle, Be Kind lines, or from a trusted curly-hair brand like SheaMoisture or Curlsmith.
 *   **Where to Buy:** Sephora, Ulta, Amazon.
 
 ### 2. Scalp Massager Brush
+
 *   **What to Look For:** A soft, silicone-bristled brush designed for use in the shower.
 *   **Benefit:** Helps to distribute the shampoo more evenly, provides a more thorough scalp exfoliation, and stimulates blood flow, all without being harsh or tangling hair. It also feels great.
 *   **Recommendation:** Any highly-rated silicone scalp brush will do. The "Maxsoft" brush is a popular and affordable option on Amazon.
@@ -311,4 +314,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

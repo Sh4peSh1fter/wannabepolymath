@@ -1,3 +1,12 @@
+---
+title: Skills
+description: An overview of skills to develop for self-improvement.
+tags:
+  - topic:self-improvement
+  - type:index
+  - status:published
+---
+
 # Skills
 
 what is a skill?

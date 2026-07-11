@@ -118,6 +118,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
 ### Material Profiles: Pros & Cons
 
 #### 1. Carbon Steel
+
 *   **Pros:**
     *   Heats up quickly and is highly responsive to temperature changes.
     *   Becomes exceptionally non-stick once a proper seasoning layer is established.
@@ -129,6 +130,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Will rust if left wet.
 
 #### 2. Cast Iron (Bare)
+
 *   **Pros:**
     *   Unmatched heat retention, making it the superior choice for searing meat.
     *   Can be seasoned to create a durable, non-stick surface.
@@ -140,6 +142,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Can crack upon being dropped or subjected to extreme thermal shock.
 
 #### 3. Enameled Cast Iron
+
 *   **Pros:**
     *   Combines the heat retention of cast iron with a non-reactive enamel surface, making it perfect for acidic sauces, stews, and braises.
     *   Requires no seasoning and is easier to clean than bare cast iron.
@@ -150,6 +153,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Remains very heavy.
 
 #### 4. Stainless Steel (Clad)
+
 *   **Pros:**
     *   Completely non-reactive, making it safe for all types of ingredients.
     *   Heats quickly and responds instantly to temperature adjustments.
@@ -191,7 +195,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 #### Product Options
 
 ##### 1. Lodge Classic 12-Inch
-![Lodge Classic](../../_assets/kitchenware/pan/lodge_classic.jpg)
 
 1.  **Pros:**
     *   Incredible value for the performance.
@@ -205,7 +208,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $
 
 ##### 2. Lodge Chef Collection 12-Inch
-![Lodge Chef Collection](../../_assets/kitchenware/pan/lodge_chef_collection.jpg)
 
 1.  **Pros:**
     *   Noticeably lighter than the Classic model (6.5 lbs).
@@ -217,7 +219,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$
 
 ##### 3. Field Company No. 10
-![Field Company](../../_assets/kitchenware/pan/field_company.jpg)
 
 1.  **Pros:**
     *   Extremely lightweight (5.5 lbs) and easy to handle.
@@ -231,7 +232,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$$$
 
 ##### 4. Smithey Ironware No. 12
-![Smithey Ironware](../../_assets/kitchenware/pan/smithey.jpg)
 
 1.  **Pros:**
     *   Beautiful, hand-polished, mirror-smooth cooking surface.
@@ -245,7 +245,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$$$$
 
 ##### 5. Stargazer 12-Inch
-![Stargazer](../../_assets/kitchenware/pan/stargazer.jpg)
 
 1.  **Pros:**
     *   Flared rim allows for clean, drip-free pouring.
@@ -260,9 +259,9 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 #### Comparison Table: Bare Cast Iron Skillet
 
 | Product | Heat Retention | Maneuverability | Non-Stick (Surface) | Community Opinion | Price |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Lodge Classic** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $ |
-| **Lodge Chef Collection**| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
+| **Lodge Chef Collection** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
 | **Field Company** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | $$$$ |
 | **Smithey Ironware** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$$$ |
 | **Stargazer** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$ |
@@ -282,7 +281,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 #### Product Options
 
 ##### 1. Le Creuset 5.5 Qt Round Dutch Oven
-![Le Creuset](../../_assets/kitchenware/pan/le_creuset.jpg)
 
 1.  **Pros:**
     *   Made in France with industry-leading enamel quality that is highly resistant to chipping.
@@ -294,7 +292,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$$$$
 
 ##### 2. Staub 5.5 Qt Round Cocotte
-![Staub](../../_assets/kitchenware/pan/staub.jpg)
 
 1.  **Pros:**
     *   Made in France with exceptional build quality.
@@ -308,7 +305,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$$$$
 
 ##### 3. Lodge 6 Qt Enameled Dutch Oven
-![Lodge Enameled](../../_assets/kitchenware/pan/lodge_enameled.jpg)
 
 1.  **Pros:**
     *   Performs nearly as well as the premium French brands for a fraction of the cost.
@@ -321,7 +317,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$
 
 ##### 4. Cuisinart Chef's Classic 7 Qt
-![Cuisinart Enameled](../../_assets/kitchenware/pan/cuisinart_enameled.jpg)
 
 1.  **Pros:**
     *   Very affordable, especially for its large 7-quart capacity.
@@ -334,7 +329,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$
 
 ##### 5. Made In 5.5 Qt Enameled Dutch Oven
-![Made In Enameled](../../_assets/kitchenware/pan/made_in_enameled.jpg)
 
 1.  **Pros:**
     *   Made in France with premium enamel quality, comparable to Le Creuset/Staub.
@@ -348,7 +342,7 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 #### Comparison Table: Enameled Cast Iron Pan
 
 | Product | Enamel Quality | Ease of Use | Stain Resistance | Community Opinion | Price |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Le Creuset** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$$$$ |
 | **Staub** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$$$ |
 | **Lodge** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
@@ -415,7 +409,7 @@ The goal is to protect the enamel coating from chipping and staining.
 A few key accessories can significantly improve your cooking experience with this new system.
 
 | Accessory | Recommended For | Why It's Useful | Example Link |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Lodge Pan Scrapers** | Both | Made of polycarbonate, they effectively remove stuck-on food without scratching the seasoning or the enamel. | [Link](https://www.amazon.com/dp/B0039UU9UO) |
 | **Silicone Hot Handle Holder** | Both | Cast iron handles get extremely hot. These provide a secure, heat-resistant grip. | [Link](https://www.amazon.com/dp/B00063RWT8) |
 | **Chainmail Scrubber** | Bare Cast Iron | Cleans the skillet effectively without using soap or stripping the seasoning. | [Link](https://www.amazon.com/dp/B07BL2M5LS) |

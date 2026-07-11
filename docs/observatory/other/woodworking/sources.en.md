@@ -1,3 +1,12 @@
+---
+title: "Sources & Further Reading for Woodworking"
+description: Curated sources and further reading for Woodworking.
+tags:
+  - topic:woodworking
+  - type:reference
+  - status:published
+---
+
 # Sources & Further Reading for Woodworking
 
 A curated list of resources for diving deeper into Woodworking.
@@ -5,8 +14,8 @@ A curated list of resources for diving deeper into Woodworking.
 ## Websites & Online Publications
 
 1.  Facebook Group
-    *   *Link*: https://www.facebook.com/groups/1856164797742780/posts/4246062955419607/
-    *   *Note*: 
+    *   *Link*: <https://www.facebook.com/groups/1856164797742780/posts/4246062955419607/>
+    *   *Note*:
 
 ## Videos & Documentaries
 

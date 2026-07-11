@@ -13,4 +13,4 @@ A military, also known collectively as armed forces, is a heavily armed, highly 
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

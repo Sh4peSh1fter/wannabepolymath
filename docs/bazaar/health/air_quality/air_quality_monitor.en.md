@@ -224,6 +224,7 @@ My choice is the **AirGradient ONE**.
 **Reasoning:** While the Qingping has a superior display, my primary need is for accurate, comprehensive data that can be integrated into a smart home system in the future. The AirGradient ONE's open-source platform, commitment to high-quality sensors, and focus on local control perfectly align with my long-term goals. The slightly less polished display is a worthwhile trade-off for superior data accessibility and customizability.
 
 **Where to Buy:**
+
 *   [AirGradient Store](https://www.airgradient.com/product/airgradient-one/)
 
 ---
@@ -233,22 +234,26 @@ My choice is the **AirGradient ONE**.
 This section details how to get the most out of the chosen **AirGradient ONE**, ensuring its longevity and proper performance.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check for all components: the AirGradient ONE monitor, the USB-C power cable, and the power adapter.
 *   **Power On:** Connect the monitor to power using the provided cable and adapter. The device will boot up and display initial readings on its OLED screen.
 *   **Wi-Fi Connection:** The most critical step is connecting the monitor to your Wi-Fi network. This is done by connecting to the "AirGradient" Wi-Fi network broadcast by the device and then navigating to `192.168.4.1` in a web browser to enter your home Wi-Fi credentials.
 *   **Initial Sensor Settling:** Allow the monitor to run for at least 30-60 minutes for the sensors (especially TVOC and CO2) to stabilize and provide accurate initial readings.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Optimal Placement:** For the most representative reading of your bedroom's air quality, place the monitor on a nightstand or shelf, away from direct drafts from windows or air purifiers. Ensure it's not placed in direct sunlight, which can affect temperature readings.
 *   **Understanding the Display:** Familiarize yourself with the OLED display, which cycles through PM2.5, CO2, TVOC/NOx index, and Temperature/Humidity readings.
 *   **Data Monitoring:** While the screen provides real-time data, the primary way to track trends is through the platform you integrate it with (e.g., the AirGradient Dashboard or Home Assistant).
 
 ### 3. Periodic Maintenance
+
 *   **Sensor Calibration (CO2):** The Senseair S8 CO2 sensor has a built-in Automatic Baseline Correction (ABC) logic. To ensure its accuracy, it's good practice to ventilate the room thoroughly once a week (e.g., by opening a window for 15-30 minutes) to expose the sensor to fresh outdoor air (~420 ppm CO2), allowing it to maintain its baseline.
 *   **Dusting:** Gently wipe the exterior casing with a dry microfiber cloth every few months to prevent dust from accumulating on the sensor vents. Do not use cleaning sprays or liquids on the device.
 *   **Firmware Updates:** Periodically check the AirGradient website or your ESPHome dashboard for any available firmware updates that may improve performance or add features.
 
 ### 4. Long-Term Storage
+
 *   If you need to store the monitor, simply unplug it and keep it in a dust-free, dry place. Upon restarting, allow it time for the sensors to re-stabilize.
 
 ---
@@ -258,11 +263,13 @@ This section details how to get the most out of the chosen **AirGradient ONE**, 
 The AirGradient ONE is largely a self-contained unit, but considering its power needs and long-term potential for repair, the following are important.
 
 ### 1. Power Supply
+
 *   **What to Look For:** The monitor comes with a USB-C cable and power adapter. It's important to use a reliable, certified 5V/1A power adapter to ensure stable operation and protect the device's electronics. Any high-quality smartphone charger will suffice.
 *   **Recommendation:** Use the included power accessories. If a replacement is needed, choose one from a reputable brand like Anker or Belkin.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=5v+1a+usb+c+power+adapter), official electronics retailers.
 
 ### 2. Future-Proofing: Replacement Sensors
+
 *   **What to Look For:** One of the benefits of the AirGradient platform is its transparency and repairability. While the sensors have a long lifespan (e.g., the Plantower PM sensor is rated for ~3 years of continuous use), they can eventually fail. AirGradient sells replacement sensor modules directly.
 *   **Recommendation:** If a sensor fails after several years of use, you can purchase a replacement directly from the AirGradient store. This is a significant advantage over closed-box systems that would require a full device replacement.
 *   **Where to Buy:** [AirGradient Official Store](https://www.airgradient.com/product/replacement-parts-for-airgradient-one/)
@@ -274,6 +281,7 @@ The AirGradient ONE is largely a self-contained unit, but considering its power 
 *A list of resources I consulted during this research.*
 
 ### Reputable Organizations & Consumer Information
+
 1.  **United States Environmental Protection Agency (EPA) - Air Sensor Toolbox**
     *   *Link:* [https://www.epa.gov/air-sensor-toolbox](https://www.epa.gov/air-sensor-toolbox)
     *   *Note:* Provides in-depth information and performance evaluations of air sensor technologies.
@@ -282,6 +290,7 @@ The AirGradient ONE is largely a self-contained unit, but considering its power 
     *   *Note:* Conducts independent, scientific evaluations of commercially available low-cost air quality sensors. An invaluable resource for checking accuracy claims.
 
 ### Expert Review Sites & Community Discussions
+
 1.  **BreatheSafeAir**
     *   *Link:* [https://breathesafeair.com/](https://breathesafeair.com/)
     *   *Note:* A detailed blog with in-depth reviews of many air quality monitors, including the Qingping and INKBIRD models.
@@ -292,9 +301,9 @@ The AirGradient ONE is largely a self-contained unit, but considering its power 
     *   *Link:* [https://www.thespruce.com/best-air-quality-monitors-4845803](https://www.thespruce.com/best-air-quality-monitors-4845803)
     *   *Note:* A mainstream review with hands-on testing of several popular consumer models.
 
-https://breathesafeair.com/air-quality-monitors/
-https://www.reddit.com/r/AirQuality/comments/119h2lw/definitive_guide_to_buying_an_indoor_air_monitor/
-https://youtu.be/ZrN-qCe_-s4?si=F4B8Cdga8CQGsSyI
+<https://breathesafeair.com/air-quality-monitors/>
+<https://www.reddit.com/r/AirQuality/comments/119h2lw/definitive_guide_to_buying_an_indoor_air_monitor/>
+<https://youtu.be/ZrN-qCe_-s4?si=F4B8Cdga8CQGsSyI>
 
 ---
 
@@ -305,4 +314,4 @@ https://youtu.be/ZrN-qCe_-s4?si=F4B8Cdga8CQGsSyI
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Opinions are my own based on the information available at the time of writing.*
