@@ -5,6 +5,10 @@
   the page's frontmatter (single source of truth) plus git-derived dates. This makes the
   knowledge base machine-readable for search engines (rich results) and LLMs.
 
+  The @type is driven by the page's `entry_type` frontmatter (single source of truth), so
+  Observatory reference pages advertise their real shape — e.g. keywords → DefinedTermSet,
+  entities → CollectionPage, index → TechArticle. Absent that key it falls back to Article.
+
   Conditional fields each carry their own trailing comma and are always followed by the
   unconditional "author"/"isPartOf" keys, so the emitted JSON is valid regardless of which
   optional fields are present.
@@ -15,7 +19,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": {{ (page.meta.entry_type if page.meta.entry_type else "Article") | tojson }},
     "headline": {{ (page.meta.title if page.meta.title else page.title) | tojson }},
     {% if page.meta.description %}"description": {{ page.meta.description | tojson }},{% endif %}
     {% if page.canonical_url %}"url": {{ page.canonical_url | tojson }},{% endif %}

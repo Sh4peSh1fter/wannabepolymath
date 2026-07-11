@@ -39,6 +39,23 @@ These tags identify the primary subject(s) or discipline(s) the content relates 
     *   `topic:project-management`
     *   *(Please expand this list with your primary topics)*
 
+### 1a. `concept:` - Cross-Cutting Concepts
+
+These tags mark a specific concept that recurs across **multiple fields** (e.g. entropy,
+equilibrium, network, feedback). They are the machinery behind the Observatory's
+[Cross-Cutting Concepts](../observatory/cross_cutting/index.en.md) map: tag the canonical
+entry and every field that references the term with the same `concept:` tag, and the tag
+index becomes an automatic "all fields touching this concept" pivot.
+
+*   **Purpose:** To connect the same idea across disciplines without duplicating its definition.
+*   **Rule:** Every `concept:` tag must map to a real canonical entry (no orphan tags). Reserve
+    dedicated cross-cutting *pages* for concepts genuinely spanning 3+ fields.
+*   **Examples:**
+    *   `concept:entropy`
+    *   `concept:graph`
+    *   `concept:equilibrium`
+    *   `concept:network`
+
 ### 2. `corner:` - Thematic Section
 
 These tags indicate which primary thematic "Corner" the content belongs to or is most closely associated with. While content lives in a Corner's folder, this tag can reinforce association, especially if content is aggregated or displayed out of its original context.
@@ -57,6 +74,9 @@ These tags indicate which primary thematic "Corner" the content belongs to or is
 These tags describe the format or nature of the content itself.
 
 *   **Purpose:** To allow users to find specific kinds of information (e.g., only tutorials, only project pages).
+*   **Observatory (Diátaxis-aligned):** the Observatory uses two `type:` values consistently —
+    *   `type:reference` — the `keywords`, `entities`, and `sources` pages (information-oriented, consulted not read).
+    *   `type:explanation` — the field `index` (Map of Content) and cross-cutting pages (understanding-oriented).
 *   **Examples:**
     *   `type:article`
     *   `type:blog-post`
@@ -78,6 +98,12 @@ These tags describe the format or nature of the content itself.
 These tags can indicate the current state of a piece of content, especially for dynamic items like projects or articles under development.
 
 *   **Purpose:** To track progress and manage content workflow.
+*   **Observatory epistemic scale:** the Observatory signals content *maturity* honestly (most
+    fields are still growing), using a digital-garden-style scale instead of a binary published flag:
+    *   `status:seedling` — stub / mostly template; a starting point.
+    *   `status:budding` — real content, actively growing, incomplete.
+    *   `status:evergreen` — mature, curated, trustworthy.
+*   **Other corners:** the workflow states below remain valid elsewhere.
 *   **Examples:**
     *   `status:idea`
     *   `status:in-progress`

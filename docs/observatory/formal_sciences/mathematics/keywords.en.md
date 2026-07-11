@@ -1,93 +1,157 @@
-# Key Terms & Concepts for Mathematics
+---
+title: "Key Terms & Concepts — Mathematics"
+description: Core terms and concepts in mathematics.
+tags:
+  - topic:mathematics
+  - type:reference
+  - status:budding
+  - concept:cryptography
+entry_type: DefinedTermSet
+aliases:
+  - maths
+  - math
+---
 
-This document contains a curated list of important keywords, terms, and concepts related to Mathematics.
+# Key Terms & Concepts — Mathematics
+
+A curated, scannable reference of important terms in mathematics. Hover a term to reveal its
+definition, aliases, and an external anchor. Terms are grouped by real sub-fields — never a
+`General` or `Other` catch-all.
+
+## Foundations
 
 <div class="annotate" markdown>
 
-## General
-
-- Truncate (1)
-- Functional (2)
-- MATLAB (3)
-- R (4)
-
-## Graph Theory
-
-- Graph theory (5)
-- Hamiltonian path (6)
-- Adjacency matrix (7)
-- Red-Black Tree (8)
-
-## Calculus
-
-- Calculus (9)
-- Derivative (10)
-- Integral (11)
-
-## Algebra
-
-- Vector (12)
-- Matrix (13)
-
-## Geometry
-
-- Theorem (14)
-- Pythagorean theorem (15)
-
-## Number Theory
-
-- RSA Encryption (16)
-- Chinese Remainder Theorem (17)
-
-## Algorithms
-
-- Dijkstra's algorithm (18)
-- A* search algorithm (19)
-- Levenshtein distance (20)
-- Hessian matrix (21)
-- Gradient (22)
-- Curvature (23)
-- Differential equation (24)
-- Euclidean geometry (25)
-- Simpson's paradox (26)
-- Huffman coding (27)
-- Euler's totient function (28)
-- Cyclic group (29)
-- Pick's theorem (30)
-- Miller–Rabin primality test (31)
-- P versus NP problem (32)
+- Theorem (1)
 
 </div>
 
-1.  To shorten a number by cutting off digits from the end. For example, truncating the number 3.14159 to two decimal places gives 3.14.
-2.  In mathematics, a functional is a function that takes a function as its input and returns a scalar value.
-3.  A proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks.
-4.  A programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.
-5.  The study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices (or nodes) and lines called edges that connect them.
-6.  A path in a graph that visits each vertex exactly once.
-7.  A square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph.
-8.  A kind of self-balancing binary search tree.
-9.  A branch of mathematics that studies rates of change and accumulation. It is divided into two main branches: differential calculus (concerning rates of change and slopes of curves) and integral calculus (concerning accumulation of quantities and the areas under and between curves).
-10. A measure of how a function changes as its input changes. The derivative of a function at a chosen input value, when it exists, is the slope of the tangent line to the graph of the function at that point.
-11. A mathematical object that can be interpreted as an area or a generalization of area. Integrals, together with derivatives, are the fundamental objects of calculus.
-12. A mathematical object that has both a magnitude and a direction. Vectors are often represented as arrows and are used to describe quantities like velocity and force.
-13. A rectangular array of numbers, symbols, or expressions, arranged in rows and columns. Matrices are used to represent transformations, solve systems of linear equations, and in many other applications.
-14. A statement that has been proven on the basis of previously established statements, such as other theorems, and generally accepted statements, such as axioms.
-15. A fundamental relation in Euclidean geometry among the three sides of a right-angled triangle. It states that the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.
-16. A public-key cryptosystem based on the presumed difficulty of factoring large integers, the factoring problem.
-17. A theorem which gives a unique solution to simultaneous linear congruences with coprime moduli.
-18. An algorithm for finding the shortest paths between nodes in a graph, which may represent, for example, road networks.
-19. A searching algorithm that searches for the shortest path between an initial and a final state. It is used in many fields of computer science for its completeness, optimality, and optimal efficiency.
-20. A string metric for measuring the difference between two sequences.
-21. A square matrix of second-order partial derivatives of a scalar-valued function, or scalar field.
-22. A multi-variable generalization of the derivative.
-23. A measure of how much a curve deviates from being a straight line, or a surface deviates from being a plane.
-24. An equation that relates one or more unknown functions and their derivatives.
-25. A mathematical system attributed to Alexandrian Greek mathematician Euclid, which he described in his textbook on geometry: the Elements.
-26. A phenomenon in probability and statistics, in which a trend appears in several different groups of data but disappears or reverses when these groups are combined.
-27. A lossless data compression algorithm.
-28. A function that counts the positive integers up to a given integer n that are relatively prime to n.
-29. A group that can be generated by a single element.
-30. A theorem that provides a formula for the area of a simple polygon with integer vertex coordinates.
-31. A primality test: an algorithm which determines whether a given number is prime.
-32. A major unsolved problem in computer science.
+1.  A statement proven from previously established statements (other theorems and accepted axioms). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Theorem).
+
+## Number Theory
+
+<div class="annotate" markdown>
+
+- Chinese Remainder Theorem (1)
+- Euler's totient function (2)
+- Miller–Rabin primality test (3)
+- RSA (4)
+
+</div>
+
+1.  A theorem giving a unique solution to simultaneous linear congruences with coprime moduli. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Chinese_remainder_theorem).
+2.  A function counting the positive integers up to *n* that are relatively prime to *n*. **Aliases:** phi function, φ(n). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Euler%27s_totient_function).
+3.  A probabilistic primality test — an algorithm that determines whether a given number is prime. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test).
+4.  A public-key cryptosystem based on the presumed difficulty of factoring large integers. **Aliases:** RSA encryption. **Scope:** a number-theory result that anchors modern cryptography — see the [cross-cutting map](../../cross_cutting/cryptography.en.md). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem)).
+
+## Algebra & Group Theory
+
+<div class="annotate" markdown>
+
+- Vector (1)
+- Matrix (2)
+- Cyclic group (3)
+
+</div>
+
+1.  A mathematical object with both magnitude and direction, used to describe quantities like velocity and force. **Aliases:** Euclidean vector. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_vector).
+2.  A rectangular array of numbers arranged in rows and columns, used to represent linear transformations and solve systems of linear equations. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics)).
+3.  A group that can be generated by a single element. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Cyclic_group).
+
+## Calculus & Analysis
+
+<div class="annotate" markdown>
+
+- Calculus (1)
+- Derivative (2)
+- Integral (3)
+- Differential equation (4)
+- Gradient (5)
+- Hessian matrix (6)
+- Functional (7)
+
+</div>
+
+1.  The branch of mathematics studying rates of change (differential calculus) and accumulation (integral calculus). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Calculus).
+2.  A measure of how a function changes as its input changes; the slope of the tangent to the graph at a point. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Derivative).
+3.  A mathematical object interpretable as an area, or a generalization of area; with derivatives, one of the two fundamental objects of calculus. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Integral).
+4.  An equation relating one or more unknown functions and their derivatives. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Differential_equation).
+5.  The multi-variable generalization of the derivative. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Gradient).
+6.  A square matrix of second-order partial derivatives of a scalar-valued function. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Hessian_matrix).
+7.  A function that takes a function as its input and returns a scalar value. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Functional_(mathematics)).
+
+## Geometry
+
+<div class="annotate" markdown>
+
+- Pythagorean theorem (1)
+- Euclidean geometry (2)
+- Curvature (3)
+- Pick's theorem (4)
+
+</div>
+
+1.  In a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Pythagorean_theorem).
+2.  The mathematical system attributed to Euclid, described in his textbook *Elements*. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_geometry).
+3.  A measure of how much a curve deviates from a straight line, or a surface from a plane. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Curvature).
+4.  A formula for the area of a simple polygon with integer vertex coordinates. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Pick%27s_theorem).
+
+## Graph Theory
+
+<div class="annotate" markdown>
+
+- Graph theory (1)
+- Hamiltonian path (2)
+- Adjacency matrix (3)
+- De Bruijn sequence (4)
+
+</div>
+
+1.  The study of graphs — structures modeling pairwise relations between objects (vertices joined by edges). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Graph_theory).
+2.  A path in a graph that visits each vertex exactly once. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Hamiltonian_path).
+3.  A square matrix representing a finite graph, whose entries indicate whether pairs of vertices are adjacent. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Adjacency_matrix).
+4.  A cyclic sequence in which every possible length-*n* string over an alphabet appears exactly once as a substring. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/De_Bruijn_sequence).
+
+## Probability & Statistics
+
+<div class="annotate" markdown>
+
+- Simpson's paradox (1)
+
+</div>
+
+1.  A phenomenon in which a trend appears in several groups of data but disappears or reverses when the groups are combined. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox).
+
+## Algorithms & Computation
+
+<div class="annotate" markdown>
+
+- Dijkstra's algorithm (1)
+- A* search algorithm (2)
+- Levenshtein distance (3)
+- Huffman coding (4)
+- Red–black tree (5)
+- P versus NP problem (6)
+- Truncate (7)
+
+</div>
+
+1.  An algorithm for finding the shortest paths between nodes in a graph. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
+2.  A search algorithm that finds the shortest path between an initial and a goal state, prized for its completeness and optimality. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm).
+3.  A string metric measuring the difference between two sequences as the minimum number of single-character edits. **Aliases:** edit distance. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance).
+4.  A lossless data-compression algorithm that assigns shorter codes to more frequent symbols. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding).
+5.  A kind of self-balancing binary search tree. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree).
+6.  A major unsolved problem asking whether every problem whose solution can be verified quickly can also be solved quickly. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/P_versus_NP_problem).
+7.  To shorten a number by discarding digits past a chosen place (e.g. truncating 3.14159 to two places gives 3.14). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Truncation).
+
+## Tools & Software
+
+<div class="annotate" markdown>
+
+- MATLAB (1)
+- R (2)
+
+</div>
+
+1.  A proprietary multi-paradigm numerical-computing environment and language developed by MathWorks. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/MATLAB).
+2.  A language and free-software environment for statistical computing and graphics. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language)).

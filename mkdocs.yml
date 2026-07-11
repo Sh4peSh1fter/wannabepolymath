@@ -28,13 +28,15 @@ theme:
     - navigation.tabs # top-level sections are rendered in a menu layer below the header.
     - navigation.tabs.sticky # lock tabs below the header and always remain visible when scrolling down.
     - navigation.sections # the left sidebar will render all navigation items in expanded sections.
-    - navigation.path # breadcrumb navigation is rendered above the title of each page ########### doesn't work!!!!
+    - navigation.path # breadcrumbs above each page — would help the deep 3-level Observatory hierarchy. NOTE: no-op on the pinned mkdocs-material 9.6.14 (this was Insiders-only until it became free in 9.7.0); harmless to keep enabled — it activates once material is upgraded to >=9.7.0.
     - navigation.indexes # documents can be directly attached to sections.
     - navigation.top # A back-to-top button can be shown.
     - navigation.tracking # the URL in the address bar is automatically updated with the active anchor as highlighted in the table of contents.
     - navigation.prune # only the visible navigation items are included in the rendered HTML.
     - navigation.footer # "previous" and "next" buttons in the footer.
-    - navigation.expand # the left sidebar will expand all collapsible subsections by default.
+    # NOTE: navigation.expand is intentionally OFF. It conflicts with navigation.prune and
+    # fully expands the 22-field Observatory tree into an overwhelming sidebar. Collapsible
+    # sections (the default) keep the tree navigable at this scale.
     # search
     - search.suggest # the search will display the likeliest completion for the last word which can be accepted.
     - search.highlight # highlight all occurrences after following the link.
@@ -42,6 +44,7 @@ theme:
     - content.action.edit # an "edit this page" button on the page.
     - content.action.view # a "view source" button on the page.
     - content.code.copy # copy-to-clipboard button on code blocks.
+    - content.tooltips # rich hover tooltips for abbreviations (includes/abbreviations.md) and annotations.
     # - content.tabs.link # all content tabs across the whole documentation site will be linked and switch to the same label when the user clicks on a tab.
     - toc.follow # the sidebar is automatically scrolled so that the active anchor is always visible.
   palette:
@@ -196,8 +199,10 @@ extra:
 # Use BASE filenames here. The i18n plugin will find the suffixed versions.
 nav:
   - Home: index.md
-  - Observatory: 
+  - Observatory:
     - Overview: observatory/index.md
+    - "Cross-Cutting Concepts": observatory/cross_cutting/index.en.md
+    - "Browse by Tag": observatory/tags.en.md
     - "Natural Sciences":
       - "Physics":
         - Overview: observatory/natural_sciences/physics/index.en.md
