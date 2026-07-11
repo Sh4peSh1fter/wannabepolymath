@@ -15,6 +15,8 @@ Wannabe Polymath is a personal knowledge base documenting one learner's journey 
 - [Key Entities](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/medicine/entities/)
 - [Key Terms & Concepts](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/medicine/keywords/)
 - [Sources & Further Reading](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/medicine/sources/)
+- [Cross-Cutting Concepts](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/)
+- [Cryptography — across fields](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/cryptography/)
 - [Overview](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/formal_sciences/computer_science/)
 - [Key Entities](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/formal_sciences/computer_science/entities/)
 - [Key Terms & Concepts](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/formal_sciences/computer_science/keywords/)
@@ -95,6 +97,7 @@ Wannabe Polymath is a personal knowledge base documenting one learner's journey 
 - [Key Entities](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/social_sciences/sociology/entities/)
 - [Key Terms & Concepts](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/social_sciences/sociology/keywords/)
 - [Sources & Further Reading](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/social_sciences/sociology/sources/)
+- [Browse by Tag](https://Sh4peSh1fter.github.io/wannabepolymath/observatory/tags/)
 
 ## Academy (learning)
 

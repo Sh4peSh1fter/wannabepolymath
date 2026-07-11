@@ -960,6 +960,13 @@
         <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/"/>
     </url>
     <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/observatory/tags/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/tags/"/>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/tags/"/>
+    </url>
+    <url>
         <loc>https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/engineering/entities/</loc>
         <lastmod>2026-07-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1014,6 +1021,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/medicine/sources/"/>
         <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/applied_sciences/medicine/sources/"/>
+    </url>
+    <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/cryptography/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/cryptography/"/>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/cryptography/"/>
+    </url>
+    <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/"/>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/"/>
     </url>
     <url>
         <loc>https://Sh4peSh1fter.github.io/wannabepolymath/observatory/formal_sciences/computer_science/entities/</loc>
@@ -3732,6 +3753,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/"/>
     </url>
     <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/tags/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/tags/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/tags/"/>
+    </url>
+    <url>
         <loc>https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/applied_sciences/engineering/entities/</loc>
         <lastmod>2026-07-11</lastmod>
         <changefreq>daily</changefreq>
@@ -3786,6 +3814,20 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/applied_sciences/medicine/sources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/applied_sciences/medicine/sources/"/>
+    </url>
+    <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/cryptography/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/cryptography/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/cryptography/"/>
+    </url>
+    <url>
+        <loc>https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/</loc>
+        <lastmod>2026-07-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="he" href="https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/cross_cutting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Sh4peSh1fter.github.io/wannabepolymath/observatory/cross_cutting/"/>
     </url>
     <url>
         <loc>https://Sh4peSh1fter.github.io/wannabepolymath/he/observatory/formal_sciences/computer_science/entities/</loc>
