@@ -197,9 +197,12 @@ Each section includes:
 
 ### Naming Rules
 - Use lowercase
-- Hyphens for spaces
+- Underscores for spaces (`lowercase_with_underscores`)
 - Be descriptive
 - Keep it short
+
+> See [Project Standards](./standards.md) for the full, authoritative naming, frontmatter,
+> and content-type conventions.
 
 ### File Organization
 - Group related content

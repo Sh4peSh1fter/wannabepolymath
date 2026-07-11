@@ -1,270 +1,152 @@
-# Project Standards and Guidelines
+---
+title: Project Standards
+description: The authoritative conventions for writing, naming, structuring, and maintaining content in the Wannabe Polymath knowledge base.
+icon: material/ruler-square
+tags:
+  - about
+  - standards
+  - conventions
+---
 
-## Overview
-This document outlines the standards and guidelines for maintaining consistency and quality across the Wanna be Polymath project. These standards cover file organization, naming conventions, documentation, and development practices.
+# Project Standards
 
-## File Organization
+This is the **single source of truth** for how content in this knowledge base is written,
+named, structured, and maintained. It describes the conventions as they are actually
+enforced (the site builds under `mkdocs build --strict`, so drift is caught automatically).
+When a convention here conflicts with an older page, this document wins — fix the page.
 
-### Naming Conventions
+## File and folder naming
 
-#### File Names
-1. **General Rules**
-   - Use lowercase letters
-   - Replace spaces with underscores
-   - Use descriptive names
-   - Include version numbers when applicable
+- **Use `lowercase_with_underscores`** for every file and folder
+  (e.g. `formal_sciences`, `round_table`, `oral_health`, `beef_stew.en.md`).
+- **No** spaces, capital letters, or hyphens in names; **no** double underscores.
+- Names should be short, descriptive, and stable — renaming a published page changes its
+  URL, so add a redirect (see [Maintenance](#maintenance)) whenever you must rename one.
+- Assets live in an `_assets/` folder next to the content that uses them.
 
-2. **File Types**
-   - Markdown: `.md`
-   - Images: `.png`, `.jpg`, `.webp`
-   - Code: `.py`, `.js`, `.css`
-   - Configuration: `.yml`, `.json`
+## Language suffixes (i18n)
 
-3. **Directory Structure**
-   - Use lowercase
-   - Separate words with underscores
-   - Keep names concise
-   - Follow logical hierarchy
+Every content page carries a language suffix so the `mkdocs-static-i18n` plugin can serve
+it in the right language:
 
-### Directory Organization
+- `page.en.md` — English (the default language).
+- `page.he.md` — Hebrew (rendered right-to-left automatically).
 
-#### Content Structure
-1. **Documentation**
-   - `/docs`
-     - `/About`
-     - `/topics`
-     - `/corners`
-     - `/assets`
+Never commit a bare `page.md` content file. If a page has no translation yet, the English
+version is served as the fallback.
 
-2. **Source Code**
-   - `/src`
-     - `/components`
-     - `/styles`
-     - `/utils`
-     - `/tests`
+## Frontmatter schema
 
-3. **Assets**
-   - `/assets`
-     - `/images`
-     - `/videos`
-     - `/audio`
-     - `/fonts`
+Every content page **must** begin with a YAML frontmatter block. Required and optional keys:
 
-## Documentation Standards
+```yaml
+---
+title: Human-Readable Page Title      # required
+description: One sentence on the page. # required — feeds SEO meta + social cards + JSON-LD
+tags:                                  # required — see the tag taxonomy below
+  - topic:economics
+  - type:reference
+  - status:published
+date: 2026-07-11                       # optional — creation date (YYYY-MM-DD)
+icon: material/telescope               # optional — section landing pages only
+hide:                                  # optional — section landing pages only
+  - navigation
+  - toc
+---
+```
 
-### Markdown Formatting
+- `title` and `description` are mandatory on every page. `description` is reused for the
+  page's `<meta>` description, its social card, and its structured data — keep it to one
+  clear sentence.
+- "Last updated" timestamps are generated automatically from git history; do **not** hand-maintain
+  a `last_updated` field. Use `date` only for the original creation/publication date.
 
-#### Headers
-1. **Structure**
-   - Use ATX-style headers
-   - Maintain hierarchy
-   - Include table of contents
-   - Link to related content
+### Tag taxonomy
 
-2. **Formatting**
-   - H1: `# Title`
-   - H2: `## Section`
-   - H3: `### Subsection`
-   - H4: `#### Detail`
+Tags use prefixes so they can be filtered and aggregated. Apply at minimum a `topic:` and a
+`type:` tag to every page.
 
-#### Content
-1. **Text Formatting**
-   - Use emphasis sparingly
-   - Maintain consistent style
-   - Include code blocks
-   - Add proper links
+| Prefix | Purpose | Examples |
+| --- | --- | --- |
+| `topic:` | Subject/discipline | `topic:economics`, `topic:devops`, `topic:philosophy` |
+| `type:` | Content format (see below) | `type:tutorial`, `type:reference`, `type:explanation`, `type:item-review` |
+| `status:` | Lifecycle | `status:draft`, `status:published`, `status:needs-update` |
+| `skill-level:` | Optional, educational content | `skill-level:beginner`, `skill-level:advanced` |
 
-2. **Lists**
-   - Use appropriate markers
-   - Maintain indentation
-   - Keep items concise
-   - Use nested lists when needed
+Reuse existing tags before inventing new ones; keep them lowercase and hyphen-separated
+*within* a tag value (e.g. `topic:computer-science`).
 
-### Code Documentation
+## Content types (Diátaxis)
 
-#### Comments
-1. **Style**
-   - Clear and concise
-   - Purpose-focused
-   - Up-to-date
-   - Language-appropriate
+Teaching content follows the [Diátaxis](https://diataxis.fr/) framework, which separates
+documentation by the reader's need. **Do not mix modes on one page** — a tutorial that
+drifts into background theory confuses the learner.
 
-2. **Format**
-   - Function documentation
-   - Class documentation
-   - Module documentation
-   - Inline comments
+| Mode | Reader need | Where it lives | `type:` tag |
+| --- | --- | --- | --- |
+| **Tutorial** | "Teach me, step by step" | Academy | `type:tutorial` |
+| **How-to guide** | "Help me accomplish a task" | Academy | `type:how-to` |
+| **Reference** | "Tell me the facts" | Observatory, Academy | `type:reference` |
+| **Explanation** | "Help me understand why" | Academy, Round Table | `type:explanation` |
 
-## Development Standards
+The **Observatory** is the reference layer — its per-field `keywords`, `entities`, and
+`sources` pages are dry, accurate reference material, not tutorials.
 
-### Code Style
+## Writing style
 
-#### General Rules
-1. **Formatting**
-   - Consistent indentation
-   - Line length limits
-   - Spacing rules
-   - Bracket placement
+- Clear, concise, active voice. Short paragraphs (3–4 sentences).
+- Start each page with an `#` H1 that matches the frontmatter `title`, then a short intro.
+- Maintain heading hierarchy (`#` → `##` → `###`); never skip levels.
+- Prefer the platform's built-in features over raw HTML: admonitions (`!!! note`),
+  content tabs, annotations, and grid cards. See the [Formatting Guide](./formatting_guide/index.md).
+- **Favor visuals.** The most common reader feedback is that pages are text-heavy — use
+  diagrams (Mermaid), images, and tables to break up prose.
 
-2. **Naming**
-   - Descriptive variables
-   - Clear function names
-   - Consistent casing
-   - Meaningful constants
+## Media
 
-### Version Control
+- Preferred formats: **WebP** for photos, **PNG** for graphics/screenshots, **SVG** for
+  icons/diagrams. Keep individual images well under ~500 KB; optimize before committing.
+- Always provide descriptive alt text.
+- Store images in the nearest `_assets/` folder and reference them with relative paths.
 
-#### Git Practices
-1. **Commits**
-   - Clear messages
-   - Atomic changes
-   - Proper branching
-   - Regular updates
+## The Observatory field pattern
 
-2. **Branches**
-   - Feature branches
-   - Development branch
-   - Production branch
-   - Hotfix branches
+Each Observatory field is a folder containing exactly four files. Copy the template at
+`observatory/_templates/field_template/` when adding a field:
 
-## Content Standards
+- `index.en.md` — field overview and links to the other three.
+- `keywords.en.md` — key terms and concepts (uses the Material annotation pattern).
+- `entities.en.md` — influential figures and organizations.
+- `sources.en.md` — further reading.
 
-### Writing Style
+## Navigation
 
-#### General Guidelines
-1. **Tone**
-   - Professional
-   - Clear
-   - Consistent
-   - Engaging
+- The `nav:` tree in `mkdocs.yml` is maintained by hand; it does **not** auto-discover
+  pages. Add every new page to `nav:` or it won't appear in the site navigation.
+- In `nav:`, reference the **base** filename (`observatory/index.md`), not the suffixed one
+  (`observatory/index.en.md`) — the i18n plugin resolves the suffix.
+- Keep navigation shallow (avoid more than three levels).
 
-2. **Structure**
-   - Logical flow
-   - Clear headings
-   - Proper paragraphs
-   - Effective transitions
+## Drafts and unpublished content
 
-### Media Standards
+Work-in-progress that isn't ready to publish is **quarantined**: it stays in the repository
+(version-controlled) but is excluded from the built site.
 
-#### Images
-1. **Format**
-   - WebP preferred
-   - PNG for graphics
-   - JPG for photos
-   - SVG for icons
-
-2. **Quality**
-   - Appropriate resolution
-   - Optimized size
-   - Clear focus
-   - Proper compression
-
-### Tagging Strategy
-
-A consistent tagging strategy is crucial for content discoverability, organization, and for enabling the hybrid navigation model (Thematic Corners + Topic Hubs). Tags help users find related information easily and allow for powerful filtering and search functionalities.
-
-**Guiding Principles:**
-- **Clarity:** Tags should be unambiguous and easy to understand.
-- **Consistency:** Use a predefined set of tag prefixes and a consistent style (e.g., lowercase, hyphen-separated for multi-word tags).
-- **Comprehensiveness:** Aim to tag content thoroughly but avoid over-tagging with irrelevant terms.
-- **Relevance:** Tags should accurately reflect the content's subject matter, purpose, and context within the platform.
-
-**Tag Categories (Prefixes Recommended):**
-
-1.  **`topic:`** Identifies the main subject matter or discipline.
-    *   Examples: `topic:devops`, `topic:neuroscience`, `topic:ancient-history`, `topic:python-programming`
-    *   Crucial for building Topic Hub pages.
-
-2.  **`corner:`** Indicates the thematic section where the content primarily resides or its main purpose.
-    *   Examples: `corner:academy` (for tutorials/guides), `corner:observatory` (for keywords/concepts), `corner:round-table` (for discussions), `corner:incubator` (for projects/ideas), `corner:bazaar` (for random facts/discoveries), `corner:forge` (for self-improvement).
-
-3.  **`type:`** Specifies the format or nature of the content.
-    *   Examples: `type:tutorial`, `type:guide`, `type:article`, `type:project-showcase`, `type:problem-analysis`, `type:keyword-map`, `type:quick-fact`, `type:tool-review`, `type:blog-post`.
-
-4.  **`skill-level:`** (Optional, but recommended for educational content)
-    *   Examples: `skill-level:beginner`, `skill-level:intermediate`, `skill-level:advanced`.
-
-5.  **`status:`** (Optional, useful for tracking content development)
-    *   Examples: `status:draft`, `status:review`, `status:published`, `status:needs-update`.
-
-6.  **General Keywords:** Additional descriptive keywords not covered by prefixes.
-    *   Examples: `cicd`, `cognitive-bias`, `stoicism`, `api-design`.
-
-**Application Guidelines:**
--   Every piece of content should have at least one `topic:` tag and one `corner:` tag.
--   Strive to include a `type:` tag for clarity.
--   Use existing tags whenever possible to maintain consistency. If a new, necessary tag is identified, consider if it fits an existing category or if a new category needs discussion.
--   Keep tags relatively concise.
--   The tagging system should be documented and easily accessible to all contributors.
--   Regularly review and refine the tag vocabulary to ensure it remains relevant and manageable.
-
-**Integration with Search:**
-The tagging system will be a cornerstone of the search functionality, allowing users to perform faceted searches (e.g., find all `type:tutorial` on `topic:devops` that are `skill-level:beginner`).
-
-## Quality Assurance
-
-### Review Process
-
-#### Content Review
-1. **Checklist**
-   - Accuracy
-   - Completeness
-   - Consistency
-   - Accessibility
-
-2. **Technical Review**
-   - Code quality
-   - Performance
-   - Security
-   - Compatibility
-
-### Testing
-
-#### Types
-1. **Automated**
-   - Unit tests
-   - Integration tests
-   - End-to-end tests
-   - Performance tests
-
-2. **Manual**
-   - User testing
-   - Content review
-   - Accessibility testing
-   - Cross-browser testing
+- Tag it `status:draft`.
+- Add its path to the `exclude_docs:` list in `mkdocs.yml` so it is not built or linked.
+- When it's ready, remove it from `exclude_docs`, add it to `nav:`, and set
+  `status:published`.
 
 ## Maintenance
 
-### Updates
-
-#### Regular Tasks
-1. **Content**
-   - Regular reviews
-   - Version updates
-   - Link checking
-   - Image optimization
-
-2. **Technical**
-   - Dependency updates
-   - Security patches
-   - Performance optimization
-   - Bug fixes
-
-### Monitoring
-
-#### Metrics
-1. **Performance**
-   - Load times
-   - Response times
-   - Error rates
-   - Resource usage
-
-2. **Usage**
-   - Page views
-   - User engagement
-   - Content popularity
-   - Search rankings
+- **Renames/moves:** add a `redirect_maps` entry (via the `redirects` plugin) from the old
+  URL to the new one so existing links don't break.
+- **Quality gates:** the CI pipeline runs `mkdocs build --strict` (fails on any broken link
+  or config warning), `markdownlint`, and a link check on every pull request. Content that
+  breaks these gates is not merged.
+- **Reviews:** periodically audit for broken links, stale content (`status:needs-update`),
+  and oversized images.
 
 ---
 
-*These standards should be reviewed and updated regularly to ensure they remain relevant and effective.*
+*These standards evolve with the project. Propose changes via a pull request.*
