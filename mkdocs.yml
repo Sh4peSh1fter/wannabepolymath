@@ -2,7 +2,7 @@
 docs_dir: docs
 site_name: Wannabe Polymath
 site_url: https://Sh4peSh1fter.github.io/wannabepolymath/
-site_author: kivsean
+site_author: Kivsean
 site_description: >-
   a mix of a personal website, portfolio, blog, and more? about everything?
 
@@ -179,7 +179,7 @@ exclude_docs: |
   other_corners/improve_myself/6_additionals/
   bazaar/food/honey.md
   bazaar/food/olive_oil.md
-  bazaar/health/suplements/
+  bazaar/health/supplements/
   incubator/food/
   incubator/furniture/dana_couch_armrest_table.md
   incubator/other/custom_keyboard.md
@@ -482,7 +482,7 @@ nav:
         - Sleep: other_corners/improve_myself/5_daily_routine/sleep.en.md
         - General Habits:
           - Hygiene: other_corners/improve_myself/5_daily_routine/general_habits/hygiene.en.md
-          - Evening Light: other_corners/improve_myself/5_daily_routine/general_habits/enening_light.en.md
+          - Evening Light: other_corners/improve_myself/5_daily_routine/general_habits/evening_light.en.md
           - Light Management: other_corners/improve_myself/5_daily_routine/general_habits/light_management.en.md
           - Mindfulness and Learning: other_corners/improve_myself/5_daily_routine/general_habits/mindfulness_and_learning.en.md
           - Nutrition: other_corners/improve_myself/5_daily_routine/general_habits/nutrition.en.md
@@ -538,7 +538,7 @@ nav:
           - Info: other_corners/topics/entrepreneurship/market_analysis/1_info.en.md
           - Keywords: other_corners/topics/entrepreneurship/market_analysis/2_keywords.en.md
           - Questions: other_corners/topics/entrepreneurship/market_analysis/3_questions.en.md
-          - Round Table: other_corners/topics/entrepreneurship/market_analysis/4_roube_table.en.md
+          - Round Table: other_corners/topics/entrepreneurship/market_analysis/4_round_table.en.md
           - Blog: other_corners/topics/entrepreneurship/market_analysis/blog/blog.en.md
           - Sources: other_corners/topics/entrepreneurship/market_analysis/0_sources.en.md
         - Sources: other_corners/topics/entrepreneurship/sources.en.md
@@ -548,7 +548,7 @@ nav:
           - Info: other_corners/topics/labor/general/1_info.en.md
           - Keywords: other_corners/topics/labor/general/2_keywords.en.md
           - Questions: other_corners/topics/labor/general/3_questions.en.md
-          - Round Table: other_corners/topics/labor/general/4_roube_table.en.md
+          - Round Table: other_corners/topics/labor/general/4_round_table.en.md
           - Incubator: other_corners/topics/labor/general/5_incubator.en.md
           - Blog: other_corners/topics/labor/general/blog/blog.en.md
           - Sources: other_corners/topics/labor/general/0_sources.en.md
@@ -564,7 +564,7 @@ nav:
           - Info: other_corners/topics/nutrition/water/1_info.en.md
           - Keywords: other_corners/topics/nutrition/water/2_keywords.en.md
           - Questions: other_corners/topics/nutrition/water/3_questions.en.md
-          - Round Table: other_corners/topics/nutrition/water/4_roube_table.en.md
+          - Round Table: other_corners/topics/nutrition/water/4_round_table.en.md
           - Incubator: other_corners/topics/nutrition/water/5_incubator.en.md
           - Blog: other_corners/topics/nutrition/water/blog/tap_water_or_bottled_water.en.md
           - Sources: other_corners/topics/nutrition/water/0_sources.en.md
@@ -573,7 +573,7 @@ nav:
         - Info: other_corners/topics/philosophy/1_info.en.md
         - Keywords: other_corners/topics/philosophy/2_keywords.en.md
         - Questions: other_corners/topics/philosophy/3_questions.en.md
-        - Round Table: other_corners/topics/philosophy/4_roube_table.en.md
+        - Round Table: other_corners/topics/philosophy/4_round_table.en.md
         - Incubator: other_corners/topics/philosophy/5_incubator.en.md
         - Sources: other_corners/topics/philosophy/0_sources.en.md
       - Psychology:
@@ -581,7 +581,7 @@ nav:
         - Info: other_corners/topics/psychology/1_info.en.md
         - Keywords: other_corners/topics/psychology/2_keywords.en.md
         - Questions: other_corners/topics/psychology/3_questions.en.md
-        - Round Table: other_corners/topics/psychology/4_roube_table.en.md
+        - Round Table: other_corners/topics/psychology/4_round_table.en.md
         - Incubator: other_corners/topics/psychology/5_incubator.en.md
         - Sources: other_corners/topics/psychology/0_sources.en.md
   - About:
