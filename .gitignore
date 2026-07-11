@@ -1,5 +1,12 @@
+# Python environments
 venv
 .venv
+
+# MkDocs build output & social-card cache
 site
-poetry.lock
+.cache
+
+# poetry.lock IS committed for reproducible installs (do not ignore it)
+
+# macOS
 .DS_Store
