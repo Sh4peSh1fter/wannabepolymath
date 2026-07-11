@@ -598,7 +598,7 @@ nav:
     - Formatting Guide:
       - Overview: about/formatting_guide/index.en.md
       - Template: about/formatting_guide/template.en.md
-      - Other Notes: about/formatting_guide/Other.en.md
+      - Other Notes: about/formatting_guide/other.en.md
       - Text Style:
         - Headings: about/formatting_guide/text_style/headings.en.md
         - Text Formatting: about/formatting_guide/text_style/text_formatting.en.md
@@ -609,11 +609,11 @@ nav:
         - Grids: about/formatting_guide/text_layout/grids.en.md
         - Tabs: about/formatting_guide/text_layout/tabs.en.md
       - Add-ons:
-        - Admonitions: about/formatting_guide/add_ons/Admonitions.en.md
-        - Annotations: about/formatting_guide/add_ons/Annotations.en.md
-        - Blockquotes: about/formatting_guide/add_ons/Blockquotes.en.md
-        - Footnotes: about/formatting_guide/add_ons/Footnotes.en.md
-        - Tooltips: about/formatting_guide/add_ons/Tooltips.en.md
+        - Admonitions: about/formatting_guide/add_ons/admonitions.en.md
+        - Annotations: about/formatting_guide/add_ons/annotations.en.md
+        - Blockquotes: about/formatting_guide/add_ons/blockquotes.en.md
+        - Footnotes: about/formatting_guide/add_ons/footnotes.en.md
+        - Tooltips: about/formatting_guide/add_ons/tooltips.en.md
       - Lists, Tables & Diagrams:
         - Lists: about/formatting_guide/lists_tables_diagrams/lists.en.md
         - Tables: about/formatting_guide/lists_tables_diagrams/tables.en.md
