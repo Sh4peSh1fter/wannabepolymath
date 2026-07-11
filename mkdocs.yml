@@ -103,14 +103,16 @@ plugins:
       reconfigure_material: true     # Allows the plugin to configure Material theme settings (like language and direction)
       reconfigure_search: true       # Allows the plugin to configure the search plugin
       fallback_to_default: true      # If a page is missing in a language, use the default language's page
-  # "Last updated" / "Created" timestamps sourced from git history. Must be listed AFTER
-  # i18n (which adds the per-page 'locale' this plugin relies on). Requires full history
-  # in CI (actions/checkout with fetch-depth: 0).
-  - git-revision-date-localized:
-      enable_creation_date: true
-      enable_git_follow: false   # avoid the "first revision older than last" follow quirk
-      type: timeago
-      fallback_to_build_date: true
+  # "Last updated" / "Created" timestamps from git history.
+  # TODO: mkdocs-git-revision-date-localized is incompatible with mkdocs-static-i18n's
+  # virtual page paths here — it cannot resolve real dates (falls back to build time) and
+  # emits a strict-build-failing WARNING for the docs dir. Disabled so the --strict CI gate
+  # works. Re-enable once the i18n path interaction is resolved (the JSON-LD in overrides/
+  # already consumes its date fields via {% if %} guards, so it degrades gracefully).
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  #     type: timeago
+  #     fallback_to_build_date: true
   # Preserve old URLs when pages are renamed/moved: map old -> new here.
   - redirects:
       redirect_maps: {}
