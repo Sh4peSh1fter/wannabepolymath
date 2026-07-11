@@ -354,24 +354,17 @@ Step into the Bazaar, our vibrant marketplace of intriguing tidbits! This is whe
 -   What interesting, surprising, or useful tidbit did I learn or encounter today?
 - (This section is intentionally open-ended to capture a wide array of brief insights)
 
-### 6. Forge
+### 6. Other Corners
 
-talk about ourselves, what are we made of and how to improve ourselves generally and our day to day life.
+A home for everything that doesn't fit neatly into the other Corners — including
+self-improvement ("Improve Myself"), investing, cooking, fitness, and assorted notes.
+It keeps the primary Corners focused while still giving miscellaneous content a place to
+live and grow.
 
-#### folder layout
+**Guiding Questions / Theme:**
 
-```
-1. introduction
-2. templates
-3. tools and methods
-3. mental
-4. physical
-```
-
-#### guiding questions / theme
-
-- how can I improve myself?
-- what tools should I use to improve myself?
+-   Where does this belong if it isn't a topic map, a lesson, a discussion, or a project?
+-   How can I improve myself and my day-to-day life?
 
 ### About
 
@@ -389,8 +382,6 @@ This is the section you're currently exploring! It's the central hub for underst
 
 ## The Polymath's Journey: How Our Structure Supports Exploration
 
-(This section reframes the original "op 2 - follow the way of thinking and doing" to illustrate how the site's structure mirrors a natural learning and creation process.)
-
 Our platform's structure is designed to mirror the way many of us naturally explore, learn, and create. Think of it as a journey:
 
 1.  **Sparking Curiosity (Bazaar, Observatory, or external sources):** You encounter something interesting – a random fact in the `Bazaar`, a new keyword in the `Observatory`, or an idea from your daily life.
@@ -398,23 +389,4 @@ Our platform's structure is designed to mirror the way many of us naturally expl
 3.  **Identifying Connections & Challenges (Round Table):** As you learn, you start seeing patterns, identifying problems, or thinking about potential solutions. The `Round Table` is where these critical thoughts are explored.
 4.  **Bringing Ideas to Life (Incubator):** Promising ideas or solutions that emerge from the `Round Table` (or elsewhere) can then be developed into tangible projects within the `Incubator`.
 
-And throughout this journey, the `Forge` is there to help you hone your own skills and mindset for effective learning and creation. This cyclical process of discovery, learning, critical thinking, and creation is what being a "Wanna be Polymath" is all about!
-
-## op 3 - topics and corners (Integrated into the Hybrid Approach)
-
-(This idea is now largely integrated into the "Recommended Approach: Hybrid Thematic & Topic-Driven Structure" above, where "Topics" become a primary way to aggregate and access content across the thematic "Corners".)
-
-instead of focused places that each stores topics in its own unique structure, maybe its better to list all the topics and inside each one will be a place with unique structure.
-and corners will be a more unique place to store stuff that didn't fit the topics.
-
-for example:
-
-1.  home
-2.  topics
-    1.  devops
-        - sources (Could be part of a topic page, or linked from Observatory/Academy entries)
-        - observatory (Content from the Observatory Corner, tagged 'devops')
-        - ...
-    2.  nutrition
-3.  corners (These are the primary thematic sections in the hybrid model)
-4.  about
+And throughout this journey, the `Other Corners` space is there to help you hone your own skills and mindset for effective learning and creation. This cyclical process of discovery, learning, critical thinking, and creation is what being a "Wanna be Polymath" is all about!
