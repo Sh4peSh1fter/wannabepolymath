@@ -224,7 +224,6 @@ Now that I've decided on grass-fed beef tallow from suet, I'll compare specific 
 
 #### 1. Fatworks Grass-Fed Beef Tallow
 
-![Fatworks Tallow](../../_assets/food/ingredients/tallow/fatworks_tallow.jpg)
 
 1. **Pros:**
     * Made from 100% grass-fed, grass-finished suet (kidney fat)

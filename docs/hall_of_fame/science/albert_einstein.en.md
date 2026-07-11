@@ -5,7 +5,6 @@ description: "A theoretical physicist who developed the theory of relativity, on
 
 # Albert Einstein
 
-![A portrait of Albert Einstein](placeholder.jpg)
 > "Imagination is more important than knowledge."
 
 ## Profile

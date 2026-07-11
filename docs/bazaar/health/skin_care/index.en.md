@@ -38,64 +38,64 @@ Below is a systematically organized list of body care items to be researched. Ea
 
 #### Core Hair Care
 *   **[Shampoo](./shampoo.en.md)** - Scalp and hair cleansers, including medicated options for specific conditions.
-*   **[Conditioner](./conditioner.en.md)** - Moisturizing and detangling treatments to restore hair health.
-*   **[Leave-In Conditioner](./leave-in-conditioner.en.md)** - Lightweight, protective treatments for daily hair care.
+*   **Conditioner** - Moisturizing and detangling treatments to restore hair health.
+*   **Leave-In Conditioner** - Lightweight, protective treatments for daily hair care.
 
 #### Scalp Health & Tools
 *   **[Scalp Massager](./scalp-massager.en.md)** - Tools for scalp stimulation, circulation, and enhanced cleansing.
-*   **[Hair Growth Serum](./hair-growth-serum.en.md)** - Evidence-based treatments for hair thinning and scalp health.
+*   **Hair Growth Serum** - Evidence-based treatments for hair thinning and scalp health.
 
 ### Facial Skin Care Routine
 
 #### Treatment & Active Care
 *   **[Toner](./toner.en.md)** - pH-balancing and pore-refining treatments post-cleansing.
-*   **[Face Serum](./face-serum.en.md)** - Concentrated active ingredients for specific skin concerns.
-*   **[Eye Cream](./eye-cream.en.md)** - Specialized care for the delicate periorbital area.
-*   **[Facial Oil](./facial-oil.en.md)** - Nourishing oils for barrier repair and anti-aging benefits.
+*   **Face Serum** - Concentrated active ingredients for specific skin concerns.
+*   **Eye Cream** - Specialized care for the delicate periorbital area.
+*   **Facial Oil** - Nourishing oils for barrier repair and anti-aging benefits.
 
 #### Exfoliation & Deep Care
 *   **[Chemical Exfoliant (AHA/BHA)](./chemical-exfoliant.en.md)** - Acid-based treatments for skin renewal and pore care.
-*   **[Face Mask](./face-mask.en.md)** - Weekly treatments for deep cleansing, hydration, or specific concerns.
-*   **[Facial Firming Device](./facial-device.en.md)** - Science-backed tools like Foreo Luna and microcurrent devices.
+*   **Face Mask** - Weekly treatments for deep cleansing, hydration, or specific concerns.
+*   **Facial Firming Device** - Science-backed tools like Foreo Luna and microcurrent devices.
 
 ### Body Moisturizing & Protection
 
 #### Daily Moisturizing
-*   **[Face Moisturizer](./face-moisturizer.en.md)** - Lightweight, non-comedogenic hydration for facial skin.
-*   **[Body Lotion / Moisturizer](./body-lotion.en.md)** - All-over body hydration to support the skin barrier.
-*   **[Body Oil](./body-oil.en.md)** - Occlusive treatments for enhanced moisture retention.
+*   **Face Moisturizer** - Lightweight, non-comedogenic hydration for facial skin.
+*   **Body Lotion / Moisturizer** - All-over body hydration to support the skin barrier.
+*   **Body Oil** - Occlusive treatments for enhanced moisture retention.
 
 #### Targeted Care
-*   **[Hand Cream](./hand-cream.en.md)** - Intensive care for frequently washed and exposed hands.
-*   **[Foot Cream](./foot-cream.en.md)** - Treatments for dry, cracked, or callused feet.
-*   **[Lip Balm / Treatment](./lip-care.en.md)** - Protection and repair for delicate lip skin.
+*   **Hand Cream** - Intensive care for frequently washed and exposed hands.
+*   **Foot Cream** - Treatments for dry, cracked, or callused feet.
+*   **Lip Balm / Treatment** - Protection and repair for delicate lip skin.
 
 ### Sun Protection & Safety
 
 *   **[Facial Sunscreen](./facial-sunscreen.en.md)** - Non-comedogenic, cosmetically elegant sun protection for daily use.
-*   **[Body Sunscreen](./body-sunscreen.en.md)** - Broad-spectrum protection for body exposure and outdoor activities.
-*   **[After-Sun Care](./after-sun-care.en.md)** - Soothing and repairing treatments for sun-exposed skin.
+*   **Body Sunscreen** - Broad-spectrum protection for body exposure and outdoor activities.
+*   **After-Sun Care** - Soothing and repairing treatments for sun-exposed skin.
 
 ### Health Monitoring & Self-Care
 
-*   **[Skin Check Guide](./skin-check-guide.en.md)** - Systematic approach to monitoring moles and skin changes for early detection.
-*   **[pH Testing Strips](./ph-testing.en.md)** - Tools for monitoring skin and product pH levels.
+*   **Skin Check Guide** - Systematic approach to monitoring moles and skin changes for early detection.
+*   **pH Testing Strips** - Tools for monitoring skin and product pH levels.
 
 ### Treatment & Recovery
 
-*   **[Spot Treatment](./spot-treatment.en.md)** - Targeted treatments for acne, blemishes, and specific skin concerns.
-*   **[Healing Balm](./healing-balm.en.md)** - Multi-purpose balms for cuts, irritation, and barrier repair.
+*   **Spot Treatment** - Targeted treatments for acne, blemishes, and specific skin concerns.
+*   **Healing Balm** - Multi-purpose balms for cuts, irritation, and barrier repair.
 *   **[Anti-Inflammatory Treatment](./anti-inflammatory.en.md)** - Products for calming redness, irritation, and sensitivity.
-*   **[Fungal Treatment](./fungal-treatment.en.md)** - Specialized treatments for fungal skin conditions.
-*   **[Scar Treatment](./scar-treatment.en.md)** - Products for improving the appearance of scars and marks.
-*   **[Barrier Repair Serum](./barrier-repair.en.md)** - Intensive treatments for compromised or damaged skin barriers.
+*   **Fungal Treatment** - Specialized treatments for fungal skin conditions.
+*   **Scar Treatment** - Products for improving the appearance of scars and marks.
+*   **Barrier Repair Serum** - Intensive treatments for compromised or damaged skin barriers.
 
 ### Advanced Care & Treatments
 
-*   **[Retinol / Retinoid Products](./retinoid-treatment.en.md)** - Vitamin A derivatives for anti-aging and skin renewal.
-*   **[Vitamin C Serum](./vitamin-c-serum.en.md)** - Antioxidant protection and brightening treatments.
-*   **[Niacinamide Treatment](./niacinamide.en.md)** - Multi-functional vitamin B3 for oil control and barrier support.
-*   **[Hyaluronic Acid Serum](./hyaluronic-acid.en.md)** - Intensive hydration and plumping treatments.
+*   **Retinol / Retinoid Products** - Vitamin A derivatives for anti-aging and skin renewal.
+*   **Vitamin C Serum** - Antioxidant protection and brightening treatments.
+*   **Niacinamide Treatment** - Multi-functional vitamin B3 for oil control and barrier support.
+*   **Hyaluronic Acid Serum** - Intensive hydration and plumping treatments.
 
 ---
 

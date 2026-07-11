@@ -180,7 +180,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 1. CeraVe Hydrating Mineral Sunscreen SPF 30 Face Sheer Tint
 
-![CeraVe Hydrating Mineral Sunscreen](../../../assets/bazaar/health/oral_care/toothbrush/CeraVe_Hydrating_Mineral_Sunscreen.jpg)
 
 *   **Key Ingredients:** 10% Zinc Oxide, 5.5% Titanium Dioxide, Niacinamide, Ceramides (1, 3, 6-II), Hyaluronic Acid.
 *   **Pros:**
@@ -198,7 +197,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 2. EltaMD UV Clear Broad-Spectrum SPF 46
 
-![EltaMD UV Clear SPF 46](../../../assets/bazaar/health/oral_care/toothbrush/EltaMD_UV_Clear_SPF_46.jpg)
 
 *   **Key Ingredients:** 9% Zinc Oxide, 7.5% Octinoxate (Chemical Filter), Niacinamide, Hyaluronic Acid.
 *   **Pros:**
@@ -214,7 +212,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 3. La Roche-Posay Anthelios Mineral Tinted Sunscreen SPF 50
 
-![La Roche-Posay Anthelios Mineral Tinted Sunscreen SPF 50](../../../assets/bazaar/health/oral_care/toothbrush/La_Roche-Posay_Anthelios_Mineral_Tinted_Sunscreen_SPF_50.jpg)
 
 *   **Key Ingredients:** 11% Titanium Dioxide, antioxidants.
 *   **Pros:**
@@ -231,7 +228,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 4. Supergoop! Unseen Sunscreen SPF 40
 
-![Supergoop! Unseen Sunscreen SPF 40](../../../assets/bazaar/health/oral_care/toothbrush/Supergoop!_Unseen_Sunscreen_SPF_40.jpg)
 
 *   **Key Ingredients:** Avobenzone, Homosalate, Octisalate, Octocrylene (All Chemical Filters).
 *   **Pros:**
@@ -247,7 +243,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 5. FRÉ Skincare GLOW ME+ Tinted Mineral Sunscreen SPF 50
 
-![FRÉ Skincare GLOW ME+](../../../assets/bazaar/health/skin_care/facial-sunscreen/fre_glow_me.jpg)
 
 *   **Key Ingredients:** 25% Non-Nano Zinc Oxide, Niacinamide, Vitamin C, Argania Active Complex™.
 *   **Pros:**
@@ -264,7 +259,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 6. Hero Cosmetics Force Shield Superlight Sunscreen SPF 30
 
-![Hero Cosmetics Force Shield](../../../assets/bazaar/health/skin_care/facial-sunscreen/hero_force_shield.jpg)
 
 *   **Key Ingredients:** 17.53% Non-Nano Zinc Oxide, Ectoin, Green Tea Extract, Bisabolol.
 *   **Pros:**
@@ -281,7 +275,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 7. FRÉ Skincare PROTECT ME SPF 30
 
-![FRÉ Skincare PROTECT ME](../../../assets/bazaar/health/skin_care/facial-sunscreen/fre_protect_me.jpg)
 
 *   **Key Ingredients:** Non-Nano Zinc Oxide, Argania Active Complex™, Tocopherol (Vitamin E), Panthenol (Vitamin B5).
 *   **Pros:**
@@ -297,7 +290,6 @@ Now I'll compare highly-regarded facial sunscreens, focusing on mineral-based an
 
 #### 8. Bioderma Photoderm Cover Touch SPF 50+
 
-![Bioderma Photoderm Cover Touch](../../../assets/bazaar/health/skin_care/facial-sunscreen/bioderma_cover_touch.jpg)
 
 *   **Key Ingredients:** Nano Zinc Oxide, Nano Titanium Dioxide, Ectoin, Iron Oxides.
 *   **Pros:**

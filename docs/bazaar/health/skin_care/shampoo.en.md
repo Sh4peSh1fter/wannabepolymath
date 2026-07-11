@@ -144,7 +144,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 1. Briogeo Scalp Revival MegaStrength+ Dandruff Relief Shampoo
 
-![Briogeo Scalp Revival Shampoo](../../../assets/bazaar/health/body_care/shampoo/briogeo-scalp-revival.jpg)
 
 *   **Active Ingredient:** Salicylic Acid 3%
 *   **Pros:**
@@ -159,7 +158,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 2. SheaMoisture Apple Cider Vinegar Anti-Dandruff Shampoo
 
-![SheaMoisture ACV Shampoo](../../../assets/bazaar/health/body_care/shampoo/sheamoisture-acv.jpg)
 
 *   **Active Ingredient:** Salicylic Acid
 *   **Pros:**
@@ -173,7 +171,6 @@ Now that I've decided a sulfate-free, scalp-soothing, and exfoliating shampoo is
 
 #### 3. Neutrogena T/Sal Therapeutic Shampoo
 
-![Neutrogena T/Sal Shampoo](../../../assets/bazaar/health/body_care/shampoo/neutrogena-tsal.jpg)
 
 *   **Active Ingredient:** Salicylic Acid 3%
 *   **Pros:**

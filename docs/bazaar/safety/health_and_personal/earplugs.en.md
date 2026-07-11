@@ -135,7 +135,7 @@ Now that I've decided on the item type, I'll compare specific products within th
 
 These seem to pop up everywhere and are highly rated. They have a distinct look, which is kinda cool.
 
-![Loop Earplugs Image](../../assets/corners/bazaar/earplugs/loop_experience.jpg)
+![Loop Earplugs Image](../../../assets/corners/bazaar/earplugs/loop_experience.jpg)
 
 *   **Overview & Key Selling Points:** Stylish design, focus on different "experiences." The **Loop Experience Plus** (which includes "Mute" silicone inserts for extra reduction) is frequently recommended [1, 3].
 *   **Relevant Model(s) I'm Considering:**
@@ -162,7 +162,7 @@ These seem to pop up everywhere and are highly rated. They have a distinct look,
 
 Another name that comes up frequently, especially in musician circles [1, 3, 10]. They seem to have a strong focus on protection with optional enhancers.
 
-![Eargasm Earplugs Image](../../assets/corners/bazaar/earplugs/eargasm_high_fidelity.jpg)
+![Eargasm Earplugs Image](../../../assets/corners/bazaar/earplugs/eargasm_high_fidelity.jpg)
 
 *   **Overview & Key Selling Points:** Aim for clear sound with good protection. Their standard High Fidelity earplugs are popular, and they offer a **"High dB Filter"** (sometimes called "Additional Attenuation Filters") for increased noise reduction.
 *   **Relevant Model(s) Considered:**
@@ -187,7 +187,7 @@ Another name that comes up frequently, especially in musician circles [1, 3, 10]
 
 These offer a custom moldable design at a lower price than professionally molded custom earplugs [1]. Intriguing for comfort and secure fit.
 
-![Decibullz Earplugs Image](../../assets/corners/bazaar/earplugs/decibullz_custom_molded.webp)
+![Decibullz Earplugs Image](../../../assets/corners/bazaar/earplugs/decibullz_custom_molded.webp)
 
 *   **Overview & Key Selling Points:** Users mold the thermoplastic earpieces in hot water for a custom fit. They offer "High Fidelity" and also "Contour" (non-filtered, higher NRR) versions.
 *   **Relevant Model(s) Considered:**
@@ -210,7 +210,7 @@ These offer a custom moldable design at a lower price than professionally molded
 
 Mentioned as a solid alternative, especially if discreetness is key [1, 2]. They offer different filter levels.
 
-![EarPeace Earplugs Image](../../assets/corners/bazaar/earplugs/earpeace.webp)
+![EarPeace Earplugs Image](../../../assets/corners/bazaar/earplugs/earpeace.webp)
 
 *   **Overview & Key Selling Points:** Soft, malleable silicone, flush fit. Offer different filter sets (e.g., "Music Pro" with Medium, High, Max protection filters).
 *   **Relevant Model(s) Considered:** EarPeace Music Pro (or similar models that come with interchangeable filters, NRR can range from ~9dB to ~19dB or higher depending on the filter).
@@ -231,7 +231,7 @@ Mentioned as a solid alternative, especially if discreetness is key [1, 2]. They
 
 A long-standing name in high-fidelity earplugs, praised for sound quality and value, though fit can be polarizing [1, 2, 11].
 
-![Etymotic Earplugs Image](../../assets/corners/bazaar/earplugs/etymotic_er20xs.webp)
+![Etymotic Earplugs Image](../../../assets/corners/bazaar/earplugs/etymotic_er20xs.webp)
 
 *   **Overview & Key Selling Points:** Known for their "flat" attenuation. The ER20XS is a popular model.
 *   **Relevant Model(s) Considered:** ER20XS (NRR around 12-13dB). They also have higher-end musician series like the ER•25, ER•15.
@@ -251,7 +251,7 @@ A long-standing name in high-fidelity earplugs, praised for sound quality and va
 
 These came up in a review for metal concerts, noted for good protection and comfort [5].
 
-![Downbeats Earplugs Image](../../assets/corners/bazaar/earplugs/downbeats.jpg)
+![Downbeats Earplugs Image](../../../assets/corners/bazaar/earplugs/downbeats.jpg)
 
 *   **Overview & Key Selling Points (from initial research):** Reusable high-fidelity earplugs, advertise around 18dB noise reduction.
 *   **Relevant Model(s) Considered:** Standard Downbeats model.

@@ -22,9 +22,9 @@ Below is the categorized list of items I plan to research. Each item will eventu
 ### Core Environmental Control
 1.  **[Air Purifier](./air_purifier.en.md)** 
     *   Devices designed to remove contaminants from the air, such as dust, pollen, pet dander, mold spores, and VOCs.
-2.  **[Humidifier](./humidifier.en.md)**
+2.  **Humidifier**
     *   Devices that increase moisture (humidity) in a room or entire building.
-3.  **[Dehumidifier](./dehumidifier.en.md)**
+3.  **Dehumidifier**
     *   Devices that reduce the level of humidity in the air.
 4.  **[Air Quality Monitor](./air_quality_monitor.en.md)**
     *   Devices that measure the levels of common air pollutants in real-time.

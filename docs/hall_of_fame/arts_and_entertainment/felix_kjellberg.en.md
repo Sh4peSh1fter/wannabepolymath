@@ -5,7 +5,6 @@ description: "A Swedish YouTuber and content creator, known for his comedic vide
 
 # Felix Kjellberg (PewDiePie)
 
-![A portrait of Felix Kjellberg](placeholder.jpg)
 > "Life is too short to be angry or sad for long."
 
 ## Profile

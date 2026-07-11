@@ -5,7 +5,6 @@ description: "A highly influential and enigmatic British-American rapper and rec
 
 # MF DOOM
 
-![A portrait of MF DOOM](placeholder.jpg)
 > "Just remember ALL CAPS when you spell the man name."
 
 ## Profile

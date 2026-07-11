@@ -151,7 +151,6 @@ This is the main workhorse board. The goal is the best possible quality and knif
 #### Product Options
 
 ##### 1. The Boardsmith Maple End-Grain Board
-![The Boardsmith Maple End-Grain Board](../../_assets/kitchenware/cutting_board/the_boardsmith.jpg)
 
 1.  **Pros:**
     *   Considered by many enthusiasts to be the gold standard. Handcrafted in the US from sustainably sourced North American Maple.
@@ -163,7 +162,6 @@ This is the main workhorse board. The goal is the best possible quality and knif
 4.  **Price:** $$$$
 
 ##### 2. Larch Wood Canada End-Grain Board
-![Larch Wood Canada End-Grain Board](../../_assets/kitchenware/cutting_board/larch_wood.jpg)
 
 1.  **Pros:**
     *   Made from Eastern Canadian Larch, a wood known for being durable yet soft and self-healing.
@@ -175,7 +173,6 @@ This is the main workhorse board. The goal is the best possible quality and knif
 4.  **Price:** $$$$
 
 ##### 3. John Boos & Co. End-Grain Maple Board
-![John Boos End-Grain Maple Board](../../_assets/kitchenware/cutting_board/john_boos_end_grain.jpg)
 
 1.  **Pros:**
     *   A benchmark for quality, widely available from a historic American brand. NSF Certified.
@@ -187,7 +184,6 @@ This is the main workhorse board. The goal is the best possible quality and knif
 4.  **Price:** $$$
 
 ##### 4. Brooklyn Butcher Blocks End-Grain Board
-![Brooklyn Butcher Blocks End-Grain Board](../../_assets/kitchenware/cutting_board/brooklyn_butcher_block.jpg)
 
 1.  **Pros:**
     *   Excellent craftsmanship from a well-respected small-batch maker. Praised by Serious Eats for being gentle on knives and resisting scratches.
@@ -219,7 +215,6 @@ This board should be smaller, affordable, and visually distinct. An edge-grain b
 #### Product Options
 
 ##### 1. Ironwood Gourmet End-Grain Acacia Wood Cutting Board (14"x14")
-![Ironwood Gourmet End-Grain Acacia Wood Cutting Board](../../_assets/kitchenware/cutting_board/ironwood_acacia.jpg)
 
 1.  **Pros:**
     *   Recommended as a top budget pick by Wirecutter and Serious Eats.
@@ -232,7 +227,6 @@ This board should be smaller, affordable, and visually distinct. An edge-grain b
 4.  **Price:** $
 
 ##### 2. Totally Bamboo Kona Groove Cutting Board
-![Totally Bamboo Kona Groove Cutting Board](../../_assets/kitchenware/cutting_board/totally_bamboo.jpg)
 
 1.  **Pros:**
     *   Bamboo is a sustainable resource, and this board is very affordable.
@@ -243,7 +237,6 @@ This board should be smaller, affordable, and visually distinct. An edge-grain b
 4.  **Price:** $
 
 ##### 3. Teakhaus Edge-Grain Teak Board
-![Teakhaus Edge-Grain Teak Board](../../_assets/kitchenware/cutting_board/teakhaus.jpg)
 
 1.  **Pros:**
     *   Top-rated by America's Test Kitchen for its durability and low maintenance.
@@ -254,7 +247,6 @@ This board should be smaller, affordable, and visually distinct. An edge-grain b
 4.  **Price:** $$
 
 ##### 4. John Boos & Co. Edge-Grain Maple Board
-![John Boos Edge-Grain Maple Board](../../_assets/kitchenware/cutting_board/john_boos_edge_grain.jpg)
 
 1.  **Pros:**
     *   A durable, American-made maple board from a highly reputable brand at a reasonable price.

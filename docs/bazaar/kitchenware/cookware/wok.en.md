@@ -158,7 +158,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 1. Yosukata Carbon Steel Wok (13.5-inch Flat Bottom)
 
-![Yosukata Carbon Steel Wok](../../_assets/kitchenware/wok/Yosukata_Carbon_Steel_Wok.jpg)
+![Yosukata Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/%20Yosukata_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Excellent performance and heat responsiveness.
@@ -171,7 +171,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 2. Souped Up Recipes Carbon Steel Wok (Flat Bottom)
 
-![Souped Up Recipes Carbon Steel Wok](../../_assets/kitchenware/wok/Souped_Up_Recipes_Carbon_Steel_Wok.jpg)
+![Souped Up Recipes Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/Souped_Up_Recipes_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Wide flat bottom provides good contact with electric burners.
@@ -184,7 +184,7 @@ Now that I've decided on a Flat-Bottom Carbon Steel Wok, I'll compare specific p
 
 #### 3. Joyce Chen Carbon Steel Wok (Flat Bottom)
 
-![Joyce Chen Carbon Steel Wok](../../_assets/kitchenware/wok/Joyce_Chen_Carbon_Steel_Wok.jpg)
+![Joyce Chen Carbon Steel Wok](../../../assets/corners/bazaar/kitchenware/wok/Joyce_Chen_Carbon_Steel_Wok.jpg)
 
 1.  **Pros:**
     *   Very affordable, making it a great entry-level option.

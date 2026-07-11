@@ -40,7 +40,7 @@ This guide will go through the key concepts, compare the options, and provide sp
 Understanding the landscape is the first step. This section explains the terminology and concepts needed to make an informed choice.
 
 1. Anatomy of a Knife
-    ![A diagram showing the anatomy of a kitchen knife.](../../assets/corners/bazaar/kitchenware/knife/knife_anatomy.webp)
+    ![A diagram showing the anatomy of a kitchen knife.](../../../assets/corners/bazaar/kitchenware/knife/knife_anatomy.webp)
 
     *   **Point & Tip:** The point is the very end used for piercing. The tip is the front third of the blade, used for fine, delicate work.
     *   **Edge:** The sharp cutting surface.

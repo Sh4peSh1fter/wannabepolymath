@@ -124,7 +124,7 @@ Based on the research, my strategy is to choose **Stainless Steel**.
 
 #### 1. Dr. Tung's Stainless Steel Tongue Scraper
 
-![Dr. Tung's Stainless Steel Tongue Scraper](../../_assets/health/oral_care/tongue_scraper/  ../../_assets/health/oral_care/tongue_scraper/dr_tungs_stainless_steel_tongue_scraper.jpg)
+![Dr. Tung's Stainless Steel Tongue Scraper](../../_assets/health/oral_care/tongue_scraper/dr_tungs_stainless_steel_tongue_scraper.jpg)
 
 1.  **Pros:**
     *   **Reputable Brand:** Dr. Tung's is a pioneer in bringing tongue scraping to the Western market and has a long-standing, trusted reputation.

@@ -5,7 +5,6 @@ description: "A Canadian comedian, writer, and actor known for his deadpan comed
 
 # Nathan Fielder
 
-![A portrait of Nathan Fielder](placeholder.jpg)
 > "I'm not a very good actor. I just have a narrow range. I can play a slightly more confident, slightly less confident, and slightly more nervous version of myself."
 
 ## Profile

@@ -145,7 +145,6 @@ Now that I've decided an antifungal wash is the right approach, I'll compare spe
 
 #### 1. Nizoral Anti-Dandruff Shampoo
 
-![Nizoral Shampoo](../../../assets/bazaar/health/body_care/body-wash/nizoral.jpg)
 
 *   **Active Ingredient:** Ketoconazole 1%
 *   **Pros:**
@@ -160,7 +159,6 @@ Now that I've decided an antifungal wash is the right approach, I'll compare spe
 
 #### 2. Vanicream Z-Bar (Medicated)
 
-![Vanicream Z-Bar](../../../assets/bazaar/health/body_care/body-wash/vanicream_z_bar.jpg)
 
 *   **Active Ingredient:** Pyrithione Zinc 2%
 *   **Pros:**
@@ -175,7 +173,6 @@ Now that I've decided an antifungal wash is the right approach, I'll compare spe
 
 #### 3. Dr. Eddie's Happy Cappy Medicated Shampoo
 
-![Happy Cappy Medicated Shampoo](../../../assets/bazaar/health/body_care/body-wash/happy_cappy.jpg)
 
 *   **Active Ingredient:** Pyrithione Zinc 0.95%
 *   **Pros:**

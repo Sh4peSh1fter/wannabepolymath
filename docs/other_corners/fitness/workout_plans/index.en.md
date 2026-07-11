@@ -4,7 +4,7 @@ This directory contains all your personalized workout plans, organized chronolog
 
 ## Current Active Plan
 
-🟢 **[Plan 01: Foundation Building](./01_foundation_building_2024-12-21.en.md)** *(December 21, 2024)*
+🟢 **[Plan 01: Foundation Building](./01_foundation_building_11-8-2025.en.md)** *(December 21, 2024)*
 - **Duration:** 8-12 weeks
 - **Focus:** Movement foundation, form mastery, strength building
 - **Frequency:** 2x per week at gym

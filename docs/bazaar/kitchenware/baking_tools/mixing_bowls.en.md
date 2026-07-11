@@ -165,7 +165,6 @@ This set will be the daily workhorse for mixing, prep, and storage, especially f
 
 ##### 1. Duralex Lys Stackable Clear Bowl Set (with Lids)
 
-![Duralex Lys Bowls](../../_assets/kitchenware/bowls/duralex_lys_bowls.jpg)
 
 1.  **Pros:**
     *   **Superior Durability:** Made in France from tempered glass, which is 2.5 times stronger than regular glass and exceptionally resistant to mechanical and thermal shock. Famous for chip resistance.
@@ -179,7 +178,6 @@ This set will be the daily workhorse for mixing, prep, and storage, especially f
 
 ##### 2. Pyrex Simply Store Glass Food Container Set
 
-![Pyrex Simply Store Bowls](../../_assets/kitchenware/bowls/pyrex_simply_store.jpg)
 
 1.  **Pros:**
     *   **Widely Available & Affordable:** Easy to find in most major retailers at a lower price point.

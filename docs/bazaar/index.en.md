@@ -42,13 +42,13 @@ The Bazaar is organized into several distinct topics, each containing sub-topics
     - [Utensils & Accessories](./kitchenware/utensils_and_accessories/index.md)
 
 - Food (4)
-    - [Ingredients](./food/ingredients/index.md)
+    - Ingredients
 
 - Safety (5)
     - [Health & Personal Safety](./safety/health_and_personal/index.md)
 
 - Home Decoration (6)
-    - [Home Accessories](./home_decoration/home_accessories/index.md)
+    - Home Accessories
 
 </div>
 

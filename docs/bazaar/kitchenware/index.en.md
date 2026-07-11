@@ -26,7 +26,7 @@ The improvment starts with the very tools I use to prepare food. From the pans I
 ## How This Section Will Work
 
 1.  **Discovery Hub (This Page):** This page maintains the categorized list of all kitchenware being researched. Items will link to dedicated pages as they are created.
-2.  **Detailed Research Pages:** Each significant item or sub-category (e.g., "[Pan](./pan.md)", "Cutting Boards") will have its own page. These pages will follow a template focusing on:
+2.  **Detailed Research Pages:** Each significant item or sub-category (e.g., "[Pan](./cookware/pan.en.md)", "Cutting Boards") will have its own page. These pages will follow a template focusing on:
     *   Specific health concerns with conventional options.
     *   Healthier alternatives and materials.
     *   Scientific backing and certifications.
@@ -104,21 +104,21 @@ By systematically evaluating kitchenware against these points, the aim is to bui
 Below is the categorized list of tools and gadgets we plan to dive into. The goal is to research each for health implications, material safety, and overall best choices. Each item will eventually link to its own detailed research page.
 
 ### I. Cookware (Pots, Pans & Baking Dishes)
-1.  **[Pan](./pan.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
-3.  **[Wok](./wok.md)**
-2.  **[Pot](./pot.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
+1.  **[Pan](./cookware/pan.en.md)** (Frying pans/Skillets - e.g., Cast Iron, Nonstick, Stainless Steel, Carbon Steel, Ceramic)
+3.  **[Wok](./cookware/wok.en.md)**
+2.  **[Pot](./cookware/pot.en.md)** (Saucepans, Stockpots - e.g., Stainless Steel, Enameled Cast Iron)
 4.  Rondeau / Braiser
 5.  Baking Dish (e.g., 9x13-inch glass, ceramic)
 6.  Baking Sheets (Rimmed, half-sheet - considering aluminum, stainless steel, aluminized steel)
 
 ### II. Bakeware (Beyond basic sheets/dishes)
 1.  Wire Rack (for cooling - stainless steel preferred)
-2.  **[Mixing Bowls](./mixing_bowls.md)** (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
+2.  **[Mixing Bowls](./baking_tools/mixing_bowls.en.md)** (Stainless steel, glass, ceramic - avoiding plastic for certain uses)
 3.  *(To consider: Loaf pans, Muffin tins, Pie dishes - focusing on material safety)*
 
 ### III. Food Preparation - Cutting, Chopping & Grating
-1.  **[Knife Guide](./knife.md)** (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
-2.  **[Cutting Board](./cutting_board.md)** (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
+1.  **[Knife Guide](./cutlery_and_boards/knife.en.md)** (Chef's knife 8-inch, Paring knife, Serrated/Bread knife - focus on steel quality, handle material)
+2.  **[Cutting Board](./cutlery_and_boards/cutting_board.en.md)** (Wood, EPP/TPE Plastic - research on hygiene, microplastic shedding, and material safety)
 3.  Mandoline (Focus on blade material, plastic body safety)
 4.  Kitchen Shears (Stainless steel, handle material)
 5.  Microplane / Zester (Stainless steel)

@@ -143,7 +143,7 @@ With the decision made to pursue an Enameled Cast Iron Dutch Oven, the market is
 
 #### 1. Le Creuset Signature Round Dutch Oven (5.5 qt)
 
-![Le Creuset Dutch Oven](../../assets/corners/bazaar/kitchenware/pot/le_creuset_dutch_oven.jpg)
+![Le Creuset Dutch Oven](../../../assets/corners/bazaar/kitchenware/pot/le_creuset_dutch_oven.jpg)
 
 1.  **Pros:**
     *   The benchmark for quality and design. The light-colored interior makes it very easy to monitor browning (fond) and prevent burning.
@@ -156,7 +156,7 @@ With the decision made to pursue an Enameled Cast Iron Dutch Oven, the market is
 
 #### 2. Staub Round Cocotte (5.5 qt)
 
-![Staub Cocotte](../../assets/corners/bazaar/kitchenware/pot/staub_cocotte.jpg)
+![Staub Cocotte](../../../assets/corners/bazaar/kitchenware/pot/staub_cocotte.jpg)
 
 1.  **Pros:**
     *   The self-basting spikes on the heavy, tight-fitting lid are highly effective for keeping food moist during long braises.

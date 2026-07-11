@@ -5,7 +5,6 @@ description: "An American neuroscientist and associate professor at Stanford Uni
 
 # Andrew Huberman
 
-![A portrait of Andrew Huberman](placeholder.jpg)
 > "Sunlight is the most potent stimulus for wakefulness and it has a powerful effect on our mood and metabolism."
 
 ## Profile

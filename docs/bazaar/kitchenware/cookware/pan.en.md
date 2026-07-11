@@ -191,7 +191,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 #### Product Options
 
 ##### 1. Lodge Classic 12-Inch
-![Lodge Classic](../../_assets/kitchenware/pan/lodge_classic.jpg)
 
 1.  **Pros:**
     *   Incredible value for the performance.
@@ -205,7 +204,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $
 
 ##### 2. Lodge Chef Collection 12-Inch
-![Lodge Chef Collection](../../_assets/kitchenware/pan/lodge_chef_collection.jpg)
 
 1.  **Pros:**
     *   Noticeably lighter than the Classic model (6.5 lbs).
@@ -217,7 +215,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$
 
 ##### 3. Field Company No. 10
-![Field Company](../../_assets/kitchenware/pan/field_company.jpg)
 
 1.  **Pros:**
     *   Extremely lightweight (5.5 lbs) and easy to handle.
@@ -231,7 +228,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$$$
 
 ##### 4. Smithey Ironware No. 12
-![Smithey Ironware](../../_assets/kitchenware/pan/smithey.jpg)
 
 1.  **Pros:**
     *   Beautiful, hand-polished, mirror-smooth cooking surface.
@@ -245,7 +241,6 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 4.  **Price:** $$$$$
 
 ##### 5. Stargazer 12-Inch
-![Stargazer](../../_assets/kitchenware/pan/stargazer.jpg)
 
 1.  **Pros:**
     *   Flared rim allows for clean, drip-free pouring.
@@ -282,7 +277,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 #### Product Options
 
 ##### 1. Le Creuset 5.5 Qt Round Dutch Oven
-![Le Creuset](../../_assets/kitchenware/pan/le_creuset.jpg)
 
 1.  **Pros:**
     *   Made in France with industry-leading enamel quality that is highly resistant to chipping.
@@ -294,7 +288,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$$$$
 
 ##### 2. Staub 5.5 Qt Round Cocotte
-![Staub](../../_assets/kitchenware/pan/staub.jpg)
 
 1.  **Pros:**
     *   Made in France with exceptional build quality.
@@ -308,7 +301,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$$$$
 
 ##### 3. Lodge 6 Qt Enameled Dutch Oven
-![Lodge Enameled](../../_assets/kitchenware/pan/lodge_enameled.jpg)
 
 1.  **Pros:**
     *   Performs nearly as well as the premium French brands for a fraction of the cost.
@@ -321,7 +313,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$
 
 ##### 4. Cuisinart Chef's Classic 7 Qt
-![Cuisinart Enameled](../../_assets/kitchenware/pan/cuisinart_enameled.jpg)
 
 1.  **Pros:**
     *   Very affordable, especially for its large 7-quart capacity.
@@ -334,7 +325,6 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 4.  **Price:** $$
 
 ##### 5. Made In 5.5 Qt Enameled Dutch Oven
-![Made In Enameled](../../_assets/kitchenware/pan/made_in_enameled.jpg)
 
 1.  **Pros:**
     *   Made in France with premium enamel quality, comparable to Le Creuset/Staub.

@@ -5,10 +5,6 @@ description: "A preeminent medieval Sephardic Jewish philosopher who became one 
 
 # Maimonides (Rambam)
 
-<figure markdown="span">
-  ![Rambam](./_assets/rambam.png){: .center }
-  <figcaption>Portrait of Maimonides</figcaption>
-</figure>
 
 ## Profile
 

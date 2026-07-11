@@ -5,7 +5,6 @@ description: "An iconic Israeli singer, songwriter, and actor, often referred to
 
 # Arik Einstein
 
-![A portrait of Arik Einstein](placeholder.jpg)
 > "You and I will change the world."
 
 ## Profile
