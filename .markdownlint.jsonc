@@ -1,0 +1,26 @@
+{
+  // markdownlint configuration for the Wannabe Polymath knowledge base.
+  // Tuned for MkDocs Material Markdown, which legitimately uses inline HTML,
+  // long lines, and admonition/annotation syntax.
+  "default": true,
+
+  // MD013: line-length — prose is not hard-wrapped; disable.
+  "MD013": false,
+
+  // MD033: inline HTML — Material grid cards, figures, and <div class="annotate"> need it.
+  "MD033": false,
+
+  // MD046: code block style — allow both fenced and indented (snippets/annotations).
+  "MD046": false,
+
+  // MD024: duplicate headings — allowed when nested under different parents
+  // (e.g. repeated "Overview"/"Content Organization" sections).
+  "MD024": { "siblings_only": true },
+
+  // MD041: first line in file should be a top-level heading — pages start with YAML
+  // frontmatter, so relax this.
+  "MD041": false,
+
+  // MD036: emphasis-as-heading — false positives on stylistic bold labels.
+  "MD036": false
+}

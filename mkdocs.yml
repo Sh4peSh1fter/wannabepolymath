@@ -19,7 +19,7 @@ copyright: >-
 
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   features:
     # navigation
     # NOTE: navigation.instant is intentionally disabled — it is incompatible with the
@@ -83,6 +83,11 @@ plugins:
   # - blog
   # - typeset
   - tags
+  # Auto-generated Open Graph / Twitter social cards. Depends on native cairo libraries,
+  # so it runs ONLY in CI (where the CI env var is set and the libs are installed) to keep
+  # local builds dependency-free. Set CI=true locally to preview cards.
+  - social:
+      enabled: !ENV [CI, false]
   - i18n:
       docs_structure: suffix # Using suffixed files (e.g., index.en.md)
       # Text direction (LTR/RTL) is derived automatically from each locale by
@@ -98,6 +103,37 @@ plugins:
       reconfigure_material: true     # Allows the plugin to configure Material theme settings (like language and direction)
       reconfigure_search: true       # Allows the plugin to configure the search plugin
       fallback_to_default: true      # If a page is missing in a language, use the default language's page
+  # "Last updated" / "Created" timestamps sourced from git history. Must be listed AFTER
+  # i18n (which adds the per-page 'locale' this plugin relies on). Requires full history
+  # in CI (actions/checkout with fetch-depth: 0).
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enable_git_follow: false   # avoid the "first revision older than last" follow quirk
+      type: timeago
+      fallback_to_build_date: true
+  # Preserve old URLs when pages are renamed/moved: map old -> new here.
+  - redirects:
+      redirect_maps: {}
+  # LLM-friendly output (/llms.txt + /llms-full.txt).
+  # TODO: mkdocs-llmstxt 0.5.0 is incompatible with mkdocs-static-i18n here — it captures
+  # the Hebrew build pass and emits wrong /he/.../index.md URLs. Re-enable once the plugin
+  # gains locale awareness, or replace with a custom post-build hook scoped to the default
+  # (en) locale. Machine-readability is currently provided via JSON-LD (see overrides/).
+  # - llmstxt:
+  #     full_output: llms-full.txt
+  #     markdown_description: >-
+  #       Wannabe Polymath is a personal knowledge base ...
+  #     sections:
+  #       Observatory (reference):
+  #         - observatory/**/*.en.md
+  # HTML/CSS/JS minification — keep LAST so it post-processes final output.
+  - minify:
+      minify_html: true
+      minify_css: true
+      minify_js: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
 
 # --- Custom CSS/JS ---
 extra_css:
@@ -124,16 +160,39 @@ exclude_docs: |
   other_corners/improve_myself/temp.md
   # Assets folders that contain stray .md notes not meant as pages
   incubator/_assets/3d_models/personal_oral_kit.en.md
+  # Non-Markdown rule/prompt files that would otherwise be copied as static assets
+  "**/*.mdc"
+  # --- Quarantined drafts (status:draft) ---
+  # Version-controlled but NOT published until normalized (naming, frontmatter, language)
+  # and wired into nav. Promote a cluster by removing its line here + adding it to nav.
+  # Priority for promotion: the Hebrew investing guide, then the make_food recipes.
+  other_corners/investing/
+  other_corners/make_food/healthy/
+  other_corners/make_food/store_food/
+  other_corners/make_food/rule.md
+  other_corners/philosophy_and_mental_health/
+  other_corners/random/venetian_carnival.md
+  other_corners/improve_myself/5_daily_routine/general_habits/current_skincare_routine.en.md
+  other_corners/improve_myself/5_daily_routine/general_habits/current_supplements.en.md
+  other_corners/improve_myself/6_additionals/
+  bazaar/food/honey.md
+  bazaar/food/olive_oil.md
+  bazaar/health/suplements/
+  incubator/food/
+  incubator/furniture/dana_couch_armrest_table.md
+  incubator/other/custom_keyboard.md
+  hall_of_fame/economy/
+  hall_of_fame/entrepreneurship/
+  hall_of_fame/commemorating_the_fallen/
 
-# --- extra: alternate: is NOT used when mkdocs-static-i18n handles language switching ---
-# extra:
-#   alternate:
-#     - name: English
-#       link: /en/ # Example, adjust if needed
-#       lang: en
-#     - name: Hebrew
-#       link: /he/ # Example, adjust if needed
-#       lang: he
+# NOTE: extra.alternate is intentionally omitted — mkdocs-static-i18n manages the
+# language switcher and alternate links automatically.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Sh4peSh1fter/wannabepolymath
+      name: Project on GitHub
+  generator: false   # hide the "Made with Material for MkDocs" line (kept in footer credits)
 
 # --- Navigation Section ---
 # Use BASE filenames here. The i18n plugin will find the suffixed versions.

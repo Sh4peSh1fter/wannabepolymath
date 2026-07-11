@@ -1,0 +1,61 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What this is
+
+A personal knowledge base / blog / portfolio built as a **static site with MkDocs + Material theme**. There is no application code — the entire project is Markdown content under `docs/` plus the `mkdocs.yml` configuration that renders and navigates it. Work here is almost always writing/organizing Markdown and editing `mkdocs.yml`, not programming.
+
+## Commands
+
+```bash
+poetry install                      # install dependencies into the venv
+poetry run mkdocs serve             # live-reload preview at http://127.0.0.1:8000
+poetry run mkdocs build             # build static site into ./site (gitignored)
+poetry run mkdocs build --strict    # fail on broken links / config warnings — run before committing
+```
+
+Deployment is automatic: pushing to `master` triggers `.github/workflows/ci.yaml`, which runs `mkdocs gh-deploy --force` to publish to GitHub Pages. Do not commit the `site/` directory (gitignored). Note the CI installs deps with plain `pip` (`mkdocs-material mkdocs-static-i18n pymdown-extensions`), not Poetry, and `poetry.lock` is gitignored — so `pyproject.toml` is the dependency source of truth.
+
+## Content architecture
+
+The site is organized into **"Corners"** — the top-level nav sections, each with a distinct purpose (see the descriptions in `docs/index.en.md`):
+
+- **Observatory** — key terms, concepts, figures, and sources across academic fields
+- **Round Table** — problem/challenge write-ups
+- **Incubator** — projects and ideas in design/development
+- **Academy** — tutorials, how-to guides, presentations, troubleshooting journals
+- **Bazaar** — needs + researched item recommendations
+- **Hall of Fame** — inspirational figures
+- **Other Corners** — everything that doesn't fit elsewhere
+- **About** — the project's rationale
+
+### The Observatory "field" pattern
+
+The Observatory groups fields under a science taxonomy (`formal_sciences/`, `natural_sciences/`, `social_sciences/`, `applied_sciences/`, `humanities/`, `other/`). **Each field is a folder containing exactly four files**:
+
+- `index.en.md` — field overview + links to the other three
+- `keywords.en.md` — terms/concepts
+- `entities.en.md` — key figures/organizations
+- `sources.en.md` — further reading
+
+When creating a new field, copy `docs/observatory/_templates/field_template/` and fill it in. `keywords.en.md` uses a specific annotation pattern: terms live inside `<div class="annotate" markdown>` with `(1)`, `(2)` markers, and definitions follow as a numbered list below the div (Material's inline annotations). Match this pattern rather than inventing another.
+
+For new Corners, `docs/_templates/corner_template/` is the starting point.
+
+## Two conventions that are easy to get wrong
+
+**1. Internationalization (i18n) via file suffixes.** The `mkdocs-static-i18n` plugin uses `docs_structure: suffix`. Content files are named `<name>.en.md` (English, default) and `<name>.he.md` (Hebrew, RTL). English is the primary language with far more coverage; Hebrew pages fall back to English when missing. **Critical quirk:** in `mkdocs.yml`'s `nav:`, reference the **base** filename (e.g. `observatory/index.md`, not `observatory/index.en.md`) — the plugin resolves the suffixed variant. Getting this wrong breaks the nav entry silently.
+
+**2. Navigation is manually maintained.** The `nav:` tree in `mkdocs.yml` does not auto-discover pages. Any new page or field must be added to `nav:` by hand, or it won't appear in the site navigation. Keep nesting shallow (Material is configured with `navigation.tabs`, `navigation.sections`, `navigation.indexes`).
+
+## Writing conventions
+
+- **File/folder names**: lowercase with underscores (the existing convention — e.g. `formal_sciences`, `oral_health`); avoid spaces and capitals.
+- **Frontmatter**: use YAML frontmatter for `title`, `description`, `icon`, and `hide:` directives (see `docs/index.en.md`).
+- **Rich content is enabled** via `pymdownx` extensions in `mkdocs.yml`: admonitions/call-outs (`!!! note`), collapsible details, Material "grid cards", MathJax via `arithmatex` (`generic: true`), Mermaid diagrams (fenced ```mermaid blocks), content tabs, task lists, and code highlighting. Prefer these built-ins over raw HTML.
+- Cross-link between pages with relative links (e.g. `./keywords.en.md`).
+
+## Cursor rules note
+
+`.cursor/rules/*.mdc` contain detailed, largely generic best-practice guides (lint/writing standards, MkDocs usage, PRD authoring, folder-structure and tech-stack management). Several reference a dual-`.md`/`.mdc` documentation workflow and paths (`docs/rules/`, `docs/templates/`, `docs/folder-structure.md`, `docs/tech-stack.md`) that **do not currently exist** in the repo — treat them as aspirational guidance, not an accurate map. The actual PRD lives at `project-management-docs/PRD.md`.
