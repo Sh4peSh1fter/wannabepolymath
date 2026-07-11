@@ -1,3 +1,12 @@
+---
+title: "Black Bean and Corn Salad"
+description: "Black Bean and Corn Salad — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Black Bean and Corn Salad
 
 ## Scientific Rationale & Nutrient Synergy

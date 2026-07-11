@@ -1,3 +1,12 @@
+---
+title: "Chickpea Curry with Brown Rice"
+description: "Chickpea Curry with Brown Rice — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 vegan
 sources: 
 - https://rainbowplantlife.com/chickpea-curry/

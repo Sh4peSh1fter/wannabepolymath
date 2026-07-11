@@ -1,3 +1,12 @@
+---
+title: "Black Bean and Sweet Potato Bowl"
+description: "Black Bean and Sweet Potato Bowl — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Black Bean and Sweet Potato Bowl
 
 ## Scientific Rationale & Nutrient Synergy

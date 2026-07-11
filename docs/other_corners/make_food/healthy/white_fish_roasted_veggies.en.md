@@ -1,3 +1,12 @@
+---
+title: "White Fish with Roasted Vegetables"
+description: "White Fish with Roasted Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # White Fish with Roasted Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "White Bean and Kale Soup"
+description: "White Bean and Kale Soup — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # White Bean and Kale Soup
 
 ## Scientific Rationale & Nutrient Synergy

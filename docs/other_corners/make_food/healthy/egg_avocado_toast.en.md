@@ -1,3 +1,12 @@
+---
+title: "Egg and Avocado Toast"
+description: "Egg and Avocado Toast — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Egg and Avocado Toast
 
 ## Scientific Rationale & Nutrient Synergy

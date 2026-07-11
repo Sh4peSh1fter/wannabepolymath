@@ -1,3 +1,12 @@
+---
+title: "Chicken and Vegetable Skewers"
+description: "Chicken and Vegetable Skewers — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chicken and Vegetable Skewers
 
 ## Scientific Rationale & Nutrient Synergy

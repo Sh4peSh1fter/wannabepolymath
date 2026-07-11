@@ -1,3 +1,12 @@
+---
+title: "Lentil Soup with Spinach and Turmeric"
+description: "Lentil Soup with Spinach and Turmeric — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Lentil Soup with Spinach and Turmeric
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Chicken and Barley Soup"
+description: "Chicken and Barley Soup — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chicken and Barley Soup
 
 ## Scientific Rationale & Nutrient Synergy

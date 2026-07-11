@@ -1,3 +1,12 @@
+---
+title: "Black Bean and Vegetable Soup"
+description: "Black Bean and Vegetable Soup — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Black Bean and Vegetable Soup
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Turkey Meatballs with Zucchini Noodles"
+description: "Turkey Meatballs with Zucchini Noodles — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Turkey Meatballs with Zucchini Noodles
 
 ## Scientific Rationale & Nutrient Synergy

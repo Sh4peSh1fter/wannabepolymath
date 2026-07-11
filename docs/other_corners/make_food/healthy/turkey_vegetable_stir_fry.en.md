@@ -1,3 +1,12 @@
+---
+title: "Turkey and Vegetable Stir-Fry"
+description: "Turkey and Vegetable Stir-Fry — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Turkey and Vegetable Stir-Fry
 
 ## Scientific Rationale & Nutrient Synergy

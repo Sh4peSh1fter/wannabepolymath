@@ -1,3 +1,12 @@
+---
+title: "Mackerel with Quinoa and Vegetables"
+description: "Mackerel with Quinoa and Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Mackerel with Quinoa and Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

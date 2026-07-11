@@ -1,3 +1,12 @@
+---
+title: "Baked Fish with Vegetables"
+description: "Baked Fish with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Baked Fish with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

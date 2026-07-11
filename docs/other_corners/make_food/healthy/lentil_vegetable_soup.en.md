@@ -1,3 +1,12 @@
+---
+title: "Lentil and Vegetable Soup"
+description: "Lentil and Vegetable Soup — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Lentil and Vegetable Soup
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Sardine and Vegetable Pasta"
+description: "Sardine and Vegetable Pasta — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Sardine and Vegetable Pasta
 
 ## Scientific Rationale & Nutrient Synergy

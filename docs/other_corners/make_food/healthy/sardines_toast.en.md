@@ -1,3 +1,12 @@
+---
+title: "Sardines on Whole Grain Toast"
+description: "Sardines on Whole Grain Toast — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Sardines on Whole Grain Toast
 
 ## Scientific Rationale & Nutrient Synergy

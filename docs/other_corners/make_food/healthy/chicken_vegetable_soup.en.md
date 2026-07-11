@@ -1,3 +1,12 @@
+---
+title: "Chicken and Vegetable Soup"
+description: "Chicken and Vegetable Soup — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chicken and Vegetable Soup
 
 ## Scientific Rationale & Nutrient Synergy

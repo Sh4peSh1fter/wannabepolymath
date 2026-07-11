@@ -1,3 +1,12 @@
+---
+title: "Mediterranean Bowl with Hummus"
+description: "Mediterranean Bowl with Hummus — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Mediterranean Bowl with Hummus
 
 ## Scientific Rationale & Nutrient Synergy

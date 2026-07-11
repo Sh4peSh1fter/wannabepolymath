@@ -1,3 +1,12 @@
+---
+title: "Tofu Scramble with Vegetables"
+description: "Tofu Scramble with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Tofu Scramble with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Collagen Yogurt with Kiwi"
+description: "Collagen Yogurt with Kiwi — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Collagen Yogurt with Kiwi
 
 ## Scientific Rationale & Nutrient Synergy

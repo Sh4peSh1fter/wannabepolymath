@@ -1,3 +1,12 @@
+---
+title: "Mackerel with Roasted Vegetables"
+description: "Mackerel with Roasted Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Mackerel with Roasted Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

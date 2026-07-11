@@ -1,3 +1,12 @@
+---
+title: "Turkey and Sweet Potato Hash"
+description: "Turkey and Sweet Potato Hash — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Turkey and Sweet Potato Hash
 
 ## Scientific Rationale & Nutrient Synergy

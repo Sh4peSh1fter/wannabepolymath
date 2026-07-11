@@ -1,3 +1,12 @@
+---
+title: "Chickpea and Spinach Stew"
+description: "Chickpea and Spinach Stew — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chickpea and Spinach Stew
 
 ## Scientific Rationale & Nutrient Synergy

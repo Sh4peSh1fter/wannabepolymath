@@ -1,3 +1,12 @@
+---
+title: "White Bean and Vegetable Stew"
+description: "White Bean and Vegetable Stew — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # White Bean and Vegetable Stew
 
 ## Scientific Rationale & Nutrient Synergy

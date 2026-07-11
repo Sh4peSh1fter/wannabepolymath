@@ -1,3 +1,12 @@
+---
+title: "Mackerel Salad with Quinoa"
+description: "Mackerel Salad with Quinoa — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Mackerel Salad with Quinoa
 
 ## Scientific Rationale & Nutrient Synergy

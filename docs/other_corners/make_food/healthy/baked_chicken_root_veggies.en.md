@@ -1,3 +1,12 @@
+---
+title: "Baked Chicken with Root Vegetables"
+description: "Baked Chicken with Root Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Baked Chicken with Root Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

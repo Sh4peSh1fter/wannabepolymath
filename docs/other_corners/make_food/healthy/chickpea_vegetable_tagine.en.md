@@ -1,3 +1,12 @@
+---
+title: "Chickpea and Vegetable Tagine"
+description: "Chickpea and Vegetable Tagine — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chickpea and Vegetable Tagine
 
 ## Scientific Rationale & Nutrient Synergy

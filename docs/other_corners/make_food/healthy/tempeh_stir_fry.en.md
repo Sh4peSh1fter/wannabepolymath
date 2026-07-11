@@ -1,3 +1,12 @@
+---
+title: "Tempeh and Vegetable Stir-Fry"
+description: "Tempeh and Vegetable Stir-Fry — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Tempeh and Vegetable Stir-Fry
 
 ## Scientific Rationale & Nutrient Synergy

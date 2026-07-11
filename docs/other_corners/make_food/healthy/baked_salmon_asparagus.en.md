@@ -1,3 +1,12 @@
+---
+title: "Baked Salmon with Asparagus"
+description: "Baked Salmon with Asparagus — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Baked Salmon with Asparagus
 
 ## Scientific Rationale & Nutrient Synergy

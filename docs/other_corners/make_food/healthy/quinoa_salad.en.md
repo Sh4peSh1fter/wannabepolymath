@@ -1,3 +1,12 @@
+---
+title: "Quinoa Salad with Vegetables"
+description: "Quinoa Salad with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Quinoa Salad with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

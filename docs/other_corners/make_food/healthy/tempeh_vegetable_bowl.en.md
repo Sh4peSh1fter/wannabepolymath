@@ -1,3 +1,12 @@
+---
+title: "Tempeh and Vegetable Bowl"
+description: "Tempeh and Vegetable Bowl — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Tempeh and Vegetable Bowl
 
 ## Scientific Rationale & Nutrient Synergy

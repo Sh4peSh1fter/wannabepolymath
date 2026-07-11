@@ -1,3 +1,12 @@
+---
+title: "Lentil and Spinach Curry"
+description: "Lentil and Spinach Curry — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Lentil and Spinach Curry
 
 ## Scientific Rationale & Nutrient Synergy

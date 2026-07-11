@@ -1,3 +1,12 @@
+---
+title: "Beef Stew with Red Beans, Wheat, and Root Vegetables"
+description: "Beef Stew with Red Beans, Wheat, and Root Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Beef Stew with Red Beans, Wheat, and Root Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

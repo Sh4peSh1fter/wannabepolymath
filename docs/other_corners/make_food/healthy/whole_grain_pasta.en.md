@@ -1,3 +1,12 @@
+---
+title: "Whole Grain Pasta with Vegetables"
+description: "Whole Grain Pasta with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Whole Grain Pasta with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

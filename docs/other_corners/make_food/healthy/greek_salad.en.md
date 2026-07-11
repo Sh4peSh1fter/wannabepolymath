@@ -1,3 +1,12 @@
+---
+title: "Greek Salad with Feta and Olives"
+description: "Greek Salad with Feta and Olives — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Greek Salad with Feta and Olives
 
 ## Scientific Rationale & Nutrient Synergy

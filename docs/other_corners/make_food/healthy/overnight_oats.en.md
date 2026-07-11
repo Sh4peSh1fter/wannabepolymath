@@ -1,3 +1,12 @@
+---
+title: "Overnight Oats"
+description: "Overnight Oats — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Overnight Oats
 
 ## Scientific Rationale & Nutrient Synergy

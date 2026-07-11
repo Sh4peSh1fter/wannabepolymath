@@ -1,3 +1,12 @@
+---
+title: "Vegetable and Bean Chili"
+description: "Vegetable and Bean Chili — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Vegetable and Bean Chili
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Lentil and Vegetable Curry"
+description: "Lentil and Vegetable Curry — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Lentil and Vegetable Curry
 
 ## Scientific Rationale & Nutrient Synergy

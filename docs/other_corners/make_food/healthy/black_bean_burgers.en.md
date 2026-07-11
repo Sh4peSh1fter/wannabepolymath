@@ -1,3 +1,12 @@
+---
+title: "Black Bean Burgers"
+description: "Black Bean Burgers — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Black Bean Burgers
 
 ## Scientific Rationale & Nutrient Synergy

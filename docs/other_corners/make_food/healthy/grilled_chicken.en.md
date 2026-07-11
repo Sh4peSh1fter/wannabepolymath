@@ -1,3 +1,12 @@
+---
+title: "Grilled Chicken with Vegetables"
+description: "Grilled Chicken with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Grilled Chicken with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

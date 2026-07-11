@@ -1,3 +1,12 @@
+---
+title: "Tuna Salad with Mixed Greens"
+description: "Tuna Salad with Mixed Greens — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Tuna Salad with Mixed Greens
 
 ## Scientific Rationale & Nutrient Synergy

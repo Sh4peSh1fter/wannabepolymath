@@ -1,3 +1,12 @@
+---
+title: "Baked Cod with Sweet Potato"
+description: "Baked Cod with Sweet Potato — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Baked Cod with Sweet Potato
 
 ## Scientific Rationale & Nutrient Synergy

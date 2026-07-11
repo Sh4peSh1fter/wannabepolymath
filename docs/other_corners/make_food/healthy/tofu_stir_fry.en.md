@@ -1,3 +1,12 @@
+---
+title: "Tofu Stir-Fry with Vegetables"
+description: "Tofu Stir-Fry with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Tofu Stir-Fry with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

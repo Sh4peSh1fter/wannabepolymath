@@ -1,3 +1,12 @@
+---
+title: "Red Lentil Dal with Vegetables"
+description: "Red Lentil Dal with Vegetables — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Red Lentil Dal with Vegetables
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Roasted Cabbage with Tahini, Sumac, and Fresh Herbs"
+description: "Roasted Cabbage with Tahini, Sumac, and Fresh Herbs — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Roasted Cabbage with Tahini, Sumac, and Fresh Herbs
 
 ## Scientific Rationale & Nutrient Synergy

@@ -1,3 +1,12 @@
+---
+title: "Turkey and Vegetable Casserole"
+description: "Turkey and Vegetable Casserole — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Turkey and Vegetable Casserole
 
 ## Scientific Rationale & Nutrient Synergy

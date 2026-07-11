@@ -169,8 +169,6 @@ exclude_docs: |
   # and wired into nav. Promote a cluster by removing its line here + adding it to nav.
   # Priority for promotion: the make_food recipes.
   # (The Hebrew investing guide has been promoted — see nav "Investing".)
-  other_corners/make_food/healthy/
-  other_corners/make_food/store_food/
   other_corners/make_food/rule.md
   other_corners/philosophy_and_mental_health/
   other_corners/random/venetian_carnival.md
@@ -488,7 +486,10 @@ nav:
           - Nutrition: other_corners/improve_myself/5_daily_routine/general_habits/nutrition.en.md
           - Physical Activity: other_corners/improve_myself/5_daily_routine/general_habits/physical_activity.en.md
           - Social Connection: other_corners/improve_myself/5_daily_routine/general_habits/social_connection.en.md
-    - Make Food: other_corners/make_food/index.en.md
+    - Make Food:
+      - Overview: other_corners/make_food/index.en.md
+      - Healthy Recipes: other_corners/make_food/healthy/index.en.md
+      - Storing Food: other_corners/make_food/store_food/how_to_store_food.en.md
     - Investing: other_corners/investing/index.md
     - Automating Stuff: other_corners/automating_stuff/index.en.md
     - Fitness:

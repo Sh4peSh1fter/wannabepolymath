@@ -1,3 +1,12 @@
+---
+title: "Chicken and Brown Rice Bowl"
+description: "Chicken and Brown Rice Bowl — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Chicken and Brown Rice Bowl
 
 ## Scientific Rationale & Nutrient Synergy

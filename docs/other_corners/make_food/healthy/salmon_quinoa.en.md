@@ -1,3 +1,12 @@
+---
+title: "Salmon with Quinoa and Broccoli"
+description: "Salmon with Quinoa and Broccoli — a nutrient-dense, science-based healthy recipe."
+tags:
+  - topic:cooking
+  - type:recipe
+  - status:published
+---
+
 # Salmon with Quinoa and Broccoli
 
 ## Scientific Rationale & Nutrient Synergy
