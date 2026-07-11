@@ -27,7 +27,7 @@ tags:
         - [source 1]
 3. Unhealthy Ingredients in Food
     - Description:
-        - A lot of food contains unhealthy components. 
+        - A lot of food contains unhealthy components.
     - Sources:
         - [source 1]
 
@@ -55,7 +55,7 @@ tags:
 
 <!-- Based on the gaps and opportunities we've found, outline our application ideas. -->
 
-1. [Product 1] 
+1. [Product 1]
     - Description:
         - [description]
     - What solutions does it use and how:

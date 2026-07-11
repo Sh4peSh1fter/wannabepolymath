@@ -71,10 +71,11 @@ dates: "[Start Date] - [End Date]"
 <!-- Based on the available flights and trip goals, research and compare potential destinations. -->
 
 ### Option 1: [Destination Name]
+
 *   **Why here?** [Brief summary of the appeal. e.g., "Rich history, amazing food scene, very walkable."]
 *   **Best Time to Visit:** [Optimal season/months]
 *   Weather:
-    *   Tempreture: 
+    *   Tempreture:
     *   precipitation:
 *   **Estimated Cost:** [e.g., Mid-range, approx. $150/day]
 *   **Pros:**
@@ -87,6 +88,7 @@ dates: "[Start Date] - [End Date]"
     1. [Source 1]
 
 ### Option 2: [Destination Name]
+
 *   **Why here?** [Brief summary of the appeal.]
 *   **Best Time to Visit:** [Optimal season/months]
 *   **Estimated Cost:** [e.g., Budget-friendly, approx. $100/day]
@@ -209,13 +211,16 @@ dates: "[Start Date] - [End Date]"
 <!-- To be filled out after the expedition is complete. -->
 
 ### Highlights & Memories
+
 *   [What were the absolute best moments? The most memorable meal, view, or experience?]
 
 ### Lessons Learned
+
 *   **What Went Well:** [e.g., The packing list was perfect; the pre-booked train tickets saved a lot of hassle.]
 *   **What to Do Differently Next Time:** [e.g., Pack fewer shoes; schedule more downtime; learn a few basic phrases in the local language.]
 
 ### Budget vs. Actual
+
 | Category      | Estimated | Actual | Difference |
 |---------------|:---------:|:------:|:----------:|
 | Flights       | $         | $      | $          |
@@ -225,4 +230,5 @@ dates: "[Start Date] - [End Date]"
 | **Total**     | **$**     | **$**  | **$**      |
 
 ### Photo Gallery
-*   [Link to Google Photos album, blog post, or social media gallery.] 
+
+*   [Link to Google Photos album, blog post, or social media gallery.]

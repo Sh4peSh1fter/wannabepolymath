@@ -13,4 +13,4 @@ Woodworking is the activity or skill of making items from wood, and includes cab
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

@@ -19,7 +19,7 @@ markdown_extensions:
 
 ## Existing Icons and Emojis
 
-search for what you want in here: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+search for what you want in here: <https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/>
 
 The following icon sets are bundled with Material for MkDocs:
 

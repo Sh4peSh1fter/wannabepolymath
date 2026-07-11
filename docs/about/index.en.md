@@ -38,4 +38,4 @@ This section houses the key documents that define and guide the project. Think o
 
 *   **[Formatting Guide](./formatting_guide/index.md):** (Work in Progress) A detailed guide on how to format content using Markdown and specific platform features to ensure consistency and readability.
 
-We encourage you to explore these documents to get a comprehensive understanding of the Wanna be Polymath project. Your feedback and contributions are always welcome as we continue to build and refine this exciting endeavor! 
+We encourage you to explore these documents to get a comprehensive understanding of the Wanna be Polymath project. Your feedback and contributions are always welcome as we continue to build and refine this exciting endeavor!

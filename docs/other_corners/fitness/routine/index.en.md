@@ -14,6 +14,7 @@ tags:
 Welcome to the start of your structured fitness journey! This plan is designed around your core goals: building functional strength, enhancing long-term health, and improving overall physical performance—not just aesthetics. Our philosophy is to build a sustainable, enjoyable, and effective routine that integrates seamlessly into your life and supports your well-being for years to come.
 
 We will focus on:
+
 - **Compound Movements:** For maximum efficiency in building strength and muscle.
 - **Progressive Overload:** The principle of gradually increasing the demands on your body to drive adaptation and growth.
 - **Consistency over Intensity:** Showing up consistently is more important than killing yourself in any single workout, especially at the beginning.
@@ -27,6 +28,7 @@ We will focus on:
 - **Body Mass Index (BMI):** 24.1. This is within the "healthy weight" range. BMI is a simple metric and doesn't distinguish between muscle and fat, but it gives us a starting data point.
 
 **How to Track Progress:**
+
 - **Weekly Weigh-in:** Weigh yourself once a week in the morning before breakfast.
 - **Progress Photos (Optional but Recommended):** Take front, side, and back photos every 4 weeks. They can be a powerful motivator when you don't see changes on the scale.
 - **Workout Log:** Track your exercises, weights, sets, and reps for every workout. This is crucial for ensuring progressive overload.
@@ -49,6 +51,7 @@ This is a 4-day per week schedule designed to build a strong foundation. It bala
 ## 4. Workout Program Details
 
 ### A. Dynamic Warm-Up (5-10 minutes before every workout)
+
 Never start a workout cold. The goal is to increase blood flow and warm up your joints and muscles.
 
 - **Jumping Jacks:** 60 seconds
@@ -62,6 +65,7 @@ Never start a workout cold. The goal is to increase blood flow and warm up your 
 Perform these workouts with 60-90 seconds of rest between sets. The goal is to choose a weight that is challenging but allows you to complete all reps with perfect form. The last 1-2 reps of each set should feel difficult.
 
 **Workout A:**
+
 - **Barbell Squats:** 3 sets of 8-10 reps
 - **Dumbbell Bench Press:** 3 sets of 8-10 reps
 - **Bent-Over Rows:** 3 sets of 8-10 reps
@@ -69,6 +73,7 @@ Perform these workouts with 60-90 seconds of rest between sets. The goal is to c
 - **Plank:** 3 sets, hold for 30-60 seconds
 
 **Workout B:**
+
 - **Deadlifts (Conventional or Romanian):** 3 sets of 6-8 reps (Focus heavily on form here!)
 - **Pull-Ups (or Lat Pulldowns):** 3 sets of as many reps as possible (AMRAP). If using the machine, 8-12 reps.
 - **Dumbbell Lunges:** 3 sets of 10-12 reps per leg
@@ -89,6 +94,7 @@ Perform these workouts with 60-90 seconds of rest between sets. The goal is to c
     - **Triceps Stretch**
 
 ### D. Cool-Down (5-10 minutes after strength workouts)
+
 Perform the same static stretches as the post-swim routine to improve flexibility and aid recovery.
 
 ---
@@ -96,12 +102,14 @@ Perform the same static stretches as the post-swim routine to improve flexibilit
 ## 5. Nutrition Guidance
 
 ### A. Caloric Intake & Macronutrients
+
 Your estimated daily maintenance calories (TDEE) is around **2550 kcal**. To build muscle effectively without significant fat gain, we'll aim for a modest caloric surplus.
 
 - **Target Daily Intake:** **2800-2850 kcal**
 
 **Macronutrient Split:**
 A good starting point is a 40/30/30 split.
+
 - **Protein (30%):** ~210g per day. Essential for muscle repair and growth.
 - **Carbohydrates (40%):** ~280g per day. Your primary energy source for workouts.
 - **Fats (30%):** ~93g per day. Crucial for hormone production and overall health.
@@ -109,6 +117,7 @@ A good starting point is a 40/30/30 split.
 *Action:* Consider using an app like MyFitnessPal or Cronometer for a week to track your current intake and get a feel for these numbers.
 
 ### B. Meal Timing & Structure
+
 We can work with your existing schedule. Here's a sample structure:
 
 - **10:00 - Breakfast:** Balance of protein, carbs, and healthy fats.
@@ -124,6 +133,7 @@ We can work with your existing schedule. Here's a sample structure:
 - **Fruits & Vegetables:** Eat a wide variety for vitamins, minerals, and fiber. Aim for multiple colors on your plate.
 
 ### D. Hydration
+
 - **Goal:** Aim for 3-4 liters of water per day, especially on training days. Dehydration can significantly impact performance. Carry a water bottle with you.
 
 ---
@@ -145,32 +155,33 @@ We can work with your existing schedule. Here's a sample structure:
 This is your blueprint. Embrace the process, stay consistent, and don't hesitate to ask questions. You have the motivation and the resources to achieve your goals. Let's get to work!
 
 # Sources
+
 1. trainer winny
-    -   https://www.youtube.com/@trainerwinny
+    -   <https://www.youtube.com/@trainerwinny>
 2. Kevin Zhang
-    -   https://www.youtube.com/@calisthenicsnerd
+    -   <https://www.youtube.com/@calisthenicsnerd>
 3. Jeff Nippard
-    -   https://www.youtube.com/@JeffNippard
+    -   <https://www.youtube.com/@JeffNippard>
 4. Yellow Dude
-    -   https://www.youtube.com/@yellowdude_co
+    -   <https://www.youtube.com/@yellowdude_co>
 5. Strength Side
-    -   https://www.youtube.com/@Strengthside
+    -   <https://www.youtube.com/@Strengthside>
 6. Stronger by Science
-    -   https://www.youtube.com/@strongerbyscience
+    -   <https://www.youtube.com/@strongerbyscience>
 7. House of Hypertrophy
-    -   https://www.youtube.com/@HouseofHypertrophy
+    -   <https://www.youtube.com/@HouseofHypertrophy>
 8. Bret Contreras Glute Guy
-    -   https://www.youtube.com/@bretcontreras1
+    -   <https://www.youtube.com/@bretcontreras1>
 9. Dr. Pak
-    -   https://www.youtube.com/@Dr__Pak
+    -   <https://www.youtube.com/@Dr__Pak>
 10. Team3DMJ (ft. Dr. eric helms)
-    -   https://www.youtube.com/@Team3DMJ
+    -   <https://www.youtube.com/@Team3DMJ>
 11. Dr. Layne Norton
-    -   https://www.youtube.com/@biolayne1
+    -   <https://www.youtube.com/@biolayne1>
 12. Dr. Milo Wolf
-    -   https://www.youtube.com/@DrMiloWolf/videos
+    -   <https://www.youtube.com/@DrMiloWolf/videos>
 13. Levy's Fit (LBSEP)
-    -   https://www.youtube.com/@LevysFitness
+    -   <https://www.youtube.com/@LevysFitness>
 
 
-https://youtu.be/U9ENCvFf9yQ?si=fETqjuWuvFo7G62l
+<https://youtu.be/U9ENCvFf9yQ?si=fETqjuWuvFo7G62l>

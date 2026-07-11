@@ -91,6 +91,6 @@ Wood Specs: 4×4 cm or 5×5 cm for legs
 | Pencil + Square Ruler       | Precise marking for cuts       |
 
 
-# Sources 
+# Sources
 
-1. https://youtu.be/OzZgYhIypns?si=70djSObWHxv9rhqV
+1. <https://youtu.be/OzZgYhIypns?si=70djSObWHxv9rhqV>

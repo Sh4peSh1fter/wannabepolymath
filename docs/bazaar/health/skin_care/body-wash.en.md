@@ -56,7 +56,7 @@ To choose the right product, it's essential to understand the ingredients and co
     *   *Research Needed: Find timelines for Benzoyl Peroxide, Salicylic Acid, and antifungal treatments.*
 
 <!-- Add more questions as needed -->
-    
+
 ---
 
 ## Phase 2: Defining My Needs & Priorities
@@ -80,7 +80,7 @@ Now that I understand the landscape, I can clearly define what I'm looking for.
         *   Suitable for regular, long-term use if necessary.
 3.  **Nice to Have:**
     *   Contains soothing or moisturizing ingredients to counteract any potential dryness from the active ingredient.
-4.  **Deal-breakers:** 
+4.  **Deal-breakers:**
     *   Ineffective for fungal folliculitis.
     *   Causes excessive dryness, irritation, or makes the condition worse.
 5.  **Budget Range:** Flexible for a product that is effective and well-formulated.
@@ -201,6 +201,7 @@ My choice is the **Vanicream Z-Bar (Medicated)**.
 **Reasoning:** It represents the best balance of high efficacy and gentle formulation. It contains the maximum over-the-counter strength of Pyrithione Zinc (2%), making it a powerful antifungal, but it comes in a base that is specifically designed for sensitive skin, free of common irritants. This makes it a more suitable choice for regular body use than the harsher Nizoral shampoo, especially since dryness is a potential concern with any medicated wash. While Happy Cappy is an excellent gentle option, the higher concentration in the Vanicream bar seems more appropriate for a first attempt at treating a persistent issue.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/Vanicream-Z-Bar-Medicated-Pyrithione-Funglas/dp/B07D3GQ2J9)
 *   [LovelySkin](https://www.lovelyskin.com/o/vanicream-z-bar-medicated-cleansing-bar)
 
@@ -211,15 +212,18 @@ My choice is the **Vanicream Z-Bar (Medicated)**.
 This section details how to get the most out of the chosen Vanicream Z-Bar, ensuring its effectiveness while minimizing potential side effects like dryness.
 
 ### 1. Initial Setup
+
 *   **Storage:** The most crucial step is to have a well-draining soap dish that keeps the bar dry between uses. If the bar sits in water, it will become soft, dissolve faster, and create a mess.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Application:** In the shower, work up a lather with the bar and apply it to the affected areas (chest, shoulders, back).
 *   **Contact Therapy:** This is the most important step. **Let the lather sit on the skin for 3-5 minutes** before rinsing. This gives the active ingredient, Pyrithione Zinc, enough time to work against the fungus. Simply washing it right off will significantly reduce its effectiveness.
 *   **Frequency:** Start by using the medicated bar once a day on the affected areas. If you find it too drying, reduce the frequency to every other day.
 *   **Use a Separate Cleanser (Optional):** You can use a regular, gentle, non-medicated body wash for other areas of your body (like legs and arms) to avoid unnecessary dryness.
 
 ### 3. Monitoring & Maintenance
+
 *   **Moisturize:** After showering, it's a good practice to apply a light, non-comedogenic ("fungal acne-safe") moisturizer to the areas where you used the medicated bar. This will counteract any dryness and keep your skin barrier healthy.
 *   **Maintenance Phase:** Once the folliculitis has cleared up, you don't need to use the bar every day. Taper down to using it 2-3 times a week on the affected areas to prevent a recurrence.
 
@@ -228,11 +232,13 @@ This section details how to get the most out of the chosen Vanicream Z-Bar, ensu
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Draining Soap Dish
+
 *   **What to Look For:** A soap dish with large slats or a "waterfall" design that allows water to drain away completely, keeping the bar hard and dry. Silicone or wooden soap dishes are excellent for this. Avoid ceramic dishes with no drainage holes.
 *   **Recommendation:** Any well-draining soap dish will work. Many great options are available on Amazon or at home goods stores. This is non-negotiable for preserving the life of the bar.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=draining+soap+dish)
 
 ### 2. Gentle, "Fungal Acne-Safe" Moisturizer
+
 *   **What to Look For:** A lightweight, oil-free, and non-comedogenic lotion or gel. Check the ingredients to ensure it doesn't contain esters, polysorbates, or fatty acids that can feed *Malassezia* yeast.
 *   **Recommendation:** The Sebamed Clear Face Gel or the Malezia 5% Urea Moisturizer are both excellent, well-regarded options in the fungal acne community.
 *   **Where to Buy:**
@@ -298,4 +304,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

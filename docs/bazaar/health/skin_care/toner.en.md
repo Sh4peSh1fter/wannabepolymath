@@ -105,13 +105,13 @@ Based on my normal-dry skin type and current routine with CeraVe Foaming Facial 
         *   **Barrier-Friendly:** Includes ingredients that support rather than disrupt the skin barrier.
         *   **Non-Drying Formula:** Alcohol-free or contains only minimal, beneficial alcohols (like cetyl alcohol).
         *   **pH-Balanced:** Formulated to support skin's natural acid mantle.
-    
+
     2.  **Gentleness & Compatibility**
         *   **Suitable for Daily Use:** Gentle enough for regular use without causing irritation.
         *   **Fragrance-Free:** Minimizes risk of sensitization and reactions.
         *   **Compatible with Existing Routine:** Works well with CeraVe cleanser and won't interfere with other products.
         *   **Non-Comedogenic:** Won't clog pores or contribute to breakouts.
-    
+
     3.  **Effectiveness & Value**
         *   **Noticeable Benefits:** Provides visible improvement in skin hydration and comfort.
         *   **Enhances Product Absorption:** Helps subsequent moisturizers and treatments work more effectively.
@@ -191,12 +191,12 @@ Based on my normal-dry skin type and hydration needs, I'll compare the main cate
 
 ### Comparison Table of Types
 
-| Type                    | Hydration Focus | Gentle for Daily Use | Suitable for Dry Skin | Barrier Support | Overall Match |
-|-------------------------|:---------------:|:--------------------:|:---------------------:|:---------------:|:-------------:|
-| **Hydrating Toner**     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
-| **Treatment Toner**     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Very Good** |
-| **pH-Balancing**        | | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Limited** |
-| **Exfoliating Toner**   | | :x: | :x: | :x: | **Poor Fit** |
+| Type | Hydration Focus | Gentle for Daily Use | Suitable for Dry Skin | Barrier Support | Overall Match |
+| ------------------------- | :---------------: | :--------------------: | :---------------------: | :---------------: | :-------------: |
+| **Hydrating Toner** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
+| **Treatment Toner** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Very Good** |
+| **pH-Balancing** | | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Limited** |
+| **Exfoliating Toner** | | :x: | :x: | :x: | **Poor Fit** |
 
 ### Conclusion on Item Type
 
@@ -316,14 +316,14 @@ Now I'll compare highly-regarded hydrating and gentle treatment toners that are 
 
 ### Comparison Table of Products
 
-| Product                    | Hydration Focus | Barrier Support | Gentle Formula | Compatible with Dry Skin | Price | Overall Match |
-|----------------------------|:---------------:|:---------------:|:--------------:|:------------------------:|:-----:|:-------------:|
-| **Paula's Choice CALM**    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$   | **Excellent** |
-| **The Ordinary HA + B5**   | :white_check_mark: | | :white_check_mark: | :white_check_mark: | $     | **Great Value** |
-| **Klairs Supple Prep**     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$    | **Excellent** |
-| **CeraVe Hydrating**       | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$    | **Perfect Synergy** |
-| **ONmacabim NR**           | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | $$$   | **Good Alternative** |
-| **Pixi Glow Tonic**        | :x: | :x: | :x: | :x: | $$    | **Poor Fit** |
+| Product | Hydration Focus | Barrier Support | Gentle Formula | Compatible with Dry Skin | Price | Overall Match |
+| ---------------------------- | :---------------: | :---------------: | :--------------: | :------------------------: | :-----: | :-------------: |
+| **Paula's Choice CALM** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$ | **Excellent** |
+| **The Ordinary HA + B5** | :white_check_mark: | | :white_check_mark: | :white_check_mark: | $ | **Great Value** |
+| **Klairs Supple Prep** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ | **Excellent** |
+| **CeraVe Hydrating** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$ | **Perfect Synergy** |
+| **ONmacabim NR** | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | $$$ | **Good Alternative** |
+| **Pixi Glow Tonic** | :x: | :x: | :x: | :x: | $$ | **Poor Fit** |
 
 ### Conclusion on Specific Product
 
@@ -336,6 +336,7 @@ My choice is the **CeraVe Hydrating Toner**.
 **Note on Pixi Glow Tonic:** While this is a popular product, it's not suitable for my normal-dry skin needs. The 5% glycolic acid concentration could be too drying for daily use on already dry skin, and the inclusion of witch hazel adds additional drying potential. The focus on exfoliation rather than hydration contradicts my primary need for moisture support.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/CeraVe-Hydrating-Toner-Face-Ounce/dp/B08KQZF2YV)
 *   [Target](https://www.target.com/p/cerave-hydrating-toner-8-fl-oz/-/A-79544891)
 *   [CVS](https://www.cvs.com/shop/cerave-hydrating-toner-8-fl-oz-prodid-1234567)
@@ -347,11 +348,13 @@ My choice is the **CeraVe Hydrating Toner**.
 This section details how to get the most out of the CeraVe Hydrating Toner while supporting your skin barrier and maximizing hydration benefits.
 
 ### 1. Initial Setup and Introduction
+
 *   **Patch Test:** Test a small amount on your inner wrist or behind your ear for 24-48 hours before full facial use.
 *   **Start Gradually:** Begin with once daily (evening) for the first week to see how your skin responds.
 *   **Integration:** Add it after your CeraVe cleanser and before your moisturizer in your routine.
 
 ### 2. Proper Application Technique
+
 *   **Timing:** Apply to clean, slightly damp skin immediately after cleansing while skin still has residual moisture.
 *   **Amount:** 2-3 drops for entire face, or small amount on palms if using gentle patting method.
 *   **Application Methods:**
@@ -361,17 +364,20 @@ This section details how to get the most out of the CeraVe Hydrating Toner while
 *   **Wait Time:** Allow 30-60 seconds for absorption before applying next products
 
 ### 3. Optimizing Hydration Benefits
+
 *   **Damp Skin Application:** Apply while skin is still slightly damp from cleansing to enhance hydration.
 *   **Layering:** Can be applied in multiple thin layers (7-skin method) for extra hydration if needed.
 *   **Seal with Moisturizer:** Always follow with your moisturizer to lock in the hydration provided by the toner.
 *   **Seasonal Adjustments:** May need to increase frequency during winter or dry weather.
 
 ### 4. Frequency and Timing
+
 *   **Evening Priority:** Start with evening use after cleansing as your primary application.
 *   **Morning Addition:** Can add morning use if skin responds well and feels more comfortable with twice-daily hydration.
 *   **Listen to Your Skin:** Adjust frequency based on how hydrated and comfortable your skin feels.
 
 ### 5. Monitoring Results
+
 *   **Positive Signs:** Skin feels more hydrated, comfortable, and plump; better absorption of subsequent products.
 *   **Warning Signs:** Any tightness, irritation, or increased sensitivity means reduce frequency or discontinue.
 *   **Timeline:** Should notice improved hydration within a few days; enhanced product absorption within 1-2 weeks.
@@ -383,23 +389,27 @@ This section details how to get the most out of the CeraVe Hydrating Toner while
 To maximize the effectiveness of your toner routine and support overall skin hydration.
 
 ### 1. Gentle Cotton Pads (Optional)
+
 *   **Why Useful:** If you prefer cotton pad application over hand application.
 *   **What to Look For:** Soft, lint-free, unbleached cotton pads that won't cause friction.
 *   **Usage:** Use gentle sweeping motions rather than rubbing to minimize irritation.
 *   **Recommendation:** Shiseido Facial Cotton or similar high-quality, gentle pads.
 
 ### 2. Hydrating Face Mist (Travel Companion)
+
 *   **Why Helpful:** For midday hydration refresh or travel when you can't access your full routine.
 *   **What to Look For:** Simple, hydrating ingredients like hyaluronic acid or glycerin in spray form.
 *   **Usage:** Can be used over makeup or throughout the day for comfort.
 *   **Recommendation:** Consider a simple thermal water spray or DIY glycerin mist.
 
 ### 3. Humidifier (Environmental Support)
+
 *   **Why Beneficial:** Increases ambient humidity to support skin hydration, especially in dry climates or winter.
 *   **What to Look For:** Cool mist humidifier for bedroom use; maintain 40-50% humidity.
 *   **Usage:** Run during sleep and in dry environments to reduce transepidermal water loss.
 
 ### 4. Gentle Moisturizer (Essential Follow-up)
+
 *   **Why Critical:** Toner provides hydration but needs to be sealed with an occlusive moisturizer.
 *   **What to Look For:** Since you're using CeraVe cleanser and toner, consider CeraVe Daily Moisturizing Lotion for consistency.
 *   **Usage:** Apply within 60 seconds of toner application while skin is still damp.

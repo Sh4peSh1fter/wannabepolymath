@@ -87,12 +87,12 @@ Based on my understanding of facial cleansing science and my specific skin type,
         *   **Hygienic Material:** Non-porous, easy-to-clean material that doesn't harbor bacteria.
         *   **Controlled Action:** Consistent, predictable cleaning action that doesn't rely on my pressure application.
         *   **Suitable for Daily Use:** Gentle enough for regular use without over-exfoliating.
-    
+
     2.  **Performance & Effectiveness**
         *   **Enhanced Cleansing:** Noticeably improves cleansing efficacy compared to hands alone.
         *   **Pore Cleaning:** Helps remove debris from pores and skin texture.
         *   **Works with My Cleanser:** Compatible with gel cleansers and doesn't waste product.
-    
+
     3.  **Usability & Maintenance**
         *   **Waterproof Design:** Safe for shower use and easy to rinse clean.
         *   **Ergonomic Grip:** Comfortable to hold and maneuver around facial contours.
@@ -174,12 +174,12 @@ Based on my skin type (normal-dry) and needs, I'll compare the main categories o
 
 ### Comparison Table of Types
 
-| Type                    | Gentle on Skin | Deep Cleansing | Hygienic | Daily Use Suitable | Overall Match |
-|-------------------------|:---------------:|:--------------:|:--------:|:------------------:|:-------------:|
-| **Sonic Silicone**     | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
-| **Manual Silicone**    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Good** |
-| **Bristle Brush**      | :x: | :white_check_mark: | :x: | :x: | **Poor** |
-| **Konjac Sponge**      | :white_check_mark: | :x: | :x: | :white_check_mark: | **Limited** |
+| Type | Gentle on Skin | Deep Cleansing | Hygienic | Daily Use Suitable | Overall Match |
+| ------------------------- | :---------------: | :--------------: | :--------: | :------------------: | :-------------: |
+| **Sonic Silicone** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Excellent** |
+| **Manual Silicone** | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | **Good** |
+| **Bristle Brush** | :x: | :white_check_mark: | :x: | :x: | **Poor** |
+| **Konjac Sponge** | :white_check_mark: | :x: | :x: | :white_check_mark: | **Limited** |
 
 ### Conclusion on Item Type
 
@@ -272,6 +272,7 @@ My choice is the **Foreo Luna Mini 3**.
 **Reasoning:** The Luna Mini 3 represents the optimal balance of proven technology, gentleness, and long-term value for daily facial cleansing. Its 16 intensity levels allow me to start very gently and adjust as my skin adapts, which is perfect for normal-dry skin. The exceptional battery life (650 uses per charge) means minimal maintenance, and the 100% silicone construction ensures maximum hygiene and durability. While more expensive upfront, the device should last for years with daily use, making the cost-per-use reasonable. Foreo's established reputation and widespread dermatologist recommendations provide confidence in the safety and effectiveness for daily use.
 
 **Where to Buy:**
+
 *   [Foreo Official Website](https://www.foreo.com/luna-mini-3)
 *   [Sephora](https://www.sephora.com/product/foreo-luna-mini-3-facial-cleansing-brush-P456135)
 *   [Amazon](https://www.amazon.com/FOREO-Facial-Cleansing-Brush-Combination/dp/B07STQZXJQ)
@@ -283,11 +284,13 @@ My choice is the **Foreo Luna Mini 3**.
 This section details how to get the most out of the Foreo Luna Mini 3 while maintaining optimal skin health and device longevity.
 
 ### 1. Initial Setup and Introduction
+
 *   **Start Gentle:** Begin with the lowest intensity setting (level 1-2) for the first week to allow your skin to adapt.
 *   **Frequency Introduction:** Start with every other day for the first week, then gradually increase to daily use if well-tolerated.
 *   **Patch Test Area:** Test on a small area first if you have sensitive skin or are unsure about your skin's reaction.
 
 ### 2. Daily Use Technique
+
 *   **Preparation:** Wet your face and apply your cleanser (CeraVe Foaming Facial Cleanser) as usual.
 *   **Device Use:**
     1.  Wet the Luna Mini 3 and turn it on to your chosen intensity
@@ -299,12 +302,14 @@ This section details how to get the most out of the Foreo Luna Mini 3 while main
 *   **Duration:** 30-60 seconds total is sufficient - longer isn't necessarily better.
 
 ### 3. Device Maintenance
+
 *   **Daily Cleaning:** Rinse thoroughly with warm water after each use.
 *   **Weekly Deep Clean:** Use a gentle antibacterial soap once a week for deeper cleaning.
 *   **Drying:** Shake off excess water and allow to air dry completely.
 *   **Storage:** Store in a clean, dry place away from humidity when not in use.
 
 ### 4. Monitoring and Adjustment
+
 *   **Signs of Over-Use:** Redness, irritation, increased sensitivity, or new breakouts mean you should reduce frequency or intensity.
 *   **Gradual Progression:** You can slowly increase intensity as your skin adapts, but there's no need to use maximum settings.
 *   **Seasonal Adjustments:** You may need to reduce frequency or intensity during winter months when skin tends to be drier.
@@ -316,21 +321,25 @@ This section details how to get the most out of the Foreo Luna Mini 3 while main
 To maximize the effectiveness of your cleansing device routine and support overall skin health.
 
 ### 1. Gentle Post-Cleansing Moisturizer
+
 *   **Why Essential:** Enhanced cleansing can temporarily increase skin's need for hydration. A good moisturizer helps restore barrier function.
 *   **What to Look For:** For normal-dry skin, look for ingredients like hyaluronic acid, ceramides, and gentle emollients.
 *   **Recommendation:** Since you're already using CeraVe cleanser, consider the CeraVe Daily Moisturizing Lotion or PM Facial Moisturizing Lotion for ingredient synergy.
 
 ### 2. Gentle Face Towel
+
 *   **What to Look For:** Soft, non-abrasive material like bamboo or microfiber. Avoid rough terry cloth.
 *   **Usage:** Pat dry gently after cleansing rather than rubbing to avoid irritation.
 *   **Hygiene:** Use clean towels and wash frequently to prevent bacterial transfer.
 
 ### 3. Travel Case (Optional)
+
 *   **What to Look For:** Hard case or protective pouch to prevent damage during travel.
 *   **Benefit:** Protects your investment and ensures hygiene when traveling.
 *   **Recommendation:** Many devices come with travel cases, but additional protection may be worth it for frequent travelers.
 
 ### 4. pH Testing Strips (Optional Educational Tool)
+
 *   **For the Curious:** To verify your skin's pH before and after cleansing to ensure you're maintaining healthy acid mantle levels.
 *   **Educational Value:** Helps you understand how different cleansing intensities affect your skin's natural pH.
 
@@ -388,7 +397,7 @@ To maximize the effectiveness of your cleansing device routine and support overa
     *   *Link:* [https://www.dermalinstitute.com/](https://www.dermalinstitute.com/)
     *   *Note:* Professional education resource on cleansing science and technique.
 
-https://www.reddit.com/r/SkincareAddicts/comments/1g7yjww/thoughts_on_facial_cleansing_brushes/
+<https://www.reddit.com/r/SkincareAddicts/comments/1g7yjww/thoughts_on_facial_cleansing_brushes/>
 
 ---
 

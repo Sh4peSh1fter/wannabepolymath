@@ -240,10 +240,12 @@ This combination provides a high-performing, absorbent towel for everyday messes
 Proper care is essential to maintain the absorbency and longevity of your kitchen towels.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Wash:** This is the most critical step. Wash all new towels in hot water before their first use. This removes any industrial coatings (sizing) from the manufacturing process, which significantly improves their absorbency. It also preshrinks them to their final size.
 *   **Color Separation:** Wash colored towels separately for the first few cycles to prevent any potential dye bleeding.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:**
     *   Use the **Sticky Toffee (Waffle Weave)** towels for general drying of hands, dishes, and countertops.
     *   Reserve the **Aunt Martha's (Flour Sack)** towels exclusively for drying high-carbon knives, delicate glassware, and for polishing. This prevents them from getting contaminated with oils or food residue that could be transferred back to your clean items.
@@ -254,9 +256,11 @@ Proper care is essential to maintain the absorbency and longevity of your kitche
     *   **Crucially, do not use fabric softener or dryer sheets.** These products coat the cotton fibers with a waxy film that repels water, destroying their absorbency.
 
 ### 3. Periodic Maintenance
+
 *   **Restoring Absorbency:** If towels start to feel less absorbent over time (due to detergent buildup or accidental fabric softener use), you can strip them. Wash the towels in a hot cycle with one cup of white vinegar (no detergent). Then, run a second hot cycle with half a cup of baking soda (again, no detergent). Tumble dry as usual. This process strips the fibers of residue and restores their natural absorbency.
 
 ### 4. Long-Term Storage
+
 *   Ensure towels are completely dry before storing them in a drawer or cabinet to prevent mildew growth. Store in a cool, dry place.
 
 ---
@@ -266,6 +270,7 @@ Proper care is essential to maintain the absorbency and longevity of your kitche
 There are no essential accessories for kitchen towels themselves, but how you store them can impact their lifespan and cleanliness.
 
 ### 1. Towel Hooks or Racks
+
 *   **What to Look For:** Proper air circulation is key to allowing towels to dry quickly and prevent mildew. Instead of folding a damp towel over an oven handle, hanging it from a hook allows for better airflow. Simple adhesive hooks or a small, dedicated towel rack near the sink work well.
 *   **Recommendation:** Any simple, well-placed hook will do. Consider color-coding by hanging the waffle weave towel in one spot and the flour sack towel in another to avoid mix-ups.
 
@@ -299,4 +304,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

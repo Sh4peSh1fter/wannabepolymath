@@ -26,6 +26,7 @@ The goal is to create a structured yet flexible process for planning trips, ensu
 A single trip is rarely just one thing; it's a blend of different characteristics. Expeditions are categorized using a combination of these five lenses to create a rich and descriptive overview.
 
 ### 1. By Core Purpose (The "Why")
+
 This is the primary motivation for the trip. What experience are you seeking?
 
 *   **Relaxation & Leisure:** The goal is to unwind and de-stress.
@@ -37,6 +38,7 @@ This is the primary motivation for the trip. What experience are you seeking?
 *   **Wellness & Spirituality:** The focus is on mental, physical, or spiritual well-being.
 
 ### 2. By Duration and Pace (The "How Long")
+
 This defines the timeframe and intensity of the travel.
 
 *   **Micro-Adventure:** Lasts less than 24-48 hours. Low planning, high spontaneity.
@@ -46,6 +48,7 @@ This defines the timeframe and intensity of the travel.
 *   **Sabbatical or "Slow-madic" Travel:** Long-term travel (3+ months) focused on living in a place rather than just visiting.
 
 ### 3. By Travel Style & Budget (The "How")
+
 This describes the overall philosophy and financial approach to the trip.
 
 *   **Backpacking / Budget:** Traveling with minimal luggage on a tight budget.
@@ -54,6 +57,7 @@ This describes the overall philosophy and financial approach to the trip.
 *   **All-Inclusive:** A package trip where most costs are included upfront.
 
 ### 4. By Social Context (The "Who")
+
 Who you travel with fundamentally changes the experience.
 
 *   **Solo Travel:** Traveling alone.
@@ -63,6 +67,7 @@ Who you travel with fundamentally changes the experience.
 *   **Guided Tour:** Traveling with a pre-organized group led by a tour guide.
 
 ### 5. By Geography & Destination Type (The "Where")
+
 This is about the physical environment of the destination.
 
 *   **Urban / City Break:** Exploring a major city.
@@ -77,11 +82,13 @@ This is about the physical environment of the destination.
 ## Tools
 
 flight search
-1. https://www.skyscanner.co.il/
-2. https://www.elal.com/heb/israel
 
-trail planning 
-1. https://www.alltrails.com/
+1. <https://www.skyscanner.co.il/>
+2. <https://www.elal.com/heb/israel>
+
+trail planning
+
+1. <https://www.alltrails.com/>
 
 trip planner
 trip budget planner

@@ -13,4 +13,4 @@ Anthropology is the scientific study of humanity, concerned with human behavior,
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

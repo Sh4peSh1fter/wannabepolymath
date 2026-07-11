@@ -16,4 +16,4 @@ This section provides analysis and breakdowns of specific military operations, f
 
 ---
 
-*(No entries yet. You can add some!)* 
+*(No entries yet. You can add some!)*

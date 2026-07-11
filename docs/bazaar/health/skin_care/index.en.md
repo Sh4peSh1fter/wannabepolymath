@@ -27,33 +27,39 @@ Below is a systematically organized list of body care items to be researched. Ea
 ### Daily Cleansing & Hygiene
 
 #### Face & Body Cleansing
+
 *   **[Face Wash / Facial Cleanser](./face-wash.en.md)** - Gentle, pH-balanced cleansers designed for facial skin's unique needs.
 *   **[Body Wash](./body-wash.en.md)** - Effective body cleansers that remove dirt and sweat without disrupting the skin barrier.
 *   **[Face Scrubber / Cleansing Brush](./face-scrubber.en.md)** - Tools for enhanced facial cleansing and gentle exfoliation.
 
 #### Specialized Cleansing
+
 *   **[Deodorant / Antiperspirant](./deodorant.en.md)** - Odor control and sweat management products, including aluminum-free options.
 
 ### Hair & Scalp Care System
 
 #### Core Hair Care
+
 *   **[Shampoo](./shampoo.en.md)** - Scalp and hair cleansers, including medicated options for specific conditions.
 *   **Conditioner** - Moisturizing and detangling treatments to restore hair health.
 *   **Leave-In Conditioner** - Lightweight, protective treatments for daily hair care.
 
 #### Scalp Health & Tools
+
 *   **[Scalp Massager](./scalp-massager.en.md)** - Tools for scalp stimulation, circulation, and enhanced cleansing.
 *   **Hair Growth Serum** - Evidence-based treatments for hair thinning and scalp health.
 
 ### Facial Skin Care Routine
 
 #### Treatment & Active Care
+
 *   **[Toner](./toner.en.md)** - pH-balancing and pore-refining treatments post-cleansing.
 *   **Face Serum** - Concentrated active ingredients for specific skin concerns.
 *   **Eye Cream** - Specialized care for the delicate periorbital area.
 *   **Facial Oil** - Nourishing oils for barrier repair and anti-aging benefits.
 
 #### Exfoliation & Deep Care
+
 *   **[Chemical Exfoliant (AHA/BHA)](./chemical-exfoliant.en.md)** - Acid-based treatments for skin renewal and pore care.
 *   **Face Mask** - Weekly treatments for deep cleansing, hydration, or specific concerns.
 *   **Facial Firming Device** - Science-backed tools like Foreo Luna and microcurrent devices.
@@ -61,11 +67,13 @@ Below is a systematically organized list of body care items to be researched. Ea
 ### Body Moisturizing & Protection
 
 #### Daily Moisturizing
+
 *   **Face Moisturizer** - Lightweight, non-comedogenic hydration for facial skin.
 *   **Body Lotion / Moisturizer** - All-over body hydration to support the skin barrier.
 *   **Body Oil** - Occlusive treatments for enhanced moisture retention.
 
 #### Targeted Care
+
 *   **Hand Cream** - Intensive care for frequently washed and exposed hands.
 *   **Foot Cream** - Treatments for dry, cracked, or callused feet.
 *   **Lip Balm / Treatment** - Protection and repair for delicate lip skin.
@@ -143,22 +151,26 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 ### Ingredient Categories & Key Actives
 
 #### Cleansing Agents (Surfactants)
+
 *   **Sulfates:** Harsh detergents like Sodium Lauryl Sulfate (SLS) and Sodium Laureth Sulfate (SLES) that create rich lather but can strip natural oils.
 *   **Sulfate-Free Surfactants:** Gentler alternatives like Cocamidopropyl Betaine, Decyl Glucoside, Sodium Cocoyl Isethionate.
 *   **Amphoteric Surfactants:** Mild cleansers that adjust to skin's pH.
 *   **Non-ionic Surfactants:** Very gentle cleansers often used in sensitive formulations.
 
 #### Moisturizing Agents
+
 *   **Humectants:** Attract and bind water to the skin (Glycerin, Hyaluronic Acid, Panthenol, Urea, Sodium PCA).
 *   **Emollients:** Soften and smooth skin by filling gaps between cells (Shea Butter, Ceramides, Squalane, Fatty Acids).
 *   **Occlusives:** Form a barrier to prevent moisture loss (Petrolatum, Dimethicone, Lanolin, Mineral Oil).
 
 #### Exfoliating Agents
+
 *   **Alpha-Hydroxy Acids (AHAs):** Water-soluble acids that exfoliate skin surface (Glycolic Acid, Lactic Acid, Mandelic Acid).
 *   **Beta-Hydroxy Acids (BHAs):** Oil-soluble acids that penetrate pores (Salicylic Acid).
 *   **Poly-Hydroxy Acids (PHAs):** Gentle exfoliants suitable for sensitive skin (Gluconolactone, Lactobionic Acid).
 
 #### Antioxidants & Active Ingredients
+
 *   **Retinoids:** Vitamin A derivatives that promote cell turnover (Retinol, Retinaldehyde, Tretinoin).
 *   **Vitamin C:** Antioxidant available in various forms (L-Ascorbic Acid, Magnesium Ascorbyl Phosphate, Sodium Ascorbyl Phosphate).
 *   **Vitamin E (Tocopherol):** Fat-soluble antioxidant that protects against free radical damage.
@@ -166,6 +178,7 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 *   **Peptides:** Amino acid chains that can signal skin repair and collagen production.
 
 #### Antimicrobial & Specialized Actives
+
 *   **Benzoyl Peroxide:** Antimicrobial agent effective against acne bacteria but can be drying and bleaching.
 *   **Hypochlorous Acid:** Gentle antimicrobial and anti-inflammatory agent.
 *   **Pyrithione Zinc:** Antifungal and antibacterial agent, effective against dandruff and seborrheic dermatitis.
@@ -174,23 +187,27 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 *   **Tea Tree Oil:** Natural antimicrobial with anti-inflammatory properties.
 
 #### Sunscreen Filters
+
 *   **Mineral (Physical) Sunscreens:** Zinc Oxide and Titanium Dioxide that sit on skin surface and reflect UV rays.
 *   **Chemical (Organic) Sunscreens:** Avobenzone, Oxybenzone, Octinoxate, Tinosorb, Mexoryl that absorb UV radiation.
 *   **UV Index:** A scale (0-11+) that measures the strength of ultraviolet radiation from the sun at a particular time and place. Higher numbers indicate greater risk of skin damage and need for sun protection.
 
 #### Preservatives & Stabilizers
+
 *   **Parabens:** Traditional preservatives (Methylparaben, Propylparaben) - effective but some consumers prefer to avoid.
 *   **Phenoxyethanol:** Common paraben alternative.
 *   **Benzyl Alcohol:** Natural preservative and solvent.
 *   **Sodium Benzoate:** Preservative often used with Potassium Sorbate.
 
 #### Problematic Ingredients
+
 *   **Phthalates:** Plasticizers often found in synthetic fragrances, linked to endocrine disruption.
 *   **Formaldehyde Releasers:** Preservatives that release small amounts of formaldehyde over time.
 *   **Essential Oils:** Can be potent allergens despite being "natural."
 *   **Denatured Alcohol:** Can be very drying and irritating in high concentrations.
 
 ### Hair-Specific Concepts
+
 *   **Build-up:** Accumulation of product residue that can weigh hair down and prevent moisture penetration.
 *   **Porosity:** Hair's ability to absorb and retain moisture - affects product choice.
 *   **Protein-Moisture Balance:** Hair needs both protein for strength and moisture for flexibility.
@@ -200,6 +217,7 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 *   **Deep Conditioning:** Intensive moisture treatment for damaged or dry hair.
 
 ### Formulation & Product Concepts
+
 *   **Non-comedogenic:** Formulated to not clog pores - important for acne-prone skin.
 *   **Hypoallergenic:** Formulated to minimize allergic reactions (not a regulated term).
 *   **Fragrance-Free vs. Unscented:** Fragrance-free has no added fragrance; unscented may contain masking fragrance.
@@ -213,6 +231,7 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 *   **Buffering:** Using ingredients to maintain stable pH in formulations.
 
 ### Application & Usage Terms
+
 *   **Contact Therapy:** Leaving a treatment product on skin for specified time before rinsing.
 *   **Patch Testing:** Testing a small amount of product on skin to check for adverse reactions.
 *   **Purging:** Temporary worsening of skin when starting active ingredients as skin adjusts.
@@ -221,6 +240,7 @@ Understanding these concepts is crucial for evaluating any body, skin, or hair c
 *   **Antiperspirant vs. Deodorant:** Antiperspirants block sweat with aluminum; deodorants neutralize odor.
 
 ### Professional & Testing Terms
+
 *   **Dermatology:** The branch of medicine focused on the diagnosis and treatment of skin, hair, and nail conditions. Dermatologists are medical specialists in this field.
 *   **Dermatologically Tested:** Product has been tested on human skin under dermatological supervision.
 *   **Clinically Proven:** Claims backed by clinical studies or trials.
@@ -257,14 +277,14 @@ High-level sources that apply to the entire body care category.
     *   *Link:* `https://www.reddit.com/r/30PlusSkinCare/`
     *   *Note:* A community for discussing more advanced skincare topics, devices, and anti-aging strategies. Useful for anecdotal evidence and product discovery.
 
-https://youtu.be/OrElyY7MFVs?si=Ms0PurADUkKfmVu_
-https://www.youtube.com/@Doctorly
-https://www.reddit.com/r/30PlusSkinCare/comments/yzfwb2/whats_your_favourite_skincare_device/
-https://www.reddit.com/r/30PlusSkinCare/comments/wx1bcy/which_skincare_tool_or_device_has_made_a/
-https://thedekel.co.il/blog/
+<https://youtu.be/OrElyY7MFVs?si=Ms0PurADUkKfmVu>_
+<https://www.youtube.com/@Doctorly>
+<https://www.reddit.com/r/30PlusSkinCare/comments/yzfwb2/whats_your_favourite_skincare_device/>
+<https://www.reddit.com/r/30PlusSkinCare/comments/wx1bcy/which_skincare_tool_or_device_has_made_a/>
+<https://thedekel.co.il/blog/>
 [Men's Skincare Guide: Building a Simple and Effective Routine](http://nutriglowcosmetics.com/mens-skincare-guide-building-a-simple-and-effective-routine/) - NutriGlow Cosmetics
-https://ai.hubermanlab.com/s/H9vn9f7-
-https://youtu.be/wgUjIRtote8?si=vU4wMqRymO1XyMxy
+<https://ai.hubermanlab.com/s/H9vn9f7->
+<https://youtu.be/wgUjIRtote8?si=vU4wMqRymO1XyMxy>
 
 ---
 

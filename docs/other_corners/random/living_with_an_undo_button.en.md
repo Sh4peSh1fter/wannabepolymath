@@ -19,4 +19,5 @@ how does it effect how we think or feel about stuff?
 
 
 ## where can we see it?
+
 re zero

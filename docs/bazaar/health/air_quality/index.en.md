@@ -20,7 +20,8 @@ This section is dedicated to the scientific exploration of indoor air quality (I
 Below is the categorized list of items I plan to research. Each item will eventually link to its own detailed analysis.
 
 ### Core Environmental Control
-1.  **[Air Purifier](./air_purifier.en.md)** 
+
+1.  **[Air Purifier](./air_purifier.en.md)**
     *   Devices designed to remove contaminants from the air, such as dust, pollen, pet dander, mold spores, and VOCs.
 2.  **Humidifier**
     *   Devices that increase moisture (humidity) in a room or entire building.
@@ -68,11 +69,11 @@ High-level sources that apply to the entire subtopic of air quality.
     *   *Link:* [https://www.reddit.com/r/AirQuality/](https://www.reddit.com/r/AirQuality/)
     *   *Note:* A community forum for discussions, anecdotal experiences, and user questions about air quality. Useful for gauging public opinion and identifying common issues.
 5.  **Adam Teva V'Din (Israel Union for Environmental Defense)**
-    *   *Link:* https://adamteva.org.il/
+    *   *Link:* <https://adamteva.org.il/>
     *   *Note:* A reputable Israeli environmental advocacy group. Their publications can provide context on local air quality challenges.
-6. https://galit.co.il/
-7. https://www.healthyhomeguide.com/
-8. https://www.iqair.com/
+6. <https://galit.co.il/>
+7. <https://www.healthyhomeguide.com/>
+8. <https://www.iqair.com/>
 
 ---
 

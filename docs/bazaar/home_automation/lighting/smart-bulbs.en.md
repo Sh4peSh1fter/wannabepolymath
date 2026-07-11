@@ -198,10 +198,12 @@ My choice is the **Philips Hue White and Color Ambiance** bulb for all applicati
 This section details how to get the most out of the chosen bulbs with Home Assistant.
 
 ### 1. Pairing and Setup
+
 *   **Use a Zigbee Coordinator:** For the best experience, pair the Hue bulbs directly to your Home Assistant Zigbee coordinator (like the Sonoff Dongle-P) using ZHA or Zigbee2MQTT. This ensures 100% local control. *Note: For firmware updates, you may occasionally need to pair them back to a Hue Bridge, update them, and then re-pair them to Home Assistant.*
 *   **Pairing Process:** In Home Assistant (using ZHA or Zigbee2MQTT), start the pairing process ("Permit join"). Power the Hue bulb on and off a few times if it's not brand new to reset it, and it should be discovered automatically. Rename it to something logical (e.g., `bedroom_lamp_bulb`).
 
 ### 2. Setting up Motion-Based Automations
+
 *   **Create an Automation:** In Home Assistant, go to `Settings > Automations & Scenes`.
 *   **Trigger:** Select `State` as the trigger type. Choose your motion sensor's entity and set the `To` state to `on`.
 *   **Condition (Optional but Recommended):** Add a `Time` condition to specify that the automation should only run at night (e.g., after sunset and before sunrise).
@@ -238,11 +240,13 @@ This two-step action instantly turns the light on to a dim red, then immediately
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Zigbee Motion Sensor
+
 *   **What to Look For:** A small, fast, and reliable Zigbee motion sensor with a long battery life.
 *   **Recommendation:** **Aqara P1 Motion Sensor.** It's widely regarded as one of the best available, with configurable timeout settings and excellent battery life. The Sonoff SNZB-03 is a good budget alternative.
 *   **Where to Buy:** Amazon, AliExpress.
 
 ### 2. Smart Switch / Wall Remote
+
 *   **The "Dumb Switch" Problem:** If someone turns off the physical wall or lamp switch, the smart bulb loses power and can no longer be controlled.
 *   **Solution 1 (Keep Switch On):** Use a small plastic cover over the switch to prevent it from being turned off accidentally.
 *   **Solution 2 (Wall Remote):** A better solution is to use a Zigbee wall remote that can be mounted next to (or over) the existing switch. The Inovelli Blue Series 2-in-1 Switch or an IKEA STYRBAR remote can be configured in Home Assistant to directly control the smart bulb, providing a familiar physical control that doesn't cut power.
@@ -254,14 +258,16 @@ This two-step action instantly turns the light on to a dim red, then immediately
 *A list of resources I consulted during this research.*
 
 ### Community Discussions
+
 1.  **Home Assistant Subreddit (r/homeassistant)**
     *   *Link:* `https://www.reddit.com/r/homeassistant/`
     *   *Note:* Countless threads discussing the pros and cons of Hue vs. IKEA vs. Inovelli and others.
 
 ### YouTube Videos
+
 1.  **The Hook Up - Smart Bulb Showdown**
     *   *Note:* Excellent technical reviews that often include CRI and power consumption testing for various smart bulbs.
 2.  **Smart Home Solver**
-    *   *Note:* High-quality videos showcasing what's possible with different smart lighting products in Home Assistant. 
+    *   *Note:* High-quality videos showcasing what's possible with different smart lighting products in Home Assistant.
 
-https://www.reddit.com/r/homeassistant/comments/1cq92kj/whats_your_favorite_smart_light_bulb/
+<https://www.reddit.com/r/homeassistant/comments/1cq92kj/whats_your_favorite_smart_light_bulb/>

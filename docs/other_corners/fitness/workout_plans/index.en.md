@@ -14,6 +14,7 @@ This directory contains all your personalized workout plans, organized chronolog
 ## Current Active Plan
 
 🟢 **[Plan 01: Foundation Building](./01_foundation_building_11-8-2025.en.md)** *(December 21, 2024)*
+
 - **Duration:** 8-12 weeks
 - **Focus:** Movement foundation, form mastery, strength building
 - **Frequency:** 2x per week at gym
@@ -28,11 +29,13 @@ This directory contains all your personalized workout plans, organized chronolog
 ## Upcoming Plans (Planned)
 
 **Plan 02: Strength Development** *(Planned for March 2025)*
+
 - Frequency: 3x per week
 - Focus: Progressive overload, compound movements
 - Goals: Increased strength, muscle development
 
 **Plan 03: Performance Integration** *(Planned for June 2025)*
+
 - Frequency: 3-4x per week
 - Focus: Swimming integration, athletic performance
 - Goals: Endurance, power, sport-specific skills
@@ -40,6 +43,7 @@ This directory contains all your personalized workout plans, organized chronolog
 ## Plan Creation Guidelines
 
 ### When to Create a New Plan
+
 - **Successful completion** of current plan duration
 - **Plateau in progress** for 2+ weeks despite good adherence
 - **Change in goals** or available time/equipment
@@ -47,14 +51,17 @@ This directory contains all your personalized workout plans, organized chronolog
 - **Every 8-16 weeks** for planned periodization
 
 ### Plan Naming Convention
+
 Format: `[Plan Number]_[Focus Name]_[Creation Date].en.md`
 
 Examples:
+
 - `01_foundation_building_2024-12-21.en.md`
 - `02_strength_development_2025-03-15.en.md`
 - `03_performance_integration_2025-06-01.en.md`
 
 ### Required Plan Components
+
 Each workout plan must include:
 
 1. **Introduction & Philosophy**
@@ -85,11 +92,13 @@ Each workout plan must include:
 ## Progress Review Schedule
 
 ### Monthly Check-ins
+
 - **Week 4:** Progress assessment and minor adjustments
 - **Week 8:** Mid-plan evaluation and potential modifications
 - **Week 12:** Full plan completion review and next phase planning
 
 ### Key Performance Indicators (KPIs)
+
 - **Strength Progress:** Weight increases in main lifts
 - **Movement Quality:** Form improvements and confidence
 - **Body Composition:** Measurements and progress photos
@@ -101,16 +110,19 @@ Each workout plan must include:
 As you progress through plans, we'll evolve your training based on:
 
 ### Phase 1: Foundation (Plans 1-2)
+
 - Movement pattern mastery
 - Basic strength development
 - Habit formation and consistency
 
 ### Phase 2: Development (Plans 3-4)
+
 - Progressive overload emphasis
 - Exercise complexity increase
 - Specialization introduction
 
 ### Phase 3: Performance (Plans 5+)
+
 - Goal-specific training
 - Advanced programming techniques
 - Long-term athletic development
@@ -120,6 +132,7 @@ As you progress through plans, we'll evolve your training based on:
 *This section will be updated as you progress through different plans*
 
 ### Plan 01 Notes
+
 - Starting phase: December 21, 2024
 - Initial focus: Learning gym environment and basic movements
 - Key adaptations to monitor: Form improvement, strength gains, recovery
@@ -130,5 +143,5 @@ As you progress through plans, we'll evolve your training based on:
 
 # Sources
 
-1. https://www.aworkoutroutine.com/full-body-split/
-2. https://www.menshealth.com/uk/workouts/a63211306/two-day-workout-plan/
+1. <https://www.aworkoutroutine.com/full-body-split/>
+2. <https://www.menshealth.com/uk/workouts/a63211306/two-day-workout-plan/>

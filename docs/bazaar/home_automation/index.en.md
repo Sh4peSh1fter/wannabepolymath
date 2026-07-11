@@ -20,6 +20,7 @@ This section is dedicated to the systematic research and implementation of a sma
 Below is the categorized list of items I plan to research. Each item will eventually link to its own detailed analysis, following a rigorous, multi-phase research process.
 
 ### 1. Core Infrastructure
+
 1.  **[Hubs & Controllers](./control_interfaces/hubs-and-controllers.en.md)**
     *   The central brain of the smart home (e.g., Home Assistant, Hubitat).
 2.  **Networking Gear**
@@ -28,12 +29,14 @@ Below is the categorized list of items I plan to research. Each item will eventu
     *   Ensuring the core system remains online during power outages.
 
 ### 2. Environmental Control & Monitoring
+
 1.  **Smart Thermostats**
     *   Automating heating and cooling for efficiency and comfort.
 2.  **Environmental Sensors**
     *   Monitoring temperature, humidity, air quality, and potential water leaks.
 
 ### 3. Lighting
+
 1.  **Smart Switches & Dimmers**
     *   Integrating control directly into the home's wiring for reliability.
 2.  **[Smart Bulbs](./lighting/smart-bulbs.en.md)**
@@ -42,6 +45,7 @@ Below is the categorized list of items I plan to research. Each item will eventu
     *   Offering versatile solutions for accent, bias, and task lighting.
 
 ### 4. Security & Access Control
+
 1.  **Smart Locks**
     *   Automating and securing primary points of entry.
 2.  **Security Cameras**
@@ -52,12 +56,14 @@ Below is the categorized list of items I plan to research. Each item will eventu
     *   Screening visitors and integrating with the smart lock.
 
 ### 5. Power & Automation
+
 1.  **Smart Plugs**
     *   Adding automation to "dumb" appliances.
 2.  **Motorized Blinds & Curtains**
     *   Automating window coverings for energy management and convenience.
 
 ### 6. User Interfaces & Control
+
 1.  **[Touch Displays](./control_interfaces/touch-displays.en.md)**
     *   Creating a centralized, customizable control panel for Home Assistant.
 
@@ -98,17 +104,17 @@ This section covers key concepts and terminology that apply across the entire su
 3.  **Community Forums (e.g., r/homeautomation, Home Assistant Community)**
     *   *Note:* Invaluable for real-world user experiences, troubleshooting, and identifying long-term reliability issues. To be cross-referenced with objective data.
 
-https://youtu.be/WHXYlEB_QmY?si=iUgQCLTGXeTY5q_1
-https://www.youtube.com/@SmartHomeSolver
-https://www.reddit.com/r/smarthome/
-https://www.youtube.com/@yoyoTechKnows
-https://youtu.be/iGUdMke-Ao4?si=RilvZgvo2UqmGWld
-https://www.reddit.com/r/homeassistant/
-https://www.reddit.com/r/homeassistant/comments/1icq877/comprehensive_guide_to_building_a_smart_home_from/
-https://youtu.be/gJFsZL5CTgM?si=BvvYJXhlI83skEA9
-https://youtu.be/k02P5nghmfs?si=PtQLMZveqzp_2h-J
-https://youtu.be/k02P5nghmfs?si=xbw-DEmbOUUcXTEF
-https://smartbyte.blog/
+<https://youtu.be/WHXYlEB_QmY?si=iUgQCLTGXeTY5q_1>
+<https://www.youtube.com/@SmartHomeSolver>
+<https://www.reddit.com/r/smarthome/>
+<https://www.youtube.com/@yoyoTechKnows>
+<https://youtu.be/iGUdMke-Ao4?si=RilvZgvo2UqmGWld>
+<https://www.reddit.com/r/homeassistant/>
+<https://www.reddit.com/r/homeassistant/comments/1icq877/comprehensive_guide_to_building_a_smart_home_from/>
+<https://youtu.be/gJFsZL5CTgM?si=BvvYJXhlI83skEA9>
+<https://youtu.be/k02P5nghmfs?si=PtQLMZveqzp_2h-J>
+<https://youtu.be/k02P5nghmfs?si=xbw-DEmbOUUcXTEF>
+<https://smartbyte.blog/>
 
 ---
 

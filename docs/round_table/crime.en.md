@@ -26,7 +26,7 @@ tags:
 
 <!-- List potential solutions that could address the problems we've identified. For each solution, describe what it is and then detail the specific problems it solves and how. -->
 
-1. [Solution 1] 
+1. [Solution 1]
     - Description:
         - [description]
     - What problems does it solve and how:

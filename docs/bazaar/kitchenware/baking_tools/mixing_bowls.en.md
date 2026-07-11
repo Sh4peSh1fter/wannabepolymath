@@ -280,10 +280,12 @@ This combination provides a robust, versatile, and long-lasting system for every
 This section details how to get the most out of the chosen bowls, taking care of them to ensure longevity and proper performance.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check all bowls for any defects, cracks in the glass, or dents in the steel that may have occurred during shipping. Ensure all lids fit snugly.
 *   **First-Time Cleaning:** Wash all bowls and lids thoroughly with warm, soapy water before first use to remove any manufacturing residues or dust.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Glass Bowls (Duralex):**
     *   **Best Practices for Use:** While highly resistant to thermal shock, it's still best practice to avoid extreme temperature changes (e.g., taking a bowl from the freezer and immediately putting it in a hot oven).
     *   **Cleaning Routine:** Dishwasher safe. For stubborn food, soak in warm, soapy water. Avoid abrasive scouring pads which can scratch the glass over time.
@@ -292,6 +294,7 @@ This section details how to get the most out of the chosen bowls, taking care of
     *   **Cleaning Routine:** Dishwasher safe. For any discoloration (which can happen with high heat), a paste of baking soda and water or a cleaner like Bar Keepers Friend will restore the finish.
 
 ### 3. Long-Term Storage
+
 *   **Nesting:** Store the bowls nested within each other to save space.
 *   **Lid Care:** Store lids separately or placed gently on top of the bowls. Avoid sealing them shut during long-term storage, as this can wear out the seal. Wash lids on the top rack of the dishwasher if recommended by the manufacturer.
 
@@ -302,16 +305,19 @@ This section details how to get the most out of the chosen bowls, taking care of
 To get the most out of these bowls, a few key accessories are necessary.
 
 ### 1. Silicone Spatulas
+
 *   **What to Look For:** Heat-resistant, one-piece silicone construction to prevent food from getting trapped in crevices. A spatula with a slightly curved head and a squared-off corner is ideal for scraping bowls of all shapes.
 *   **Recommendation:** GIR (Get It Right) Ultimate Spatula.
 *   **Where to Buy:** Amazon, GIR Website.
 
 ### 2. Balloon Whisk
+
 *   **What to Look For:** A sturdy, comfortable handle and flexible stainless steel wires. A "balloon" shape is the best all-purpose design for incorporating air into egg whites or cream.
 *   **Recommendation:** OXO Good Grips 11-Inch Balloon Whisk.
 *   **Where to Buy:** Amazon, Target, most kitchen stores.
 
 ### 3. Bowl Scraper / Dough Scraper
+
 *   **What to Look For:** A simple, flexible piece of plastic. It's invaluable for scraping dough out of bowls cleanly and efficiently.
 *   **Recommendation:** Ateco Bowl Scraper.
 *   **Where to Buy:** Amazon, specialty baking stores.
@@ -323,30 +329,33 @@ To get the most out of these bowls, a few key accessories are necessary.
 *A list of resources I consulted during this research, categorized to ensure a well-rounded perspective.*
 
 ### Reputable Organizations & Consumer Information
+
 1.  The Best Mixing Bowls - The New York Times (Wirecutter)
-    *   *Link:* https://www.nytimes.com/wirecutter/reviews/best-mixing-bowls/
+    *   *Link:* <https://www.nytimes.com/wirecutter/reviews/best-mixing-bowls/>
     *   *Note:* A comprehensive review that was essential for identifying top brands. Their recommendation of the Cuisinart set for its deep sides and lids was a key data point.
 2.  The Best Mixing Bowls - Cook's Illustrated / America's Test Kitchen
-    *   *Link:* https://www.americastestkitchen.com/cooksillustrated/equipment_reviews/1538-mixing-bowls
+    *   *Link:* <https://www.americastestkitchen.com/cooksillustrated/equipment_reviews/1538-mixing-bowls>
     *   *Note:* Rigorous testing that crowned the Vollrath bowls as the winner for their perfect shape and light weight. Their testing notes on the Duralex and Pyrex bowls were also critical.
 3.  To Find the Best Set of Mixing Bowls, I Whisked, Scraped, and Poured - Serious Eats
-    *   *Link:* https://www.seriouseats.com/equipment-the-best-mixing-bowls-how-to-buy
+    *   *Link:* <https://www.seriouseats.com/equipment-the-best-mixing-bowls-how-to-buy>
     *   *Note:* This review's preference for metal bowls and its reasoning helped solidify the two-set strategy, highlighting the specific advantages of stainless steel.
 
 ### Material Science & Product Information
+
 1.  Borosilicate Glass vs Soda Lime Glass - DM Glassware
-    *   *Link:* https://dmglassware.com/borosilicate-glass-vs-soda-lime-glass/
+    *   *Link:* <https://dmglassware.com/borosilicate-glass-vs-soda-lime-glass/>
     *   *Note:* An excellent, clear explanation of the chemical and physical differences between borosilicate and soda-lime glass, confirming the superior thermal shock resistance of the glass used in Duralex.
 2.  What is Borosilicate Glass? - Wondrwood
-    *   *Link:* https://wondrwood.com/blogs/what-were-working-with/what-is-borosilicate-glass-why-is-it-better-than-regular-soda-lime-glass
+    *   *Link:* <https://wondrwood.com/blogs/what-were-working-with/what-is-borosilicate-glass-why-is-it-better-than-regular-soda-lime-glass>
     *   *Note:* This article reinforces the safety and durability aspects of borosilicate glass, confirming it does not leach chemicals and is a premium material for kitchenware.
 
 ### Product Pages
+
 1.  Duralex - Lys Stackable Bowls
-    *   *Link:* https://www.duralex.com/collections/lys-stackable-bowls
+    *   *Link:* <https://www.duralex.com/collections/lys-stackable-bowls>
     *   *Note:* Official product page confirming materials (tempered glass), features, and country of origin (France).
 2.  Pyrex - Simply Store Meal Prep Glass Food Storage Containers
-    *   *Link:* https://www.pyrexhome.com/product/simply-store-meal-prep-glass-food-storage-containers-10-piece-set
+    *   *Link:* <https://www.pyrexhome.com/product/simply-store-meal-prep-glass-food-storage-containers-10-piece-set>
     *   *Note:* Official product page for the Pyrex set, confirming sizes and lid material (BPA-free plastic).
 
 ---
@@ -359,4 +368,4 @@ To get the most out of these bowls, a few key accessories are necessary.
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

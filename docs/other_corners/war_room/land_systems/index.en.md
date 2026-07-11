@@ -16,4 +16,4 @@ This section covers all military assets that operate primarily on land.
 
 ---
 
-*(No entries yet. You can add some!)* 
+*(No entries yet. You can add some!)*

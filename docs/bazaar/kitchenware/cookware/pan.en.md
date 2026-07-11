@@ -118,6 +118,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
 ### Material Profiles: Pros & Cons
 
 #### 1. Carbon Steel
+
 *   **Pros:**
     *   Heats up quickly and is highly responsive to temperature changes.
     *   Becomes exceptionally non-stick once a proper seasoning layer is established.
@@ -129,6 +130,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Will rust if left wet.
 
 #### 2. Cast Iron (Bare)
+
 *   **Pros:**
     *   Unmatched heat retention, making it the superior choice for searing meat.
     *   Can be seasoned to create a durable, non-stick surface.
@@ -140,6 +142,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Can crack upon being dropped or subjected to extreme thermal shock.
 
 #### 3. Enameled Cast Iron
+
 *   **Pros:**
     *   Combines the heat retention of cast iron with a non-reactive enamel surface, making it perfect for acidic sauces, stews, and braises.
     *   Requires no seasoning and is easier to clean than bare cast iron.
@@ -150,6 +153,7 @@ Based on our research and defined needs, we can evaluate the top contenders. Eac
     *   Remains very heavy.
 
 #### 4. Stainless Steel (Clad)
+
 *   **Pros:**
     *   Completely non-reactive, making it safe for all types of ingredients.
     *   Heats quickly and responds instantly to temperature adjustments.
@@ -255,9 +259,9 @@ For our primary skillet, we need a pan that can take searingly high heat, hold i
 #### Comparison Table: Bare Cast Iron Skillet
 
 | Product | Heat Retention | Maneuverability | Non-Stick (Surface) | Community Opinion | Price |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Lodge Classic** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $ |
-| **Lodge Chef Collection**| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
+| **Lodge Chef Collection** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
 | **Field Company** | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | $$$$ |
 | **Smithey Ironware** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$$$ |
 | **Stargazer** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$ |
@@ -338,7 +342,7 @@ For our second pan, we need a non-reactive surface for cooking acidic tomato sau
 #### Comparison Table: Enameled Cast Iron Pan
 
 | Product | Enamel Quality | Ease of Use | Stain Resistance | Community Opinion | Price |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Le Creuset** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$$$$ |
 | **Staub** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | $$$$$ |
 | **Lodge** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | $$ |
@@ -405,7 +409,7 @@ The goal is to protect the enamel coating from chipping and staining.
 A few key accessories can significantly improve your cooking experience with this new system.
 
 | Accessory | Recommended For | Why It's Useful | Example Link |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Lodge Pan Scrapers** | Both | Made of polycarbonate, they effectively remove stuck-on food without scratching the seasoning or the enamel. | [Link](https://www.amazon.com/dp/B0039UU9UO) |
 | **Silicone Hot Handle Holder** | Both | Cast iron handles get extremely hot. These provide a secure, heat-resistant grip. | [Link](https://www.amazon.com/dp/B00063RWT8) |
 | **Chainmail Scrubber** | Bare Cast Iron | Cleans the skillet effectively without using soap or stripping the seasoning. | [Link](https://www.amazon.com/dp/B07BL2M5LS) |

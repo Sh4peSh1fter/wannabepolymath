@@ -16,7 +16,7 @@ hide:
 
 ## Introduction
 
-Explore active projects and ideas brewing within our community. 
+Explore active projects and ideas brewing within our community.
 
 ## Structure
 
@@ -37,7 +37,7 @@ The `projects` are grouped into different `themes`.
 -   [**Furniture**](./furniture/index.en.md)
 
     ---
-    
+
     Custom-designed and DIY furniture projects for modern living spaces.
 
     - [Closet Storage Wall](./furniture/closet_storage_wall.en.md)

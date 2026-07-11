@@ -10,33 +10,41 @@ tags:
 # Style Guide
 
 ## Overview
+
 This document outlines the visual and design guidelines for the Wanna be Polymath project. The style guide ensures consistency across all content while maintaining an engaging and unique identity through a sheep-themed design system.
 
 ## Brand Identity
 
 ### Theme: The Curious Sheep
+
 The sheep theme represents:
+
 - Curiosity and exploration
 - Continuous learning
 - Community and collaboration
 - Playful yet professional approach to knowledge
 
 keywords I'm searching for:
+
 1. sheep drawing
 
 sources I'm looking at:
-1. pinterest - https://www.pinterest.com 
-2. deviantart - https://www.deviantart.com/
+
+1. pinterest - <https://www.pinterest.com>
+2. deviantart - <https://www.deviantart.com/>
 
 other sources of insipration:
+
 1. maplestory sheep
 
 style:
+
 1. black and white sketch style with loose linework and crosshatching, minimalist and hand-drawn look. the picture should be 4:1 ratio.
 
 
 
 ### Core Values
+
 1. **Accessibility**
    - Clear typography
    - High contrast
@@ -57,6 +65,7 @@ style:
 ### Color Palette
 
 #### Primary Colors
+
 - **Deep Blue** (#1A365D)
   - Usage: Headers, navigation
   - Meaning: Knowledge, trust, stability
@@ -66,6 +75,7 @@ style:
   - Meaning: Balance, professionalism
 
 #### Accent Colors
+
 - **Sheep White** (#F7FAFC)
   - Usage: Backgrounds, cards
   - Meaning: Clarity, simplicity
@@ -77,6 +87,7 @@ style:
 ### Typography
 
 #### Headings
+
 - Font: [Modern Serif Font]
 - Weights: Bold (700)
 - Sizes:
@@ -86,6 +97,7 @@ style:
   - H4: 1.5rem
 
 #### Body Text
+
 - Font: [Clean Sans Font]
 - Weight: Regular (400)
 - Size: 1rem
@@ -94,6 +106,7 @@ style:
 ### Imagery Style
 
 #### Art Direction
+
 1. **Vintage Travel Posters**
    - Rich colors
    - Bold typography
@@ -115,6 +128,7 @@ style:
 ### Section-Specific Imagery
 
 #### Home
+
 - **Concept**: Gateway to Knowledge
 - **Image**: Low angle shot of medieval double doors
 - **Details**:
@@ -124,6 +138,7 @@ style:
   - Ancient architecture
 
 #### Round Table
+
 - **Concept**: Collaborative Learning
 - **Image**: Sheep knights at round table
 - **Details**:
@@ -133,6 +148,7 @@ style:
   - Group dynamics
 
 #### Incubator
+
 - **Concept**: Idea Development
 - **Image**: Rick and Morty-style basement
 - **Details**:
@@ -142,6 +158,7 @@ style:
   - Innovation theme
 
 #### Academy
+
 - **Concept**: Formal Education
 - **Image**: Classroom setting
 - **Details**:
@@ -151,6 +168,7 @@ style:
   - Learning environment
 
 #### Observatory
+
 - **Concept**: Exploration
 - **Image**: Astronomical setting
 - **Details**:
@@ -160,6 +178,7 @@ style:
   - Starry night sky
 
 #### Bazaar
+
 - **Concept**: Knowledge Exchange
 - **Image**: Small shop setting
 - **Details**:
@@ -169,6 +188,7 @@ style:
   - Trading theme
 
 #### Forge
+
 - **Concept**: Skill Development
 - **Image**: Blacksmith setting
 - **Details**:
@@ -178,6 +198,7 @@ style:
   - Craftsmanship
 
 #### About
+
 - **Concept**: Professional Identity
 - **Image**: Business setting
 - **Details**:
@@ -190,6 +211,7 @@ style:
 To achieve the unique and thematic imagery described (e.g., "Sheep knights at round table"), we plan to utilize AI-powered image generation tools. This approach allows for creative flexibility and the ability to produce a large number of bespoke images aligned with our "Curious Sheep" theme.
 
 *Considerations for AI Image Generation:*
+
 -   **Prompt Crafting:** Developing detailed and effective prompts will be key to achieving the desired artistic style (Vintage Travel Posters, Watercolor, Oil Painting) and specific scene compositions.
 -   **Stylistic Consistency:** Efforts will be made to maintain a consistent visual style for images within the same section or across the site, even when generated at different times or by different contributors.
 -   **Iteration:** Expect an iterative process of prompt refinement and image generation to arrive at the final visuals.
@@ -198,6 +220,7 @@ To achieve the unique and thematic imagery described (e.g., "Sheep knights at ro
 ## Implementation Guidelines
 
 ### Image Requirements
+
 1. **Resolution**
    - Minimum: 1920x1080
    - Optimal: 2560x1440
@@ -214,6 +237,7 @@ To achieve the unique and thematic imagery described (e.g., "Sheep knights at ro
    - Responsive images
 
 ### Design Principles
+
 1. **Consistency**
    - Maintain theme
    - Use brand colors
@@ -232,6 +256,7 @@ To achieve the unique and thematic imagery described (e.g., "Sheep knights at ro
 ## Future Considerations
 
 ### Style Evolution
+
 1. **Seasonal Updates**
    - Holiday themes
    - Special events
@@ -263,9 +288,9 @@ To achieve the unique and thematic imagery described (e.g., "Sheep knights at ro
 # Sources of Inspiration
 
 1. mkdocs
-   - website - https://squidfunk.github.io/mkdocs-material/
-   - repo - https://github.com/squidfunk/mkdocs-material
-2. 
-   - website - https://www.privacyguides.org/en/
-   - repo - https://github.com/privacyguides/privacyguides.org
+   - website - <https://squidfunk.github.io/mkdocs-material/>
+   - repo - <https://github.com/squidfunk/mkdocs-material>
+2.
+   - website - <https://www.privacyguides.org/en/>
+   - repo - <https://github.com/privacyguides/privacyguides.org>
 

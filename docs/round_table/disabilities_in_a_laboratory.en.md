@@ -105,10 +105,11 @@ tags:
     - Description: There are numerous open-source designs available for 3D-printing assistive tools, such as custom pipette grips, syringe holders, and vial openers. These can be found on platforms like Thingiverse or the NIH 3D Print Exchange.
 
 # Sources
-1. https://www.reddit.com/r/AskAcademia/comments/10ayrwc/challenges_facing_physically_disabled_individuals/
-2. https://disabledinstem.wordpress.com/
-3. https://www.printables.com/tag/laboratory
-4. https://www.coloradd.net/en/
-5. https://ab.math.bas.bg/en/2025/03/30/assistive-technologies-for-color-blindness-color-vision-deficiency/
-6. https://www.wcsu.edu/accessability/assistive-technology-lab/
-7. https://youtu.be/x-v4QinR0GY?si=LBX92MXd1v5PAaC1
+
+1. <https://www.reddit.com/r/AskAcademia/comments/10ayrwc/challenges_facing_physically_disabled_individuals/>
+2. <https://disabledinstem.wordpress.com/>
+3. <https://www.printables.com/tag/laboratory>
+4. <https://www.coloradd.net/en/>
+5. <https://ab.math.bas.bg/en/2025/03/30/assistive-technologies-for-color-blindness-color-vision-deficiency/>
+6. <https://www.wcsu.edu/accessability/assistive-technology-lab/>
+7. <https://youtu.be/x-v4QinR0GY?si=LBX92MXd1v5PAaC1>

@@ -10,12 +10,14 @@ tags:
 # Taking Inspiration
 
 ## Overview
-Taking inspiration from others can help us to form general picture of how everyone doing it, and improve our ideas. 
+
+Taking inspiration from others can help us to form general picture of how everyone doing it, and improve our ideas.
 This document catalogs and analyzes various sources of inspiration for the Wanna be Polymath project, including portfolio websites, personal blogs, and knowledge bases. It serves as a reference for design decisions, technical choices, and content organization strategies.
 
 ## Research Methodology
 
 ### Search Strategy
+
 1. **Keywords**
    - Portfolio website
    - Personal website
@@ -43,8 +45,9 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ### 1. Portfolio Websites
 
 #### HamishMW Portfolio
-- **URL**: https://github.com/HamishMW/portfolio
-- **Tech Stack**: 
+
+- **URL**: <https://github.com/HamishMW/portfolio>
+- **Tech Stack**:
   - Next.js
   - Three.js
   - Remix
@@ -53,13 +56,14 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
   - Interactive 3D elements
   - Modern design
   - Smooth animations
-- **Relevance**: 
+- **Relevance**:
   - Strong visual appeal
   - Modern tech stack
   - Good performance
 
 #### Fireship.io
-- **URL**: https://fireship.io/
+
+- **URL**: <https://fireship.io/>
 - **Tech Stack**:
   - Svelte
   - Tailwind
@@ -78,7 +82,8 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ### 2. Knowledge Bases
 
 #### Privacy Guides
-- **URL**: https://github.com/privacyguides/privacyguides.org
+
+- **URL**: <https://github.com/privacyguides/privacyguides.org>
 - **Tech Stack**: MkDocs
 - **Key Features**:
   - Clear documentation
@@ -92,7 +97,8 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ### 3. Personal Blogs
 
 #### Jeff Geerling
-- **URL**: https://www.jeffgeerling.com/
+
+- **URL**: <https://www.jeffgeerling.com/>
 - **Tech Stack**: Drupal
 - **Key Features**:
   - Technical content
@@ -103,7 +109,8 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
   - Good content structure
 
 #### Techno Tim
-- **URL**: https://technotim.live/
+
+- **URL**: <https://technotim.live/>
 - **Tech Stack**: Jekyll
 - **Key Features**:
   - Technical tutorials
@@ -116,6 +123,7 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ## Analysis and Insights
 
 ### Common Patterns
+
 1. **Content Organization**
    - Clear navigation
    - Logical structure
@@ -132,6 +140,7 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
    - Good typography
 
 ### Lessons Learned
+
 1. **Content Structure**
    - Keep navigation simple
    - Use clear categories
@@ -150,6 +159,7 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ## Implementation Decisions
 
 ### Adopted Features
+
 1. **From Portfolio Sites**
    - Clean design principles
    - Performance optimization
@@ -166,6 +176,7 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
    - Community engagement
 
 ### Rejected Features
+
 1. **Complex Animations**
    - Reason: May impact performance
    - Alternative: Subtle transitions
@@ -181,6 +192,7 @@ This document catalogs and analyzes various sources of inspiration for the Wanna
 ## Future Considerations
 
 ### Features to Monitor
+
 1. **Interactive Elements**
    - Comments system
    - Search functionality

@@ -16,23 +16,23 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
 
 ## Items List
 
-1.  **[Toothbrush](./toothbrush.en.md)** 
+1.  **[Toothbrush](./toothbrush.en.md)**
     *   The primary tool for removing plaque and cleaning teeth.
-2.  **[Toothpaste](./toothpaste.en.md)** 
+2.  **[Toothpaste](./toothpaste.en.md)**
     *   The paste used with a toothbrush to aid in cleaning and deliver active ingredients.
-3.  **[Floss](./floss.en.md)** 
+3.  **[Floss](./floss.en.md)**
     *   Used to clean between teeth where a toothbrush can't reach.
-4.  **Mouthwash** 
+4.  **Mouthwash**
     *   A liquid rinse used to kill bacteria, freshen breath, and deliver therapeutic ingredients.
-5.  **[Tongue Scraper](./tongue-scraper.en.md)** 
+5.  **[Tongue Scraper](./tongue-scraper.en.md)**
     *   A tool for removing bacteria and debris from the tongue to improve breath and hygiene.
-6.  **Xylitol Gum** 
+6.  **Xylitol Gum**
     *   A convenient tool to help neutralize pH and inhibit bacteria after meals.
-7.  **Oral Microbiome Test Kit** 
+7.  **Oral Microbiome Test Kit**
     *   A diagnostic tool to analyze the composition of bacteria in the mouth.
-8.  **Saliva pH Test Strips** 
+8.  **Saliva pH Test Strips**
     *   A diagnostic tool to measure saliva acidity and assess real-time demineralization risk.
-9.  **Mouthguard** 
+9.  **Mouthguard**
     *   A protective device used to prevent injury from teeth grinding (bruxism) or during sports.
 
 ---
@@ -48,6 +48,7 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
 ## Key Concepts for Oral Care
 
 ### Foundational Health & Anatomy
+
 *   **Oral Microbiome:** The complex community of bacteria, fungi, and other microorganisms living in the mouth. A balanced microbiome is essential for health, while an imbalance can lead to disease.
 *   **Biofilm (Plaque):** A sticky, colorless film of bacteria that constantly forms on teeth. If not removed effectively, it hardens into tartar, causes cavities, and leads to gum disease.
 *   **Tartar (Calculus):** Plaque that has hardened and calcified onto the tooth surface. It can no longer be removed by brushing or flossing and requires professional cleaning.
@@ -55,10 +56,12 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
 *   **Gingivitis:** The earliest stage of gum disease, characterized by inflammation, redness, and swelling of the gums. It is reversible with proper oral hygiene.
 
 ### Key Processes & Phenomena
+
 *   **Demineralization & Remineralization:** The constant process of minerals being lost from (demineralization) and added back to (remineralization) the tooth enamel. Demineralization is caused by acids from bacteria and food; remineralization is aided by saliva and ingredients like fluoride and hydroxyapatite.
 *   **Oral pH & The Stephan Curve:** The Stephan Curve is a graph showing the rapid drop in plaque pH into an acidic, demineralizing range after consuming carbohydrates, followed by a slow recovery to a neutral pH over 30-60 minutes. Minimizing time in the acidic zone is key to preventing cavities.
 
 ### Ingredients & Agents
+
 *   **Fluoride:** A mineral proven to prevent tooth decay by making tooth enamel more resistant to acid attacks and by promoting remineralization.
 *   **Hydroxyapatite (HAP):** The main mineral component of tooth enamel and dentin. Synthetic nano-hydroxyapatite is used in some toothpastes as a fluoride alternative, with the aim of directly helping to remineralize the tooth surface.
 *   **Xylitol:** A sugar alcohol that cavity-causing bacteria cannot metabolize, which helps to reduce their numbers and limit acid production.
@@ -66,6 +69,7 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
 *   **Triclosan:** An antibacterial agent previously used in some toothpastes, but now largely phased out due to concerns about antibiotic resistance and potential endocrine disruption.
 
 ### Tools, Practices & Standards
+
 *   **Brushing Technology:**
     - **Manual:** Relies on physical user motion to scrub teeth.
     - **Oscillating-Rotating Electric:** The brush head rotates back and forth in a circular motion. High-quality models are clinically proven to be more effective at removing plaque than manual brushes.
@@ -124,5 +128,5 @@ This section focuses on oral hygiene. The goal is to move beyond basic cleaning 
     *   *Link:* [https://youtu.be/_oOEKKiwdDE?si=DoHWd79OIjzxtWiP](https://youtu.be/_oOEKKiwdDE?si=DoHWd79OIjzxtWiP)
     *   *Note:* A breakdown of effective and beneficial ingredients to look for in toothpaste.
 
-https://www.youtube.com/@afterva
-https://afterva.com/
+<https://www.youtube.com/@afterva>
+<https://afterva.com/>

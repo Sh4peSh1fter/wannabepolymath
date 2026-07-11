@@ -13,4 +13,4 @@ Logic is the systematic study of valid rules of inference, i.e., the relations t
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

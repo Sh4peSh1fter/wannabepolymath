@@ -10,11 +10,13 @@ tags:
 # Accessibility Guidelines
 
 ## Overview
+
 This document outlines the accessibility standards and implementation guidelines for the Wanna be Polymath project. Our goal is to ensure that the platform is accessible to all users, regardless of their abilities, language, or technological constraints.
 
 ## Language Accessibility
 
 ### Primary Language
+
 - **English as Base Language**
   - Written from left to right
   - Clear, concise writing style
@@ -22,6 +24,7 @@ This document outlines the accessibility standards and implementation guidelines
   - Use simple sentence structures
 
 ### Translation Support
+
 1. **Language Selection**
    - User-friendly language switcher
    - Persistent language preference
@@ -45,6 +48,7 @@ This document outlines the accessibility standards and implementation guidelines
 ### Visual Impairments
 
 #### Screen Reader Support
+
 1. **Content Structure**
    - Semantic HTML
    - ARIA labels
@@ -64,6 +68,7 @@ This document outlines the accessibility standards and implementation guidelines
    - Text-to-speech support
 
 #### Color and Contrast
+
 1. **Color Blindness Support**
    - Color blind friendly palette
    - High contrast mode
@@ -79,6 +84,7 @@ This document outlines the accessibility standards and implementation guidelines
 ### Hearing Impairments
 
 #### Video Content
+
 1. **Subtitles**
    - Closed captions
    - Multiple language support
@@ -94,6 +100,7 @@ This document outlines the accessibility standards and implementation guidelines
 ### Motor Impairments
 
 #### Input Methods
+
 1. **Keyboard Navigation**
    - Full keyboard support
    - Shortcut keys
@@ -109,6 +116,7 @@ This document outlines the accessibility standards and implementation guidelines
 ## Technical Implementation
 
 ### Standards Compliance
+
 1. **WCAG 2.1 Guidelines**
    - Level AA compliance
    - Regular audits
@@ -122,6 +130,7 @@ This document outlines the accessibility standards and implementation guidelines
    - Feature detection
 
 ### Testing and Validation
+
 1. **Automated Testing**
    - Accessibility scanners
    - HTML validators
@@ -137,6 +146,7 @@ This document outlines the accessibility standards and implementation guidelines
 ## Content Guidelines
 
 ### Writing Style
+
 1. **Clarity**
    - Plain language
    - Short paragraphs
@@ -150,6 +160,7 @@ This document outlines the accessibility standards and implementation guidelines
    - Search functionality
 
 ### Media Content
+
 1. **Images**
    - Descriptive alt text
    - Decorative image handling
@@ -165,6 +176,7 @@ This document outlines the accessibility standards and implementation guidelines
 ## Licensing
 
 ### Open Source Considerations
+
 1. **License Options**
    - MIT License
    - Apache 2.0
@@ -180,6 +192,7 @@ This document outlines the accessibility standards and implementation guidelines
 ## Future Considerations
 
 ### Emerging Technologies
+
 1. **AI Integration**
    - Automated captions
    - Smart translations
@@ -193,6 +206,7 @@ This document outlines the accessibility standards and implementation guidelines
    - Mobile accessibility
 
 ### Community Engagement
+
 1. **Feedback System**
    - Accessibility reports
    - User suggestions

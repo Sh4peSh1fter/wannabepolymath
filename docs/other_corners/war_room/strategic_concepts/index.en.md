@@ -15,4 +15,4 @@ This section explores the doctrines, theories, and historical precedents that go
 
 ---
 
-*(No entries yet. You can add some!)* 
+*(No entries yet. You can add some!)*

@@ -57,4 +57,4 @@ The Bazaar is organized into several distinct topics, each containing sub-topics
 3.  Essential tools, cookware, and gadgets for your kitchen.
 4.  Curated list of high-quality food ingredients.
 5.  Products and tools to enhance your personal safety and security.
-6.  Items and accessories to beautify your living space. 
+6.  Items and accessories to beautify your living space.

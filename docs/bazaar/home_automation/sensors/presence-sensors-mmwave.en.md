@@ -138,14 +138,17 @@ My choice is the **Aqara FP2 Presence Sensor**.
 ## Phase 5: Post-Purchase Guide
 
 ### 1. Initial Setup (Aqara App)
+
 *   You must first set up the FP2 in the official Aqara Home app. This is required to connect it to your Wi-Fi network and update its firmware.
 *   During this process, you will define the room layout and create your detection zones (e.g., "Desk Area," "Couch," "Doorway").
 
 ### 2. Home Assistant Integration
+
 *   Once set up, add the Aqara integration in Home Assistant. It will automatically discover the FP2 on your network.
 *   The integration will create binary sensor entities for each zone you defined, as well as sensors for presence, light level, and fall detection. These entities will all update locally.
 
 ### 3. Best Practices for Placement
+
 *   **Mounting:** For best results, mount the FP2 in a corner of the room, high up on the wall, pointing down towards the center. This gives it the best vantage point to see the entire space.
 *   **Avoid Obstructions:** Ensure its view isn't blocked by large furniture.
 *   **Minimize False Positives:** Point the sensor away from sources of constant micro-motion, such as ceiling fans, curtains near an air vent, or robotic vacuum docks. You can also use the app to mark these areas as "interference zones" to be ignored.
@@ -155,10 +158,12 @@ My choice is the **Aqara FP2 Presence Sensor**.
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Power Supply
+
 *   **Requirement:** The Aqara FP2 is powered by USB-C. It requires a standard 5V/1A USB power adapter.
 *   **Recommendation:** Use a reliable power adapter from a reputable brand like Anker or Apple to ensure stable performance.
 
 ### 2. USB Cable
+
 *   **Included:** The FP2 comes with a USB-A to USB-C cable.
 *   **Extension:** If the included cable isn't long enough to reach your desired mounting location, you will need a longer USB-C cable. Ensure it is a good quality cable rated for power delivery.
 
@@ -167,10 +172,11 @@ My choice is the **Aqara FP2 Presence Sensor**.
 ## Sources & Further Reading
 
 ### YouTube Videos
+
 1.  **Smart Home Solver - "The Presence Sensor that Changes Everything"**
     *   *Note:* An excellent, in-depth review of the Aqara FP2's features, setup, and performance in Home Assistant.
 2.  **Everything Smart Home - "The Best Presence Sensor for Home Assistant?"**
-    *   *Note:* Compares the FP2 to various other Tuya and DIY mmWave sensors, highlighting the pros and cons of each approach. 
+    *   *Note:* Compares the FP2 to various other Tuya and DIY mmWave sensors, highlighting the pros and cons of each approach.
 
-https://www.reddit.com/r/homeassistant/comments/1dgeshm/which_mmwave_sensor_should_i_buy/
-https://www.reddit.com/r/homeassistant/comments/1e8hq48/whats_your_favourite_mmwave_sensor/
+<https://www.reddit.com/r/homeassistant/comments/1dgeshm/which_mmwave_sensor_should_i_buy/>
+<https://www.reddit.com/r/homeassistant/comments/1e8hq48/whats_your_favourite_mmwave_sensor/>

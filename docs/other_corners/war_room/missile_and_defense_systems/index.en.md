@@ -16,4 +16,5 @@ This section covers projectile-based weapon systems and the technologies designe
 ---
 
 # Sources
-1. https://www.youtube.com/@MilitarySummary10Minutes
+
+1. <https://www.youtube.com/@MilitarySummary10Minutes>

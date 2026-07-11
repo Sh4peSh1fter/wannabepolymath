@@ -220,10 +220,12 @@ This combination provides a complete, professional-grade solution for handling f
 Proper care for this set of high-quality stainless steel tweezers will ensure they remain precise and functional for a lifetime.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** For each pair, check that the tips align perfectly when closed. There should be no gaps. Test the tension to ensure it feels responsive and comfortable.
 *   **First-Time Cleaning:** Wash all three pairs thoroughly with warm, soapy water and dry them completely to remove any manufacturing oils or residues.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:**
     *   Use each tweezer for its intended purpose. Do not use the delicate offset tweezers for heavy-duty cooking tasks.
     *   Avoid using excessive force, which can bend the tips and ruin their alignment. Let the tool do the work.
@@ -233,10 +235,12 @@ Proper care for this set of high-quality stainless steel tweezers will ensure th
     *   Pay special attention to cleaning and drying the serrated tips, where small particles can get trapped.
 
 ### 3. Periodic Maintenance
+
 *   **Tip Realignment:** If a pair of tweezers is dropped or misused and the tips become slightly misaligned, it is sometimes possible to *gently* bend them back into place with smooth-jawed pliers. This should be done with extreme care.
 *   **Maintaining Tension:** Over time and with heavy use, the tension may lessen. There is no simple way to restore this, which is why starting with a high-quality tool is important.
 
 ### 4. Long-Term Storage
+
 *   Store the tweezers in a way that protects their tips from impact. Tossing them loosely into a crowded utensil drawer is a sure way to damage their alignment.
 *   A dedicated spot in a drawer organizer, a magnetic knife strip, or a tool roll are all excellent storage solutions.
 
@@ -247,6 +251,7 @@ Proper care for this set of high-quality stainless steel tweezers will ensure th
 The primary accessory for a set of precision tools like this is a proper storage solution to protect them.
 
 ### 1. Knife/Tool Roll
+
 *   **What to Look For:** A tool roll made of durable material like canvas, leather, or waxed fabric, with dedicated slots for each tweezer and other precision tools (like a paring knife or thermometer). This is how professional chefs transport and protect their essential gear.
 *   **Recommendation:** Look for a small, well-made tool roll from brands like Noble Home & Chef or Everpride.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=knife+roll)
@@ -284,4 +289,4 @@ This is a log of my personal research. I'd love to hear from you:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

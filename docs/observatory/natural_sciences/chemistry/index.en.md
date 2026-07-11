@@ -13,4 +13,4 @@ Chemistry is the scientific study of the properties and behavior of matter. It i
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

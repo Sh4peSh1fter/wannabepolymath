@@ -186,6 +186,7 @@ My choice is **Home Assistant**.
 **Reasoning:** It perfectly aligns with my desire for a system with a large community, extensive customization options, and a vast library of add-ons. While openHAB is a capable platform, Home Assistant's momentum, larger user base, and more beginner-friendly (yet still deeply powerful) approach make it the clear winner for my needs.
 
 **Where to Start:**
+
 *   **Official Website:** [home-assistant.io](https://www.home-assistant.io/)
 *   **Installation Guide:** [home-assistant.io/installation/](https://www.home-assistant.io/installation/)
 
@@ -196,6 +197,7 @@ My choice is **Home Assistant**.
 This section details how to get started with Home Assistant.
 
 ### 1. Hardware Selection & Initial Setup
+
 *   **Hardware Options:**
     *   **Good (Beginner):** Raspberry Pi 4 (4GB+ recommended) or Raspberry Pi 5.
     *   **Better (Recommended):** A dedicated device like the Home Assistant Green, ODROID-N2+, or a refurbished enterprise mini PC (e.g., Lenovo ThinkCentre, Dell Optiplex). These offer more power and reliability.
@@ -204,6 +206,7 @@ This section details how to get started with Home Assistant.
 *   **First Boot:** Connect the device to your network via Ethernet (recommended) and power it on. Access the web interface by navigating to `http://homeassistant.local:8123` in your browser.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Backups:** Use the built-in backup feature (or the Google Drive Backup add-on) to create regular, automated backups of your configuration. **This is critical.**
 *   **Updates:** Home Assistant releases updates monthly. Read the release notes for "Breaking Changes" before updating. It's wise to wait a few days after a release for any initial bugs to be patched.
 
@@ -212,6 +215,7 @@ This section details how to get started with Home Assistant.
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Zigbee Coordinator
+
 *   **What to Look For:** A USB dongle that is broadly compatible with open-source software like ZHA (Zigbee Home Automation, built into HA) and Zigbee2MQTT (a popular add-on). Look for modern chips like the TI CC2652P.
 *   **Recommendation:**
     *   **Sonoff Zigbee 3.0 USB Dongle Plus (Model "P"):** A popular, affordable, and powerful choice.
@@ -219,6 +223,7 @@ This section details how to get started with Home Assistant.
 *   **Where to Buy:** Amazon, AliExpress, specialty electronics stores.
 
 ### 2. Recommended Home Assistant Add-ons
+
 *   **Zigbee2MQTT:** An alternative to the built-in ZHA that supports a massive number of devices and offers deep configuration options.
 *   **File editor / Studio Code Server:** Allows you to edit your configuration files (like `configuration.yaml`) directly from the Home Assistant UI.
 *   **Google Drive Backup:** Automates backups of your Home Assistant instance to Google Drive.
@@ -230,11 +235,13 @@ This section details how to get started with Home Assistant.
 *A list of resources I consulted during this research.*
 
 ### Reputable Organizations & Consumer Information
+
 1.  **Home Assistant Official Documentation**
     *   *Link:* `https://www.home-assistant.io/docs/`
     *   *Note:* The single most important resource.
 
 ### Community Discussions
+
 1.  **Home Assistant Subreddit (r/homeassistant)**
     *   *Link:* `https://www.reddit.com/r/homeassistant/`
     *   *Note:* Excellent for troubleshooting, inspiration, and seeing what others are building.
@@ -243,9 +250,10 @@ This section details how to get started with Home Assistant.
     *   *Note:* The official place for support and in-depth discussion.
 
 ### YouTube Videos
+
 1.  **Smart Home Solver**
     *   *Link:* `https://www.youtube.com/@SmartHomeSolver`
     *   *Note:* High-quality videos on new devices, Home Assistant features, and project ideas.
 2.  **Everything Smart Home**
     *   *Link:* `https://www.youtube.com/@EverythingSmartHome`
-    *   *Note:* In-depth tutorials and reviews, particularly for DIY projects. 
+    *   *Note:* In-depth tutorials and reviews, particularly for DIY projects.

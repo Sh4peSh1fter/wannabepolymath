@@ -164,6 +164,7 @@ My choice is the **Weck 743 3/4 Liter Mold Jar**.
 **Reasoning:** It perfectly executes the essential features of a starter jar without any unnecessary and costly additions. Its design is timeless, its durability is proven, and its value is unmatched. While the KneadAce kit is clever, I prefer the minimalist, buy-it-for-life approach of the Weck jar and can easily use a rubber band and my existing high-quality spatula. The Weck jar is the pure, expert-recommended solution to the problem.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/s?k=weck+743+jar)
 *   [Crate & Barrel](https://www.crateandbarrel.com/weck-3-4-liter-canning-jar/s344941)
 *   [King Arthur Baking](https://shop.kingarthurbaking.com/items/weck-jar-3-4-liter)
@@ -175,11 +176,13 @@ My choice is the **Weck 743 3/4 Liter Mold Jar**.
 The beauty of the Weck jar system is its simplicity. Proper use and care are straightforward and will ensure the jar lasts a lifetime.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check the glass jar and lid for any chips or cracks from shipping.
 *   **First-Time Cleaning:** Wash the jar and lid thoroughly with soap and warm water, or run them through the dishwasher before the first use.
 *   **Set Aside Extras:** The Weck jar comes with a rubber gasket and two metal clips for canning. You will **not** need these for your sourdough starter. Store them away for other projects.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Lid Placement:** Simply rest the glass lid on top of the jar. **Do not use the rubber gasket or metal clips.** This creates the perfect loose-fitting cover that allows gas to escape while protecting your starter.
 *   **Cleaning Routine:** The best practice is to have **two** Weck jars. When it's time to feed your starter, simply transfer the amount you're keeping to the second, clean jar, then add the new flour and water. The dirty jar can then be easily washed by hand or in the dishwasher, ready for the next cycle. This prevents the buildup of dried starter, which can harbor mold.
 *   **Wiping the Rim:** After feeding, use a reusable cloth or paper towel to wipe any drips from the rim of the jar. This keeps the jar neat and prevents crusty buildup.
@@ -191,11 +194,13 @@ The beauty of the Weck jar system is its simplicity. Proper use and care are str
 While specialty kits are unnecessary, a few simple tools are essential companions to your starter jar.
 
 ### 1. Jar Spatula
+
 *   **What to Look For:** A long, slender silicone spatula is the perfect tool for stirring your starter and scraping down the sides of the jar. Look for one with a stiff handle but a flexible tip, and ideally a flat edge for effective scraping.
 *   **Recommendation:** The **OXO Good Grips Silicone Jar Spatula** is highly recommended by experts for its ideal shape and durability.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/OXO-Grips-Silicone-Jar-Spatula/dp/B00004OCM2)
 
 ### 2. Height Marker
+
 *   **What to Look For:** You need a simple way to track your starter's rise after feeding.
 *   **Recommendation:** A standard **rubber band**. It's reusable, easy to adjust, and costs nothing. Simply slip it over the jar and align it with the top of your freshly fed starter.
 *   **Where to Buy:** You likely already own one.
@@ -230,4 +235,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

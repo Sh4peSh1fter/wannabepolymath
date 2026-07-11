@@ -18,4 +18,4 @@ tags:
 
 - altruism
 - effective altruism
-- 
+-

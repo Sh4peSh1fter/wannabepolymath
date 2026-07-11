@@ -34,14 +34,13 @@ jobs:
       - name: Strict build
         run: poetry run mkdocs build --strict
 
-      # ADVISORY (non-blocking) gates. Surface issues without failing CI while the legacy
-      # content backlog (frontmatter, style) is worked down. Flip continue-on-error to
-      # false to make them blocking once the backlog is clean.
+      # ADVISORY (non-blocking) gates. Surface issues without failing CI while the remaining
+      # ~150 structural lint issues (multiple-H1, code-fence language, list indentation) are
+      # worked down. Flip continue-on-error to false to make them blocking once clean.
+      # Globs/ignores/rules come from .markdownlint-cli2.jsonc (no globs input here).
       - name: Lint Markdown (advisory)
         continue-on-error: true
         uses: DavidAnson/markdownlint-cli2-action@v19
-        with:
-          globs: "docs/**/*.md"
 
       - name: Check links (advisory)
         continue-on-error: true

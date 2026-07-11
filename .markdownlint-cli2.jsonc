@@ -1,0 +1,52 @@
+{
+  // markdownlint-cli2 configuration for the Wannabe Polymath knowledge base.
+  // Scope: published content only (templates, quarantined drafts, and non-page notes
+  // are ignored). Ruleset: pragmatic — disables purely cosmetic rules that Material
+  // renders fine regardless, and keeps rules that catch real structural/accessibility
+  // issues. The hard correctness gate is `mkdocs build --strict`; this is style polish.
+  "config": {
+    "default": true,
+
+    // --- Disabled: not applicable to Material Markdown, or purely cosmetic noise ---
+    "MD013": false, // line-length: prose is not hard-wrapped
+    "MD033": false, // inline HTML: Material grid cards / figures / annotate divs need it
+    "MD046": false, // code-block-style: snippets/annotations mix fenced & indented
+    "MD041": false, // first-line-h1: pages start with YAML frontmatter
+    "MD036": false, // emphasis-as-heading: false positives on bold labels
+    "MD030": false, // list-marker-space: cosmetic
+    "MD007": false, // ul-indent: cosmetic, varies with nested content
+    "MD004": false, // ul-style: mixed - and * is harmless
+    "MD026": false, // trailing-punctuation in headings (many are questions "...?")
+    "MD029": false, // ordered-list-prefix: cosmetic
+    "MD012": false, // multiple-consecutive-blank-lines: cosmetic
+    "MD060": false, // table-column-style: source pipe alignment; no effect on rendering
+
+    // --- Kept, but tuned ---
+    "MD024": { "siblings_only": true }, // duplicate headings OK under different parents
+    "MD025": { "front_matter_title": "" } // one H1 per page (title comes from frontmatter)
+
+    // Rules left at default (enforced): MD022/MD032 (blanks around headings/lists),
+    // MD034 (bare URLs), MD040 (fenced-code language), MD045 (image alt text),
+    // MD042 (empty links), MD009 (trailing spaces), MD010 (hard tabs), MD047 (final newline).
+  },
+  "globs": ["docs/**/*.md"],
+  "ignores": [
+    "**/_templates/**",
+    "**/_prompts_and_rules/**",
+    "**/_template*.md",
+    "**/README.md",
+    "docs/other_corners/improve_myself/temp.md",
+    // Quarantined drafts (status:draft) — not published, so not linted
+    "docs/other_corners/philosophy_and_mental_health/**",
+    "docs/bazaar/food/honey.md",
+    "docs/bazaar/food/olive_oil.md",
+    "docs/bazaar/health/supplements/**",
+    "docs/incubator/food/**",
+    "docs/incubator/furniture/dana_couch_armrest_table.md",
+    "docs/incubator/other/custom_keyboard.md",
+    "docs/other_corners/random/venetian_carnival.md",
+    "docs/other_corners/make_food/rule.md",
+    "docs/other_corners/improve_myself/6_additionals/**",
+    "docs/other_corners/improve_myself/5_daily_routine/general_habits/current_*.en.md"
+  ]
+}

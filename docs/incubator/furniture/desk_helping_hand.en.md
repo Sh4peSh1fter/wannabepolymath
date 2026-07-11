@@ -130,5 +130,5 @@ A collection of projects and videos that can provide inspiration and technical s
 5.  **DIY Helping Hands for Electronics:** [https://youtu.be/gMAh_ZKRNnQ?si=vTbE2JESTNDXHsCN](https://youtu.be/gMAh_ZKRNnQ?si=vTbE2JESTNDXHsCN) - *Video with practical tips and ideas.*
 6.  **Mechanical Arm Holder System:** [https://makerworld.com/en/models/1183365-mechanical-arm-holder-system#profileId-1194002](https://makerworld.com/en/models/1183365-mechanical-arm-holder-system#profileId-1194002) - *Another modular system with good design elements.*
 
-https://youtu.be/p0CqYqixMZY?si=XBAvPA2v546uwQ1-
-https://youtu.be/p0CqYqixMZY?si=GBJsdt9wf_fq_v19
+<https://youtu.be/p0CqYqixMZY?si=XBAvPA2v546uwQ1->
+<https://youtu.be/p0CqYqixMZY?si=GBJsdt9wf_fq_v19>

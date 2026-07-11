@@ -14,8 +14,8 @@ A curated list of resources for diving deeper into Nutrition.
 ## Websites & Online Publications
 
 1.  NutritionFacts.org
-    *   *Link*: https://nutritionfacts.org/
-    *   *Note*: 
+    *   *Link*: <https://nutritionfacts.org/>
+    *   *Note*:
 
 ## Videos & Documentaries
 

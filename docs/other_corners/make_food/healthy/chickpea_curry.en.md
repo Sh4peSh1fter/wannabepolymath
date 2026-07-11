@@ -8,8 +8,9 @@ tags:
 ---
 
 vegan
-sources: 
-- https://rainbowplantlife.com/chickpea-curry/
+sources:
+
+- <https://rainbowplantlife.com/chickpea-curry/>
 
 ---
 

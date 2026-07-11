@@ -15,6 +15,7 @@ This document dives into the organizational heart of the Wanna be Polymath proje
 ## What We're Building
 
 We're creating a space that needs to handle:
+
 - Different types of content
 - Various levels of depth
 - Multiple disciplines
@@ -46,6 +47,7 @@ We've set some ground rules to keep things clear and user-friendly:
 Here's what we're working with, described in a more active way:
 
 ### Content Types
+
 - Crafting insightful **Articles**
 - Sharing experiences and thoughts via **Blog Posts**
 - Delivering focused updates as **Posts**
@@ -54,6 +56,7 @@ Here's what we're working with, described in a more active way:
 - Mapping knowledge with **Topic Maps** (keywords, sources, etc.)
 
 ### Content Themes
+
 - Problem and solution (analysis / debate)
 - Personal project development (Idea development)
 - Learning guide (educational content)
@@ -62,7 +65,8 @@ Here's what we're working with, described in a more active way:
 - Weekly corner (action list that repeats each week, with a defined theme)
 
 ## Lint of thought
-The line of thought goes as follows:   
+
+The line of thought goes as follows:
 from our day to day we discover new topics and add them to the `Observatory`.  
 While we learn them, we can brainstorm problems and solutions in the `Round Table`.  
 From there we create ideas which we put in the `Incubator`.  
@@ -75,7 +79,9 @@ Throught the journey we also meet inspiring people which we put in the `Hall of 
 The navigation structure is effected from the content types and themes, and we have few options to go with:
 
 ### Option 1: Type-Based (Less Recommended for Primary Structure)
+
 Organizes content primarily by its format (e.g., Articles, Blogs, Projects).
+
 - **Pros:** Clear for users looking for a specific *type* of content.
 - **Cons:** Can be difficult to find all information on a specific *subject* if it exists in multiple formats. May feel too generic for the "Wanna be Polymath" vision.
 
@@ -98,7 +104,9 @@ Organizes content primarily by its format (e.g., Articles, Blogs, Projects).
 ```
 
 ### Option 2: Topic-Based (Strong for Knowledge Organization)
+
 Organizes content primarily by subject matter or discipline.
+
 - **Pros:** Excellent for users seeking information on a specific topic. Familiar and intuitive for knowledge bases.
 - **Cons:** Might obscure the unique *purpose-driven* sections you've envisioned (Round Table, Incubator, etc.) if these become secondary.
 
@@ -124,6 +132,7 @@ Organizes content primarily by subject matter or discipline.
 This approach combines the engaging nature of your theme-based "Corners" with the clarity of topic-based organization, aiming for the best of both worlds.
 
 **Core Idea:**
+
 -   **Primary Navigation by Thematic "Corners":** The main site sections are your uniquely named "Corners" (Round Table, Incubator, Academy, Observatory, Bazaar, Forge). These define the *purpose, style, and type of interaction* for the content within them.
 -   **Strong Secondary Organization by "Topics":** Every piece of content, regardless of its Corner, is *critically* tagged with relevant topics/disciplines (e.g., DevOps, Neuroscience, Philosophy). This tagging is the backbone of our topic-centric discoverability.
 -   **Dedicated Topic Hub Pages:** For each major topic, a dedicated hub page is created. This page aggregates and links to all content related to that topic from *across all Corners*. For example, a "DevOps" topic page would show:
@@ -159,11 +168,13 @@ This approach combines the engaging nature of your theme-based "Corners" with th
 │   └── ...
 └── Other_Corners/ (If needed for unique, non-topic-specific recurring content)
 ```
+
 The `Other_Corners/` directory is a placeholder for any future unique, recurring content themes that don't fit existing Corners or Topic-based aggregation, ensuring flexibility.
 
 **Addressing Discoverability:**
 
 This hybrid model tackles the discoverability challenge in several ways:
+
 1.  **Thematic Exploration:** Users can browse by "Corner" if they're interested in a particular type of content or interaction (e.g., "I want to learn something new" -> Academy; "I want to explore problems and solutions" -> Round Table).
 2.  **Topic-Focused Exploration:** Users can go to the "Topics" section or a specific Topic Hub page to find all content related to a subject they are interested in, regardless of where it "lives" thematically.
 3.  **Powerful Search:** A robust search engine is crucial. It should allow filtering by:
@@ -177,6 +188,7 @@ This hybrid model tackles the discoverability challenge in several ways:
 6.  **Clear Signposting:** Each piece of content should clearly indicate its primary "Corner" and associated "Topic(s)". Breadcrumbs should reflect this structure.
 
 **Benefits of the Hybrid Approach:**
+
 -   Maintains your project's unique, engaging thematic identity.
 -   Provides clear pathways for users with different goals (browsing vs. specific search).
 -   Scales well as you add more topics and content.
@@ -189,13 +201,16 @@ I decided to divide it into 6 main sections (Corners), each unique in its purpos
 ## Content Guidelines
 
 ### Templates
+
 Each section includes:
+
 - Clear introduction
 - Purpose statement
 - Content guidelines
 - Contribution guide
 
 ### Naming Rules
+
 - Use lowercase
 - Underscores for spaces (`lowercase_with_underscores`)
 - Be descriptive
@@ -205,6 +220,7 @@ Each section includes:
 > and content-type conventions.
 
 ### File Organization
+
 - Group related content
 - Clear hierarchies
 - Consistent structure
@@ -213,18 +229,21 @@ Each section includes:
 ## Future Plans
 
 ### Growth
+
 - Plan for more content
 - Consider new sections
 - Stay flexible
 - Keep improving
 
 ### Maintenance
+
 - Regular reviews
 - Content audits
 - Navigation checks
 - User feedback
 
 ### Community
+
 - Gather input
 - Test changes
 - Document updates
@@ -233,18 +252,21 @@ Each section includes:
 ## How We'll Know It Works
 
 ### Navigation
+
 - Easy to find content
 - Clear user paths
 - Effective search
 - Happy users
 
 ### Organization
+
 - Content in right place
 - Easy to update
 - Clear structure
 - No confusion
 
 ### User Experience
+
 - Intuitive navigation
 - Easy discovery
 - Clear purpose
@@ -259,6 +281,7 @@ Our project's structure, like knowledge itself, is designed to be a living thing
 Our digital front porch! The landing page is the first glimpse into the Wanna be Polymath world, so it needs to be eye-catching, concise, and intriguing. It will offer a "tip of the iceberg" overview of the project's purpose, our shared vision, how to navigate the platform, and how you can jump in and contribute.
 
 **Content Focus:**
+
 -   A welcoming introduction to the project.
 -   A concise explanation of the "Wanna be Polymath" philosophy (drawing from [Vision](./vision.md)).
 -   Highlights of the main sections (Corners) and what users can find in each.
@@ -266,6 +289,7 @@ Our digital front porch! The landing page is the first glimpse into the Wanna be
 -   Featured or recent content snippets to draw users in.
 
 **Guiding Questions / Theme:**
+
 -   What is this place all about?
 -   How can I start exploring and learning?
 -   Where should I begin my journey?
@@ -275,6 +299,7 @@ Our digital front porch! The landing page is the first glimpse into the Wanna be
 This is our collaborative space for dissecting challenges and envisioning a better future. Here, we identify potential problems across various topics, brainstorm innovative solutions, and conceptualize projects that could bring these solutions to life. The spirit is objective, open-minded, and focused on actionable strategies for positive change. Promising projects identified here may graduate to the "Incubator" for active development.
 
 **Content Organization:**
+
 -   An introductory page explaining the Round Table's mission and approach.
 -   Templates to guide structured discussions (e.g., problem definition, solution brainstorming, project outlining).
 -   Dedicated sections or pages for each <topic> under discussion, typically containing:
@@ -285,6 +310,7 @@ This is our collaborative space for dissecting challenges and envisioning a bett
 > **Note on Structuring Discussions:** We need to ensure templates allow for cross-referencing solutions that might apply to multiple problems or topics. This will be key for interdisciplinary insights.
 
 **Guiding Questions / Theme:**
+
 -   What are the pressing problems or overlooked challenges within this topic?
 -   What are the potential negative impacts or risks we should consider?
 -   What innovative solutions could address these problems effectively?
@@ -296,6 +322,7 @@ This is our collaborative space for dissecting challenges and envisioning a bett
 The Incubator is our portfolio of active creation – a showcase of all the projects and fledgling ideas being nurtured and developed within the Wanna be Polymath community. It's where concepts turn into tangible outcomes. If our community grows, this space will also feature and perhaps focus on community-led projects, aligning with our open and collaborative vision.
 
 **Content Organization:**
+
 -   An introductory page detailing the Incubator's role in fostering innovation.
 -   Templates for project proposals and progress documentation.
 -   A section for **Ideas Under Development:**
@@ -304,6 +331,7 @@ The Incubator is our portfolio of active creation – a showcase of all the proj
     -   Detailed pages for <project 1>, <project 2>, etc., including goals, progress, challenges, and outcomes.
 
 **Guiding Questions / Theme:**
+
 -   What exciting ideas are currently brewing in our community?
 -   What innovative projects are we actively working on, and what progress are we making?
 
@@ -312,6 +340,7 @@ The Incubator is our portfolio of active creation – a showcase of all the proj
 Welcome to the Academy, our center for learning and skill-sharing! This is where we publish tutorials, how-to guides, troubleshooting journals, and in-depth articles on a multitude of subjects. We're committed to delivering high-quality educational content in various formats, potentially including articles, videos, and interactive modules, to make learning as effective and engaging as possible.
 
 **Content Organization:**
+
 -   An introductory page outlining the Academy's educational mission.
 -   Templates for different content types (e.g., general articles, how-to guides, troubleshooting logs).
 -   Content organized by <topic>, further divided into:
@@ -322,6 +351,7 @@ Welcome to the Academy, our center for learning and skill-sharing! This is where
 > **Note on Content Definitions:** Templates should clearly define what constitutes a "general article," "how-to guide," and an "issue/troubleshooting journal," outlining their structure and helping contributors categorize their content effectively.
 
 **Guiding Questions / Theme:**
+
 -   What foundational knowledge is essential for understanding this topic?
 -   How can I perform specific tasks or apply concepts within this topic?
 -   What are common problems encountered in this topic, and how can I solve them?
@@ -331,6 +361,7 @@ Welcome to the Academy, our center for learning and skill-sharing! This is where
 The Observatory is where we map the constellations of knowledge. It's a space to collect, define, and connect the key terms, concepts, influential figures, and organizations we encounter across various disciplines. This helps us (and you!) to better understand, remember, and navigate the essential landmarks of any given subject area.
 
 **Content Organization:**
+
 -   An introductory page explaining the Observatory's role in knowledge mapping.
 -   Content structured by <topic>, containing:
     -   **Keywords & Concepts:** Definitions, explanations, and relationships between key terms.
@@ -339,6 +370,7 @@ The Observatory is where we map the constellations of knowledge. It's a space to
 > **Note on Keyword Categorization:** We should explore a more granular way to categorize keywords, perhaps into concepts, methodologies, tools, principles, etc., to enhance clarity and searchability.
 
 **Guiding Questions / Theme:**
+
 -   What are the fundamental keywords and core concepts of this topic?
 -   What essential terminology should I grasp to navigate this field of study effectively?
 
@@ -347,10 +379,12 @@ The Observatory is where we map the constellations of knowledge. It's a space to
 Step into the Bazaar, our vibrant marketplace of intriguing tidbits! This is where we share fascinating, small, and often random day-to-day facts, discoveries, and insights that we've stumbled upon. Content in the Bazaar will be highly diverse and perhaps a bit eclectic. Organization will primarily rely on robust tagging (by topic, keyword, date, etc.) to allow for flexible discovery. We might also explore curated collections or "featured random discoveries" over time to highlight interesting finds.
 
 **Content Organization:**
+
 -   An introductory page welcoming users to the serendipitous world of the Bazaar.
 -   A flexible structure, likely a stream of posts or a grid, with strong emphasis on tagging for categorization and search. We might organize by broad interest areas if natural groupings emerge.
 
 **Guiding Questions / Theme:**
+
 -   What interesting, surprising, or useful tidbit did I learn or encounter today?
 - (This section is intentionally open-ended to capture a wide array of brief insights)
 
@@ -371,12 +405,14 @@ live and grow.
 This is the section you're currently exploring! It's the central hub for understanding everything *about* the project itself.
 
 **Content Focus:**
+
 -   The project's **[Vision](./vision.md)**.
 -   This very **[Structure & Design](./structure_design.md)** document.
 -   Our **[Inspiration](./taking_inspiration.md)** and the research behind our choices.
 -   The **[Technology Stack](./tech_stack.md)** that powers the platform.
 
 **Guiding Questions / Theme:**
+
 -   What was the inspiration and thinking process behind this project?
 -   Why are things designed and structured the way they are?
 

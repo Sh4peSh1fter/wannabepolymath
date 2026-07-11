@@ -68,7 +68,7 @@ tags:
 
 <!-- Based on the gaps and opportunities we've found, outline our application ideas. -->
 
-1. [Product 1] 
+1. [Product 1]
     - Description:
         - [description]
     - What solutions does it use and how:

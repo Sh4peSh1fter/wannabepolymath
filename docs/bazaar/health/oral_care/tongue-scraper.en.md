@@ -186,9 +186,11 @@ My choice is the **Dr. Tung's Stainless Steel Tongue Scraper**.
 This section details how to get the most out of the Dr. Tung's Tongue Scraper.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Cleaning:** Wash thoroughly with warm water and soap before the first use.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:**
     1.  In front of a mirror, hold the scraper by both rubber grips.
     2.  Extend your tongue and place the curved edge as far back as is comfortable without gagging.
@@ -199,9 +201,11 @@ This section details how to get the most out of the Dr. Tung's Tongue Scraper.
 *   **Cleaning Routine:** After each use, rinse thoroughly with warm water and let it air dry completely before storing.
 
 ### 3. Periodic Maintenance
+
 *   **Deep Cleaning:** For a deeper sanitization, the scraper is dishwasher safe. You can also wash it with boiling water. It is made of medical-grade stainless steel and will not rust.
 
 ### 4. Long-Term Storage
+
 *   Store the clean, dry scraper in a dry location, like a medicine cabinet or a dedicated holder.
 
 ---
@@ -209,6 +213,7 @@ This section details how to get the most out of the Dr. Tung's Tongue Scraper.
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Travel Case
+
 *   **What to Look For:** Since the Dr. Tung's scraper does not include a case, a simple pouch or a generic hard-shell case designed for travel toothbrushes is a good option. Look for one that is ventilated to allow for air circulation.
 *   **Recommendation:** Generic travel cases are widely available on Amazon or at local drugstores.
 
@@ -219,6 +224,7 @@ This section details how to get the most out of the Dr. Tung's Tongue Scraper.
 *A list of resources I consulted during this research, categorized to ensure a well-rounded perspective.*
 
 ### Reputable Organizations & Consumer Information
+
 1.  Health.com: [The 9 Best Tongue Scrapers for a Cleaner Mouth, Backed by Dental Experts](https://www.health.com/condition/oral-health/tongue-scraper)
     *   *Note:* Provided an excellent overview of different types and top-rated products, including dentist recommendations.
 2.  WebMD: [Tongue Scraping: What to Know](https://www.webmd.com/oral-health/tongue-scraping)
@@ -227,6 +233,7 @@ This section details how to get the most out of the Dr. Tung's Tongue Scraper.
     *   *Note:* Included hands-on reviews and dentist advice, which helped confirm the top product candidates.
 
 ### Product Pages
+
 1.  Dr. Tung's: [Stainless Steel Tongue Cleaner](https://drtungs.com/products/stainless-steel-tongue-cleaner.html)
     *   *Note:* Official product information, features, and brand history.
 2.  MasterMedi on Amazon: [Tongue Scraper](https://www.amazon.com/MasterMedi-Scraper-Treatment-Stainless-Scrapers/dp/B0B257614L)
@@ -246,4 +253,4 @@ This is an ongoing process for me, and I'd love your input:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

@@ -31,22 +31,27 @@ Root vegetables (carrots, celery, onions) contribute beta-carotene (precursor to
 ## Ingredients (Base Recipe)
 
 ### Meat
+
 1. 2.5 kg beef suitable for long cooking (short ribs, chuck, or beef shoulder)
 
 ### Legumes & Grains
+
 2. 800 g cooked red beans
 3. 1 cup (approximately 200 g) uncooked wheat berries
 
 ### Vegetables
+
 4. 1 whole celery head, including leaves, roughly chopped
 5. 2 large onions, roughly chopped (not finely diced)
 6. 5 medium carrots, roughly chopped
 
 ### Flavor Enhancers
+
 7. 1–2 tablespoons tomato paste
 8. 1–2 tablespoons soy sauce
 
 ### Spices
+
 9. Paprika, to taste
 10. Chipotle powder or flakes, to taste
 11. Cumin, to taste
@@ -111,22 +116,27 @@ Approximate nutritional values per serving (assuming 6–8 servings from the ful
 ## מצרכים (מתכון בסיס)
 
 ### בשר
+
 1. 2.5 ק"ג בשר בקר לבישול ארוך (אסאדו, כתף או צלעות)
 
 ### קטניות ודגנים
+
 2. 800 גרם שעועית אדומה מבושלת
 3. 1 כוס (כ־200 גרם) חיטה לא מבושלת
 
 ### ירקות
+
 4. ראש סלרי שלם כולל עלים, חתוך גס
 5. 2 בצלים גדולים, חתוכים גס (לא קצוץ)
 6. 5 גזרים בינוניים, חתוכים גס
 
 ### משפרי טעם
+
 7. 1–2 כפות רסק עגבניות
 8. 1–2 כפות רוטב סויה
 
 ### תבלינים
+
 9. פפריקה, לפי הטעם
 10. צ'יפוטלה (אבקה או פתיתים), לפי הטעם
 11. כמון, לפי הטעם

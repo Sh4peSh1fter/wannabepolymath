@@ -179,6 +179,7 @@ My choice is the **OXO Good Grips Stainless Steel Scraper & Chopper**.
 **Reasoning:** It combines excellent blade performance with the most comfortable handle and the practical addition of measurement markings, making it the best all-around tool for my specific needs in a home baking and cooking context.
 
 **Where to Buy:**
+
 *   [Amazon](https://www.amazon.com/dp/B00004OCBC)
 *   [OXO Official Website](https://www.oxo.com/multi-purpose-scraper-chopper.html)
 
@@ -189,10 +190,12 @@ My choice is the **OXO Good Grips Stainless Steel Scraper & Chopper**.
 Getting the most out of the OXO Bench Scraper involves proper care to maintain its sharp edge and clean surface.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check that the blade is straight and the handle is secure with no defects.
 *   **First-Time Cleaning:** Wash thoroughly with warm, soapy water before its first use to remove any manufacturing residues. The OXO scraper is dishwasher-safe, so running it through a cycle is also a good first step.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Best Practices for Use:**
     *   When chopping, use a straight down-and-up motion rather than rocking the blade like a chef's knife.
     *   To protect the blade's edge, avoid scraping it against very hard surfaces like granite or tile with excessive force. It is ideal for use on wood, composite, or plastic cutting boards.
@@ -202,10 +205,12 @@ Getting the most out of the OXO Bench Scraper involves proper care to maintain i
     *   The scraper is dishwasher-safe. Place it securely in the utensil basket or on the top rack.
 
 ### 3. Periodic Maintenance
+
 *   **Edge Maintenance:** The bench scraper's edge is not designed for razor-sharpness like a knife, but if it becomes nicked or significantly dulled over time, it can be gently honed with a few passes on a sharpening steel or the fine side of a whetstone to smooth out any burrs. This should rarely be necessary with normal use.
 *   **Handle Care:** The silicone handle requires no special maintenance, but ensure it is dried thoroughly to prevent any water from sitting in the seam.
 
 ### 4. Long-Term Storage
+
 *   Store the scraper in a drawer or utensil holder. Ensure it is completely dry before storing to prevent any risk of rust on the stainless steel blade, especially around the handle seam.
 
 ---
@@ -215,16 +220,19 @@ Getting the most out of the OXO Bench Scraper involves proper care to maintain i
 While a bench scraper is a standalone tool, its utility is enhanced when paired with other key kitchen items.
 
 ### 1. Bowl Scraper
+
 *   **What to Look For:** A flexible silicone or plastic scraper with a curved edge that conforms to the shape of a mixing bowl. This is the right tool for getting every last bit of dough or batter out of a bowl, a task a rigid bench scraper cannot do.
 *   **Recommendation:** The Chef'n Pastrio set includes both a good bench scraper and a bowl scraper, or look for a simple, flexible one from a brand like Matfer Bourgeat.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=bowl+scraper)
 
 ### 2. Large Wooden Cutting Board / Work Surface
+
 *   **What to Look For:** A large, stable wooden board (maple, walnut, or cherry) provides an ideal surface for kneading dough and using the bench scraper. The wood is forgiving on the scraper's edge and provides a contained area for working with flour.
 *   **Recommendation:** A large Boos Block or a comparable edge-grain cutting board offers a fantastic work surface.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=boos+block+cutting+board)
 
 ### 3. Proofing Baskets (Bannetons)
+
 *   **What to Look For:** For bakers making sourdough or other artisan breads, bannetons are essential for the final proofing stage. They help the dough maintain its shape and can create beautiful spiral patterns on the crust.
 *   **Recommendation:** Look for round or oval baskets made from natural cane, paired with a linen liner.
 *   **Where to Buy:** [Amazon](https://www.amazon.com/s?k=banneton+proofing+basket)
@@ -259,4 +267,4 @@ This is a log of my personal research. I'd love to hear from you:
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

@@ -10,11 +10,13 @@ tags:
 # Technology Stack
 
 ## Overview
+
 This document outlines the technology decisions for the Wanna be Polymath project, including the rationale behind choosing specific technologies and the evaluation process for alternatives.
 
 ## Requirements Analysis
 
 ### Core Requirements
+
 1. **Simplicity**
    - Easy to learn and maintain
    - Minimal complexity
@@ -38,14 +40,19 @@ This document outlines the technology decisions for the Wanna be Polymath projec
 ## Architecture Decision Records (ADRs)
 
 ### ADR 1: Static Site Generator Selection
+
 #### Status: Accepted
+
 #### Context
+
 Need a solution that balances simplicity with functionality for a content-focused website.
 
 #### Decision
+
 Use MkDocs with Material theme as the primary static site generator.
 
 #### Rationale
+
 - Markdown-based content creation
 - Built-in search functionality
 - Responsive design
@@ -55,6 +62,7 @@ Use MkDocs with Material theme as the primary static site generator.
 - Version control friendly
 
 #### Alternatives Considered
+
 1. **Jekyll**
    - Pros: Mature, large community
    - Cons: Ruby dependency, slower build times
@@ -72,6 +80,7 @@ Use MkDocs with Material theme as the primary static site generator.
    - Cons: More complex than needed
 
 #### Consequences
+
 - Positive:
   - Simple content management
   - Easy deployment
@@ -81,14 +90,19 @@ Use MkDocs with Material theme as the primary static site generator.
   - Basic search capabilities
 
 ### ADR 2: Hosting Solution
+
 #### Status: Accepted
+
 #### Context
+
 Need reliable, cost-effective hosting for a static website.
 
 #### Decision
+
 Use GitHub Pages for hosting.
 
 #### Rationale
+
 - Free hosting
 - Direct integration with Git
 - Automatic deployment
@@ -97,6 +111,7 @@ Use GitHub Pages for hosting.
 - Custom domain support
 
 #### Alternatives Considered
+
 1. **Vercel**
    - Pros: Great performance, easy deployment
    - Cons: Free tier limitations
@@ -110,6 +125,7 @@ Use GitHub Pages for hosting.
    - Cons: More complex setup
 
 #### Consequences
+
 - Positive:
   - Zero hosting costs
   - Simple deployment
@@ -121,6 +137,7 @@ Use GitHub Pages for hosting.
 ## Implementation Details
 
 ### 1. Core Technologies
+
 - **Static Site Generator**: MkDocs
 - **Theme**: Material for MkDocs
 - **Content Format**: Markdown
@@ -128,6 +145,7 @@ Use GitHub Pages for hosting.
 - **Hosting**: GitHub Pages
 
 ### 2. Key Features
+
 - **Search**: MkDocs Material built-in search
 - **Navigation**: Custom navigation structure
 - **Formatting**: Markdown with extensions
@@ -135,6 +153,7 @@ Use GitHub Pages for hosting.
 - **Comments**: GitHub Issues (optional)
 
 ### 3. Development Workflow
+
 1. **Content Creation**
    - Write in Markdown
    - Use consistent formatting
@@ -153,21 +172,25 @@ Use GitHub Pages for hosting.
 ## Future Considerations
 
 ### Scalability
+
 - Content growth handling
 - Performance optimization
 - Search improvements
 
 ### Feature Additions
+
 - Comment system
 - Newsletter integration
 - Advanced analytics
 
 ### Maintenance
+
 - Regular updates
 - Security patches
 - Performance monitoring
 
 ## Success Metrics
+
 1. **Performance**
    - Page load times
    - Build times
@@ -184,6 +207,7 @@ Use GitHub Pages for hosting.
    - Documentation quality
 
 ## References
+
 - [MkDocs Documentation](https://www.mkdocs.org/)
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [GitHub Pages](https://pages.github.com/)
@@ -250,7 +274,7 @@ mkdocs for now.
 
 ## portfolios
 
-1. https://github.com/HamishMW/portfolio
+1. <https://github.com/HamishMW/portfolio>
    - technology stack: next.js, three.js, remix
    - hosted: cloudflare
 2.

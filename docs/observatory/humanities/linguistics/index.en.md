@@ -13,4 +13,4 @@ Linguistics is the scientific study of language. It involves analyzing language 
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

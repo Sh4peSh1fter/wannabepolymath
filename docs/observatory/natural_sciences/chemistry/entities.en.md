@@ -15,7 +15,7 @@ A list of key individuals who have made significant contributions to chemistry.
 
 <!-- a list of -->
 
- - [Figure Name] 
+ - [Figure Name]
     - *Description* - A brief description of their foundational contributions.
     - *Link* - [Link to Wikipedia, biography, or major work]
 
@@ -23,7 +23,7 @@ A list of key individuals who have made significant contributions to chemistry.
 
 <!-- a list of all the modern age influencers -->
 
- - [Figure Name] 
+ - [Figure Name]
     - *Description* - A brief description of their recent or ongoing work.
     - *Link* - [Link to personal website, publications, or social media]
 
@@ -31,16 +31,16 @@ A list of key individuals who have made significant contributions to chemistry.
 
  - Natalie Cosmetics
     - *Description* - A cosmetics company.
-    - *Link* - https://www.nataliecosmetics.com/
+    - *Link* - <https://www.nataliecosmetics.com/>
 
 ## Organizations
 
- - [Organization Name] 
+ - [Organization Name]
     - *Description* - Brief description of their role and mission.
     - *Link* - [Link to personal website, publications, or social media]
 
 ## Academic & Research Institutions
 
- - [Institution Name] 
+ - [Institution Name]
     - *Description* -  Brief description of their focus and contributions.
     - *Link* - [Link to personal website, publications, or social media]

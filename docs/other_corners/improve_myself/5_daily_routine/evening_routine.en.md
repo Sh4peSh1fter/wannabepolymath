@@ -30,6 +30,7 @@ The evening routine is critical for winding down the nervous system, facilitatin
 The following routine is designed to gradually transition your body and mind from the active state of the day to the restorative state needed for sleep. Each step follows circadian science principles.
 
 ### 1. Zone 3 Exercise / Physical Activity
+
 - duration: 60 min
 - time slot: 18:40 - 19:40
 - **Action:** Engage in intense exercise (gym, running, sports, strength training). This is Zone 3+ training - vigorous intensity that elevates heart rate significantly.
@@ -41,6 +42,7 @@ The following routine is designed to gradually transition your body and mind fro
   3. "Physical activity and stress reduction" - *Psychoneuroendocrinology*, 2018
 
 ### 2. Dinner & Supplements
+
 - duration: 30 min
 - time slot: 19:40 - 20:10
 - **Action:** Eat a balanced dinner with lean protein, complex carbohydrates, and vegetables. Focus on easily digestible foods. Avoid large portions, spicy foods, and excess fats.
@@ -52,6 +54,7 @@ The following routine is designed to gradually transition your body and mind fro
   3. "Evening supplement timing" - *Chronobiology International*, 2019
 
 ### 4. Wind-Down & Light Management
+
 - duration: 90 min
 - time slot: 21:00 - 22:30
 - **Action:** **IMMEDIATELY** dim all lights in your home to <50 lux. Use warm-toned bulbs (2700K or lower). Begin engaging in calm activities: reading physical books, gentle stretching, listening to music, or quality time with family/friends.
@@ -63,6 +66,7 @@ The following routine is designed to gradually transition your body and mind fro
   3. "Evening light and circadian phase" - *Current Biology*, 2020
 
 ### 5. Evening Skincare (Optional)
+
 - duration: 10 min
 - time slot: 21:00 - 21:10
 - **Action:** Complete evening skincare routine under dim, warm lighting: gentle cleanser, treatment products (retinol, acids), moisturizer. Avoid bright bathroom lights.
@@ -73,6 +77,7 @@ The following routine is designed to gradually transition your body and mind fro
   2. "Retinoid therapy timing" - *Journal of Clinical Medicine*, 2020
 
 ### 6. Digital Sunset & Final Preparations
+
 - duration: 20 min
 - time slot: 21:40 - 22:00
 - **Action:** Complete digital shutdown - all screens off. Prepare for the next day: lay out clothes, pack gym bag, set up coffee maker. Create a physical and mental sense of completion.
@@ -83,6 +88,7 @@ The following routine is designed to gradually transition your body and mind fro
   2. "Implementation intentions and morning efficiency" - *Applied Psychology*, 2017
 
 ### 7. Oral Care
+
 - duration: 10 min
 - time slot: 22:00 - 22:10
 - **Action:** Complete oral hygiene routine under dim lighting: brush teeth with fluoride toothpaste for 2 minutes, floss, use mouthwash if desired, clean tongue with tongue scraper.
@@ -93,6 +99,7 @@ The following routine is designed to gradually transition your body and mind fro
   2. "Periodontitis and sleep disorders" - *Journal of Clinical Periodontology*, 2020
 
 ### 8. Reading & Final Relaxation (Optional)
+
 - duration: 20 min
 - time slot: 22:10 - 22:30
 - **Action:** Read a physical book under very dim, warm light (book light or bedside lamp <10 lux). Choose calming, non-stimulating content - avoid thrillers, work-related material, or emotionally charged topics.
@@ -103,6 +110,7 @@ The following routine is designed to gradually transition your body and mind fro
   2. "Progressive muscle relaxation and sleep quality" - *Sleep Medicine*, 2019
 
 ### 9. Sleep Initiation
+
 - duration: 5-15 min
 - time slot: 22:30 - 22:45
 - **Action:** Get into bed in a cool (18-20°C/65-68°F), completely dark room. Practice the 4-7-8 breathing technique or body scan meditation to help with sleep onset.

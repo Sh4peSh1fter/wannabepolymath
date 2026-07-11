@@ -13,4 +13,4 @@ Biology is the scientific study of life. It is a natural science with a broad sc
 
 - [Key Terms & Concepts](./keywords.en.md)
 - [Key Entities](./entities.en.md)
-- [Sources & Further Reading](./sources.en.md) 
+- [Sources & Further Reading](./sources.en.md)

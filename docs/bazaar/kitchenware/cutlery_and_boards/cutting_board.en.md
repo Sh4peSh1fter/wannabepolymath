@@ -120,7 +120,7 @@ First, I need to decide on the best *material* for my needs. The central challen
 ### Comparison Table of Types
 
 | Type | Health & Safety | Knife Care | Low Maintenance | Durability | Overall Match |
-|---|:---:|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: | :---: |
 | **Wood** | :white_check_mark: | :white_check_mark: | | :white_check_mark: | 3 / 4 |
 | **Composite** | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | 3 / 4 |
 | **Plastic** | :x: | | :white_check_mark: | :x: | 1 / 4 |
@@ -196,11 +196,11 @@ This is the main workhorse board. The goal is the best possible quality and knif
 #### Comparison Table: Primary Board
 
 | Product | Craftsmanship | Knife Care | Aesthetics | Price |
-|---|:---:|:---:|:---:|:---:|
+| --- | :---: | :---: | :---: | :---: |
 | **The Boardsmith** | :white_check_mark: | :white_check_mark: | | $$$$ |
 | **Larch Wood** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$$ |
-| **John Boos & Co.**| :white_check_mark: | :white_check_mark: | | $$$ |
-| **Brooklyn Butcher Blocks**| :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$$ |
+| **John Boos & Co.** | :white_check_mark: | :white_check_mark: | | $$$ |
+| **Brooklyn Butcher Blocks** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $$$$ |
 
 #### Conclusion on Primary Board
 
@@ -260,8 +260,8 @@ This board should be smaller, affordable, and visually distinct. An edge-grain b
 #### Comparison Table: Secondary Board
 
 | Product | Knife Care | Value | Suitability for Role | Price |
-|---|:---:|:---:|:---:|:---:|
-| **Ironwood Acacia**| :white_check_mark: | :white_check_mark: | :white_check_mark: | $ |
+| --- | :---: | :---: | :---: | :---: |
+| **Ironwood Acacia** | :white_check_mark: | :white_check_mark: | :white_check_mark: | $ |
 | **Totally Bamboo** | :x: | :white_check_mark: | | $ |
 | **Teakhaus Teak** | | :white_check_mark: | :white_check_mark: | $$ |
 | **John Boos Maple** | :white_check_mark: | | :white_check_mark: | $$ |
@@ -282,6 +282,7 @@ My final decision is to adopt the **Two-Wood-Board System**:
 This combination provides the best-in-class performance and health profile for daily use, paired with a cost-effective, safe solution for high-risk ingredients.
 
 **Where to Buy:**
+
 *   [The Boardsmith Website](https://theboardsmith.com/)
 *   [Ironwood Gourmet Acacia Board on Amazon](https://www.amazon.com/dp/B000S6L4I6)
 
@@ -292,24 +293,30 @@ This combination provides the best-in-class performance and health profile for d
 Proper care is essential for wood cutting boards to ensure they are hygienic and last a lifetime.
 
 ### 1. Unboxing and Initial Setup
+
 *   **Initial Inspection:** Check for any shipping damage, cracks, or open seams.
 *   **First-Time Cleaning:** Wash the board with a soft sponge, hot water, and a small amount of mild dish soap. Rinse and dry immediately and thoroughly.
 *   **Initial Oiling:** Even if it arrives oiled, it's best to apply your own layer of food-grade mineral oil. Apply generously, let it soak in overnight, and wipe off the excess.
 
 ### 2. Daily/Regular Use & Care
+
 *   **Cleaning Routine:** After every use, scrape off debris and wash with hot, soapy water. **Immediately** towel dry all surfaces completely.
 *   **Air Dry Fully:** Stand the board on its edge or on a drying rack to allow air to circulate around all sides. Never lay a wet board flat on the counter.
 
 ### 3. Periodic Maintenance
+
 *   **Oiling (Monthly):** At least once a month, or whenever the board looks dry or faded, apply a generous coat of food-grade mineral oil. Let it soak in for several hours or overnight, then wipe off the excess.
 *   **Conditioning (Optional but Recommended):** After oiling, apply a board cream or conditioner (a mix of mineral oil and beeswax). The beeswax adds an extra layer of moisture protection.
 *   **Deep Cleaning & Deodorizing:** To remove stains or smells, sprinkle the board with coarse salt and scrub with a half lemon. Let it sit for a few minutes, then scrape the paste off and rinse well.
 
 ### 4. Long-Term Storage
+
 *   Store the board on its side or on a rack in a dry area away from extreme temperature changes. Storing it flat can trap moisture underneath.
 
 ### Sanitizing the Raw Meat Board
+
 This must be done **immediately** after the daily cleaning step whenever the board has been in contact with raw meat.
+
 1.  **Prepare Solution:** After washing, prepare a sanitizing solution of **1 tablespoon of unscented chlorine bleach per 1 gallon of water**.
 2.  **Apply & Wait:** Flood the board surface with the solution and let it stand for several minutes.
 3.  **Rinse Thoroughly:** Rinse the board completely with clean water.
@@ -320,12 +327,14 @@ This must be done **immediately** after the daily cleaning step whenever the boa
 ## Phase 6: Essential Accessories & Add-Ons
 
 ### 1. Board Oil & Conditioner
+
 *   **What to Look For:**
     *   **Oil:** Pure, food-grade mineral oil is the standard. It's inexpensive, won't go rancid, and is readily available.
     *   **Conditioner/Cream:** A blend of mineral oil and beeswax (like Boos Block Board Cream or Howard Butcher Block Conditioner). The wax provides a protective top layer.
 *   **Recommendation:** A bottle of food-grade mineral oil and a tub of board cream.
 
 ### 2. Drying Rack
+
 *   **What to Look For:** A simple, sturdy rack that allows you to stand the board on its edge with full air circulation.
 *   **Recommendation:** A basic metal or bamboo plate rack works perfectly.
 
@@ -334,41 +343,45 @@ This must be done **immediately** after the daily cleaning step whenever the boa
 ## Sources & Further Reading
 
 ### Scientific Journals & Research Databases
+
 1.  Ak, N. O., Cliver, D. O., & Kaspar, C. W. (1994). **Cutting Boards of Plastic and Wood Contaminated Experimentally with Bacteria.** *Journal of Food Protection, 57*(1), 16–22.
     *   *Note:* Foundational study from the University of Wisconsin indicating wood can be more hygienic than scarred plastic.
 
 ### Reputable Organizations & Consumer Information
+
 1.  **The Best Cutting Boards.** *The New York Times (Wirecutter)*.
-    *   *Link:* https://www.nytimes.com/wirecutter/reviews/best-cutting-board/
+    *   *Link:* <https://www.nytimes.com/wirecutter/reviews/best-cutting-board/>
     *   *Note:* In-depth testing that recommends various boards, including the Ironwood as a top budget pick.
 2.  **The Best Wooden Cutting Boards.** *Serious Eats*.
-    *   *Link:* https://www.seriouseats.com/best-wooden-cutting-boards
+    *   *Link:* <https://www.seriouseats.com/best-wooden-cutting-boards>
     *   *Note:* Recommends the Ironwood as a great budget option and discusses end-grain vs. edge-grain.
 3.  **The Best Wood and Bamboo Cutting Boards.** *America's Test Kitchen*.
-    *   *Link:* https://www.americastestkitchen.com/equipment_reviews/1972-heavy-duty-cutting-boards
+    *   *Link:* <https://www.americastestkitchen.com/equipment_reviews/1972-heavy-duty-cutting-boards>
     *   *Note:* Names the Teakhaus board as its top pick and provides detailed analysis of wood types and construction.
 4.  **Cutting Board Safety.** *Academy of Nutrition and Dietetics*.
-    *   *Link:* https://www.eatright.org/food/home-food-safety/wash-and-separate-foods/cutting-board-safety
+    *   *Link:* <https://www.eatright.org/food/home-food-safety/wash-and-separate-foods/cutting-board-safety>
     *   *Note:* Provides official guidelines on cleaning and sanitizing, including for raw meat.
 
 ### Community Discussions
+
 1.  **r/chefknives subreddit.**
-    *   *Link:* https://www.reddit.com/r/chefknives/
+    *   *Link:* <https://www.reddit.com/r/chefknives/>
     *   *Note:* A community of knife and cookware enthusiasts where brands like The Boardsmith are frequently discussed and revered.
 2.  **Which of these is the best?** *r/Cooking subreddit*.
-    *   *Link:* https://www.reddit.com/r/Cooking/comments/1br2ty9/wooden_cutting_boards_which_of_these_is_the_best/
+    *   *Link:* <https://www.reddit.com/r/Cooking/comments/1br2ty9/wooden_cutting_boards_which_of_these_is_the_best/>
     *   *Note:* General community discussions confirming user experiences with different board materials and maintenance routines.
 
 ### Product Pages
+
 1.  **The Boardsmith.**
-    *   *Link:* https://theboardsmith.com/
+    *   *Link:* <https://theboardsmith.com/>
     *   *Note:* Official product page for the recommended primary board.
 2.  **Larch Wood Canada.**
-    *   *Link:* https://www.larchwood.com/
+    *   *Link:* <https://www.larchwood.com/>
     *   *Note:* Official product page for the alternative primary board.
 
 
-https://www.eatright.org/food/home-food-safety/wash-and-separate-foods/cutting-board-safety
+<https://www.eatright.org/food/home-food-safety/wash-and-separate-foods/cutting-board-safety>
 
 ---
 
@@ -380,4 +393,4 @@ https://www.eatright.org/food/home-food-safety/wash-and-separate-foods/cutting-b
 
 ---
 
-*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.* 
+*Disclaimer: This is a log of my personal research and decision-making process. Product features and prices are subject to change. Opinions are my own based on the information available at the time of writing.*

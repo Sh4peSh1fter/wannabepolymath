@@ -65,4 +65,4 @@ tags:
 
 # Sources
 
-https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/18nu3kk/i_just_finished_integrating_chat_gpt_into_a_billy/
+<https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/18nu3kk/i_just_finished_integrating_chat_gpt_into_a_billy/>

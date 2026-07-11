@@ -28,11 +28,13 @@ Tahini, made from sesame seeds, provides monounsaturated and polyunsaturated fat
 ## Ingredients (Base Recipe)
 
 ### Cabbage
+
 1. 1 head white or red cabbage (approximately 1–1.5 kg)
 2. 3 tablespoons high-quality olive oil
 3. Salt and black pepper, to taste
 
 ### For Serving (per portion, approximately ⅙ of cabbage)
+
 1. 3–4 tablespoons tahini salad (made from raw tahini, water, lemon juice, and salt)
 2. 1 teaspoon sumac
 3. 1 tablespoon chopped fresh herbs (parsley recommended)
@@ -91,11 +93,13 @@ Approximate nutritional values for one serving (⅙ of cabbage head with tahini 
 ## מצרכים (מתכון בסיס)
 
 ### כרוב
+
 1. ראש כרוב לבן או סגול (כ־1–1.5 ק"ג)
 2. 3 כפות שמן זית איכותי
 3. מלח ופלפל שחור, לפי הטעם
 
 ### להגשה (למנה אחת, כ־⅙ ראש כרוב)
+
 1. 3–4 כפות סלט טחינה (עשוי מטחינה גולמית, מים, מיץ לימון ומלח)
 2. 1 כפית סומאק
 3. 1 כף עשבי תיבול טריים קצוצים (מומלץ פטרוזיליה)

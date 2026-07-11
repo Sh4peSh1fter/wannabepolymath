@@ -21,22 +21,28 @@ At its heart, this project is about making learning accessible, engaging, and fu
 We've made some important choices about how we're building this platform. Here's the thinking behind them:
 
 ### 1. Open Knowledge
+
 **What we decided**: Make everything open source and community driven
-**Why**: 
+**Why**:
+
 - Ensuring transparency and making it easy for anyone to adopt or adapt the platform.
 - Knowledge should be accessible to everyone, without barriers.
 - Valuing community input and feedback as catalysts for improvement.
 - We learn more when we share and discuss openly.
 
 ### 2. Accessibility First
+
 **What we decided**: No barriers to entry
 **Why**:
+
 - Keeping knowledge freely accessible, without paywalls or mandatory registration.
 - Everyone should be able to learn and contribute as easily as possible, regardless of ability or background.
 
 ### 3. Quality & Care
+
 **What we decided**: Quality and thoughtfulness are paramount.
 **Why**:
+
 - Prioritizing meticulously crafted, well-documented content.
 - Committing to regular updates and fresh perspectives.
 - Encouraging community-reviewed material to ensure accuracy and relevance.
@@ -45,16 +51,19 @@ We've made some important choices about how we're building this platform. Here's
 ## How We'll Know We're Succeeding
 
 ### Content Quality
+
 - Is our content recognized for its depth, accuracy, and clarity?
 - Do users find our documentation clear, helpful, and easy to apply?
 - Are we consistently keeping things fresh, updated, and relevant?
 
 ### Community Health
+
 - Are we seeing consistent and meaningful community contributions and engagement?
 - Is the feedback predominantly positive, constructive, and fostering healthy discussion?
 - Are members forming valuable connections, collaborations, and a sense of belonging?
 
 ### Platform Performance
+
 - Is everything running smoothly, offering a seamless user experience?
 - Can people access the platform easily across various devices and connections?
 - Are we meeting or exceeding our accessibility standards (as outlined in [Accessibility Guidelines](./accessibility.md))?
@@ -64,16 +73,19 @@ We've made some important choices about how we're building this platform. Here's
 Our roadmap is a flexible guide, evolving as we learn and grow with our community.
 
 ### Short Term (First 6-12 months)
+
 - Establish the foundational structure and core features of the platform.
 - Begin populating content across our main thematic "Corners."
 - Cultivate our initial community of learners and contributors.
 
 ### Medium Term (1-2 years)
+
 - Significantly expand our content coverage across a diverse range of topics.
 - Introduce more interactive community features (e.g., forums, collaborative projects).
 - Enhance platform functionality and user experience based on feedback and analytics.
 
 ### Long Term (2+ years)
+
 - Become a go-to, trusted resource for multidisciplinary learning and exploration.
 - Nurture a thriving, self-sustaining global community of curious minds.
 - Champion a new appreciation for interdisciplinary learning and its power to solve complex problems and enrich lives.

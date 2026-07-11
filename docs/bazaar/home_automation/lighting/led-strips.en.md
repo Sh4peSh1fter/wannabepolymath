@@ -82,4 +82,4 @@ Smart LED strips are a versatile tool for both functional and aesthetic lighting
 
 ## Sources & Further Reading
 
-*(A list of resources will be added here, including guides from The Hook Up and other DIY lighting experts.)* 
+*(A list of resources will be added here, including guides from The Hook Up and other DIY lighting experts.)*
