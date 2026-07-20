@@ -1,49 +1,76 @@
 ---
-title: Key Entities in Nutrition
-description: Influential figures and organizations in Nutrition.
+title: "Key Entities — Nutrition"
+description: Key figures, organizations, and institutions in nutrition.
 tags:
   - topic:nutrition
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in Nutrition
+# Key Entities — Nutrition
 
-A list of key individuals who have made significant contributions to Nutrition.
+Key people, organizations, and institutions that shaped nutrition science. Entries are neutral
+and descriptive — what they are and why they matter.
 
 ## Key Figures
 
-<!-- a list of -->
+- **Ancel Keys**
+    - *Description*: American physiologist who studied the influence of diet on health; led the Seven Countries Study and popularized the diet–heart hypothesis and the Mediterranean diet.
+    - *Known for*: [Mediterranean diet](./keywords.en.md#dietary-patterns)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Ancel_Keys)
 
- - [Figure Name]
-    - *Description* - A brief description of their foundational contributions.
-    - *Link* - [Link to Wikipedia, biography, or major work]
+- **Casimir Funk**
+    - *Description*: Polish-American biochemist who formulated the concept of vitamins and coined the term "vitamine" in 1912.
+    - *Known for*: [Vitamin](./keywords.en.md#micronutrients)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Casimir_Funk)
+
+- **Frederick Gowland Hopkins**
+    - *Description*: English biochemist who discovered "accessory food factors" (vitamins) essential to the diet; shared the 1929 Nobel Prize in Physiology or Medicine.
+    - *Known for*: [Vitamin](./keywords.en.md#micronutrients)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Frederick_Gowland_Hopkins)
+
+- **Elmer McCollum**
+    - *Description*: American biochemist known for pioneering research on dietary vitamins, including the discovery of vitamins A and D.
+    - *Known for*: [Vitamin](./keywords.en.md#micronutrients)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Elmer_Verner_McCollum)
+
+- **Walter Willett**
+    - *Description*: American physician and nutrition epidemiologist; among the most cited researchers in clinical medicine for his work on diet and chronic disease.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Walter_Willett)
 
 ## Influencers
 
-<!-- a list of all the modern age influencers -->
+- **Matan Haber (Food Secrets)**
+    - *Description*: Israeli content creator focused on food and nutrition.
+    - *Link*: [Instagram](https://www.instagram.com/matanfoodsecrets/)
 
- - Matan Haber: Food Secrets
-    - *Description* -
-    - *Link* - <https://www.instagram.com/matanfoodsecrets/>
- - roee dahan
-    - *Description* -
-    - *Link* - <https://roydahan.co.il/>
+- **Roee Dahan**
+    - *Description*: Israeli nutrition and health content creator.
+    - *Link*: [roydahan.co.il](https://roydahan.co.il/)
 
-## Companies
+## Organizations & Companies
 
- - LMNT
-    - *Description* - A brand of electrolyte drink mixes.
-    - *Link* - <https://drinklmnt.com/>
+- **World Health Organization**
+    - *Also known as*: WHO
+    - *Description*: The United Nations agency responsible for international public health, which issues global dietary guidance and healthy-diet recommendations.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/World_Health_Organization)
 
-## Organizations
+- **United States Department of Agriculture**
+    - *Also known as*: USDA
+    - *Description*: U.S. federal department that sets national dietary guidelines and food-labeling standards and runs the MyPlate nutrition program.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/United_States_Department_of_Agriculture)
 
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Academy of Nutrition and Dietetics**
+    - *Description*: The largest organization of food and nutrition professionals in the United States, credentialing registered dietitians.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Academy_of_Nutrition_and_Dietetics)
+
+- **LMNT**
+    - *Description*: A brand of electrolyte drink mixes marketed for hydration.
+    - *Link*: [drinklmnt.com](https://drinklmnt.com/)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Harvard T.H. Chan School of Public Health**
+    - *Description*: The public-health school of Harvard University; its Department of Nutrition conducts influential research and maintains The Nutrition Source.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health)

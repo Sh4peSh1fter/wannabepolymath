@@ -1,46 +1,58 @@
 ---
-title: Key Entities in medicine
-description: Influential figures and organizations in Medicine.
+title: "Key Entities — Medicine"
+description: Key figures, organizations, and institutions in medicine.
 tags:
   - topic:medicine
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in medicine
+# Key Entities — Medicine
 
-A list of key individuals who have made significant contributions to medicine.
+Key people, organizations, and institutions that shaped medicine. Entries are neutral and
+descriptive — what they are and why they matter.
 
 ## Key Figures
 
-<!-- a list of -->
+- **Hippocrates**
+    - *Also known as*: Hippocrates of Kos
+    - *Description*: Ancient Greek physician, often called the "father of medicine"; his school separated medicine from superstition and lent its name to the Hippocratic Oath.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Hippocrates)
 
- - [Figure Name]
-    - *Description* - A brief description of their foundational contributions.
-    - *Link* - [Link to Wikipedia, biography, or major work]
+- **Edward Jenner**
+    - *Description*: English physician and scientist who pioneered the smallpox vaccine, the world's first vaccine; often called the "father of immunology".
+    - *Known for*: [Vaccine](./keywords.en.md#public-health)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Edward_Jenner)
 
-## Influencers
+- **Florence Nightingale**
+    - *Description*: English social reformer and statistician, founder of modern nursing; her work established sanitary practice and nursing as a profession.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Florence_Nightingale)
 
-<!-- a list of all the modern age influencers -->
+- **Alexander Fleming**
+    - *Description*: Scottish physician and microbiologist who discovered penicillin, the first widely used antibiotic; awarded the 1945 Nobel Prize in Physiology or Medicine.
+    - *Known for*: [Antibiotic](./keywords.en.md#pharmacology)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Fleming)
 
- - [Figure Name]
-    - *Description* - A brief description of their recent or ongoing work.
-    - *Link* - [Link to personal website, publications, or social media]
+- **William Osler**
+    - *Description*: Canadian physician and one of the founders of Johns Hopkins Hospital; a father of modern medical education who introduced bedside clinical teaching.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/William_Osler)
 
-## Companies
+## Organizations & Companies
 
- - Joovv
-    - *Description* - A company that produces red light therapy devices.
-    - *Link* - <https://joovv.com/>
+- **World Health Organization**
+    - *Also known as*: WHO
+    - *Description*: Specialized agency of the United Nations responsible for international public health, coordinating global responses to disease and setting health standards.
+    - *Link*: [who.int](https://www.who.int)
 
-## Organizations
-
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Joovv**
+    - *Description*: A company that produces red light therapy devices.
+    - *Link*: [joovv.com](https://joovv.com/)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **National Institutes of Health**
+    - *Also known as*: NIH
+    - *Description*: The primary agency of the United States government responsible for biomedical and public health research.
+    - *Link*: [nih.gov](https://www.nih.gov)
+</content>
