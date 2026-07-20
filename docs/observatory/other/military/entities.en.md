@@ -1,46 +1,54 @@
 ---
-title: Key Entities in Military
-description: Influential figures and organizations in Military.
+title: "Key Entities — Military"
+description: Key figures, organizations, and institutions in the military field.
 tags:
   - topic:military
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in Military
+# Key Entities — Military
 
-A list of key individuals who have made significant contributions to Military.
+Key people, organizations, and institutions that shaped military thought and practice. Entries
+are neutral and descriptive — what they are and why they matter.
 
 ## Key Figures
 
-<!-- a list of -->
+- **Sun Tzu**
+    - *Description*: Ancient Chinese general, strategist, and philosopher, traditionally credited as the author of *The Art of War*.
+    - *Known for*: [Strategy & Doctrine](./keywords.en.md#strategy-doctrine)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Sun_Tzu)
 
- - [Figure Name]
-    - *Description* - A brief description of their foundational contributions.
-    - *Link* - [Link to Wikipedia, biography, or major work]
+- **Carl von Clausewitz**
+    - *Description*: Prussian general and military theorist whose unfinished treatise *On War* is foundational to modern Western strategic thought.
+    - *Known for*: [Strategy & Doctrine](./keywords.en.md#strategy-doctrine)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Carl_von_Clausewitz)
 
-## Influencers
+- **Napoleon Bonaparte**
+    - *Description*: French military commander and emperor whose campaigns reshaped European warfare and are still studied for their operational maneuver.
+    - *Known for*: [Maneuver warfare](./keywords.en.md#strategy-doctrine)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Napoleon)
 
-<!-- a list of all the modern age influencers -->
-
- - [Figure Name]
-    - *Description* - A brief description of their recent or ongoing work.
-    - *Link* - [Link to personal website, publications, or social media]
-
-## Companies
-
- - [Company Name]
-    - *Description* - Brief description of their products or services in this field.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Alfred Thayer Mahan**
+    - *Description*: American naval officer and historian whose writings on sea power influenced naval strategy worldwide.
+    - *Known for*: [Strategy & Doctrine](./keywords.en.md#strategy-doctrine)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan)
 
 ## Organizations
 
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **NATO**
+    - *Also known as*: North Atlantic Treaty Organization
+    - *Description*: Intergovernmental military alliance of member states from Europe and North America, founded in 1949 for collective defense.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/NATO)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **United States Military Academy**
+    - *Also known as*: West Point
+    - *Description*: The U.S. Army's officer training and commissioning academy, established in 1802.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/United_States_Military_Academy)
+
+- **RAND Corporation**
+    - *Description*: American nonprofit global policy think tank, originally formed to advise the U.S. armed forces; known for open research on defense and security.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/RAND_Corporation)

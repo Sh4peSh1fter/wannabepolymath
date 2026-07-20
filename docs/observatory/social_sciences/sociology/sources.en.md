@@ -1,35 +1,42 @@
 ---
-title: "Sources & Further Reading for sociology"
-description: Curated sources and further reading for Sociology.
+title: "Sources & Further Reading — Sociology"
+description: Curated resources for diving deeper into sociology.
 tags:
   - topic:sociology
   - type:reference
-  - status:published
+  - status:budding
+entry_type: Article
 ---
 
-# Sources & Further Reading for sociology
+# Sources & Further Reading — Sociology
 
 A curated list of resources for diving deeper into sociology.
 
 ## Websites & Online Publications
 
-1.  [Site/Article Title]
-    -   *Link*: [URL]
-    -   *Note*: [Brief note on what makes this a valuable resource.]
-
-## Videos & Documentaries
-
-1.  [Video Title]
-    -   *Link*: [URL]
-    -   *Note*: [Brief note on what the video covers.]
+1. OpenStax — Introduction to Sociology
+    - *Link*: [openstax.org](https://openstax.org/details/books/introduction-sociology-3e)
+    - *Note*: A free, peer-reviewed introductory sociology textbook covering theory, methods, and major sub-fields.
+2. American Sociological Association
+    - *Link*: [asanet.org](https://www.asanet.org)
+    - *Note*: The main US professional body, with resources on the discipline, careers, and research.
 
 ## Academic Papers & Journals
 
-1.  [Paper Title]
-    -   *Link*: [URL]
-    -   *Note*: [Brief note on the paper's key findings or relevance.]
+1. American Journal of Sociology
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/American_Journal_of_Sociology)
+    - *Note*: One of the oldest and most influential peer-reviewed sociology journals, founded in 1895.
+2. American Sociological Review
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/American_Sociological_Review)
+    - *Note*: The flagship journal of the American Sociological Association, publishing original research across the discipline.
 
 ## Books
 
-1.  [Book Title] by [Author]
-    -   *Note*: [Brief note on why this book is recommended.]
+1. *The Sociological Imagination* — by C. Wright Mills
+    - *Note*: A classic 1959 argument for linking personal troubles to public social structures.
+2. *Suicide* — by Émile Durkheim
+    - *Note*: A foundational study using statistics to show that suicide rates reflect social forces, not just individual psychology.
+3. *The Protestant Ethic and the Spirit of Capitalism* — by Max Weber
+    - *Note*: An influential analysis of how religious ideas shaped the development of modern capitalism.
+4. *The Souls of Black Folk* — by W. E. B. Du Bois
+    - *Note*: A landmark 1903 work on race, identity, and "double consciousness" in American society.

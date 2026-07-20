@@ -1,44 +1,60 @@
 ---
-title: Key Entities in engineering
-description: Influential figures and organizations in Engineering.
+title: "Key Entities — Engineering"
+description: Key figures, organizations, and institutions in engineering.
 tags:
   - topic:engineering
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in engineering
+# Key Entities — Engineering
 
-A list of key individuals who have made significant contributions to engineering.
+Key people, organizations, and institutions that shaped engineering. Entries are neutral and
+descriptive — what they are and why they matter.
 
 ## Key Figures
 
- - Igor Sikorsky
-    - *Description* - A Russian–American aviation pioneer in both helicopters and fixed-wing aircraft.
-    - *Link* - <https://en.wikipedia.org/wiki/Igor_Sikorsky>
+- **Isambard Kingdom Brunel**
+    - *Description*: English civil and mechanical engineer of the Industrial Revolution; built the Great Western Railway, pioneering steamships, and numerous bridges and tunnels.
+    - *Known for*: [Civil & Structural Engineering](./keywords.en.md#civil-structural-engineering)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel)
 
-## Influencers
+- **Nikola Tesla**
+    - *Description*: Serbian-American inventor and electrical engineer best known for his contributions to the design of the modern alternating-current electricity supply system.
+    - *Known for*: [Electrical & Electronics Engineering](./keywords.en.md#electrical-electronics-engineering)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Nikola_Tesla)
 
-<!-- a list of all the modern age influencers -->
+- **Emily Warren Roebling**
+    - *Description*: American engineer who provided the day-to-day technical and managerial leadership that completed the Brooklyn Bridge after her husband, the chief engineer, fell ill.
+    - *Known for*: [Civil & Structural Engineering](./keywords.en.md#civil-structural-engineering)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Emily_Warren_Roebling)
 
- - [Figure Name]
-    - *Description* - A brief description of their recent or ongoing work.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Claude Shannon**
+    - *Description*: American mathematician and electrical engineer known as the "father of information theory"; his work founded the field of digital circuit design and communication.
+    - *Known for*: [Electrical & Electronics Engineering](./keywords.en.md#electrical-electronics-engineering)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
 
-## Companies
+## Organizations & Companies
 
- - [Company Name]
-    - *Description* - Brief description of their products or services in this field.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Institute of Electrical and Electronics Engineers**
+    - *Also known as*: IEEE
+    - *Description*: The world's largest technical professional organization, advancing electrical, electronics, and computing engineering through standards and publications.
+    - *Link*: [ieee.org](https://www.ieee.org)
 
-## Organizations
+- **American Society of Mechanical Engineers**
+    - *Also known as*: ASME
+    - *Description*: A professional association that promotes the art, science, and practice of mechanical engineering, notably through widely used codes and standards.
+    - *Link*: [asme.org](https://www.asme.org)
 
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **American Society of Civil Engineers**
+    - *Also known as*: ASCE
+    - *Description*: The oldest national engineering society in the United States, representing civil engineers and publishing standards and its Report Card for America's Infrastructure.
+    - *Link*: [asce.org](https://www.asce.org)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Massachusetts Institute of Technology**
+    - *Also known as*: MIT
+    - *Description*: A private research university renowned for its schools of engineering and applied science and for its influence on modern technology.
+    - *Link*: [mit.edu](https://www.mit.edu)

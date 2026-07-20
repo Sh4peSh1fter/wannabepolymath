@@ -1,46 +1,61 @@
 ---
-title: Key Entities in Physics
-description: Influential figures and organizations in Physics.
+title: "Key Entities — Physics"
+description: Key figures, organizations, and institutions in physics.
 tags:
   - topic:physics
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in Physics
+# Key Entities — Physics
 
-A list of key individuals who have made significant contributions to Physics.
+Key people, organizations, and institutions that shaped physics. Entries are neutral and
+descriptive — what they are and why they matter.
 
 ## Key Figures
 
-<!-- a list of -->
+- **Isaac Newton**
+    - *Description*: English polymath of the scientific revolution; formulated the laws of motion and universal gravitation and co-invented calculus.
+    - *Known for*: [Newton's laws of motion](./keywords.en.md#classical-mechanics)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Isaac_Newton)
 
- - [Figure Name]
-    - *Description* - A brief description of their foundational contributions.
-    - *Link* - [Link to Wikipedia, biography, or major work]
+- **James Clerk Maxwell**
+    - *Description*: Scottish physicist who unified electricity, magnetism, and light into a single theory of electromagnetism.
+    - *Known for*: [Maxwell's equations](./keywords.en.md#electromagnetism)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 
-## Influencers
+- **Marie Curie**
+    - *Also known as*: Maria Skłodowska-Curie
+    - *Description*: Polish-French physicist and chemist; pioneer of research on radioactivity and the only person to win Nobel Prizes in two distinct sciences.
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Marie_Curie)
 
-<!-- a list of all the modern age influencers -->
+- **Albert Einstein**
+    - *Description*: German-born theoretical physicist who developed the theories of special and general relativity and made foundational contributions to quantum theory.
+    - *Known for*: [Special relativity](./keywords.en.md#relativity)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
- - [Figure Name]
-    - *Description* - A brief description of their recent or ongoing work.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Niels Bohr**
+    - *Description*: Danish physicist who made foundational contributions to understanding atomic structure and quantum theory.
+    - *Known for*: [Quantum mechanics](./keywords.en.md#quantum-mechanics)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Niels_Bohr)
 
-## Companies
+- **Richard Feynman**
+    - *Description*: American theoretical physicist known for his work in quantum electrodynamics, particle physics, and science education.
+    - *Known for*: [Quantum mechanics](./keywords.en.md#quantum-mechanics)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Richard_Feynman)
 
- - [Company Name]
-    - *Description* - Brief description of their products or services in this field.
-    - *Link* - [Link to personal website, publications, or social media]
+## Organizations & Companies
 
-## Organizations
-
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **American Physical Society**
+    - *Also known as*: APS
+    - *Description*: Non-profit membership organization advancing the knowledge of physics through journals, meetings, and advocacy.
+    - *Link*: [aps.org](https://www.aps.org)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **CERN**
+    - *Also known as*: European Organization for Nuclear Research
+    - *Description*: European intergovernmental laboratory operating the largest particle-physics facility in the world, home to the Large Hadron Collider.
+    - *Known for*: [Higgs boson](./keywords.en.md#particle-physics)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/CERN)
