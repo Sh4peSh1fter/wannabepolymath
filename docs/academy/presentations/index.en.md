@@ -1,18 +1,28 @@
 ---
-title: Presentations
-description: "An overview of all presentations in the Academy."
+title: "Presentations"
+description: Slides and materials from talks, kept as durable pages so a talk outlives its event.
+icon: material/presentation
+tags:
+  - corner:academy
+  - type:presentation
+  - status:seedling
+entry_type: CollectionPage
+aliases: []
 ---
 
 # Presentations
 
-This section contains all available presentations.
+Presentations are the durable home for **talks and their materials** — the context, the abstract,
+and links to slides or a recording — so a talk keeps giving value long after the room emptied. It's
+a media format rather than a Diátaxis mode; the *teaching* usually lives in a companion
+[tutorial](../tutorials/index.en.md) or [explainer](../explainers/index.en.md).
 
 <div class="grid cards" markdown>
 
--   [**Example Presentation 1**](./presentation-1.en.md)
+-   [**A Gentle Introduction to Regular Expressions**](./example_presentation.en.md)
 
     ---
 
-    A placeholder for the first presentation.
+    *Example presentation.* The companion talk to the regex course.
 
 </div>
