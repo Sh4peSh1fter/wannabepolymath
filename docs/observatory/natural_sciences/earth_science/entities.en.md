@@ -1,46 +1,62 @@
 ---
-title: Key Entities in earth science
-description: Influential figures and organizations in Earth Science.
+title: "Key Entities — Earth Science"
+description: Key figures, organizations, and institutions in Earth science.
 tags:
   - topic:earth-science
   - type:reference
-  - status:published
+  - status:budding
+entry_type: CollectionPage
 ---
 
-# Key Entities in earth science
+# Key Entities — Earth Science
 
-A list of key individuals who have made significant contributions to earth science.
+Key people, organizations, and institutions that shaped Earth science. Entries are neutral and
+descriptive — what they are and why they matter.
 
 ## Key Figures
 
-<!-- a list of -->
+- **James Hutton**
+    - *Description*: Scottish geologist often called the "father of modern geology"; his principle of uniformitarianism held that Earth's features result from slow, ongoing processes.
+    - *Known for*: [Geology](./keywords.en.md#geology-earth-materials)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/James_Hutton)
 
- - [Figure Name]
-    - *Description* - A brief description of their foundational contributions.
-    - *Link* - [Link to Wikipedia, biography, or major work]
+- **Charles Lyell**
+    - *Description*: Scottish geologist whose *Principles of Geology* popularized uniformitarianism and established geology as a rigorous science.
+    - *Known for*: [Geology](./keywords.en.md#geology-earth-materials)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Charles_Lyell)
 
-## Influencers
+- **Alfred Wegener**
+    - *Description*: German geophysicist and meteorologist who proposed the theory of continental drift, a foundation for modern plate tectonics.
+    - *Known for*: [Continental drift](./keywords.en.md#plate-tectonics-the-solid-earth)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Alfred_Wegener)
 
-<!-- a list of all the modern age influencers -->
+- **Inge Lehmann**
+    - *Description*: Danish seismologist who, in 1936, discovered that the Earth has a solid inner core by analyzing seismic waves.
+    - *Known for*: [Earth's inner core](./keywords.en.md#plate-tectonics-the-solid-earth)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Inge_Lehmann)
 
- - [Figure Name]
-    - *Description* - A brief description of their recent or ongoing work.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Marie Tharp**
+    - *Description*: American geologist and oceanographic cartographer who co-created the first scientific map of the Atlantic Ocean floor, providing evidence for seafloor spreading.
+    - *Known for*: [Seafloor spreading](./keywords.en.md#plate-tectonics-the-solid-earth)
+    - *Link*: [Wikipedia](https://en.wikipedia.org/wiki/Marie_Tharp)
 
-## Companies
+## Organizations & Companies
 
- - [Company Name]
-    - *Description* - Brief description of their products or services in this field.
-    - *Link* - [Link to personal website, publications, or social media]
+- **United States Geological Survey**
+    - *Also known as*: USGS
+    - *Description*: The U.S. government's scientific agency for geology, water, natural hazards, and mapping.
+    - *Link*: [usgs.gov](https://www.usgs.gov)
 
-## Organizations
-
- - [Organization Name]
-    - *Description* - Brief description of their role and mission.
-    - *Link* - [Link to personal website, publications, or social media]
+- **National Oceanic and Atmospheric Administration**
+    - *Also known as*: NOAA
+    - *Description*: U.S. federal agency focused on the conditions of the oceans, major waterways, and the atmosphere, including weather forecasting.
+    - *Link*: [noaa.gov](https://www.noaa.gov)
 
 ## Academic & Research Institutions
 
- - [Institution Name]
-    - *Description* -  Brief description of their focus and contributions.
-    - *Link* - [Link to personal website, publications, or social media]
+- **Intergovernmental Panel on Climate Change**
+    - *Also known as*: IPCC
+    - *Description*: United Nations body that assesses the science related to climate change and produces comprehensive periodic assessment reports.
+    - *Link*: [ipcc.ch](https://www.ipcc.ch)
+</content>
+</invoke>
