@@ -59,6 +59,29 @@ When creating a new field, copy `docs/observatory/_templates/field_template/` an
 
 For new Corners, `docs/_templates/corner_template/` is the starting point.
 
+### The Academy content-type pattern
+
+The Academy is organized by **content type**, following the **[Diátaxis](https://diataxis.fr/)** framework — each type serves a distinct reader need (learning / doing / understanding) and must stay out of the others' way (blurring the modes is the #1 failure mode). The *reference* quadrant of Diátaxis lives in the Observatory, not the Academy. Six top-level types, one folder each under `docs/academy/`:
+
+| Type | Folder | Diátaxis mode | `entry_type` |
+|------|--------|---------------|-------------|
+| **Courses** | `courses/` | tutorial (curriculum) | `Course` |
+| **Tutorials** | `tutorials/` | tutorial | `LearningResource` |
+| **How-to Guides** | `how_to_guides/` | how-to | `HowTo` |
+| **Explainers** | `explainers/` | explanation | `TechArticle` |
+| **Troubleshooting Journals** | `troubleshooting_journals/` | how-to + reference (hybrid) | `TechArticle` |
+| **Presentations** | `presentations/` | — (media format) | `PresentationDigitalDocument` |
+
+**Courses are a folder tree, not a single file.** A course is `courses/<slug>/` with an `index.en.md` (overview + **learning objectives** + **prerequisites** + a Mermaid **roadmap** + a **syllabus** table + a **Final project** section) and a `lessons/` dir. Each lesson is its own numbered folder — `lessons/NN_slug/` — holding **two files**: `index.en.md` (the lesson: objectives → prerequisites → teaching body → recap → classwork → optional homework → key-terms link → prev/next nav) and `keywords.en.md` (the lesson-local glossary). Lesson `keywords.en.md` **reuses the Observatory keywords annotation pattern verbatim** (one `<div class="annotate" markdown>` per `##` sub-topic, each followed by its own `1.`-restarting ordered list; no `General`/`Other` catch-alls) and carries `entry_type: DefinedTermSet`.
+
+**Pedagogical model (courses).** Every lesson ends with **`## Classwork`** — quick, self-checkable exercises on that lesson only. Important lessons add **`## Homework`** — a longer, cumulative task that may reuse earlier lessons (drop the section on lessons that don't warrant it). Every course ends with a **`## Final project`** in the course index: a comprehensive build that simulates a real, meaningful product; offer a small menu of options when it aids motivation. Both classwork and homework use the `??? example "Solution / walkthrough"` collapsible.
+
+**Bilingual courses (`.en.md` + `.he.md`).** Course pages may ship in English and Hebrew (RTL). Author the English index first (the design lives there), then a faithful `.he.md` translation: translate prose/headings/tables/admonition titles and Mermaid node *labels*, but keep frontmatter keys, `entry_type`, tags, Mermaid node IDs/syntax, and all code/identifiers/library names in Latin script; retarget relative links `.en.md`→`.he.md`. In `nav:`, reference bilingual pages by their **base** filename (`.../index.md`) so the language switcher resolves the locale (the Investing corner is the reference `.he.md` tree). `fallback_to_default: true` serves English when a Hebrew page is missing.
+
+**Templates & standards.** Author every page from `docs/academy/_templates/` (a `course_template/` tree plus one `*_template.en.md` per standalone type and a `type_index_template.en.md`). The folder is excluded from the build via `exclude_docs:` (`academy/_templates/`); authoring rules are baked into each template as `<!-- ... -->` comments. Each type's `index.en.md` is a Map-of-Content hub (icon + a one-paragraph statement of the type's Diátaxis purpose + a `grid cards` list of entries).
+
+**Frontmatter/tagging schema.** Quoted Title-Case `title`; one-sentence `description`; `entry_type` (per the table above; drives JSON-LD via `overrides/main.html`, unchanged); optional `aliases`; `icon` **only** on hub/index pages (corner index, each type index, each course index — never on lessons or leaf content). `tags` use the same prefixed facets as the Observatory: `corner:academy` (every page), a Diátaxis-aligned `type:` (`type:course|tutorial|guide|explanation|troubleshooting|presentation`; a lesson uses `type:tutorial`, a lesson's keywords use `type:reference`), `topic:<subject>` reusing the **Observatory topic vocabulary** (so Academy content appears in `observatory/tags.en.md`), `difficulty:beginner|intermediate|advanced` on courses/tutorials/lessons, the `status:seedling|budding|evergreen` maturity scale, and optional `concept:<term>` for cross-cutting hooks. Folders/files are lowercase-underscore; lesson folders keep a numeric prefix for ordering (`01_getting_started`).
+
 ## Two conventions that are easy to get wrong
 
 **1. Internationalization (i18n) via file suffixes.** The `mkdocs-static-i18n` plugin uses `docs_structure: suffix`. Content files are named `<name>.en.md` (English, default) and `<name>.he.md` (Hebrew, RTL). English is the primary language with far more coverage; Hebrew pages fall back to English when missing. **Critical quirk:** in `mkdocs.yml`'s `nav:`, reference the **base** filename (e.g. `observatory/index.md`, not `observatory/index.en.md`) — the plugin resolves the suffixed variant. Getting this wrong breaks the nav entry silently.
