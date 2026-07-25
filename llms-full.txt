@@ -4134,143 +4134,1399 @@ Our roadmap is a flexible guide, evolving as we learn and grow with our communit
 
 ## Introduction
 
-Content I write on different subjects, designed to make learning effective and engaging.
+Content I write to teach different subjects, designed to make learning effective and engaging. The
+Academy is organized by **content type**, following the [Diátaxis](https://diataxis.fr/) framework:
+each type serves a distinct reader need — *learning*, *doing*, or *understanding* — and stays out of
+the others' way. Reference vocabulary lives next door in the [Observatory](../observatory/index.en.md).
 
-## Structure
-
-There are different `content types` which contain content from different topics.
+## Content types
 
 <div class="grid cards" markdown>
+
+-   [**Courses**](./courses/index.md)
+
+    ---
+
+    Structured, multi-lesson learning paths with a roadmap, syllabus, and per-lesson key terms.
+
+    - [Regular Expressions from Scratch](./courses/example_course/index.en.md)
 
 -   [**Tutorials**](./tutorials/index.en.md)
 
     ---
 
-    Step-by-step guides to achieve a specific outcome.
+    Standalone, hands-on lessons that teach one thing end-to-end in a single sitting.
 
-    - [Example Tutorial 1](./tutorials/tutorial-1.en.md)
+    - [Create your first Mermaid diagram](./tutorials/example_tutorial.en.md)
 
--   [**How-to Guides**](./how-to-guides/index.en.md)
-
-    ---
-
-    Practical guides that solve a specific problem.
-
-    - [Example How-to Guide 1](./how-to-guides/how-to-guide-1.en.md)
-
--   [**Troubleshooting Journals**](./troubleshooting-journals/index.en.md)
+-   [**How-to Guides**](./how_to_guides/index.en.md)
 
     ---
 
-    Documenting problems and their solutions.
+    Goal-oriented recipes for a reader who already knows the basics.
 
-    - [Example Troubleshooting Journal 1](./troubleshooting-journals/troubleshooting-journal-1.en.md)
+    - [How to add a new Observatory field](./how_to_guides/example_how_to_guide.en.md)
+
+-   [**Explainers**](./explainers/index.en.md)
+
+    ---
+
+    Understanding-oriented deep dives that answer *why* and connect ideas together.
+
+    - [Why Diátaxis](./explainers/example_explainer.en.md)
+
+-   [**Troubleshooting Journals**](./troubleshooting_journals/index.en.md)
+
+    ---
+
+    Real-world problem-to-resolution logs, written for your future self.
+
+    - [mkdocs build --strict fails on a relative link](./troubleshooting_journals/example_troubleshooting_journal.en.md)
 
 -   [**Presentations**](./presentations/index.en.md)
 
     ---
 
-    Slides and materials from talks and presentations.
+    Slides and materials from talks, kept as durable pages.
 
-    - [Example Presentation 1](./presentations/presentation-1.en.md)
+    - [A Gentle Introduction to Regular Expressions](./presentations/example_presentation.en.md)
 
 </div>
 
 ## Overview
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/how-to-guides/ -->
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/ -->
 
-# How-to Guides
+# Courses
 
-This section contains all available how-to guides.
+Courses are **structured learning paths**: a sequence of lessons with a visual roadmap, a syllabus,
+and measurable objectives at every step. Where a [tutorial](../tutorials/index.en.md) teaches one
+thing in one sitting, a course takes you from foundations to competence over several lessons — each
+a self-contained node that ends with classwork and its own key-terms glossary.
+
+## The Python track
+
+A five-course path from your first line of code to a specialization. Start with the fundamentals,
+then go deep, then branch into the domain that interests you.
 
 <div class="grid cards" markdown>
 
--   [**Example How-to Guide 1**](./how-to-guide-1.en.md)
+-   [**Python for Beginners**](./python_for_beginners/index.en.md)
 
     ---
 
-    A placeholder for the first how-to guide.
+    Start here. The Python fundamentals from zero — syntax, data structures, functions, files, and
+    developer tooling.
+
+-   [**Python Advanced**](./python_advanced/index.en.md)
+
+    ---
+
+    From scripts to software: OOP, functional Python, data structures & algorithms, concurrency,
+    typing, testing, and packaging.
+
+-   [**Python Web & APIs**](./python_web_and_apis/index.en.md)
+
+    ---
+
+    Build for the web — HTTP fundamentals, Flask, FastAPI, Django, visualization, and deployment.
+
+-   [**Python & Networks**](./python_and_networks/index.en.md)
+
+    ---
+
+    Network programming — TCP/IP fundamentals, sockets, and packet crafting with Scapy.
+
+-   [**Python & Data**](./python_and_data/index.en.md)
+
+    ---
+
+    Work with data — Jupyter, NumPy, pandas, visualization, and SQL/NoSQL databases.
 
 </div>
 
-## Example How-to Guide 1
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/how-to-guides/how-to-guide-1/ -->
+## Other courses
 
-# Example How-to Guide 1
+<div class="grid cards" markdown>
 
-This is a placeholder page for the first how-to guide. Content will be added here soon.
+-   [**Regular Expressions from Scratch**](./example_course/index.en.md)
+
+    ---
+
+    *Example course.* Go from matching plain text to writing real-world patterns with quantifiers,
+    groups, and anchors — in two hands-on lessons.
+
+</div>
+
+## Overview
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/example_course/ -->
+
+# Regular Expressions from Scratch
+
+!!! note "Example course"
+    This course is a **worked demonstrator** of the Academy course pattern (overview → roadmap →
+    syllabus → lessons, each lesson carrying its own key terms). Use it as a model when authoring
+    a real course from `_templates/course_template/`.
+
+Regular expressions are a small language for describing patterns in text. They look cryptic at
+first, but the vocabulary is tiny and learnable. This course builds it up piece by piece: you'll
+start by matching literal characters and finish by writing patterns that validate and extract
+real-world data.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Read a regular expression and predict what it matches.
+- Write patterns using character classes, quantifiers, groups, and anchors.
+- Build and test a pattern that validates a real input (e.g. an email address).
+
+## Prerequisites
+
+- Comfort editing text and running a small script or using an online regex tester — no prior
+  regex experience needed.
+- Optional: skim the [Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)
+  field in the Observatory for the reference vocabulary this course draws on.
+
+## Roadmap
+
+Solid arrows = required order; the capstone applies everything.
+
+```mermaid
+flowchart TD
+    L1[Lesson 1 — Literal text & character classes] --> L2[Lesson 2 — Quantifiers, groups & anchors]
+    L2 --> P((Capstone: validate an email))
+```
+
+## Syllabus
+
+| # | Lesson | You'll learn | Difficulty | Est. time |
+|---|--------|--------------|------------|-----------|
+| 1 | [Literal text & character classes](./lessons/01_getting_started/index.en.md) | Match exact text and sets of characters | Beginner | ~20 min |
+| 2 | [Quantifiers, groups & anchors](./lessons/02_going_deeper/index.en.md) | Repeat, capture, and pin patterns to positions | Beginner | ~30 min |
+
+## How to use this course
+
+- Work the lessons in order; each opens with its own objectives and prerequisites.
+- Do each lesson's **Practice** before moving on — regex sticks through use, not reading.
+- Keep the online tester open in a tab and test every pattern as you meet it.
+
+## Related
+
+- **[Create your first Mermaid diagram](../../tutorials/example_tutorial.en.md)** — another
+  small, hands-on tutorial if you want a quick standalone win.
+- **[Why Diátaxis](../../explainers/example_explainer.en.md)** — why this course is shaped as a
+  set of learning-oriented lessons rather than a reference dump.
+- **[Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)** — the
+  Observatory field where the underlying concepts (finite automata, formal languages) are catalogued.
+
+## Lesson
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/example_course/lessons/01_getting_started/ -->
+
+# Literal Text & Character Classes
+
+!!! abstract "Lesson 1 of 2 · [Regular Expressions from Scratch](../../index.en.md)"
+    Every regex starts with matching characters. Here you'll match literal text, then widen the
+    net with character classes.
+
+## Objectives
+
+By the end of this lesson you will be able to:
+
+- Match literal text and understand why some characters must be escaped.
+- Use a character class to match any one of a set of characters.
+- Use ranges and negation inside a character class.
+
+## Prerequisites
+
+- An [online regex tester](https://regex101.com/) open in another tab. Nothing else.
+
+## Matching literal text
+
+The simplest pattern is just the text you want to find. The pattern `cat` matches the letters
+`c`, `a`, `t` in sequence — it finds "cat" inside "concatenate".
+
+Some characters are **metacharacters** (`. ^ $ * + ? ( ) [ ] { } | \`) — they have special meaning.
+To match one literally, escape it with a backslash: `3\.14` matches the text "3.14" (an unescaped
+`.` would match *any* character).
+
+## Character classes
+
+A character class, written in square brackets, matches **any one** character from the set:
+
+- `[aeiou]` matches a single vowel.
+- `[0-9]` uses a **range** to match any single digit; `[a-z]` matches any lowercase letter.
+- `[^0-9]` — a leading `^` **negates** the class: match any single character that is *not* a digit.
+
+!!! tip "Shorthand classes"
+    Common classes have shorthands: `\d` = `[0-9]`, `\w` = `[A-Za-z0-9_]`, `\s` = whitespace.
+    Their uppercase forms negate: `\D` is "not a digit".
+
+## Recap
+
+- A bare pattern matches literal text; escape metacharacters with `\` to match them literally.
+- `[...]` matches one character from a set; ranges (`a-z`) and negation (`^`) extend it.
+- `\d`, `\w`, `\s` are handy shorthands for the most common classes.
+
+## Classwork
+
+1. Write a pattern that matches a single hexadecimal digit (`0-9` or `a-f`).
+2. Write a pattern that matches the literal string "a+b".
+
+??? example "Solutions"
+    1. `[0-9a-f]`
+    2. `a\+b` — the `+` is a metacharacter, so it must be escaped.
+
+## Key terms
+
+- **[Key Terms — Literal Text & Character Classes](./keywords.en.md)**
+
+## Next
+
+- ← Back to: [Course overview](../../index.en.md)
+- → Next: [Quantifiers, groups & anchors](../02_going_deeper/index.en.md)
+
+## Key Terms
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/example_course/lessons/01_getting_started/keywords/ -->
+
+# Key Terms — Literal Text & Character Classes
+
+The vocabulary introduced in this lesson. Hover a term to reveal its definition.
+
+## Patterns & Matching
+
+<div class="annotate" markdown>
+
+- Regular expression (1)
+- Match (2)
+- Metacharacter (3)
+- Escaping (4)
+
+</div>
+
+1.  A string that describes a search pattern over text. **Aliases:** regex, regexp. **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression).
+2.  The portion of input text that a pattern successfully describes.
+3.  A character with special meaning in a pattern (such as `.`, `*`, or `[`) rather than its literal value.
+4.  Prefixing a metacharacter with a backslash (`\`) so it is matched as a literal character.
+
+## Character Classes
+
+<div class="annotate" markdown>
+
+- Character class (1)
+- Range (2)
+- Negation (3)
+- Shorthand class (4)
+
+</div>
+
+1.  A set in square brackets (`[...]`) that matches any single character from the set. **Scope:** here we cover positive, ranged, and negated classes.
+2.  A hyphenated span inside a class (e.g. `a-z`) that stands for every character between the endpoints.
+3.  A leading `^` inside a class (`[^...]`) that inverts it, matching any character *not* listed.
+4.  A backslash escape standing for a common class: `\d` (digit), `\w` (word character), `\s` (whitespace).
+
+## Lesson
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/example_course/lessons/02_going_deeper/ -->
+
+# Quantifiers, Groups & Anchors
+
+!!! abstract "Lesson 2 of 2 · [Regular Expressions from Scratch](../../index.en.md)"
+    With characters under your belt, you'll now say *how many* to match, *group* parts together,
+    and *pin* patterns to positions — enough to validate a real input.
+
+## Objectives
+
+By the end of this lesson you will be able to:
+
+- Use quantifiers to match repetition.
+- Group sub-patterns and capture what they match.
+- Anchor a pattern to the start or end of the input.
+
+## Quantifiers
+
+A quantifier says how many times the preceding element may repeat:
+
+- `*` — zero or more; `+` — one or more; `?` — zero or one (optional).
+- `{n}` — exactly *n*; `{n,}` — *n* or more; `{n,m}` — between *n* and *m*.
+
+So `\d+` matches one or more digits, and `colou?r` matches both "color" and "colour".
+
+## Groups
+
+Parentheses group a sub-pattern so a quantifier applies to the whole thing, and **capture** what
+it matched for later use: `(ab)+` matches "ababab", and in `(\d{4})-(\d{2})` the year and month are
+captured separately. Use `|` for alternation: `(cat|dog)` matches either word.
+
+## Anchors
+
+Anchors match a *position*, not a character:
+
+- `^` matches the start of the input; `$` matches the end.
+- Anchoring both ends forces the pattern to describe the *whole* string, not just a substring.
+
+## Capstone: validate an email
+
+Putting it together — a deliberately simple email check:
+
+```text
+^[\w.+-]+@[\w-]+\.[a-z]{2,}$
+```
+
+It reads: start, one-or-more word/`.`/`+`/`-` characters, an `@`, a domain label, a literal dot,
+then a 2+ letter suffix, end.
+
+!!! warning "Regex has limits"
+    A *fully* correct email validator is famously hard. This pattern is good enough for a form
+    hint — knowing *when a regex is the wrong tool* is part of mastering them.
+
+## Recap
+
+- Quantifiers (`* + ? {n,m}`) express repetition; groups `(...)` capture and scope it.
+- `|` alternates between options; `^` and `$` anchor to the start and end of the input.
+- Real validation combines all three — and knows its own limits.
+
+## Classwork
+
+1. Write a pattern matching a US ZIP code: five digits, optionally followed by `-` and four more.
+2. Write a pattern that matches a whole string of only lowercase letters.
+
+??? example "Solutions"
+    1. `^\d{5}(-\d{4})?$`
+    2. `^[a-z]+$`
+
+## Key terms
+
+- **[Key Terms — Quantifiers, Groups & Anchors](./keywords.en.md)**
+
+## Next
+
+- ← Previous: [Literal text & character classes](../01_getting_started/index.en.md)
+- 🎓 You've finished the course — back to the [overview](../../index.en.md) to review the roadmap.
+
+## Key Terms
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/example_course/lessons/02_going_deeper/keywords/ -->
+
+# Key Terms — Quantifiers, Groups & Anchors
+
+The vocabulary introduced in this lesson. Hover a term to reveal its definition.
+
+## Repetition
+
+<div class="annotate" markdown>
+
+- Quantifier (1)
+- Greedy matching (2)
+
+</div>
+
+1.  A symbol specifying how many times the preceding element may repeat: `*` (0+), `+` (1+), `?` (0 or 1), `{n,m}` (a range). **See also:** [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression#Quantification).
+2.  The default behaviour where a quantifier matches as much text as possible; appending `?` makes it *lazy* (as little as possible).
+
+## Grouping & Alternation
+
+<div class="annotate" markdown>
+
+- Group (1)
+- Capture group (2)
+- Alternation (3)
+
+</div>
+
+1.  A sub-pattern enclosed in parentheses `(...)` so a quantifier applies to it as a unit.
+2.  A group whose matched text is remembered for back-references or extraction.
+3.  The `|` operator, matching the pattern on either side (e.g. `cat|dog`).
+
+## Positions
+
+<div class="annotate" markdown>
+
+- Anchor (1)
+
+</div>
+
+1.  A token that matches a position rather than a character: `^` (start of input) and `$` (end of input). **Aliases:** boundary matcher.
+
+## Python Advanced
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/python_advanced/ -->
+
+# Python Advanced
+
+Once you can write Python, this course turns you into a Python *developer*. It opens with
+object-oriented programming and moves through the language's expressive core (comprehensions,
+generators, decorators), data structures & algorithms, concurrency, and the professional toolchain —
+typing, testing, code quality, and packaging.
+
+Like the rest of the track it is **project-interleaved**: **classwork** every lesson, **homework** on
+the important ones, and a substantial **final project** at the end.
+
+!!! tip "⚡ For programmers"
+    Coming from another language, much here will be familiar in shape but distinctly Pythonic in
+    detail (dunder methods, the GIL, `asyncio`, PEP 695 generics). The **"⚡ For programmers"** asides
+    point out where Python differs from what you'd expect.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Design programs with classes, inheritance, composition, and Python's data model (dunder methods, dataclasses).
+- Use comprehensions, generators, iterators, and decorators to write concise, lazy, reusable code.
+- Reason about complexity and implement/choose core data structures and algorithms.
+- Run work concurrently with threads, processes, and `asyncio`, and explain the GIL's role.
+- Ship professional code: type hints + Pydantic, `ruff`, `pytest`, and a packaged, publishable project.
+
+## Prerequisites
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)** (or equivalent) — comfortable with
+  functions, data structures, files, errors, and virtual environments.
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    subgraph M1["Module 1 · Object-oriented programming"]
+        direction TB
+        L1[1 · Classes & objects] --> L2[2 · Encapsulation & properties]
+        L2 --> L3[3 · Inheritance & composition]
+        L3 --> L4[4 · Dunder methods & dataclasses]
+    end
+    subgraph M2["Module 2 · Robustness"]
+        L5[5 · Exceptions in depth & context managers]
+    end
+    subgraph M3["Module 3 · Functional & lazy Python"]
+        direction TB
+        L6[6 · Comprehensions & functional tools] --> L7[7 · Iterators & generators]
+        L7 --> L8[8 · Decorators]
+    end
+    subgraph M4["Module 4 · Data structures & algorithms"]
+        direction TB
+        L9[9 · Complexity & core structures] --> L10[10 · Trees, recursion & sorting]
+    end
+    subgraph M5["Module 5 · Concurrency"]
+        L11[11 · Threading, multiprocessing & asyncio]
+    end
+    subgraph M6["Module 6 · Professional tooling"]
+        direction TB
+        L12[12 · Static typing & validation] --> L13[13 · Code quality & formatting]
+        L13 --> L14[14 · Testing]
+        L14 --> L15[15 · Packaging & distribution]
+    end
+    M1 --> M2 --> M3 --> M4 --> M5 --> M6 --> P((Final project))
+```
+
+## Syllabus
+
+!!! note "Course in progress"
+    Lesson titles become links as each lesson is published.
+
+### Module 1 — Object-oriented programming
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | Classes & objects | `class`, `__init__`, `self`, attributes, methods |
+| 2 | Encapsulation & properties | `@property`, class/static methods, private-by-convention |
+| 3 | Inheritance & composition | Subclassing, `super()`, polymorphism, composition-over-inheritance |
+| 4 | Dunder methods & dataclasses | Magic methods, `@dataclass`, abstract base classes; a look at SOLID & patterns |
+
+### Module 2 — Robustness
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 5 | Exceptions in depth | Custom exception hierarchies, chaining (`raise from`), `ExceptionGroup`/`except*`, context managers (`with`, `contextlib`) |
+
+### Module 3 — Functional & lazy Python
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 6 | Comprehensions & functional tools | List/dict/set comprehensions, generator expressions, `lambda`, `map`/`filter`/`reduce`, `functools` |
+| 7 | Iterators & generators | The iterator protocol, `yield`, lazy evaluation, `itertools` |
+| 8 | Decorators | Function decorators, `functools.wraps`, decorators with arguments |
+
+### Module 4 — Data structures & algorithms
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 9 | Complexity & core structures | Big-O, arrays & linked lists, stacks/queues, hash maps, `collections` |
+| 10 | Trees, recursion & sorting | Binary search trees, recursion, and sorting/searching algorithms |
+
+### Module 5 — Concurrency
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 11 | Concurrency | Threading, multiprocessing, `asyncio`/`await`, and the GIL (with a note on 3.13 free-threading) |
+
+### Module 6 — Professional tooling
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 12 | Static typing & validation | Type hints in depth, `mypy`/`pyright`, PEP 695 generics, Pydantic v2 |
+| 13 | Code quality & formatting | `ruff` (lint + format), pre-commit, logging, debugging with `pdb` |
+| 14 | Testing | `unittest` vs `pytest`, fixtures, parametrization, mocking, coverage, TDD basics |
+| 15 | Packaging & distribution | `pyproject.toml`, building with `uv`, wheels/sdists, semantic versioning, publishing |
+
+## Final project
+
+Build and submit a **well-structured, fully typed, tested, and packaged** project of your choice — a
+small library or tool that a stranger could `pip install` and use. It should demonstrate sound OOP
+design, type hints validated by a checker, a `pytest` suite, `ruff`-clean code, and a proper
+`pyproject.toml`.
+
+## How to use this course
+
+- Work in order; each module leans on the previous.
+- Do each lesson's **classwork**, and the **homework** on important lessons.
+- Each lesson carries a **Key Terms** page (hover for definitions).
+- Finish with the **Final project** above.
+
+## Related
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)** — the prerequisite fundamentals.
+- **[Python Web & APIs](../python_web_and_apis/index.en.md)**, **[Python & Networks](../python_and_networks/index.en.md)**,
+  **[Python & Data](../python_and_data/index.en.md)** — apply these skills in a domain.
+- **[Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)** — reference vocabulary (algorithms, complexity, concurrency).
+
+## Python & Data
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/python_and_data/ -->
+
+# Python & Data
+
+Python is the lingua franca of data work. This course sets up the interactive workflow (IPython &
+Jupyter), teaches the numerical and tabular workhorses (**NumPy**, **pandas**), covers visualization
+with **Matplotlib**, and connects to both **SQL** (MySQL) and **NoSQL** (MongoDB) databases.
+
+**Project-interleaved**: **classwork** every lesson, **homework** on the important ones, and an
+end-to-end **final project**.
+
+!!! tip "⚡ For programmers"
+    If you've used data tools elsewhere (R, MATLAB, SQL), the **"⚡ For programmers"** asides map the
+    ideas onto NumPy/pandas idioms and Python's data ecosystem.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Work fluently in Jupyter notebooks and the IPython shell.
+- Manipulate numerical data with NumPy (arrays, vectorization, broadcasting).
+- Load, clean, transform, and aggregate tabular data with pandas.
+- Visualize results with Matplotlib.
+- Store and query data in a relational (MySQL) and a document (MongoDB) database, and know which to reach for.
+
+## Prerequisites
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)**; **[Python Advanced](../python_advanced/index.en.md)**
+  helpful (comprehensions and iterators make data code cleaner).
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    subgraph M1["Module 1 · The data workflow"]
+        direction TB
+        L1[1 · IPython & Jupyter] --> L2[2 · NumPy]
+    end
+    subgraph M2["Module 2 · Wrangling with pandas"]
+        direction TB
+        L3[3 · pandas basics] --> L4[4 · pandas analysis]
+    end
+    subgraph M3["Module 3 · Visualization"]
+        L5[5 · Matplotlib]
+    end
+    subgraph M4["Module 4 · Databases"]
+        direction TB
+        L6[6 · SQL with MySQL] --> L7[7 · NoSQL with MongoDB]
+    end
+    M1 --> M2 --> M3 --> M4 --> P((Final project))
+```
+
+## Syllabus
+
+!!! note "Course in progress"
+    Lesson titles become links as each lesson is published.
+
+### Module 1 — The data workflow
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | IPython & Jupyter | Notebooks and the interactive data workflow |
+| 2 | NumPy | Arrays, vectorization, and broadcasting |
+
+### Module 2 — Wrangling with pandas
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 3 | pandas basics | `Series` and `DataFrame`, indexing/selection, and reading/writing CSV & Excel |
+| 4 | pandas analysis | Cleaning, `groupby`, merge/join, and aggregation |
+
+### Module 3 — Visualization
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 5 | Matplotlib | Building and styling plots (with a look at seaborn/plotly) |
+
+### Module 4 — Databases
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 6 | SQL with MySQL | Relational modeling, CRUD, joins, and `mysql-connector`/SQLAlchemy |
+| 7 | NoSQL with MongoDB | Documents and collections, `pymongo`, and when to use NoSQL vs SQL |
+
+## Final project
+
+Complete an **end-to-end data project** on a dataset of your choice: **load** it, **clean** it,
+**analyze** it (pandas), **visualize** the findings (Matplotlib), and **store** the results in a
+database (MySQL or MongoDB). Present it as a Jupyter notebook plus a short written takeaway.
+
+## How to use this course
+
+- Work in order; run every example in your own notebook.
+- Do each lesson's **classwork**, and the **homework** on important lessons.
+- Each lesson carries a **Key Terms** page (hover for definitions).
+- Finish with the end-to-end **Final project**.
+
+## Related
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)** · **[Python Advanced](../python_advanced/index.en.md)** — the foundations.
+- **[Python Web & APIs](../python_web_and_apis/index.en.md)** — serve your analysis as an app or API.
+- **[Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)** — data-structure and complexity background.
+
+## Python & Networks
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/python_and_networks/ -->
+
+# Python & Networks
+
+Python is a superb language for network programming. This course starts from the fundamentals of how
+machines talk, builds clients and servers with raw **sockets**, and then moves up to packet-level work
+with **Scapy** — crafting, sniffing, and dissecting traffic.
+
+**Project-interleaved**: **classwork** every lesson, **homework** on the important ones, and a
+**final project** that builds a real networking tool.
+
+!!! warning "Authorized, educational use only"
+    Sniffing and scanning are taught here for learning and for use **on networks and systems you own
+    or are explicitly authorized to test**. Running these tools against others without permission is
+    unethical and, in most places, illegal. Every relevant lesson repeats this note.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Explain the TCP/IP model, UDP, ports, and the client/server pattern.
+- Talk to services over the network with `requests` and higher-level libraries.
+- Build TCP and UDP clients and servers with the `socket` module.
+- Craft, send, sniff, and dissect packets with Scapy — responsibly.
+
+## Prerequisites
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)**; **[Python Advanced](../python_advanced/index.en.md)**
+  helpful (concurrency and context managers show up in servers).
+- Basic networking familiarity is a plus but not required — Lesson 1 covers what you need.
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    subgraph M1["Module 1 · Foundations"]
+        direction TB
+        L1[1 · Networking primer] --> L2[2 · HTTP clients]
+    end
+    subgraph M2["Module 2 · Sockets"]
+        direction TB
+        L3[3 · TCP sockets] --> L4[4 · UDP & non-blocking]
+    end
+    subgraph M3["Module 3 · Packet-level with Scapy"]
+        direction TB
+        L5[5 · Scapy basics] --> L6[6 · Scapy projects]
+    end
+    M1 --> M2 --> M3 --> P((Final project))
+```
+
+## Syllabus
+
+!!! note "Course in progress"
+    Lesson titles become links as each lesson is published.
+
+### Module 1 — Networking foundations
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | Networking primer | TCP/IP, UDP, ports, the client/server model, and the protocol stack |
+| 2 | HTTP clients | Talking to APIs with `requests`; a look at `paramiko`/`netmiko` for device automation |
+
+### Module 2 — Sockets
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 3 | TCP sockets | The `socket` module — building a TCP client and server |
+| 4 | UDP & non-blocking | Datagram sockets, blocking vs non-blocking, and `selectors` |
+
+### Module 3 — Packet-level with Scapy
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 5 | Scapy basics | Crafting, sending, sniffing, and dissecting packets |
+| 6 | Scapy projects | Building a packet sniffer and a port scanner (authorized use only) |
+
+## Final project
+
+Build and submit a real networking tool — **pick one**:
+
+- **A chat app over sockets** — a TCP server and client that exchange messages.
+- **A port scanner** — scan a host you own/control for open ports.
+- **A packet sniffer** — capture and summarize traffic on your own network.
+
+Whatever you pick, include a clear note on the **authorized scope** it's meant to run in.
+
+## How to use this course
+
+- Work in order; run your client and server locally as you go.
+- Do each lesson's **classwork**, and the **homework** on important lessons.
+- Each lesson carries a **Key Terms** page (hover for definitions).
+- Finish with the **Final project** above — responsibly.
+
+## Related
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)** · **[Python Advanced](../python_advanced/index.en.md)** — the foundations.
+- **[Python Web & APIs](../python_web_and_apis/index.en.md)** — HTTP sits on top of the sockets you build here.
+- **[Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)** — networking and protocol concepts.
+
+## Python for Beginners
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/python_for_beginners/ -->
+
+# Python for Beginners
+
+This is the entry point to the **Python track**. We cover the fundamentals — the minimum a developer
+should know to start understanding and writing Python: syntax, data, control flow, data structures,
+functions, files, and the tools you work with day to day. Object-oriented programming and everything
+deeper lives in [Python Advanced](../python_advanced/index.en.md).
+
+We follow a **project-interleaved** approach: every lesson ends with quick **classwork**, important
+lessons add longer **homework** (which may reuse earlier topics), and the course closes with a
+**final project** you'll be glad to show someone.
+
+!!! tip "⚡ For programmers"
+    Already fluent in another language? Lessons carry optional **"⚡ For programmers"** call-outs that
+    map Python's idioms to what you already know — skim the from-scratch parts and skip ahead.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Read and write Python using variables, types, operators, and the core control-flow constructs.
+- Choose and use the built-in data structures (lists, tuples, sets, dictionaries) for a task.
+- Organize code into functions and modules, read and write files, and handle errors gracefully.
+- Set up a project the way a developer does: a virtual environment, dependencies, and clean, conventional code.
+- Build a complete small program end to end as a final project.
+
+## Prerequisites
+
+- **None** — no programming experience assumed. Every concept starts from first principles.
+- A computer where you can install software (we do this in Lesson 2).
+- *Optional:* skim the [Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)
+  field in the Observatory for background vocabulary.
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    subgraph M1["Module 1 · Getting started"]
+        direction TB
+        L1[1 · What is Python] --> L2[2 · Setup & tooling]
+    end
+    subgraph M2["Module 2 · Core syntax & data"]
+        direction TB
+        L3[3 · Variables & types] --> L4[4 · Operators]
+        L4 --> L5[5 · Input & output]
+        L5 --> L6[6 · Working with strings]
+    end
+    subgraph M3["Module 3 · Control flow"]
+        direction TB
+        L7[7 · Conditionals] --> L8[8 · Loops]
+    end
+    subgraph M4["Module 4 · Data structures"]
+        direction TB
+        L9[9 · Lists] --> L10[10 · Tuples & sets]
+        L10 --> L11[11 · Dictionaries]
+    end
+    subgraph M5["Module 5 · Functions & organizing code"]
+        direction TB
+        L12[12 · Functions] --> L13[13 · Modules & libraries]
+        L13 --> L14[14 · Files & I/O]
+        L14 --> L15[15 · Handling errors]
+    end
+    subgraph M6["Module 6 · Working like a developer"]
+        direction TB
+        L16[16 · Package management] --> L17[17 · Virtual environments]
+        L17 --> L18[18 · Standards & conventions]
+    end
+    M1 --> M2 --> M3 --> M4 --> M5 --> M6 --> P((Final project))
+```
+
+## Syllabus
+
+!!! note "Course in progress"
+    This course is being written lesson by lesson (`status:budding`). Lesson titles below become
+    links as each lesson is published.
+
+### Module 1 — Getting started
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | What is Python | History, high- vs low-level languages, popularity, versions, Python 2 vs 3, where Python is used |
+| 2 | Setup & tooling | Install Python 3.13, set up VS Code + extensions, the REPL, running a script, comments |
+
+### Module 2 — Core syntax & data
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 3 | Variables & data types | `int`/`float`/`str`/`bool`, dynamic typing, type casting, `None` |
+| 4 | Operators | Arithmetic, comparison, logical, membership (`in`), identity (`is`), precedence |
+| 5 | Input & output | `print()`, `input()`, and f-strings as the default way to format |
+| 6 | Working with strings | Indexing, slicing (`:`), string methods, and formatting |
+
+### Module 3 — Control flow
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 7 | Conditionals | `if`/`elif`/`else`, truthiness, the ternary expression, and `match`/`case` |
+| 8 | Loops | `while`, `for`, `range`, `break`/`continue`/`pass`, nested loops, loop-`else` |
+
+### Module 4 — Data structures
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 9 | Lists | Creating, indexing, methods, iteration, and a first look at comprehensions |
+| 10 | Tuples & sets | Immutability, set operations, and `frozenset` |
+| 11 | Dictionaries | Keys and values, iteration, and common methods |
+
+### Module 5 — Functions & organizing code
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 12 | Functions | `def`, parameters, `return`, defaults, `*args`/`**kwargs`, scope (LEGB), docstrings, type-hint intro |
+| 13 | Modules & libraries | `import`, `from … import`, a tour of the standard library (`math`, `random`, `datetime`), and reading docs |
+| 14 | Files & I/O | `open`/`with`, reading and writing, `pathlib`, and JSON/CSV |
+| 15 | Handling errors | `try`/`except`/`else`/`finally` and `raise` — enough to write robust programs |
+
+### Module 6 — Working like a developer
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 16 | Package management | PyPI and `pip`, plus a survey of `uv`, `poetry`, and `conda` |
+| 17 | Virtual environments | `venv`, why isolation matters, `requirements.txt`, and a first look at `uv` |
+| 18 | Standards & conventions | PEP 8, naming, docstrings, an intro to `ruff`, and sensible project layout |
+
+## Final project
+
+Finish by building and submitting one complete program that ties the course together — **pick the one
+that appeals to you**:
+
+- **A terminal game** — e.g. Hangman or Tic-Tac-Toe: input handling, control flow, data structures, and functions.
+- **A CLI tool** — e.g. a todo or expense tracker that saves to a file: everything above, plus files and error handling.
+
+Whichever you choose, it should run start-to-finish, handle bad input gracefully, and be something
+you'd happily demo.
+
+## How to use this course
+
+- Work the lessons **in order** — each builds on the last.
+- Do each lesson's **classwork** immediately; tackle **homework** on the important lessons before moving on.
+- Keep a **virtual environment** active and the **REPL** open as you follow along.
+- Each lesson carries a **Key Terms** page (hover a term for its definition) — your local glossary.
+
+## Related
+
+- **[Python Advanced](../python_advanced/index.en.md)** — the natural next step: OOP, concurrency, typing, testing, packaging.
+- **[Python Web & APIs](../python_web_and_apis/index.en.md)**, **[Python & Networks](../python_and_networks/index.en.md)**,
+  **[Python & Data](../python_and_data/index.en.md)** — specialization tracks once you have the fundamentals.
+- **[Why Diátaxis](../../explainers/example_explainer.en.md)** — why this course is a set of learning-oriented lessons.
+- **[Computer Science](../../../observatory/formal_sciences/computer_science/index.en.md)** — the Observatory field behind the concepts.
+
+## Python Web & APIs
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/courses/python_web_and_apis/ -->
+
+# Python Web & APIs
+
+Take your Python to the web. This course covers how the web actually works, then the three
+frameworks that matter — **Flask** (minimal, concepts visible), **FastAPI** (the modern default for
+APIs), and **Django** (batteries-included full-stack) — plus visualizing data with Matplotlib and
+shipping with Docker.
+
+**Project-interleaved** as always: **classwork** every lesson, **homework** on the important ones,
+and a deployed **final project**.
+
+!!! tip "⚡ For programmers"
+    Framework concepts (routing, ORMs, templating, middleware) transfer from other ecosystems; the
+    **"⚡ For programmers"** asides map them to Python's conventions and to ASGI/WSGI.
+
+## Learning objectives
+
+By the end of this course you will be able to:
+
+- Explain HTTP, REST, and JSON, and call APIs with `requests`.
+- Choose the right framework for a job and justify it (Flask vs FastAPI vs Django).
+- Build a small web app with Flask and a typed, documented API with FastAPI.
+- Stand up a full-stack Django app with an ORM and admin.
+- Visualize data with Matplotlib and deploy an app with Docker.
+
+## Prerequisites
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)**; **[Python Advanced](../python_advanced/index.en.md)**
+  recommended (OOP, typing, and Pydantic make the frameworks click).
+
+## Roadmap
+
+```mermaid
+flowchart TD
+    subgraph M1["Module 1 · Web foundations"]
+        direction TB
+        L1[1 · How the web works] --> L2[2 · Framework landscape]
+    end
+    subgraph M2["Module 2 · Flask"]
+        direction TB
+        L3[3 · Flask basics] --> L4[4 · A Flask app]
+    end
+    subgraph M3["Module 3 · FastAPI"]
+        direction TB
+        L5[5 · FastAPI] --> L6[6 · Auth & data]
+    end
+    subgraph M4["Module 4 · Django"]
+        L7[7 · Django essentials]
+    end
+    subgraph M5["Module 5 · Present & ship"]
+        direction TB
+        L8[8 · Visualization with Matplotlib] --> L9[9 · Deployment]
+    end
+    M1 --> M2 --> M3 --> M4 --> M5 --> P((Final project))
+```
+
+## Syllabus
+
+!!! note "Course in progress"
+    Lesson titles become links as each lesson is published.
+
+### Module 1 — Web foundations
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 1 | How the web works | HTTP, requests/responses, status codes, REST, JSON, and the `requests` library |
+| 2 | Framework landscape | Flask vs Django vs FastAPI — strengths and when to use which |
+
+### Module 2 — Building with Flask
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 3 | Flask basics | Routes, request/response, and Jinja2 templates |
+| 4 | A Flask app | Forms, sessions, a small SQLite database, and app structure |
+
+### Module 3 — Modern APIs with FastAPI
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 5 | FastAPI | Path/query params, Pydantic models, validation, auto OpenAPI docs, async, Uvicorn/ASGI |
+| 6 | Auth & data | Authentication basics, connecting a database, and project structure |
+
+### Module 4 — Full-stack with Django
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 7 | Django essentials | Projects & apps, the ORM, models/migrations, the admin, views/URLs/templates |
+
+### Module 5 — Presenting data & shipping
+
+| # | Lesson | You'll learn |
+|---|--------|--------------|
+| 8 | Visualization with Matplotlib | Building plots and serving/embedding charts in a web response |
+| 9 | Deployment | Containerizing with Docker and configuring for different environments |
+
+## Final project
+
+Build and **deploy** a small web project — **pick one**:
+
+- **A Flask web app** — server-rendered pages, a form, and a SQLite database.
+- **A FastAPI API** — typed endpoints with Pydantic, validation, and auto-generated docs.
+
+Either way, include at least one **chart** (Matplotlib) and ship it in a **Docker** container.
+
+## How to use this course
+
+- Work in order; build the running example alongside each lesson.
+- Do each lesson's **classwork**, and the **homework** on important lessons.
+- Each lesson carries a **Key Terms** page (hover for definitions).
+- Finish with the deployed **Final project**.
+
+## Related
+
+- **[Python for Beginners](../python_for_beginners/index.en.md)** · **[Python Advanced](../python_advanced/index.en.md)** — the foundations this course assumes.
+- **[Python & Data](../python_and_data/index.en.md)** — pairs well when your app serves data/analytics.
+- **[Python & Networks](../python_and_networks/index.en.md)** — the layer beneath HTTP.
+
+## Overview
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/explainers/ -->
+
+# Explainers
+
+Explainers are **understanding-oriented deep dives**. They answer *why*, weigh trade-offs, and put
+ideas in context — the kind of reading you do away from the keyboard. They are deliberately *not*
+step-by-step instructions (see [tutorials](../tutorials/index.en.md) and
+[how-to guides](../how_to_guides/index.en.md)) and *not* dry fact lists (that's the
+[Observatory](../../observatory/index.en.md)). This is the fourth Diátaxis mode the Academy needs to
+be complete.
+
+<div class="grid cards" markdown>
+
+-   [**Why Diátaxis: the four kinds of learning content**](./example_explainer.en.md)
+
+    ---
+
+    *Example explainer.* Why the Academy separates tutorials, how-to guides, explainers, and
+    reference — and why mixing them hurts.
+
+</div>
+
+## Why Diátaxis
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/explainers/example_explainer/ -->
+
+# Why Diátaxis: The Four Kinds of Learning Content
+
+!!! note "Example explainer"
+    A worked demonstrator of the Academy explainer pattern. Author real explainers from
+    `_templates/explainer_template.en.md`.
+
+> Learning content fails when it tries to do everything at once; the fix is to split it by the
+> reader's need.
+
+Ever followed a tutorial that kept stopping to explain theory, and lost the thread? Or opened a
+reference page hoping to *learn* something and drowned in facts? These are not writing-skill
+problems — they are **structure** problems. [Diátaxis](https://diataxis.fr/) diagnoses them.
+
+## Context
+
+Diátaxis (from the Greek for "arrangement") was articulated by Daniele Procida. Its claim is that
+technical content serves four *distinct* needs, and each need wants a different shape. Crucially,
+the needs split along two axes: **practical ↔ theoretical** (does it inform action or cognition?)
+and **study ↔ work** (is the reader acquiring a skill or applying one?).
+
+## Discussion
+
+Those two axes produce four quadrants:
+
+```mermaid
+flowchart TD
+    subgraph Study
+      T[Tutorial<br/>learning-oriented]
+      E[Explanation<br/>understanding-oriented]
+    end
+    subgraph Work
+      H[How-to guide<br/>task-oriented]
+      R[Reference<br/>information-oriented]
+    end
+    T -.practical.- H
+    E -.theoretical.- R
+```
+
+- A **tutorial** takes a beginner by the hand through a guided experience — success and confidence
+  matter more than completeness.
+- A **how-to guide** helps a competent person accomplish a specific goal — no hand-holding.
+- **Reference** describes the machinery accurately and neutrally — you consult it, you don't read it.
+- **Explanation** (this page) illuminates *why* — it connects and contextualises.
+
+The central rule: **don't blur the boundaries.** Explanation smuggled into a tutorial distracts the
+learner; instructions dumped into reference make it unusable. Most "bad docs" are actually two good
+documents fighting inside one page.
+
+That is exactly why the Academy is organised the way it is: **Tutorials** and **Courses** cover the
+learning quadrant, **How-to Guides** the task quadrant, **Explainers** the understanding quadrant —
+and the *reference* quadrant lives next door in the **Observatory** (with each course lesson keeping
+a small local glossary). Same framework, applied to a personal knowledge base.
+
+## Connections
+
+- **[Courses](../courses/index.md)** — a sequenced set of tutorial-mode lessons.
+- **[Observatory](../../observatory/index.en.md)** — where the Academy's reference quadrant lives.
+
+## Sources
+
+1. Daniele Procida — *Diátaxis* — <https://diataxis.fr/> — the primary, authoritative source.
+
+## Overview
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/how_to_guides/ -->
+
+# How-to Guides
+
+How-to guides are **task-oriented recipes** for a reader who already knows the basics and needs the
+steps to reach a goal. They skip the teaching — for that, see the
+[tutorials](../tutorials/index.en.md) and [explainers](../explainers/index.en.md). Each guide is
+titled as a goal: *"How to …"*.
+
+<div class="grid cards" markdown>
+
+-   [**How to add a new Observatory field**](./example_how_to_guide.en.md)
+
+    ---
+
+    *Example guide.* Scaffold a new field from the template and wire it into the site.
+
+</div>
+
+## How to Add a New Observatory Field
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/how_to_guides/example_how_to_guide/ -->
+
+# How to Add a New Observatory Field
+
+!!! note "Example guide"
+    A worked demonstrator of the Academy how-to pattern. Author real guides from
+    `_templates/how_to_guide_template.en.md`.
+
+You want to add a new field (e.g. a new science) to the Observatory, following the established
+four-file pattern. This guide assumes you already know the repo layout and can run the site locally.
+
+## Prerequisites
+
+- A local checkout with dependencies installed (`poetry install`).
+- Decided the field's **science category** (`formal_sciences`, `natural_sciences`, …) and its
+  lowercase-underscore folder name.
+
+## Steps
+
+1. **Copy the template folder** into the right category:
+
+    ```bash
+    cp -r docs/observatory/_templates/field_template \
+          docs/observatory/<category>/<new_field>
+    ```
+
+2. **Fill in each of the four files** (`index`, `keywords`, `entities`, `sources`). Set a Title-Case
+   `title` (same casing across all four), a `topic:<field>` tag, the correct `entry_type`, and start
+   at `status:seedling`. Mirror `formal_sciences/mathematics/` — the reference exemplar.
+
+3. **Wire it into `mkdocs.yml` `nav:`** under its category, with the standard four child entries
+   (Overview, Key Terms & Concepts, Key Entities, Sources & Further Reading). Reference the
+   `.en.md` files as the sibling fields do.
+
+4. **Remove the field from `exclude_docs:`** if you scaffolded it there as a draft first.
+
+## Verify
+
+```bash
+poetry run mkdocs build --strict
+```
+
+A zero-warning build confirms the nav paths resolve and no links are broken. Then
+`poetry run mkdocs serve` and click through the new field's four pages.
+
+## Related
+
+- **[Create your first Mermaid diagram](../tutorials/example_tutorial.en.md)** — if your field's
+  index needs a diagram.
+- The Observatory conventions live in the project's `CLAUDE.md` (the "Observatory field pattern").
 
 ## Overview
 <!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/presentations/ -->
 
 # Presentations
 
-This section contains all available presentations.
+Presentations are the durable home for **talks and their materials** — the context, the abstract,
+and links to slides or a recording — so a talk keeps giving value long after the room emptied. It's
+a media format rather than a Diátaxis mode; the *teaching* usually lives in a companion
+[tutorial](../tutorials/index.en.md) or [explainer](../explainers/index.en.md).
 
 <div class="grid cards" markdown>
 
--   [**Example Presentation 1**](./presentation-1.en.md)
+-   [**A Gentle Introduction to Regular Expressions**](./example_presentation.en.md)
 
     ---
 
-    A placeholder for the first presentation.
+    *Example presentation.* The companion talk to the regex course.
 
 </div>
 
-## Example Presentation 1
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/presentations/presentation-1/ -->
+## A Gentle Introduction to Regular Expressions
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/presentations/example_presentation/ -->
 
-# Example Presentation 1
+# A Gentle Introduction to Regular Expressions
 
-This is a placeholder page for the first presentation. Content will be added here soon.
+!!! note "Example presentation"
+    A worked demonstrator of the Academy presentation pattern. Author real presentation pages from
+    `_templates/presentation_template.en.md`.
+
+!!! info "Talk details"
+    **Event:** [meetup / internal] · **Date:** [YYYY-MM-DD] · **Audience:** developers new to regex
+
+## Abstract
+
+A 20-minute tour of regular expressions for people who've always found them intimidating: what the
+symbols mean, how to build a pattern piece by piece, and when a regex is the *wrong* tool. It mirrors
+the [Regular Expressions from Scratch](../courses/example_course/index.en.md) course.
+
+## Slides
+
+<!-- Replace with a real hosted deck / PDF and (if recorded) a video link. -->
+
+- [Slides (PDF)](#) *(placeholder — link the deck here)*
+- [Recording](#) *(if available)*
+
+## Resources
+
+- **[Regular Expressions from Scratch](../courses/example_course/index.en.md)** — the full course.
+- [regex101.com](https://regex101.com/) — the interactive tester used in the demo.
 
 ## Overview
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/troubleshooting-journals/ -->
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/troubleshooting_journals/ -->
 
 # Troubleshooting Journals
 
-This section contains all available troubleshooting journals.
+Troubleshooting journals are **problem→resolution logs**: a specific thing broke, and here's the
+symptom, the investigation trail (dead ends included), the root cause, and the fix. They're a
+how-to/reference hybrid — titled by the symptom, so the next person who hits the same wall can find
+them.
 
 <div class="grid cards" markdown>
 
--   [**Example Troubleshooting Journal 1**](./troubleshooting-journal-1.en.md)
+-   [**`mkdocs build --strict` fails on an unrecognized relative link**](./example_troubleshooting_journal.en.md)
 
     ---
 
-    A placeholder for the first troubleshooting journal.
+    *Example journal.* A strict build breaks on a link that looks fine — here's why and the fix.
 
 </div>
 
-## Example Troubleshooting Journal 1
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/troubleshooting-journals/troubleshooting-journal-1/ -->
+## mkdocs build --strict Fails on a Relative Link
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/troubleshooting_journals/example_troubleshooting_journal/ -->
 
-# Example Troubleshooting Journal 1
+# `mkdocs build --strict` Fails on an Unrecognized Relative Link
 
-This is a placeholder page for the first troubleshooting journal. Content will be added here soon.
+!!! note "Example journal"
+    A worked demonstrator of the Academy troubleshooting pattern. Author real journals from
+    `_templates/troubleshooting_journal_template.en.md`.
+
+## Problem
+
+`poetry run mkdocs build --strict` exits non-zero (failing CI), even though the page renders fine
+under `mkdocs serve`.
+
+## Environment
+
+- MkDocs + Material, `mkdocs-static-i18n` with `docs_structure: suffix`.
+- A new page added under a corner, linking to a sibling page.
+
+## Symptoms
+
+```text
+WARNING - Doc file 'academy/courses/example_course/index.en.md' contains a link
+          '../tutorial.md', but the target is not found among documentation files.
+Aborted with 1 warnings in strict mode!
+```
+
+## Investigation
+
+1. Opened the page under `mkdocs serve` → the link *worked*. So it's strict-mode-only. → rules out
+   a totally missing file.
+2. Checked the target existed on disk → it did, as `example_tutorial.en.md`. → the *name* is wrong
+   in the link, not the file.
+3. Re-read the CLAUDE.md i18n note → relative links between content pages must point at the actual
+   `.en.md` file; a bare `.md` or a wrong slug isn't resolved as a doc and only "works" in serve
+   because of lenient fallback.
+
+## Root cause
+
+The link used a stale/short filename (`../tutorial.md`) instead of the real suffixed path
+(`../tutorials/example_tutorial.en.md`). `--strict` treats any unresolved internal link as a hard
+error; `serve` is lenient, which is why it hid the bug.
+
+## Resolution
+
+Point the link at the real file, with its `.en.md` suffix and correct relative depth:
+
+```text
+[Create your first Mermaid diagram](../tutorials/example_tutorial.en.md)
+```
+
+Re-run to confirm:
+
+```bash
+poetry run mkdocs build --strict   # 0 warnings
+```
+
+## Prevention / takeaways
+
+- Always run `--strict` locally before committing — `serve` will not catch broken internal links.
+- When you rename or move a page, grep the repo for the old slug and update every link.
 
 ## Overview
 <!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/tutorials/ -->
 
 # Tutorials
 
-This section contains all available tutorials.
+Tutorials are **learning-oriented, hands-on lessons**: a beginner follows along and builds one
+concrete thing from start to finish. They prioritise confidence and a working result over
+completeness. Reach for a [course](../courses/index.md) when the subject needs several sequenced
+lessons; reach for a [how-to guide](../how_to_guides/index.en.md) when the reader already knows the
+basics and just needs the steps.
 
 <div class="grid cards" markdown>
 
--   [**Example Tutorial 1**](./tutorial-1.en.md)
+-   [**Create your first Mermaid diagram**](./example_tutorial.en.md)
 
     ---
 
-    A placeholder for the first tutorial.
+    *Example tutorial.* Render a flowchart from plain text in a Markdown page — in five minutes.
 
 </div>
 
-## Example Tutorial 1
-<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/tutorials/tutorial-1/ -->
+## Create Your First Mermaid Diagram
+<!-- https://Sh4peSh1fter.github.io/wannabepolymath/academy/tutorials/example_tutorial/ -->
 
-# Example Tutorial 1
+# Create Your First Mermaid Diagram
 
-This is a placeholder page for the first tutorial. Content will be added here soon.
+!!! note "Example tutorial"
+    A worked demonstrator of the Academy tutorial pattern. Author real tutorials from
+    `_templates/tutorial_template.en.md`.
+
+[Mermaid](https://mermaid.js.org/) lets you describe diagrams in plain text and have them rendered
+as pictures — perfect for a knowledge base, because the "source" stays diff-able and searchable.
+This site already has Mermaid enabled, so you can start immediately.
+
+## What you'll build
+
+A simple flowchart, written as four lines of text, that renders as boxes and arrows on the page.
+
+## Prerequisites
+
+- Any Markdown page in this project (or an [online live editor](https://mermaid.live/)).
+
+## Steps
+
+1. **Open a fenced code block and label it `mermaid`.** The label tells the renderer to treat the
+   contents as a diagram rather than code.
+
+2. **Declare a diagram type and add nodes.** `flowchart LR` means "left to right"; each `-->` draws
+   an arrow between two nodes:
+
+    ````text
+    ```mermaid
+    flowchart LR
+        A[Idea] --> B[Draft]
+        B --> C[Publish]
+    ```
+    ````
+
+3. **Preview the page.** Run `poetry run mkdocs serve` and open the page — the block renders as a
+   diagram. This is exactly what produces the roadmap in the
+   [example course](../courses/example_course/index.en.md).
+
+## Result
+
+The block above renders like this:
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Draft]
+    B --> C[Publish]
+```
+
+## Next steps
+
+- Try `flowchart TD` (top-down), or branch with `A --> B` and `A --> C`.
+- See the roadmap in [Regular Expressions from Scratch](../courses/example_course/index.en.md) for
+  a real-world use of a Mermaid flowchart.
 
 ## Overview
 <!-- https://Sh4peSh1fter.github.io/wannabepolymath/bazaar/ -->
