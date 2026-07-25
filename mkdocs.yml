@@ -156,6 +156,7 @@ exclude_docs: |
   **/_templates/
   **/_prompts_and_rules/
   observatory/_templates/
+  academy/_templates/
   _templates/
   **/README.md
   **/_template.md
@@ -354,18 +355,36 @@ nav:
       - "Bedroom Plants": incubator/other/bedroom_plants.en.md
   - Academy:
     - Overview: academy/index.md
+    - Courses:
+      - Overview: academy/courses/index.md
+      - "Python for Beginners": academy/courses/python_for_beginners/index.md
+      - "Python Advanced": academy/courses/python_advanced/index.md
+      - "Python Web & APIs": academy/courses/python_web_and_apis/index.md
+      - "Python & Networks": academy/courses/python_and_networks/index.md
+      - "Python & Data": academy/courses/python_and_data/index.md
+      - "Regular Expressions from Scratch":
+        - Overview: academy/courses/example_course/index.en.md
+        - "Lesson 1 — Literal Text & Character Classes":
+          - Lesson: academy/courses/example_course/lessons/01_getting_started/index.en.md
+          - Key Terms: academy/courses/example_course/lessons/01_getting_started/keywords.en.md
+        - "Lesson 2 — Quantifiers, Groups & Anchors":
+          - Lesson: academy/courses/example_course/lessons/02_going_deeper/index.en.md
+          - Key Terms: academy/courses/example_course/lessons/02_going_deeper/keywords.en.md
     - Tutorials:
       - Overview: academy/tutorials/index.en.md
-      - "Example Tutorial 1": academy/tutorials/tutorial-1.en.md
+      - "Create Your First Mermaid Diagram": academy/tutorials/example_tutorial.en.md
     - "How-to Guides":
-      - Overview: academy/how-to-guides/index.en.md
-      - "Example How-to Guide 1": academy/how-to-guides/how-to-guide-1.en.md
+      - Overview: academy/how_to_guides/index.en.md
+      - "How to Add a New Observatory Field": academy/how_to_guides/example_how_to_guide.en.md
+    - Explainers:
+      - Overview: academy/explainers/index.en.md
+      - "Why Diátaxis": academy/explainers/example_explainer.en.md
     - "Troubleshooting Journals":
-      - Overview: academy/troubleshooting-journals/index.en.md
-      - "Example Troubleshooting Journal 1": academy/troubleshooting-journals/troubleshooting-journal-1.en.md
+      - Overview: academy/troubleshooting_journals/index.en.md
+      - "mkdocs build --strict Fails on a Relative Link": academy/troubleshooting_journals/example_troubleshooting_journal.en.md
     - Presentations:
       - Overview: academy/presentations/index.en.md
-      - "Example Presentation 1": academy/presentations/presentation-1.en.md
+      - "A Gentle Introduction to Regular Expressions": academy/presentations/example_presentation.en.md
   - Bazaar:
     - Overview: bazaar/index.en.md
     - Health:
